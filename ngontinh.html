@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ngôn Tình</title>
+
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header class="topbar">
+  <a href="index.html">Trang chủ</a>
+  <a href="ngontinh.html">Ngôn tình</a>
+  <a href="dammy.html">Đam mỹ</a>
+  <a href="cotrang.html">Cổ trang</a>
+</header>
+
+<h2 style="text-align:center; color:#ff5722; margin:15px;">
+  Truyện Ngôn Tình
+</h2>
+
+<div class="container" id="list"></div>
+
+<script src="data.js"></script>
+
+<script>
+const list = document.getElementById("list");
+
+function render(data){
+
+  list.innerHTML = "";
+
+  const ngontinh = data.filter(item => item.type === "ngontinh");
+
+  ngontinh.slice().reverse().forEach(item => {
+    list.innerHTML += `
+      <a class="book" href="${item.link}">
+        <img src="${item.image}" alt="">
+        <h2>${item.title}</h2>
+      </a>
+    `;
+  });
+}
+
+render(stories);
+</script>
+
+</body>
+</html>

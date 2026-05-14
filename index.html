@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TRUYỆN MỚI</title>
+
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header class="topbar">
+  <a href="index.html">Trang chủ</a>
+  <a href="ngontinh.html">Ngôn tình</a>
+  <a href="dammy.html">Đam mỹ</a>
+  <a href="cotrang.html">Cổ trang</a>
+</header>
+
+<h1 style="text-align:center; color:#ff5722;">TRUYỆN MỚI</h1>
+
+<div class="search-box">
+  <input type="text" id="search" placeholder="🔍 Tìm truyện...">
+</div>
+
+<div class="container" id="list"></div>
+
+<script src="data.js"></script>
+
+<script>
+const list = document.getElementById("list");
+const search = document.getElementById("search");
+
+function render(data){
+
+  list.innerHTML = "";
+
+  // nếu có id thì mới sort
+  const sorted = [...data].sort((a, b) => (b.id || 0) - (a.id || 0));
+
+  sorted.forEach(item => {
+
+    list.innerHTML += `
+<a class="book" href="detail.html?id=${item.id}">        <img src="${item.image}" alt="">
+        <h2>${item.title}</h2>
+      </a>
+    `;
+  });
+}
+
+// load
+render(stories);
+
+// search
+search.addEventListener("input", function(){
+
+  const value = this.value.toLowerCase();
+
+  const filtered = stories.filter(item =>
+    item.title.toLowerCase().includes(value)
+  );
+
+  render(filtered);
+});
+</script>
+
+</body>
+</html>

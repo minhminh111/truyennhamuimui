@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Chi tiết truyện</title>
+
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<div class="topbar">
+  Chi tiết truyện
+</div>
+
+<div class="detail-page" id="detail"></div>
+
+<script src="data.js"></script>
+
+<script>
+
+const params = new URLSearchParams(location.search);
+
+const id = params.get("id");
+
+const story = stories.find(item => item.id == id);
+
+const detail = document.getElementById("detail");
+
+detail.innerHTML = `
+
+  <div class="detail-card">
+
+    <img src="${story.image}" class="detail-img">
+
+    <div class="detail-info">
+
+      <h1>${story.title}</h1>
+
+      <a class="tag" href="${
+  story.genre === 'Đam mỹ'
+    ? 'dammy.html'
+    : story.genre === 'Cổ trang'
+    ? 'cotrang.html'
+    : 'ngontinh.html'
+}">
+  ${story.genre || "Ngôn tình"}
+</a>
+
+    <div class="desc">
+  ${story.desc || "Chưa có văn án"}
+</div>
+
+  
+
+      <a href="${story.link}" class="read-btn">
+        Đọc ngay
+      </a>
+
+    </div>
+
+  </div>
+
+`;
+
+</script>
+
+</body>
+</html>
