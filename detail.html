@@ -7,18 +7,24 @@
 
   <title>Chi tiết truyện</title>
 
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="style.css?v=2">
 </head>
 
 <body>
 
+<!-- TOPBAR -->
 <div class="topbar">
-  Chi tiết truyện
+  <a href="index.html">Trang chủ</a>
+  <a href="ngontinh.html">Ngôn tình</a>
+  <a href="dammy.html">Đam mỹ</a>
+  <a href="cotrang.html">Cổ trang</a>
 </div>
 
+<!-- DETAIL -->
 <div class="detail-page" id="detail"></div>
 
-<script src="data.js"></script>
+<!-- DATA -->
+<script src="data.js?v=2"></script>
 
 <script>
 
@@ -30,41 +36,79 @@ const story = stories.find(item => item.id == id);
 
 const detail = document.getElementById("detail");
 
-detail.innerHTML = `
+/* nếu không có truyện */
+if(!story){
 
-  <div class="detail-card">
+  detail.innerHTML = `
+    <div style="
+      text-align:center;
+      padding:100px 20px;
+      color:white;
+    ">
+      <h1>❌ Không tìm thấy truyện</h1>
+    </div>
+  `;
 
-    <img src="${story.image}" class="detail-img">
+}
 
-    <div class="detail-info">
+/* nếu có truyện */
+else{
 
-      <h1>${story.title}</h1>
+  /* tên thể loại */
+  let typeName = "Ngôn tình";
 
-      <a class="tag" href="${
-  story.genre === 'Đam mỹ'
-    ? 'dammy.html'
-    : story.genre === 'Cổ trang'
-    ? 'cotrang.html'
-    : 'ngontinh.html'
-}">
-  ${story.genre || "Ngôn tình"}
-</a>
+  if(story.type === "dammy"){
+    typeName = "Đam mỹ";
+  }
 
-    <div class="desc">
-  ${story.desc || "Chưa có văn án"}
-</div>
+  if(story.type === "cotrang"){
+    typeName = "Cổ trang";
+  }
 
-  
+  /* link thể loại */
+  let typeLink = "ngontinh.html";
 
-      <a href="${story.link}" class="read-btn">
-        Đọc ngay
-      </a>
+  if(story.type === "dammy"){
+    typeLink = "dammy.html";
+  }
+
+  if(story.type === "cotrang"){
+    typeLink = "cotrang.html";
+  }
+
+  detail.innerHTML = `
+
+    <div class="detail-card">
+
+      <!-- ẢNH -->
+      <img src="${story.image}" class="detail-img">
+
+      <!-- INFO -->
+      <div class="detail-info">
+
+        <h1>${story.title}</h1>
+
+        <!-- TAG -->
+        <a class="tag" href="${typeLink}">
+          ${typeName}
+        </a>
+
+        <!-- DESC -->
+        <div class="desc">
+${story.desc || "Chưa có văn án"}
+        </div>
+
+        <!-- BUTTON -->
+        <a href="${story.link}" class="read-btn">
+          Đọc ngay
+        </a>
+
+      </div>
 
     </div>
 
-  </div>
-
-`;
+  `;
+}
 
 </script>
 
