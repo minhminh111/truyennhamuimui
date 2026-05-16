@@ -1,10 +1,38 @@
 const stories = [
+  
   {
     id: 7,
-    title: "Truyện 7 - Huyết Tộc Bí Ẩn",
-    image: "images/7.jpg",
-    link: "truyen/truyen7.html",
-    type: "cotrang"
+    title: "Tiểu Cung Nữ Rớt Ngựa",
+    image: "images/3536a05df32a595441b56454e3d35f72.jpg",
+    link: "truyen/tieu-cung-nu-rot-ngua.html",
+    type: "cotrang",
+    desc: `Tiểu cung nữ tầm thường như ta, chỉ vì cái tật mê ăn hơn mê vàng, liều mạng “móc ngoặc” với tổng quản thái giám, sống chết đòi bị điều vào ngự thiện phòng.
+
+Mỗi ngày, ta đều lén lút tranh thủ làm chút đồ ngon cho riêng mình.
+
+Nào là bánh quế hoa hạt dẻ thơm ngậy, sữa nhài táo tây ngọt dịu, cuốn gà nướng giòn rụm, lẩu dê cay thơm nức mũi…
+
+Ăn uống sung túc đến mức thân thể ta tròn ra mấy vòng, nhìn còn tưởng được nuôi bằng vàng.
+
+Ai ngờ đâu, một ngày đẹp trời lại bị một vị thị vệ bắt quả tang tại trận.
+
+Để bịt miệng hắn, ta đành cắn răng chia nửa phần đồ ăn cho hắn.
+
+Kết quả đúng là tự đào hố chôn mình, hắn không những không giữ kín mà còn kéo thêm cả đám người tới “ăn chực”.
+
+Nào là thái giám thân cận của Hiền Quý phi, cung nữ A Lạc được Trường Lạc công chúa sủng nhất, rồi cả tiểu thái giám Điểm Điểm được Hoàng thượng ưu ái.
+
+Tứ Bảo vừa nhai vừa cảm thán.
+
+“Hoàng thúc nói không sai, trên đời thật sự có mỹ vị thế này.”
+
+Điểm Điểm nuốt nước miếng, lỡ lời suýt lộ thân phận.
+
+“Ngươi để cho Trẫm… à không, để cho ta một ít!”
+
+A Lạc thì mắt sáng rực.
+
+“Hoàng thúc, người không thể để Thính Hoan tới tiểu trù phòng của ta sao?”`
   },
   {
     id: 6,
@@ -153,11 +181,212 @@ Thấy vẻ mặt anh chủ của Đại Tráng vừa sốc vừa tổn thương
   },
   {
     id: 8,
-    title: "Phúc hành",
-    image: "images/1.jpg",
-    link: "truyen/truyen1.html",
-    type: "ngontinh"
-  }
+    title: "Một Đời Làm Quân Vương Giữa Vạn Kẻ Giả Ngốc",
+    image: "images/7eb14a368fd3f43fedc51596fa876bdc.jpg",
+    link: "truyen/mot-doi-lam-quan-vuong-giua-van-ke-gia-ngoc.html",
+    type: "cotrang",
+    desc: `Trẫm là Hoàng đế.
+
+Bọn đại thần tiền triều đều đã bị đám sinh viên nhập vào.
+
+Trẫm ngồi trên long ỷ nghe chúng nó nói chuyện phiếm, lệ trong mắt suýt nữa tràn ra.
+
+“Ngày mai lâm triều có cần điểm danh không, không điểm danh ta không đến đâu.”
+
+“Lên triều có thể xin giấy chứng nhận thực tập không?”
+
+“Bệ hạ, lâm triều có được mang giày da nhỏ không ạ?”
+
+Giữa việc lâm triều và việc phấn đấu, trẫm chọn đi treo cổ cho xong.`
+  }, {
+    id: 9,
+        title: "Tướng Quân Gả Nhầm",
+
+    image: "images/08ffb801a757ec6a731fa87b500e132c.jpg",
+    link: "truyen/tuong-quan-ga-nham.html",
+    type: "cotrang",
+    desc: `Ta mơ một giấc mơ.
+
+Trong mơ, tân đế đăng cơ, ban thưởng công thần. Hắn hỏi ta muốn gì.
+
+Ta nói: “Ta muốn làm Hoàng Hậu.”
+
+Hoàng đế đồng ý.
+
+Nhưng trước ngày phong hậu, ta lại bị đầu độc mà chết.
+
+Lại một giấc mơ khác.
+
+Hoàng đế từ chối yêu cầu của ta, ban ta làm Quý phi.
+
+Nhưng chỉ hai năm sau khi vào cung, ta vẫn chết.
+
+Giờ thì hắn lại hỏi ta.
+
+“Diệp Hoài Tịch, nàng muốn cái gì?”`
+  }, {
+    id: 10,
+title: "Hợp Đồng Hôn Nhân Với Tổng Tài",
+    image: "images/a665dc3a5826a77ca69e76f15a07740d.jpg",
+    link: "truyen/hop-dong-hon-nhan-voi-tong-tai.html",
+    type: "ngontinh",
+    desc: `
+    Chồng tôi mỗi tháng cho tôi 500 triệu, kèm điều kiện là phải diễn cảnh yêu đương trước mặt “bạch nguyệt quang” của anh ta.
+
+Tôi lao tới hôn anh ấy đến sưng cả môi, vừa hôn vừa nói như thật.
+
+“Diễn cái gì, mình yêu thật mà.”
+
+Mỗi năm sáu tỷ, đừng nói là yêu, mạng tôi cũng dâng luôn chứ đùa.
+    `
+  }, {
+    id: 11,
+title: "Dòng Chữ Báo Trước Tình Yêu",
+    image: "images/364d168b2f4abe1d86ba1731dc2207d1.jpg",
+    link: "truyen/dong-chu-bao-truoc-tinh-yeu.html",
+    type: "ngontinh",
+    desc: `Tôi là kiểu bệnh kiều nói nhiều.
+
+Nghỉ hè ngày nào cũng gọi mẹ ba trăm cuộc, bà ấy chịu không nổi nữa.
+
+Thế là đích thân lái xe hơn một ngàn cây số, lừa tôi sang tỉnh khác rồi bỏ lại.
+
+“Thật ra con có một vị hôn phu định sẵn từ nhỏ, con cứ đi quấy rầy cậu ta đi.”
+
+Tôi còn chưa kịp hiểu chuyện gì thì đã bị quăng sang đây.
+
+Hôm nay tôi đi ngang sân bóng thì đúng lúc thấy tên đầu gấu trường bị trượt chân khi chơi bóng.
+
+Cậu ta mặt lạnh tanh, từ chối luôn sự quan tâm của hoa khôi.
+
+Ngay lúc đó trước mắt tôi bỗng hiện ra một loạt chữ ảo.
+
+【Đợi lát nữa vợ tới xem, tôi coi cậu còn đau không.】
+
+【Không khóc không mè nheo, chỉ là chưa đúng thời điểm.】
+
+【Bên ngoài thì lạnh lùng dữ tợn, trước mặt vợ lại nũng nịu khóc lóc đòi ôm.】
+
+【Đàn ông vốn cứng rắn, gặp vợ thì hóa mềm.】
+
+Tôi còn chưa kịp tiêu hóa hết thì giây tiếp theo.
+
+Tên đầu gấu vừa nhìn thấy tôi đã “Oa” một tiếng khóc luôn tại chỗ.
+
+“Đau quá hu hu hu.”
+
+“Cậu có thể bế tôi tới phòng y tế không?”`
+  }, {
+    id: 12,
+title: "Thị Vệ Chạy Trốn Vương Gia Mỗi Ngày",
+    image: "images/6cbd179404131bc489e2c3864548c9b2.jpg",
+    link: "truyen/thi-ve-chay-tron-vuong-gia-moi-ngay.html",
+    type: "dammy",
+    desc: `Ta thật sự không làm nổi cái nghề thị vệ này nữa rồi!
+
+Vương gia rõ ràng biết ta đầu óc không được lanh lợi cho lắm, vậy mà vẫn bắt ta hầu hạ bên người. Không những thế, ngài còn hay nhìn ta bằng ánh mắt đầy ẩn ý, kiểu như bảo ta tự hiểu đi. Nhưng vấn đề là ta có hiểu nổi đâu!
+
+Sách Y Học
+
+“Vương gia, sao mắt ngài cứ giật vậy?”
+
+Vương gia nghe xong liền nổi giận, trừng mắt rồi phạt ta, còn cắn môi ta đau điếng.`
+  }, {
+    id: 13,
+title: "Quả Phụ Dưới Họng Súng Lão Đại",
+    image: "images/b09172c983ab58434b39a6a09b45cc9d.jpg",
+    link: "truyen/qua-phu-duoi-hong-sung-lao-dai-moi-ngay.html",
+    type: "dammy",
+    desc: `Sau khi bị ép liên hôn với một người đàn ông lạ hoắc, tôi quyết định chơi cú “bốc hơi tại chỗ” ngay trong ngày cưới.
+
+Vừa quay lưng rời khỏi lễ đường, tôi đã nhận luôn một nhiệm vụ từ Dạ Dạ Diêm La: ám sát chính “Dạ Dạ Diêm La”. Nghe thôi đã thấy hệ thống có vấn đề.
+
+Để tiện hành sự, tôi giấu luôn thân phận thật, nhập vai cực mượt.
+
+“Tôi… chồng tôi chết rồi. Mong ngài cho tôi ở lại làm việc.”
+
+Người đàn ông quyền lực kia không nói không rằng, trực tiếp giữ chặt cổ tay tôi, ép sát vào tường. Họng súng lạnh ngắt chạm thẳng trán tôi, hơi thở nóng rực phả sát tai, giọng thì bình thản mà áp lực muốn nghẹt thở.
+
+“Trùng hợp thật. Vị hôn thê của tôi cũng bỏ trốn, tìm khắp nơi vẫn chưa thấy. Em có manh mối gì không, bảo bối?”`
+  }, {
+    id: 14,
+title: "Chú Chó Nhỏ Của Enigma",
+    image: "images/eb6888c149700219f01bb124c387d797.jpg",
+    link: "truyen/chu-cho-nho-cua-enigma-moi-ngay.html",
+    type: "dammy",
+    desc: `Bùi Du là Alpha cấp S.
+
+Ngày đầu tiên hắn chuyển tới Đại học A, ai cũng tò mò không biết bao lâu nữa hắn sẽ bị tôi, một Beta từng “đi qua trăm đóa hoa”, làm cho xiêu lòng.
+
+Thậm chí còn có người còn cầm ảnh tôi đi hỏi Bùi Du xem hắn có để mắt tới tôi không.
+
+Bùi Du chỉ hơi nhấc mí mắt, lạnh nhạt nói một câu.
+
+“Tôi không thích loại lẳng lơ.”
+
+Hừ.
+
+Rồi sẽ có ngày tôi khiến hắn phải quỳ xuống cầu xin tôi, ngoan ngoãn làm chó của tôi.
+
+“Ừm, sóc nhỏ, đã trêu tôi rồi còn định chạy sao. Hay để tôi đánh gãy chân em, hoặc biến em thành một Omega chỉ biết chảy nước thì sao?”`
+  }, {
+    id: 15,
+title: "Hầu Gia Hóa Ra Chỉ Là Một Ván Cờ",
+    image: "images/9c3e12fad662ab031d7f3f446370b39c.jpg",
+    link: "truyen/hau-gia-hoa-ra-chi-la-mot-van-co-moi-ngay.html",
+    type: "cotrang",
+    desc: `Phu quân của ta có một tiểu thiếp mà hắn cực kỳ ghét bỏ.
+
+Hắn tôn trọng ta, chính thất của hắn, còn cưng chiều mấy mỹ nhân mới.
+
+Nhưng riêng với nàng ta thì hắn lại lạnh lùng, khắc nghiệt, lúc thì mắng, lúc thì đánh, thậm chí còn giam cầm.
+
+Ta thương cảm một cô nương mồ côi yếu thế trong nhà nên từng che chở, bảo vệ nàng.
+
+Không ngờ sau khi ta khó sinh chết đi, phu quân lập tức rước nàng lên làm chính thất, còn đem toàn bộ của hồi môn của ta dâng hết cho nàng.
+
+Lúc ấy ta mới biết, thì ra Viên Thiếu Hiên không hề ghét nàng như ta tưởng.
+
+Ngược lại là yêu đến mức sâu đậm, chỉ là cố tình diễn trò lạnh nhạt để che mắt người khác, bảo vệ nàng.
+
+Ta tức đến mức trọng sinh trở lại.
+
+Lần này ta muốn xem, không có ta đứng sau dọn đường, cái gọi là chân ái của họ rốt cuộc chịu được bao nhiêu thử thách.`
+  },{
+    id: 16,
+title: "Cả Đời Nghiệt Duyên",
+    image: "images/22fbd9ac222130e4cad13851ddf43bd3.jpg",
+    link: "truyen/ca-doi-nghiet-duyen-moi-ngay.html",
+    type: "cotrang",
+    desc: `Tỷ tỷ tính tình cương liệt.
+Sau khi ta biết nàng và phu quân của ta có tư tình, ta liền chủ động đề xuất nâng nàng làm thiếp.
+Không ngờ nàng ta cảm thấy như bị sỉ nhục, cương liệt đến mức tự sát.
+Phu quân lại chẳng màng việc ta đang mang thai, trực tiếp viết hưu thư đuổi ta ra khỏi Hầu phủ.
+Danh tiếng của ta lập tức nát bét, lưu lạc đầu đường bị người đời khinh rẻ. Sau đó ta còn nghe tin tỷ tỷ sống lại, quay sang cùng phu quân ta kết thành phu thê.
+Ta tức đến thổ huyết mà chết, đến khi mở mắt ra thì đã quay về đúng ngày ta đề xuất nâng nàng làm thiếp.
+Tỷ tỷ vẫn giữ vẻ chính trực nghiêm nghị, tuyên bố dõng dạc: “Vệ Doanh ta, đời này thà gả cho kẻ buôn bán tầm thường, chứ tuyệt không làm thiếp cho vương tôn quý tộc.”
+Lần này thì hay rồi, ta quyết định thành toàn cho nàng.
+Ta liền truyền khắp nơi tiếng tăm cương liệt của nàng, khiến vô số người kéo đến cầu hôn.
+Từ kẻ mổ lợn, người bán cá, người gác cổng, đến cả người gánh phân, suýt nữa thì đạp nát cả ngưỡng cửa Hầu phủ.`
+  }, {
+    id: 17,
+title: "Tuyết Lạnh Trường An Vẫn Chưa Tan",
+    image: "images/7ab1d4d0150fdb2beffda7bb271ee6a6.jpg",
+    link: "truyen/tuyet-lanh-truong-an-van-chua-tan-moi-ngay.html",
+    type: "cotrang",
+    desc: `Trong yến tiệc Trạng nguyên, Hoàng thượng uống đến ngà say rồi tiện tay “bắt rể” ngay tại chỗ.
+Không chọn Trạng nguyên, cũng chẳng ngó ngàng Thám hoa, lại cố tình chỉ trúng ta, kẻ đang nữ cải nam trang làm Truyền lô.
+
+“Bệ hạ quả là mắt sáng như sao. Nếu hôm điện thí Ngụy huynh không bị phong hàn, e rằng Trạng nguyên hôm nay chính là y rồi.”
+
+Trạng nguyên lang mỉm cười khen ta, Bảng nhãn và Thám hoa cũng đồng loạt chúc mừng.
+Ta chỉ đành quỳ xuống tạ ơn thánh ân như trời biển, nhưng trong lòng thì đầy dấu hỏi. Chuyện tốt kiểu này sao lại rơi trúng đầu kẻ xuất thân hàn môn như ta, nghe sao cũng thấy hơi sai sai.
+
+Đến đêm động phòng hoa chúc, nhìn công chúa với chiếc bụng đã nhô cao, ta mới bừng tỉnh.
+Thì ra Hoàng thượng không phải chọn con rể, mà là chọn luôn một con rể rùa.`
+  },
+
+
 
 ];
 
