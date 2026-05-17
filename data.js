@@ -131,7 +131,7 @@ Tôi còn đang đứng hình thì Thẩm Ảnh Thần đã trợn mắt, xách 
     id: 2,
     title: "Chấp Niệm Ngọt Ngào Của Tôi",
     image: "images/83b32d1f68d1c2b4a65666720595f48a.jpg",
-    link: "truyen/chap-niem-ngot-ngao-cua-toi.html",
+    link: "ngontinh/chap-niem-ngot-ngao-cua-toi.html",
     type: "ngontinh",
     desc:`Tôi là một bệnh kiều siêu lắm lời.
 
@@ -384,6 +384,69 @@ Ta chỉ đành quỳ xuống tạ ơn thánh ân như trời biển, nhưng tro
 
 Đến đêm động phòng hoa chúc, nhìn công chúa với chiếc bụng đã nhô cao, ta mới bừng tỉnh.
 Thì ra Hoàng thượng không phải chọn con rể, mà là chọn luôn một con rể rùa.`
+  },{
+    id: 18,
+title: "Gặp Lại Em Sau Mười Ba Năm",
+    image: "imgngon/0540948350df77dc56dbd374dd1db6fc.jpg",
+    link: "ngontinh/gap-lai-em-sau-muoi-ba-nam-moi-ngay.html",
+    type: "ngontinh",
+    desc: `Nghe nói tôi vẫn còn độc thân, cô giáo lập tức hăng hái đòi làm mai cho tôi.
+
+Cô nhắn tin hỏi:
+
+“Em muốn tìm người như thế nào?”
+
+Tôi trả lời ngay không cần nghĩ:
+
+“Trai đẹp ạ.”
+
+Cô rep nhanh như chớp:
+
+“Chỉ một yêu cầu thôi à, dễ như ăn kẹo!”
+
+Tôi đùa lại:
+
+“Cô ơi, cái này là ba yêu cầu rồi đó nha. Vừa to, vừa đẹp, lại còn phải là anh trai nữa.”
+
+Cô im luôn, không thèm rep.
+
+Hôm sau, cô cười tươi như hoa, kéo một người đàn ông tới trước mặt tôi:
+
+“To, đẹp, ở nhà làm anh trai.”
+
+Tôi đứng hình tại chỗ. Hả??`
+  },{
+    id: 19,
+title: "Beta Giả Chết Rời Đi",
+    image: "imgdam/e75ef002e5d41c5dce1b7f0b00939563.jpg",
+    link: "dammy/beta-gia-chet-roi-di-moi-ngay.html",
+    type: "dammy",
+    desc: `Tôi thầm yêu trúc mã của mình. Lãng mạn.
+
+Nhưng hắn là Alpha cấp S, còn tôi chỉ là một Beta không có tin tức tố.
+
+Tôi từng nghĩ, không có sự ràng buộc của tin tức tố thì hắn sẽ chẳng bao giờ thích tôi.
+
+Cho đến một ngày, hắn cắn lên gáy tôi, giọng khàn khàn: “Nghe nói Beta cũng có khoang sinh sản.”`
+  },{
+    id: 20,
+title: "Hoàng Quyền Vạn Dặm Một Đời Thái Vi",
+    image: "imgco/3f85ef3ea7019dd35edb9c1bd56bc8fd.jpg",
+    link: "cotrang/hoang-quyen-van-dam-mot-doi-thai-vi-moi-ngay.html",
+    type: "cotrang",
+    desc: `Sau đại thắng trở về, Hoàng thượng muốn học theo các vị hoàng đế trong sách xưa, bày tiệc rượu để thu hồi binh quyền.
+
+Nhưng đời không như mơ, thay vì rượu ngon thì thứ hắn đưa cho Thẩm Hoài lại là thi thể của ta, phủ một tấm vải trắng lạnh lẽo.
+
+Muội muội của ta, Hoàng hậu đương triều, đứng trên cao nhìn xuống chàng, giọng nhẹ như gió nhưng nghe xong chỉ muốn lạnh sống lưng.
+
+“Nghe nói Thụy Vương và phu nhân là thanh mai trúc mã, tình sâu nghĩa nặng. Đáng tiếc phu nhân bạc mệnh, bệnh nặng mà qua đời khi vào cung thăm ta. Nay ta và bệ hạ ban cho tướng quân mười mỹ nhân, ngàn lượng vàng để an ủi nỗi đau mất vợ, tướng quân thấy thế nào?”
+
+Mọi người xung quanh đều chờ xem Thẩm Hoài run sợ mà tạ ơn rối rít.
+
+Nhưng bọn họ không biết, Thẩm Hoài từ trước đến nay chưa từng là trung thần lương tướng gì cả, chàng làm tất cả những điều đó đều là vì ta.
+
+Vậy mà cuối cùng, họ lại để chàng quay về nhìn thấy thi thể của ta.`
   },
 
 
