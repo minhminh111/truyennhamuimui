@@ -5,7 +5,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <title>Đam Mỹ</title>
+  <title>Truyện Đam Mỹ</title>
 
   <link rel="stylesheet" href="style.css">
 </head>
@@ -47,10 +47,10 @@ function render(data){
   const dammy =
     data.filter(item => item.type === "dammy");
 
-  // truyện mới lên đầu
+  // id lớn nhất lên đầu
   dammy
-    .slice()
-    .reverse()
+    .sort((a,b) => b.id - a.id)
+
     .forEach(item => {
 
       list.innerHTML += `

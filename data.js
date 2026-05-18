@@ -552,6 +552,27 @@ title: "Hành Trình Thăng Chức Của Thái Giám",
 Ta ngoan ngoãn ghi nhớ lời dạy ấy, nhiều năm liền chăm chỉ phấn đấu không ngừng.
 
 Cuối cùng cũng thành công trở thành người dưới một người, trên vạn người… Thái giám.`
+  }, {
+    id: 26,
+title: "Bảy Năm Chờ Một Người",
+    image: "imgngon/c100a8d898263df8fad27ad4df25df03.jpg",
+    link: "ngontinh/bay-nam-cho-mot-nguoi.html",
+    type: "ngontinh",
+    desc: `Kết hôn nửa năm, Thẩm Nghiễn Châu đối xử với tôi không mặn cũng không nhạt.
+
+Một hôm tôi thấy anh mập mờ dây dưa với đồng nghiệp nữ ngay tại văn phòng.
+
+Tôi nhìn họ mấy giây, sau đó nhẹ nhàng nói: “Nếu anh đã có người mình thích thì chúng ta ly hôn đi!”
+
+Đúng lúc đó điện thoại vang lên, bà nội gọi về nhà ăn cơm.
+
+Đêm hôm đó, anh uống say đến mức không đứng vững.
+
+Nắm chặt mắt cá chân tôi, từ từ lại gần.
+
+Anh gằn từng chữ một: “Ly hôn?”
+
+“Anh đã tốn rất nhiều công sức mới ghi tên em lên sổ hộ khẩu nhà mình được, ly hôn sao, khi nào anh chết hãy nghĩ đến.”`
   },
 
 

@@ -5,13 +5,14 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <title>Ngôn Tình</title>
+  <title>Truyện Ngôn Tình</title>
 
   <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
 
+<!-- MENU -->
 <header class="topbar">
   <a href="index.html">Trang chủ</a>
   <a href="ngontinh.html">Ngôn tình</a>
@@ -19,6 +20,7 @@
   <a href="cotrang.html">Cổ trang</a>
 </header>
 
+<!-- TITLE -->
 <h2 style="
   text-align:center;
   color:#ff5722;
@@ -27,8 +29,10 @@
   Truyện Ngôn Tình
 </h2>
 
+<!-- LIST -->
 <div class="container" id="list"></div>
 
+<!-- DATA -->
 <script src="data.js"></script>
 
 <script>
@@ -39,12 +43,14 @@ function render(data){
 
   list.innerHTML = "";
 
+  // lọc truyện ngôn tình
   const ngontinh =
     data.filter(item => item.type === "ngontinh");
 
+  // id lớn nhất lên đầu
   ngontinh
-    .slice()
-    .reverse()
+    .sort((a,b) => b.id - a.id)
+
     .forEach(item => {
 
       list.innerHTML += `
@@ -52,7 +58,8 @@ function render(data){
         <a class="book"
            href="detail.html?id=${item.id}">
 
-          <img src="${item.image}" alt="">
+          <img src="${item.image}"
+               alt="${item.title}">
 
           <h2>${item.title}</h2>
 
