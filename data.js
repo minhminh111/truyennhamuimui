@@ -573,6 +573,85 @@ Nắm chặt mắt cá chân tôi, từ từ lại gần.
 Anh gằn từng chữ một: “Ly hôn?”
 
 “Anh đã tốn rất nhiều công sức mới ghi tên em lên sổ hộ khẩu nhà mình được, ly hôn sao, khi nào anh chết hãy nghĩ đến.”`
+  },{
+    id: 27,
+title: "Kẻ Thống Trị Và Con Mồi",
+    image: "imgngon/1b757984c2c2eda7ef842e6573d71f81.jpg",
+    link: "ngontinh/ke-thong-tri-va-con-moi.html",
+    type: "ngontinh",
+    desc: `Năm đó, vào đúng giai đoạn u ám nhất của cuộc đời.
+
+Tôi quen bạn trai qua mạng, mà anh ta lại là bá chủ trường học, còn tôi thì coi anh ta như một chú chó nhỏ để trêu đùa.
+
+Trước mặt mọi người, anh ta là kiểu đàn ông oai phong lẫm liệt, khí chất ngút trời.
+
+Nhưng sau lưng thì lại ngoan ngoãn mặc đồ chó con, mặt đỏ như cà chua chín.
+
+“Chủ nhân, mắng tôi đi, dùng những lời cay độc nhất mà mắng.”
+
+“Người là kẻ thống trị, tôi là kẻ thần phục!”
+
+Tôi cũng chiều theo, mắng anh ta là “chó hèn”.
+
+Album điện thoại của tôi lúc đó đầy ắp ảnh anh ta mặc đủ loại đồng phục.
+
+Đồng phục bác sĩ, luật sư, tổng tài, cả tiếp viên hàng không nam cũng có.
+
+Sau một thời gian chơi chán, tôi thẳng tay nghỉ game.
+
+Chặn, xóa, rồi gửi một tin nhắn chia tay.
+
+“Tôi có chó con mới rồi, anh tự tìm người khác đi.”
+
+Ngày hôm sau, bá chủ lớp F chuyển thẳng lên lớp A, ánh mắt hung hãn như muốn ăn tươi nuốt sống người khác.
+
+“Trong các người có kẻ tôi đang tìm.”
+
+“Đừng để tôi tìm ra cô ta, nếu không tôi sẽ khiến cô ta không ngóc đầu lên nổi.”`
+  },{
+    id: 28,
+title: "Giới Tính Bí Ẩn Của Tôi",
+    image: "imgdam/a86c6e18e9176610fc0bf570c66ea30d.jpg",
+    link: "dammy/gioi-tinh-bi-an-cua-toi.html",
+    type: "dammy",
+    desc: `Tôi là một Enigma theo kiểu Phật hệ, không tranh không giành.
+
+Mọi người đều nghĩ tôi là Beta.
+
+Vì tôi không bị Alpha áp chế, cũng không bị Omega ảnh hưởng.
+
+Tôi cũng chẳng buồn giải thích.
+
+Sau này, hotboy Alpha của trường theo đuổi tôi, anh ta nói:
+
+“Em còn dễ chăm hơn cả Omega.”
+
+Tôi đáp: “Sao cũng được.”
+
+Khi anh ta hôn tôi, tôi không nhịn được mà hôn lại. Khi anh ta chạm vào tôi, tôi cũng muốn chạm lại. Đến lúc anh ta cắn tuyến thể của tôi, tuyến thể của anh ta ở rất gần, còn thơm nữa.
+
+Sau đó anh ta phát thú tính, đè tôi xuống.
+
+Vừa kéo ra một cái, anh ta sững lại, vẻ mặt vừa kinh ngạc vừa thất vọng.
+
+“Sao em còn to hơn cả anh?!”`
+  },{
+    id: 29,
+title: "Huyết Hỏa Trùng Sinh",
+    image: "imgco/4d65952a64f86d8f1e2079f051751a1e.jpg",
+    link: "cotrang/huyet-hoa-trung-sinh.html",
+    type: "cotrang",
+    desc: `Sau khi đích tỷ qua đời, ta gả vào Hầu phủ, trở thành kế thất. Ta tận tâm tận lực hầu hạ công bà, quản lý hậu viện, chăm sóc đôi hài tử thơ dại mà đích tỷ để lại. Hai mươi năm vất vả ròng rã, ta cứ ngỡ mình cũng đổi lại được chút thể diện trong cái Hầu phủ này.
+
+Nào ngờ trước khi Hầu gia lâm chung, hắn lại ném cho ta một tờ hưu thư.
+
+Hắn nói ta tâm địa độc ác, ngay cả đồ của đích tỷ cũng muốn cướp.
+
+Ngay cả đôi nhi nữ mà ta dốc lòng nuôi nấng cũng quay sang oán trách, nói ta chiếm mất vị trí của mẫu thân chúng.
+
+Ta bị đuổi khỏi Hầu phủ, chết cóng trong một đêm mưa tuyết lạnh thấu xương.
+
+Mở mắt lần nữa, ta phát hiện mình đã quay về đúng ngày đích tỷ bệnh tình nguy kịch, triệu ta vào phủ.`
   },
 
 
