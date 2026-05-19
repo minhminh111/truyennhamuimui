@@ -652,6 +652,135 @@ Ngay cả đôi nhi nữ mà ta dốc lòng nuôi nấng cũng quay sang oán tr
 Ta bị đuổi khỏi Hầu phủ, chết cóng trong một đêm mưa tuyết lạnh thấu xương.
 
 Mở mắt lần nữa, ta phát hiện mình đã quay về đúng ngày đích tỷ bệnh tình nguy kịch, triệu ta vào phủ.`
+  }, {
+    id: 30,
+title: "Cả Thế Giới Bắt Đầu Cưng Chiều Nữ Phụ Mất Trí Nhớ",
+    image: "imgngon/8421308de9d6e14040e10d6fcc1f18b2.jpg",
+    link: "ngontinh/cả-thế-giới-bắt-đầu-cưng-chiều-nữ-phụ-mất-trí-nhớ.html",
+    type: "ngontinh",
+    desc: `Sau khi mất trí nhớ, tôi quên sạch luôn chuyện mình từng là nữ phụ độc ác.
+
+Tôi gửi tin nhắn xin lỗi toàn bộ bạn bè: 【Xin lỗi, tôi bị mất trí nhớ. Xin hỏi bạn là…?】
+
+Ngay lập tức, điện thoại nhảy liền bốn tin nhắn.
+
+Anh bạn thanh mai trúc mã lạnh lùng từng bị tôi bắt nạt: 【Lại thêm chiêu mới để hành hạ tôi à? Cơm để dưới lầu rồi, nhớ ăn.】
+
+Người anh nuôi trung thành từng bị tôi gây khó dễ: 【Vẫn giận anh à? Anh chuyển tiền tiêu vặt vào thẻ em rồi, tối về anh chơi với em nhé.】
+
+Nữ chính cá tính từng bị tôi trêu chọc: 【Lại diễn nữa à? Mất trí thì về ngủ đi, tôi điểm danh hộ cậu rồi.】
+
+Tôi: 【???】
+
+Không lẽ từ trước tới giờ tôi cầm nhầm kịch bản “được cưng chiều” à?`
+  },{
+    id: 31,
+title: "Tình Yêu Giữa Ký Túc Xá Nam Sinh",
+    image: "imgdam/ef2bf80196fffe51d50758a193b0dcfe.jpg",
+    link: "dammy/tinh-yeu-giua-ky-tuc-xa-nam-sinh.html",
+    type: "dammy",
+    desc: `Mẹ tôi chê tôi không có khí chất đàn ông, thế là nửa đêm quyết định tống tôi vào một trường nam sinh.
+
+Nghe thì tưởng ngon, nhưng vào rồi mới biết đây là nơi toàn mấy ông cao to lực lưỡng, kiểu chỉ cần vung tay nhẹ thôi cũng đủ khiến tôi bay màu.
+
+Tôi sợ bị ăn hiếp nên chọn cách sống an toàn nhất có thể, đó là làm tùy tùng cho bạn cùng phòng học thể thao. Ngày ngày chạy việc lặt vặt cho cậu ấy, từ xách nước, mua đồ ăn vặt, cho đến kiêm luôn việc sưởi ấm giường.
+
+Tôi cứ tưởng mình đang sống kiểu low profile cho qua ngày, ai ngờ cuối cùng lại bị cậu ấy “ăn sạch sành sanh” luôn. Đỉnh điểm là cậu ấy còn dẫn tôi về nhà ra mắt mẹ vợ tương lai.
+
+Mẹ tôi nhìn thấy cảnh đó thì đập tay xuống bàn, run rẩy chỉ vào tôi rồi nói
+“Không đúng, đây là mẹ đang thưởng cho con à”
+
+Tôi tỉnh dậy trong trạng thái hoảng loạn, bật dậy khỏi giường như vừa bị ai dội nước lạnh vào người.
+
+Vừa rồi còn là giấc mơ, nhưng cảm giác chân thực đến mức tim tôi vẫn đập thình thịch.`
+  },{
+    id: 32,
+title: "Hải Đường Trong Lồng Lê Hoa",
+    image: "imgco/1f2502ea4c1d4eb89296d3800996f965.jpg",
+    link: "cotrang/hai-duong-trong-long-le-hoa.html",
+    type: "cotrang",
+    desc: `Ta là cô nhi được Thẩm gia thu dưỡng.
+
+Di mẫu nói gia chủ Thẩm gia, Thẩm Ký Bạch, thanh lãnh như trích tiên, là thể diện của cả gia tộc, xa vời đến mức không phải loại người ta có thể với tới.
+
+Ta ngoan ngoãn nghe lời, đối với hắn luôn giữ khoảng cách, kính nhi viễn chi cho an toàn.
+
+Trang sức hắn tặng, ta không dám đeo.
+
+Nơi nào có hắn, ta liền tự động tránh xa ba bước như phản xạ sinh tồn.
+
+Gặp cô nương nào đó tỏ tình với hắn, ta cũng lập tức quay đầu bỏ chạy, nhanh như sợ bị vạ lây.
+
+Vốn tưởng cứ thế yên ổn mà chờ ngày gả chồng.
+
+Ai ngờ đêm trước khi định thân, ta lại bị Thẩm Ký Bạch giam trong phòng.
+
+Hắn ghì ta vào góc giường, hơi thở lạnh mà trầm, giọng nói lại mang theo cảm xúc kìm nén.
+
+“A Đường, nàng muốn gả cho ai?”
+
+“Ngoan, gọi ta là phu quân.”`
+  }, {
+    id: 33,
+    title: "Chuyên Chức Chạy Việc Ở Trường Quý Tộc",
+    image: "imgngon/22afa947f2c8f26b292080faf24cff8e.jpg",
+    link: "ngontinh/chuyên-chức-chạy-việc-ở-trường-quý-tộc.html",
+    type: "ngontinh",
+    desc: `Lần nữa mở mắt ra, tôi từ một nhân viên công sở mệt mỏi xuyên thành một nữ phụ pháo hôi trong một cuốn tiểu thuyết sảng văn.
+
+Nguyên chủ có thành tích thi đại học rất cao, nhưng lại bị thanh mai trúc mã tráo điểm cho bạch nguyệt quang của hắn.
+
+Bất đắc dĩ, cô chỉ có thể bị ép đến một ngôi trường quý tộc hẻo lánh này để học.
+
+Bây giờ, trước mặt tôi là mấy tên thiếu gia nhà giàu cùng lớp.
+
+Chúng hung hăng đập bài tập sau giờ học xuống bàn tôi:
+
+"Ngày mai trước khi đến trường phải viết xong hết bài tập cho bọn tao, nắn nót rõ ràng. Bằng không… hậu quả, mày hiểu rồi chứ?"
+
+Trong nguyên tác, nữ phụ này vì kiêu ngạo, nhất quyết không chịu nghe lời đám thiếu gia, cuối cùng rơi vào kết cục chết đói nơi đầu đường xó chợ.
+
+Nghĩ đến đây, tôi lập tức đổi sang nụ cười nịnh nọt, ngoan ngoãn thu hết bài tập bỏ vào cặp:
+
+"Rõ rồi, đảm bảo hoàn thành nhiệm vụ đúng hạn."
+
+Về đến nhà, tôi lấy đống bài tập của bọn thiếu gia ra chuẩn bị làm.
+
+Không ngờ trong mỗi quyển sách đều kẹp mấy chục tờ tiền trăm!`
+  },{
+    id:   34,
+title: "Em Trai Nuôi Nhìn Tôi Không Bình Thường",
+    image: "imgdam/691d9c29a8898194a8846d10b74bd37a.jpg",
+    link: "dammy/em-trai-nuoi-nhin-toi-khong-binh-thuong.html",
+    type: "dammy",
+    desc: `Khi bị Thẩm Yến ép sát vào tường, tôi hoảng hốt hét lên: “Anh là anh mày đấy!”
+
+Thẩm Yến khẽ cười: “Anh trai à? Thì ra anh thích kiểu này.”`
+  },{
+    id: 35,
+title: "Một Kiếp Thạch Đầu",
+    image: "imgco/a71def6a39f4f40d6dbc6d742f72b6e9.jpg",
+    link: "cotrang/một-kiếp-thạch-đầu.html",
+    type: "cotrang",
+    desc: `Tôi ở giữa tứ hải bát hoang, từng là một tảng đá nằm dưới gốc cây ngô đồng to đến mức nhìn không thấy ngọn.
+
+Tôi nằm đó mấy trăm năm, ngày thì phơi nắng mưa, đêm thì nghe đủ loại chuyện trên đời. Người qua kẻ lại, kẻ cười người khóc, đủ cả hỉ nộ ái ố của nhân gian tôi đều chứng kiến hết, nhưng tôi thì vẫn chỉ là một tảng đá vô tri, đứng nhìn đời trôi qua như một khán giả bất lực.
+
+Cho đến một ngày, tôi thấy một người phụ nữ xinh đẹp xuất hiện. Quanh người bà ấy có một vòng hào quang, nhìn thôi đã thấy không phải người thường. Trên người còn có mùi hương rất dễ chịu, làm cái không khí oi bức cũng dịu hẳn.
+
+Bà ấy vỗ vỗ lên tôi rồi ngồi xuống, im lặng nghe một ông lão nông dân gần đó kể chuyện dân gian. Ngồi đúng ba ngày ba đêm, không rời đi nửa bước.
+
+Đến ngày cuối, khi mặt trời lặn sau đỉnh núi trọc, bà thở dài một hơi rồi nói: “Tảng đá này, ngươi đã ở đây mấy trăm năm, chứng kiến bao nhiêu chuyện hỉ nộ ái ố mà vẫn chỉ có thể trơ ra như vậy.”
+
+Nói xong, bà lấy ra một cây bút lông cán vàng, viết lên tôi một câu thơ rồi biến mất như chưa từng xuất hiện.
+
+Sau đó một mùa thay lá nữa trôi qua, tôi không còn là đá nữa. Tôi biến thành người, thành một đứa bé nằm ọ ẹ dưới gốc ngô đồng, sau lưng còn có một vết sẹo màu vàng lấp lánh.
+
+Rồi tôi được một ông thầy pháp đi ngang qua nhặt về. Ông đặt tên tôi là Tần Tang.
+
+Sống trong thời buổi người với ma lẫn lộn, ai cũng có chuyện buồn vui riêng. Sư phụ tôi thì lại thuộc kiểu vui tính giữa dòng đời nghiệt ngã, vì ông chuyên nghề trảm yêu diệt ma.
+
+Cứ nghe đâu có yêu quái là ông lại lao đi như bắt được vàng. Có việc là có ăn, không việc là đói, nên ông ngày nào cũng bận rộn thần thần bí bí chạy khắp nơi.`
   },
 
 
