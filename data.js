@@ -760,7 +760,7 @@ Thẩm Yến khẽ cười: “Anh trai à? Thì ra anh thích kiểu này.”`
     id: 35,
 title: "Một Kiếp Thạch Đầu",
     image: "imgco/a71def6a39f4f40d6dbc6d742f72b6e9.jpg",
-    link: "cotrang/một-kiếp-thạch-đầu.html",
+    link: "cotrang/mot-kiep-thach-dau.html",
     type: "cotrang",
     desc: `Tôi ở giữa tứ hải bát hoang, từng là một tảng đá nằm dưới gốc cây ngô đồng to đến mức nhìn không thấy ngọn.
 
