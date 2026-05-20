@@ -921,7 +921,106 @@ Sau đó nàng hủy dung ta, rồi lạnh lùng ném ta vào ổ của đám ă
 Sau khi chết ta mới tỉnh ngộ. Tiểu thư vốn chẳng hề lạnh lùng vô tình như vẻ ngoài. Nàng chỉ đang giả vờ thanh cao, dùng chiêu lạt mềm buộc chặt để khiến cô gia yêu nàng điên cuồng.
 
 Khi mở mắt ra lần nữa, ta đã quay về đúng ngày đại hôn của bọn họ.`
+  }, {
+    id: 42,
+title: "Vua Cặn Bã Hào Môn",
+    image: "imgngon/58d976bbea9e2a1e5ee73256b4142d43.jpg",
+    link: "ngontinh/vua-can-ba-hao-mon.html",
+    type: "ngontinh",
+    desc: `Ngày tôi được cha mẹ ruột hào môn tìm về, mẹ nuôi ôm tôi khóc thút thít:
+
+“Nguyệt Nguyệt à, mẹ nghe nói cha mẹ ruột của con cực kỳ cưng chiều cô con gái giả mạo kia, nuông chiều đến mức cô ta ngang ngược làm càn, bắt nạt bạn bè, mắng mỏ người già, chuyện xấu gì cũng làm, đúng là một kẻ cặn bã.”
+
+“Giờ con được đón về rồi, chắc chắn sẽ bị cô ta bắt nạt cho xem.”
+
+Tôi vỗ nhẹ vai mẹ nuôi, an ủi người phụ nữ đang sụt sịt:
+
+“Mẹ ơi, mẹ nuôi con bao năm nay, còn không biết tính con sao?”
+
+Tôi gặp qua nhiều loại người cặn bã rồi, mà mấy kẻ đó đối với tôi chỉ như cái bậc thềm bước qua.
+
+Cặn bã trên đời nhiều như cá sông.
+
+Nhưng những người từng gặp tôi, không ai là không nghĩ rằng tôi còn cặn bã hơn.
+
+Trong cái làng nhỏ nghèo và lạc hậu này, ai cũng gọi tôi bằng một biệt danh duy nhất —
+
+Vua Cặn Bã.`
+  },{
+    id: 43,
+title: "Mối Tình Trong Hang Sói",
+    image: "imgdam/5f1b59ff390028a2553deaeea7e3f709.jpg",
+    link: "dammy/moi-tinh-trong-hang-soi.html",
+    type: "dammy",
+    desc: `Tôi có một kẻ thù không đội trời chung, một con sói xám oai phong lẫm liệt.
+
+Còn tôi, là một con sói nhỏ, bộ lông trắng như tuyết, đẹp nhất tộc, lại còn hiền lành nhất nữa chứ.
+
+Từ ngày mới chào đời, chúng tôi đã nhìn nhau kiểu không ai ưa ai.
+
+Tôi thì thấy hắn đúng kiểu sói ngốc, chỉ có sức chứ chẳng có não.
+
+Còn hắn thì nghĩ tôi ngoài cái mã đẹp ra thì chẳng có giá trị gì, đúng kiểu rỗng tuếch.
+
+Nhưng rồi vào cái đêm động dục đó, bộ lông trắng mượt của tôi bị hắn cắn đến dính đầy nước dãi.
+
+Tôi tức muốn bốc khói, gào lên: “Đồ ngốc, sao cậu lại cắn tôi hả.”`
+  },{
+    id: 44,
+title: "Xà Thần Phu Nhân",
+    image: "imgco/58a9c71bc36de09fa9ee59716374c203.jpg",
+    link: "cotrang/xa-than-phu-nhan.html",
+    type: "cotrang",
+    desc: `Biểu tỷ đẩy ta ra ngoài làm nha hoàn cho Nhị thiếu gia.
+
+Nhị thiếu gia mắt không thấy, chân lại tàn tật, suốt ngày bị người ta ghét bỏ, coi thường.
+
+Biểu tỷ vì muốn leo lên làm thiếp của Đại thiếu gia mà chọn cách đi làm nha hoàn rửa chân cho hắn.
+
+Nàng ta còn lôi kéo mấy nha hoàn khác ức hiếp ta, vừa cười vừa vênh mặt nói:
+
+“Muội muội à, muội không giống ta đâu. Giờ muội đã vào nô tịch rồi, cả đời chỉ có thể cúi đầu hầu hạ kẻ tàn phế thôi. Muốn mẫu bằng tử quý à, e là Nhị thiếu gia cũng không có cái phúc đó đâu, ha ha ha.”
+
+Nhưng bọn họ nào biết, mỗi đêm đến canh khuya, đều có một con hắc xà khổng lồ quấn quanh eo ta, lạnh lẽo mà mềm mại đến kỳ lạ.
+
+Nó khẽ thì thầm bên tai ta:
+
+“Tiểu nha hoàn, ta sẽ thay muội đòi lại tất cả. Kẻ nào dám ức hiếp muội, ta tuyệt không tha.”
+
+Rồi lại hạ giọng, như nũng nịu:
+
+“Nhưng cũng đến lúc muội cho ta ăn no rồi đó, tiểu nha hoàn.”
+
+Biểu tỷ của ta hoàn toàn không biết, Nhị thiếu gia chính là một con hắc xà.
+
+Tâm tính rắn độc, âm hiểm, thù dai, lại còn… háo sắc.`
+  },{
+    id: 45,
+title: "Định Mệnh Dây Dưa Của Miêu Yêu Và Tổng Tài",
+    image: "imgdam/3a7105f0f0bef76469db9b7ff741eaeb.jpg",
+    link: "dammy/dinh-menh-day-dua-cua-mieu-yeu-va-tong-tai.html",
+    type: "dammy",
+    desc: `Tôi là một con Miêu Yêu, giới tính đực.
+
+Hiện tại tôi đang làm thêm ở một quán cà phê mèo, mỗi lần khách chơi với tôi sẽ tính phí 50 tệ.
+
+Một ngày nọ, khi tôi đang hóa nguyên hình đi ngang qua đường, tôi bị một người đàn ông trêu chọc, sờ soạng đủ kiểu. Xong việc hắn lại không chịu trả tiền.
+
+Tôi hầm hầm chạy đi tìm hắn, nói thẳng luôn: “Chuyển khoản cho tôi 50 tệ, cảm ơn.”
+
+Người đàn ông đỏ mặt nhìn tôi rồi nói: “Anh thích em, chúng ta ở bên nhau được không?”
+
+Tôi buột miệng đáp lại: “Luật cũ, bao trọn một tháng 3000 tệ, trả trước rồi mới được sờ, bao ăn bao ở.”
+
+Hắn đứng hình.
+
+Sau đó tôi mới biết cái gọi là “bao nuôi” là gì nên lập tức từ chối hắn.
+
+Ai ngờ người đàn ông đó lại chuyển hết tài sản cho tôi, rồi ngày nào cũng điên cuồng gửi lì xì.
+
+“Như vậy… em có thể ở bên anh chưa?”`
   },
+
 
 
 
