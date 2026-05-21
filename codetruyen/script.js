@@ -16,9 +16,9 @@ window.addEventListener("DOMContentLoaded", function(){
     "https://vt.tiktok.com/ZS9FvVXpLV"
   ];
 
-  /* ===== 1 GIỜ ===== */
+  /* ===== 20 PHÚT ===== */
 
-  const ONE_HOUR = 60 * 60 * 1000;
+  const ONE_HOUR = 20 * 60 * 1000;
 
   /* ===== STORY ID ===== */
 

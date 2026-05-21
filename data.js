@@ -1158,7 +1158,7 @@ Ban đầu cha còn định sau lần này sẽ giao toàn bộ nhà họ Phó c
 Đã như vậy, thì cái gì anh ta cũng đừng mơ tới nữa…`
   },{
     id: 52,
-title: "Trong Sinh Đẻ Yêu Lại Một Người",
+title: "Trong Sinh Để Yêu Lại Một Người",
     image: "imgdam/2040d93bf9bea2c72c3cf9227d33d323.jpg",
     link: "dammy/trong-sinh-de-yeu-lai-mot-nguoi.html",
     type: "dammy",
