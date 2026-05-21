@@ -18,23 +18,38 @@ window.addEventListener("DOMContentLoaded", function(){
 
   /* ===== 20 PHÚT ===== */
 
-  const ONE_HOUR = 20 * 60 * 1000;
+  const LOCK_TIME = 20 * 60 * 1000;
 
   /* ===== STORY ID ===== */
 
   const storyId = location.pathname;
 
-  /* ===== GET LINK ===== */
+  /* ===== LẤY LINK QUẢNG CÁO ===== */
 
   function getLink(){
 
-    const index =
-      Math.floor(Date.now() / ONE_HOUR);
+    // lấy vị trí quảng cáo hiện tại
+    let adIndex =
+      parseInt(localStorage.getItem("adIndex") || 0);
 
-    return links[index % links.length];
+    // lấy link
+    const link = links[adIndex];
+
+    // tăng index
+    adIndex++;
+
+    // quay lại từ đầu
+    if(adIndex >= links.length){
+      adIndex = 0;
+    }
+
+    // lưu lại
+    localStorage.setItem("adIndex", adIndex);
+
+    return link;
   }
 
-  /* ===== CHECK LOCK ===== */
+  /* ===== CHECK KHÓA ===== */
 
   function checkLock(){
 
@@ -50,13 +65,15 @@ window.addEventListener("DOMContentLoaded", function(){
 
     const now = Date.now();
 
-    const diff = now - parseInt(unlockTime);
+    const diff =
+      now - parseInt(unlockTime);
 
-    if(diff >= ONE_HOUR){
+    // hết thời gian → khóa lại
+    if(diff >= LOCK_TIME){
 
       lockStory();
 
-    } else {
+    }else{
 
       unlockStory();
 
@@ -64,7 +81,7 @@ window.addEventListener("DOMContentLoaded", function(){
 
   }
 
-  /* ===== LOCK ===== */
+  /* ===== KHÓA ===== */
 
   function lockStory(){
 
@@ -74,7 +91,7 @@ window.addEventListener("DOMContentLoaded", function(){
 
   }
 
-  /* ===== UNLOCK ===== */
+  /* ===== MỞ KHÓA ===== */
 
   function unlockStory(){
 
@@ -84,24 +101,28 @@ window.addEventListener("DOMContentLoaded", function(){
 
   }
 
-  /* ===== CLICK UNLOCK ===== */
+  /* ===== CLICK MỞ KHÓA ===== */
 
   unlockBtn.addEventListener("click", function(){
 
+    // lấy quảng cáo
     const link = getLink();
 
+    // mở quảng cáo
     window.open(link, "_blank");
 
+    // lưu thời gian mở khóa
     localStorage.setItem(
       "unlock_" + storyId,
       Date.now()
     );
 
+    // hiện truyện
     unlockStory();
 
   });
 
-  /* ===== START ===== */
+  /* ===== BẮT ĐẦU ===== */
 
   checkLock();
 
