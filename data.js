@@ -1198,6 +1198,76 @@ Sau khi bị ta bắt gặp, hắn còn mặt dày ôm ta dỗ dành.
 Ta tác thành cho các ngươi luôn.
 
 Chúc hai người sống thì khỏi gặp mặt thiên hạ, chết thì chung một huyệt cho đủ đôi.`
+  }, {
+    id: 54,
+title: "Ác Nữ Thuần Hóa Cún Con Hắc Hóa",
+    image: "imgngon/87325a39367308749a122aa3a760eb40.jpg",
+    link: "ngontinh/ac-nu-thuan-hoa-cun-con-hac-hoa.html",
+    type: "ngontinh",
+    desc: `Xuyên thành nữ phụ ác độc trong tiểu thuyết nam tần lưu, hệ thống bắt tôi phải đi sỉ nhục nam chính.
+
+【Cô cứ xem anh ta như chó là được!】
+
+【Sỉ nhục anh ta kiểu đối xử với chó ấy, hiểu chưa!】
+
+Tôi hiểu chứ!
+
+Thế là tôi cố tình hất đổ ly sữa nam chính vừa đưa tới.
+
+Sau đó còn đưa bàn tay dính đầy sữa ra trước mặt anh ta.
+
+“Chó hư, liếm sạch cho tôi.”
+
+Giây tiếp theo, lòng bàn tay tôi truyền tới cảm giác ẩm nóng.
+
+Đầu lưỡi người đàn ông lướt nhẹ qua, nóng đến mức da đầu tôi tê rần.
+
+“Còn chỗ nào bẩn nữa không? Muốn cún con liếm sạch luôn không?”`
+  },{
+    id: 55,
+title: "Trời Sinh Một Đôi",
+    image: "imgdam/94710127520b37ce6a5a431a290d964c.jpg",
+    link: "dammy/troi-sinh-mot-doi.html",
+    type: "dammy",
+    desc: `Tôi là nhân vật phản diện độc ác trong một cuốn tiểu thuyết đam mỹ.
+
+Đến khi tỉnh ngộ ra thì tôi đang túm cổ áo nam chính, người vừa đẹp trai vừa giỏi giang lại còn mang số phận bi thảm, rồi tiện tay ném tiền vào người hắn để làm nhục.
+
+“Mấy đồng này, đủ mua một đêm của anh chưa?”
+
+Vừa nói xong, tôi đã thấy tim mình lạnh toát.
+
+Não như bị ai gõ một cú tỉnh táo, tôi giật mình sửa lại ngay.
+
+“Mua… mua một đêm của cậu để kèm tôi học, học phí thế này đủ chưa?”
+
+Không khí vừa gượng gạo vừa nguy hiểm theo kiểu không biết sống sao cho đúng.
+
+Ai ngờ về sau, nam chính lại ôm chặt lấy eo tôi, trán áp trán, gần đến mức tôi không kịp thở.
+
+Giọng hắn khàn đi, mềm đến mức như đang dỗ dành:
+
+“Tiểu thiếu gia, chúng ta học thứ khác nhé?”
+`
+  },{
+    id: 56,
+title: "Hàng Ngày Lười Biếng Của Quốc Công Phu Nhân",
+    image: "imgco/623a063a3d8009112803d6c0b6f29592.jpg",
+    link: "cotrang/hang-ngay-luoi-bieng-cua-quoc-cong-phu-nhan.html",
+    type: "cotrang",
+    desc: `Mùa đông lạnh tới mức chó ra đường cũng muốn xin nghỉ phép, quốc công gia lại đặc biệt đem chiếc áo choàng lông chồn mà cha ta tặng cho ta đi đưa cho Trương di nương.
+
+Thôi thì, tranh sủng với thiếp thất còn không bằng ngồi ăn hạt dưa cho khỏe. Cái danh Quốc Công phu nhân này vốn cũng đâu phải ta quỳ xin mà có.
+
+Đến khi hoàng đế băng hà, tân hoàng đăng cơ, nội thị tới phủ Quốc Công truyền chỉ.
+
+Chàng phu quân trên danh nghĩa của ta lập tức bước lên trước một bước, cực kỳ tự nhiên khoác áo choàng lông chồn lên người ta, vẻ mặt còn diễn sâu hơn cả kép chính trong hí khúc.
+
+“Ương Ương, ngoài trời lạnh, đừng để bị cảm.”
+
+Nói xong quay đầu nhìn Trương Bảo Nhi đang đứng bên cạnh, giọng lập tức lạnh như băng ngoài trời.
+
+“Chỉ cần ta và phu nhân tiếp chỉ là đủ rồi, Trương di nương đừng vượt quá bổn phận.”`
   },
 
 
