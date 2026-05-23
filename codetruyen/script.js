@@ -11,8 +11,8 @@ window.addEventListener("DOMContentLoaded", function(){
   /* ===== LINK QUẢNG CÁO ===== */
 
   const links = [
-    "https://s.shopee.vn/2Vof7lPU48",
-    "https://s.lazada.vn/s.N4XIF?c=a&t=p-iEXBsm1-s22q1ZAN",
+    "https://s.shopee.vn/2LVLBQ2UJ6",
+    "https://s.lazada.vn/s.NTt8D?c=a&t=p-i2v0qQH-sEIHDR0",
     "https://vt.tiktok.com/ZS9FvVXpLV"
   ];
 
