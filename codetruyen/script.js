@@ -24,27 +24,48 @@ window.addEventListener("DOMContentLoaded", function(){
 
   const storyId = location.pathname;
 
-  /* ===== LẤY LINK QUẢNG CÁO ===== */
+  /* ===== NGÀY HÔM NAY ===== */
+
+  const today =
+    new Date().toDateString();
+
+  /* ===== RESET QUẢNG CÁO MỖI NGÀY ===== */
+
+  const savedDay =
+    localStorage.getItem("adDay");
+
+  if(savedDay !== today){
+
+    // reset về Shopee
+    localStorage.setItem("adIndex", 0);
+
+    // lưu ngày mới
+    localStorage.setItem("adDay", today);
+
+  }
+
+  /* ===== LẤY LINK ===== */
 
   function getLink(){
 
-    // lấy vị trí quảng cáo hiện tại
     let adIndex =
       parseInt(localStorage.getItem("adIndex") || 0);
 
-    // lấy link
-    const link = links[adIndex];
+    const link =
+      links[adIndex];
 
-    // tăng index
+    // tăng quảng cáo
     adIndex++;
 
-    // quay lại từ đầu
+    // quay vòng
     if(adIndex >= links.length){
       adIndex = 0;
     }
 
-    // lưu lại
-    localStorage.setItem("adIndex", adIndex);
+    localStorage.setItem(
+      "adIndex",
+      adIndex
+    );
 
     return link;
   }
@@ -68,7 +89,6 @@ window.addEventListener("DOMContentLoaded", function(){
     const diff =
       now - parseInt(unlockTime);
 
-    // hết thời gian → khóa lại
     if(diff >= LOCK_TIME){
 
       lockStory();
@@ -105,24 +125,20 @@ window.addEventListener("DOMContentLoaded", function(){
 
   unlockBtn.addEventListener("click", function(){
 
-    // lấy quảng cáo
     const link = getLink();
 
-    // mở quảng cáo
     window.open(link, "_blank");
 
-    // lưu thời gian mở khóa
     localStorage.setItem(
       "unlock_" + storyId,
       Date.now()
     );
 
-    // hiện truyện
     unlockStory();
 
   });
 
-  /* ===== BẮT ĐẦU ===== */
+  /* ===== START ===== */
 
   checkLock();
 
