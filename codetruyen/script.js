@@ -12,6 +12,7 @@ window.addEventListener("DOMContentLoaded", function(){
 
   const links = [
     "https://s.shopee.vn/2LVLBQ2UJ6",
+      "https://spf.shopee.vn/1LcpcXEhRk",
     "https://s.lazada.vn/s.NTt8D?c=a&t=p-i2v0qQH-sEIHDR0",
     "https://vt.tiktok.com/ZS9FvVXpLV"
   ];
