@@ -1499,6 +1499,79 @@ Hắn cho rằng ta tư thông với thị vệ, còn nhà mẹ đẻ thì tham 
 Nhưng khổ nhất là sau khi chết, ta vẫn không thể rời khỏi thế giới này. Chỉ có thể lơ lửng bên cạnh Bùi Thịnh, ngày ngày nhìn hắn sủng ái nữ nhân khác, còn là kiểu giống ta đến mức nhìn xa tưởng soi gương đồng.
 
 Ta đúng là chết rồi mà vẫn phải tăng ca xem phim tình cảm của người cũ.`
+  }, {
+    id: 69,
+title: "Cuộc Hôn Nhân AA",
+    image: "imgngon/b90d01f7f0e759cfb98200616888f800.jpg",
+    link: "ngontinh/cuoc-hon-nhan-aa.html",
+    type: "ngontinh",
+    desc: `Mẹ chồng để trị thói tiêu tiền của tôi, bắt tôi và chồng phải chia đôi mọi chi phí (AA).
+
+Tôi vỗ tay đồng ý ngay.
+
+Vậy nên—
+
+Chồng tôi uống say rồi nôn mửa? Phí dọn dẹp: 350 tệ.
+
+Mẹ chồng nhập viện, tôi đặt cơm giúp? Phí giao hàng: 200 tệ.
+
+Em chồng muốn đến ở nhờ?
+
+Tính theo ngày: 400 tệ. Không cho ghi nợ.
+
+Đến khi họ nhận ra, quy tắc “công bằng” này…
+
+Chỉ khiến chính họ tự vả vào mặt mình.
+
+Mẹ chồng gào lên:
+
+“Sống thế này sống làm sao nổi!?”
+
+Tôi gật đầu, mỉm cười:
+
+“Vâng, vì thế tôi và con trai bà ly hôn rồi. Đây là hóa đơn, phiền bà thanh toán nốt.”`
+  },{
+    id: 70,
+title: "Tiếng Tim Cháy Ngầm",
+    image: "imgdam/684731a143834b3561f85a3140ebc680.jpg",
+    link: "dammy/tieng-tim-chay-ngam.html",
+    type: "dammy",
+    desc: `Bọn tôi bị đàn anh khóa trên kiêm huấn luyện viên hành cho tới mức sắp đi họp tổ tiên tập thể luôn rồi.
+
+Cả đám ngồi tụ lại bàn kế sách như đang cứu thế giới.
+
+“Thần Nhi, mày trắng nhất lớp, đi cưa gã huấn luyện viên đi, đổi lại cả lớp được giải thoát!”
+
+Tôi nghe xong liền đáp gọn:
+
+“Biến, tao trai thẳng như cây thép luôn nhé!”
+
+Thế mà ngay sau đó, cái gã huấn luyện viên kia lại đặt bàn tay to đùng lên eo tôi, mặt lạnh như tiền chỉnh tư thế.
+
+“Đứng thẳng vào. Đàn ông con trai mà mềm oặt vậy hả?”
+
+Ngay đúng khoảnh khắc đó, một loạt tiếng lòng như nổ pháo hoa bắn thẳng vào não tôi.
+
+“Eo mềm quá! Lần này chắc ôm được ba phút! Tuyệt vời… nếu được hôn thêm cái nữa thì ngon biết mấy…”
+
+Tôi đứng hình.
+
+Cái gì vậy trời???`
+  },{
+    id: 71,
+title: "Sư Tôn Của Ta Là Một Thỏ Tiên",
+    image: "imgco/8979f2ac99a23e5bb78339f6fe30921b.jpg",
+    link: "cotrang/su-ton-cua-ta-la-mot-tho-tien.html",
+    type: "cotrang",
+    desc: `Sáng sớm vừa mở mắt ra, ta đã phát hiện sư tôn đang nằm gọn trong lòng mình. Không những thế, hắn còn chép miệng mấy cái rồi cọ cọ vào ngực ta như đang tìm chỗ ngủ ngon hơn nữa chứ.
+
+Nhìn phần gáy trắng nõn kia, ta vô thức nuốt nước bọt một cái.
+
+Muốn gặm quá đi mất.
+
+Đừng hiểu lầm, ta là mèo yêu, còn sư tôn là Thỏ Tiên.
+
+Một con mèo muốn ăn thỏ thì còn cần lý do gì nữa sao?`
   },
 
 
