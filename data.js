@@ -1434,6 +1434,56 @@ Phủ Thái phó lập tức mất sạch thể diện.
 Ta thở phào một hơi, may mà ta đã sớm chọn được người để gả từ trước rồi.
 
 Chỉ là, thế tử phủ Ninh quốc công lại vác khuôn mặt đỏ bừng, vừa ấm ức vừa tội nghiệp đến hỏi ta: “Hôm đó không phải nàng kêu ta đi thiên viện sao?”`
+  }, {
+    id: 66,
+title: "Lỡ Va Vào Anh Cảnh Sát",
+    image: "imgngon/6cb6dd8383a6fe2e71b662ac4dd59bf6.jpg",
+    link: "ngontinh/lo-va-vao-anh-canh-sat.html",
+    type: "ngontinh",
+    desc: `Nửa đêm mười hai giờ, tiếng động “không tiện mô tả” lại vang lên từ tầng trên.
+
+Trên màn hình livestream, bình luận bắt đầu nhảy liên tục:
+
+【Nhạc nền này… nghe hơi lạ nha…】
+
+【Có phải đúng cái tôi đang nghĩ không trời…】
+
+Tôi lặng lẽ tăng volume nhạc lên, cười ngọt như chưa từng biết sự đời:
+
+“Không sao đâu mọi người, chắc tầng trên đang tập thể dục buổi tối thôi. Chỉ là… tập hơi sung một chút ấy mà, haha…”
+
+Vài phút sau, cửa phòng tôi bị đá tung cái rầm.
+
+Mấy người đàn ông mặc đồng phục lao thẳng vào phòng. Người đi đầu đẹp trai đến mức tôi đứng hình tại chỗ, đúng chuẩn gu tôi từ đầu tóc tới gót chân.
+
+Tôi còn chưa load xong tình huống thì đã nghe anh ta quát lớn:
+
+“Không được động đậy! Kiểm tra mại dâm!”
+
+Tôi: ????????!!!!`
+  },{
+    id: 67,
+title: "Say Một Đêm Vớ Được Bạn Trai",
+    image: "imgdam/16f974f576078e282c89fa060159aa5b.jpg",
+    link: "dammy/say-mot-dem-vo-duoc-ban-trai.html",
+    type: "dammy",
+    desc: `Tôi tỉnh dậy trong một căn phòng lạ. Vừa ngồi dậy thì cửa phòng khẽ mở.
+
+“Em tỉnh rồi?” Giọng nam trầm ấm vang lên.
+
+Tôi đơ ra mất hai giây, nhìn chằm chằm vào gương mặt từng khiến tim tôi rung rinh suốt bấy lâu.
+
+“Còn thấy khó chịu chỗ nào không?” Anh hỏi.
+
+Tôi giật mình tỉnh hẳn, buột miệng: “Giáo sư Phó!”
+
+Anh khẽ cười: “Ừ.”
+
+Tôi đứt đoạn ký ức, chẳng nhớ nổi chuyện tối qua, chỉ biết lắc đầu: “Dạ không… chắc em say quá nên làm phiền thầy nhiều lắm phải không?”
+
+Anh vẫn bình thản: “Phiền thì không, chỉ là lúc em ôm chân tôi khóc lóc gọi ‘chồng ơi đừng đi’, tôi hơi bất ngờ.”
+
+Nghe xong bốn chữ đó, tôi chỉ muốn độn thổ ngay tại chỗ.`
   },
 
 
