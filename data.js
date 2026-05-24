@@ -1572,6 +1572,83 @@ Muốn gặm quá đi mất.
 Đừng hiểu lầm, ta là mèo yêu, còn sư tôn là Thỏ Tiên.
 
 Một con mèo muốn ăn thỏ thì còn cần lý do gì nữa sao?`
+  }, {
+    id: 72,
+title: "Thần Thú Rớt Xuống Trần Gian",
+    image: "imgngon/70c1c1274598ec89f76ae39146f9eee5.jpg",
+    link: "ngontinh/than-thu-rot-xuong-tran-gian.html",
+    type: "ngontinh",
+    desc: `Mỗi bữa tôi phải ăn sạch năm bát cơm, viện trưởng liền phán tôi là đứa trẻ hư, chỉ biết phung phí lương thực, không xứng được yêu thương, thế là dứt khoát cắt luôn khẩu phần của tôi.
+
+Thế là từ đó, ngày nào tôi cũng sống trong cảnh bụng đói meo, người gầy như que tăm, cảm giác sắp bay màu đến nơi.
+
+Cho đến một ngày, có một cặp vợ chồng mới đến viện nhận con nuôi, tôi liều mạng đập cửa, lao thẳng ra ngoài như phim hành động.
+
+Viện trưởng mặt mày đen như đáy nồi, túm chặt lấy tôi.
+
+“Con bé này bướng bỉnh, khó dạy, là đứa cứng đầu nhất viện, thật ngại quá để hai người phải chứng kiến.”
+
+Thế nhưng ánh mắt của cặp vợ chồng kia lại sáng rực như bắt được vàng.
+
+“Chúng tôi chỉ muốn nhận đúng đứa bé này.”
+
+Ngay trước mắt tôi bỗng hiện lên một đống chữ bay lượn.
+
+【Hahahahaha, cuối cùng nữ chính là chuyên gia dinh dưỡng cũng có đất diễn rồi. Đứa trẻ này sinh ra đúng là để dành cho họ mà.】`
+  },{
+    id: 73,
+title: "Thiếu Gia Giả Bị Lật Tẩy",
+    image: "imgdam/132851701525d9fb412fed046bc3f21c.jpg",
+    link: "dammy/thieu-gia-gia-bi-lat-tay.html",
+    type: "dammy",
+    desc: `Khi tôi thức tỉnh, thiếu gia thật đang quỳ ngay trước mặt, còn tôi thì cầm roi quất cậu ấy như đang dạy dỗ một con chó không nghe lời.
+
+Đôi mắt cậu ấy đỏ hoe, vẻ mặt cố nhịn đau đến mức cơ mặt cũng sắp co giật, thế mà bên dưới lại không giấu nổi phản ứng.
+
+Tôi nheo mắt, khóe môi cong lên thành nụ cười đầy ý xấu.
+
+Tôi giơ chân đạp nhẹ lên người cậu ấy.
+
+“Thích tôi đến vậy luôn hả?”
+
+“Bò lại đây, tôi sẽ là của cậu.”
+
+Sau này, thân phận thiếu gia giả của tôi bị bóc trần, cả nhà quay lưng nhanh hơn tốc độ lật mặt của cư dân mạng, tôi chẳng còn chỗ dựa nào, sống nghèo tới mức ăn mì còn phải canh ngày giảm giá.
+
+Ngay lúc tôi định tự sát, cậu ấy lại mang tôi về nhà.
+
+Đêm hôm đó, tôi bị ép trong phòng tắm, bị cậu ấy hành hạ hết lần này đến lần khác ngay trước tấm gương sáng trưng đến mức soi rõ cả lòng tự trọng đang vỡ vụn của tôi.
+
+Bên tai là tiếng nghiến răng của chàng trai nọ, từng chữ đều lạnh sống lưng.
+
+“Không phải cậu muốn chết sao?”
+
+“Vậy để tôi đổi cho cậu một kiểu chết khác, được không?”`
+  },{
+    id: 74,
+title: "Ván Cờ Hoàng Quyền",
+    image: "imgco/4c7586950d3bc42eb2e61413cdaa96b7.jpg",
+    link: "cotrang/van-co-hoang-quyen.html",
+    type: "cotrang",
+    desc: `Ta là nữ phụ ác độc trong một quyển sách cứu rỗi.
+
+Đúng lúc nam chính Thẩm Uyên rơi xuống đáy xã hội, nghèo tới mức gió thổi cũng muốn bay luôn người, ta lại tự tay bẻ gãy chân hắn, ngày nào cũng tiện tay hành hắn như cơm bữa.
+
+Sau này, khi Thẩm Uyên đã nắm binh quyền trong tay, dẫn đại quân đánh thẳng vào hoàng cung, hắn đứng từ trên cao nhìn xuống ta bằng ánh mắt lạnh tới mức có thể đóng băng cả cái điện.
+
+Thị nữ thân cận của ta, cũng là nữ chính Diệp Trăn Trăn trong quyển sách này, còn nhanh chân hơn hắn một bước mà đi tới trước mặt ta.
+
+Nàng ta đắc ý đến mức mặt viết rõ hai chữ “phản công”, cười lạnh nói: “Lúc trước khi ngươi tra tấn hắn, có bao giờ nghĩ sẽ có ngày bản thân bị người khác giẫm xuống bùn không? Cứ chờ đi, ngươi sẽ bị ngàn người cưỡi vạn người chửi, trở thành quân kỹ thấp hèn nhất!”
+
+“Thật vậy sao?”
+
+Ta ngẩng đầu nhìn nàng ta, giọng điệu bình tĩnh tới mức như đang hỏi hôm nay ăn gì.
+
+Mấy tháng sau, ta trở thành sủng phi của Thẩm Uyên, còn Diệp Trăn Trăn thì bị ném thẳng vào lãnh cung.
+
+Hai mắt nàng ta đỏ tới mức muốn nhỏ máu, cả người như sắp phát điên: “Tại sao?! Rõ ràng ta mới là nữ chính cứu rỗi hắn mà!”
+
+Ta bật cười: “Sủng vật do bản cung tự tay nuôi lớn, sao có thể quay đầu cắn chủ được chứ?”`
   },
 
 
