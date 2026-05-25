@@ -1747,7 +1747,196 @@ Hoàng đế đau lòng tới mức trực tiếp đi theo nàng.
 Còn ta thì thành công thăng cấp làm Thái hậu, buông rèm chấp chính, thuận lợi hoàn thành thành tựu “bỏ cha giữ con”.
 
 Hoàn mỹ.`
+  }, {
+    id: 81,
+title: "Sau Cơn Mưa Là Anh Và Em",
+    image: "imgngon/4a28b684d696f01cb6018eee23738ba0.jpg",
+    link: "ngontinh/sau-con-mua-la-anh-va-em.html",
+    type: "ngontinh",
+    desc: `Mười năm sau ngày tốt nghiệp, tôi gặp lại anh trong buổi họp lớp ở Bắc Kinh.
+
+Giữa một đám bạn học nam sắp bước qua ngưỡng ba mươi, bụng bia bắt đầu lăm le lên sóng, anh vẫn đẹp trai sáng láng như nam chính phim thanh xuân chưa chịu hết hạn sử dụng.
+
+Trên bàn ăn, tôi với anh ngồi cách xa nhau như kiểu đang chơi trò “ai nhìn trước người đó thua”, cả buổi cũng chẳng nói với nhau câu nào.
+
+Đến lúc tan tiệc, bên ngoài bắt đầu mưa lất phất nên tôi tranh thủ chuồn lẹ.
+
+Ai ngờ vừa ra tới xe đã thấy anh đứng chặn ngay đầu xe tôi.`
+  },{
+    id: 82,
+title: "Phản Diện Của Tôi Là Ngoại Lệ Duy Nhất",
+    image: "imgdam/ed8d1e672e5a1ef060f9ae51ac358039.jpg",
+    link: "dammy/phan-dien-cua-toi-la-ngoai-le-duy-nhat.html",
+    type: "dammy",
+    desc: `“Gu của tôi là mỹ cường thảm.”
+
+Trùng hợp thay, trong cuốn sách này, phản diện Tầm Kim Tiêu lại có thiết lập đúng chuẩn mỹ cường thảm.
+
+Vào ngày giác tỉnh, em trai omega của tôi khóc lóc nói rằng không muốn gả cho Tầm Kim Tiêu.
+
+Nó nói hắn tính tình âm u, thủ đoạn tàn nhẫn.
+
+Nhưng thực ra không phải vậy.
+
+Tính tình âm u chỉ là lớp vỏ bọc để che giấu việc chưa từng được yêu thương.
+
+Thủ đoạn tàn nhẫn là vì xung quanh hắn toàn những kẻ có dã tâm.
+
+Tầm Kim Tiêu thì có lỗi gì chứ.
+
+Một nhân vật tốt như vậy cơ mà.
+
+Tôi lập tức giơ tay.
+
+“Em trai không muốn gả, vậy để tôi gả thay.”`
+  },{
+    id: 83,
+title: "Mây Tan Gió Lặng",
+    image: "imgco/e1d3a6c3ca4fa9150383946bd12ef3ce.jpg",
+    link: "cotrang/may-tan-gio-lang.html",
+    type: "cotrang",
+    desc: `Tiểu thư luôn miệng nói với ta rằng mọi người sinh ra đều bình đẳng, nàng cũng luôn coi ta như tỷ muội ruột thịt.
+
+Nàng không cho ta hành lễ với nàng, kết quả ta lại bị phu nhân trách phạt.
+
+Nàng cũng không thưởng tiền cho ta, bảo rằng chưa từng coi ta là người hầu, thế nên mẫu thân ta không có tiền mua thuốc chữa bệnh.
+
+Nàng còn không cho ta làm thiếp của thiếu gia, cứ muốn ta giữ cái lý tưởng một đời một thế một đôi, trực tiếp cắt sạch mọi đường lui của ta.
+
+Sau này, trong một lần cứu nàng ta rơi xuống nước rồi sinh bệnh nặng, nàng khóc đến mức như muốn đứt ruột.
+
+Thế nhưng khi biết ta mắc bệnh lao, nàng lập tức sai người đuổi ta ra khỏi phủ, ngay cả tiền thuốc cũng không cho một đồng.
+
+Ta bị cuốn trong chiếu rơm, chết không nhắm mắt.
+
+Mở mắt lần nữa, ta lại quay về thời điểm vẫn còn làm nha hoàn cho tiểu thư.`
+  }, {
+    id: 84,
+title: "Yêu Em Là Kết Cục Không Thể Thay Đổi",
+    image: "imgngon/1475147d5cce089173de7b8a2a46b5cc.jpg",
+    link: "ngontinh/yeu-em-la-ket-cuc-khong-the-thay-doi.html",
+    type: "ngontinh",
+    desc: `Sau khi nữ chính của cuốn tiểu thuyết chữa lành này xuất hiện, tôi lập tức đóng gói nam chính mình cực khổ nuôi dạy trả về nguyên đai nguyên kiện cho cô ấy.
+
+Cậu thiếu niên năm nào đầu óc còn hơi lệch sóng giờ đã lớn thành một cậu thiếu gia nho nhã, khí chất đầy mình. Hai người họ đúng kiểu trai tài gái sắc, đứng cạnh nhau như phim thần tượng giờ vàng, đương nhiên chẳng còn chỗ cho tôi chen chân nữa.
+
+Thế là tôi lừa cậu, bảo mình đi thành Bắc mua bánh hoa quế cho cậu ăn, rồi nhân cơ hội xách vali chạy luôn không quay đầu lại.
+
+Ai ngờ đâu hai năm sau tôi lại về nước.
+
+Vừa mới xuống máy bay còn chưa kịp hít hết một hơi không khí quê nhà, tôi đã bị người ta trói gô rồi quăng thẳng lên xe.
+
+“Chị ơi.”
+
+Giọng cậu mang theo chút điên khó giấu nổi.
+
+“Đã hai năm rồi, bánh hoa quế của em đâu?”`
   },
+{
+    id: 85,
+title: "Trai Thẳng Đóng Giả Gay",
+    image: "imgdam/5391691b452e8b060bb75d001a2f2fca.jpg",
+    link: "dammy/trai-thang-dong-gia-gay.html",
+    type: "dammy",
+    desc: `Tôi và anh bạn cùng phòng lạnh lùng cùng tham gia một chương trình hẹn hò nam nam.
+
+Chúng tôi giả làm gay để “diễn couple”.
+
+Sau đó, anh ta chặn tôi ở góc tường, dùng cơ ngực che kín mặt tôi, giọng trầm khàn nói:
+
+“Muốn nếm thử cái này không?”
+
+Mặt tôi đỏ bừng.
+
+“Tôi đâu phải con nít, không cần ăn…”
+
+Còn chưa nói hết câu, anh khẽ nhích hông, giọng khàn khàn dụ dỗ:
+
+“Là cái này.”
+
+Bình luận trực tiếp nổ tung.
+
+【Ối giời ơi, có phải tôi đang nghĩ đến cái đó không?!】
+【666, mở túi là ăn được, nhóc háu ăn, nhanh ăn đi!!】
+【Phát sóng trực tiếp toàn bộ! Tôi trả tiền, không thiếu tiền!!!】`
+  },{
+    id: 86,
+title: "Gió Xuân Không Kịp Hỏi Trăng",
+    image: "imgco/b4ea13cbdf46f0073b93bb095f534c4d.jpg",
+    link: "cotrang/gio-xuan-khong-kip-hoi-trang.html",
+    type: "cotrang",
+    desc: `Ta là công chúa giả, là thế thân mà đế sư Thần Uyên tìm về chỉ để chết thay cho công chúa thật.
+
+Hắn đối xử với ta cực kỳ tốt, dạy ta đọc sách viết chữ, che chở ta sống yên ổn như đóa hoa nuôi trong phủ.
+
+Thế nhưng đến ngày công chúa xảy ra chuyện, hắn lại lạnh mặt trách ta bảo vệ không chu toàn, còn ban cho ta một ly rượu độc, bảo ta lấy mạng đền mạng.
+
+Sống lại một lần nữa, ta quay về đúng cái ngày hắn đi chọn thế thân.
+
+Các cô nương chưa xuất giá trong trấn nghe tin thì chen chúc kéo nhau đi hóng chuyện đông như hội.
+
+Còn ta thì lập tức chạy sang gõ cửa nhà hàng xóm cách vách.
+
+“Lão Lâm, ngươi có muốn cưới lão bà không?”`
+  }, {
+    id: 87,
+title: "Nhà Chồng Cực Phẩm",
+    image: "imgngon/59b97ece235b69aae06a53de5e3fd4ad.jpg",
+    link: "ngontinh/nha-chong-cuc-pham.html",
+    type: "ngontinh",
+    desc: `Mẹ chồng tôi rất thích lấy đồ của tôi đem tặng người khác. Đã vậy, những thứ bà ấy lấy càng ngày càng đắt tiền.
+
+Tôi từng nói chuyện này với chồng, kết quả lại bị anh mắng là nhỏ nhen. Anh còn nói: “Vì giữ gìn quan hệ mẹ chồng – nàng dâu, chút đồ ấy có đáng gì?”
+
+Được thôi, sự việc không xảy ra với bản thân thì đúng là khó thấu hiểu. Vậy để tôi cho anh ta nếm thử cảm giác đó là thế nào.`
+  },{
+    id: 88,
+title: "Định Mệnh Của Chúng Ta",
+    image: "imgdam/62862738fe9b13bca7f9a00922516803.jpg",
+    link: "dammy/dinh-menh-cua-chung-ta.html",
+    type: "dammy",
+    desc: `Buổi làm quen trong ký túc xá năm nhất, đến lượt tôi tự giới thiệu, tôi đùa một câu:
+
+“183, 21.”
+
+Cả phòng, đặc biệt là anh đẹp trai nhất phòng, hơi khựng lại rồi hỏi:
+
+“21 tuổi, cậu bị lưu ban à?”
+
+Tôi tỉnh bơ đáp lại:
+
+“Tôi có nói là tuổi đâu?”
+
+Cậu ta im vài giây rồi cũng bắt trend theo tôi:
+
+“Ồ, vậy thì tôi 187, 1.”
+
+Một centimet thôi á?
+
+Cái này nghe là thấy có vấn đề rồi đó.
+
+Tôi vừa sốc vừa hơi thương cảm, trong đầu đã tự động bật chế độ bảo vệ lòng tự trọng cho cậu ta.
+
+Cho đến khi bị cậu ta đè xuống giường.
+
+Tôi mới kịp load lại tình huống. Hóa ra cái “1” đó không phải chiều dài kiểu tôi nghĩ.`
+  },{
+    id: 89,
+title: "Gả Về Thảo Nguyên",
+    image: "imgco/9c3751c8ae67bc9c329b6811eb5a011f.jpg",
+    link: "cotrang/ga-ve-thao-nguyen.html",
+    type: "cotrang",
+    desc: `Nghe nói nam nhân muốn cùng tỷ tỷ thành thân dáng dấp xấu vô cùng.
+
+Là người man di, dáng người thô kệch, má phải còn có một vết sẹo dài bằng ngón tay cái.
+
+Tỷ tỷ không muốn gả, liền đem ta nhét lên kiệu hỉ.
+
+Về sau phu quân xưng đế, lại đem ta sủng lên tận trời.
+
+Tỷ tỷ lúc này mới hối hận, còn muốn ta trả phu quân lại cho nàng.`
+  },
+
 
 
 
