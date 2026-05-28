@@ -2008,7 +2008,7 @@ Nó nói nó đến từ thế giới khác, còn thế giới ta đang sống c
 Bất kể ta đầu thai bao nhiêu lần cũng không thoát khỏi số phận nữ phụ độc ác. Ta sẽ bị giẫm xuống bùn đen, đời đời kiếp kiếp không được chết tử tế.`
   }, {
     id: 93,
-title: "",
+title: "Phản Diện Nuôi Tôi Cả Một Đời",
     image: "imgngon/327ccb5ec10bd295c80349109b23aa2d.jpg",
     link: "ngontinh/phan-dien-nuoi-toi-ca-mot-doi.html",
     type: "ngontinh",
