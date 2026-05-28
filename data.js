@@ -1935,6 +1935,189 @@ Tỷ tỷ không muốn gả, liền đem ta nhét lên kiệu hỉ.
 Về sau phu quân xưng đế, lại đem ta sủng lên tận trời.
 
 Tỷ tỷ lúc này mới hối hận, còn muốn ta trả phu quân lại cho nàng.`
+  }, {
+    id: 90,
+title: "Thì Ra Anh Cũng Đang Chờ Em",
+    image: "imgngon/7b34a5125c24327c67a2a1c6ff38834d.jpg",
+    link: "ngontinh/thi-ra-anh-cung-dang-cho-em.html",
+    type: "ngontinh",
+    desc: `Bữa tiệc tụ tập hôm đó, tôi uống hơi quá chén, đầu óc lâng lâng kiểu “một là ngủ luôn hai là phát ngôn đi vào lòng đất”.
+
+Và đúng như dự đoán, tôi quay sang gọi thẳng sếp:
+
+“Chồng ơi.”
+
+Cả bàn tiệc im ngang.
+
+Đồng nghiệp bên cạnh lập tức cười như được mùa:
+
+“Ghê chưa, muốn cưa sếp tới mức mất kiểm soát luôn rồi à?”
+
+Lục Đình An lạnh mặt ngay tại chỗ, giọng khó ở thấy rõ:
+
+“Miệng mình còn không quản nổi thì uống rượu làm gì?”
+
+Không khí đông cứng đúng vài giây.
+
+Ngay lúc mọi người còn đang ngại thay tôi, đối tác khó tính nhất ở bàn bên bỗng bật cười nhạt:
+
+“Cô ấy gọi tôi.”
+
+“Anh nổi nóng cái gì chứ?”`
+  },{
+    id: 91,
+title: "Tôi Từng Là Một Thằng Cặn Bã",
+    image: "imgdam/1b66e7a80ee6051f9c5138aaf54265a3.jpg",
+    link: "dammy/toi-tung-la-mot-thang-can-ba.html",
+    type: "dammy",
+    desc: `Tôi là một tên lưu manh.
+
+Năm mười tám tuổi, tôi ép Phương Niệm hôn tôi, và bị anh trai của cậu ta bắt gặp.
+
+Phương Hành chặn tôi trong con hẻm, túm tóc tôi rồi hỏi: “Muốn hôn chỗ nào? Để tôi hôn cho.”
+
+Tôi phấn khích kéo quần xuống: “Đến đây!”`
+  },{
+    id: 92,
+title: "Ma Đạo Nghịch Thiên Ký",
+    image: "imgco/18c9b581cf685c7f7f8ebe429607a535.jpg",
+    link: "cotrang/ma-dao-nghich-thien-ky.html",
+    type: "cotrang",
+    desc: `Ta là nữ phụ phàm nhân độc ác trong truyện Tiên ma.
+
+Nam chính Cố Yến vì muốn khiến nữ chính ghen, đã chọn cứu ta trước. Sau đó Tạ Ương Ương nhảy xuống vực rồi mất tích.
+
+Cố Yến chỉ trong một đêm hóa thành ma, điên cuồng tàn sát cả một tòa thành.
+
+Khi ta cùng bốn mươi vạn dân chúng phàm nhân ở thành Cẩm Châu bị giết sạch, Tạ Ương Ương cuối cùng cũng xuất hiện.
+
+Hắn ôm chặt lấy nàng, nghiến răng thì thầm bên tai nàng rằng nếu nàng còn dám chạy, hắn sẽ giết hết người trong thiên hạ để chôn cùng nàng.
+
+Tạ Ương Ương mở to đôi mắt ngây thơ hỏi hắn là gì.
+
+Cố Yến chỉ đành thở dài, bất lực nói chỉ cần nàng ở bên hắn, nàng muốn gì cũng được.
+
+Tạ Ương Ương lúc này mới hài lòng cong môi cười, đưa tay ôm lấy hắn.
+
+Tiếng kêu thảm thiết của ta và dân chúng Cẩm Châu, cùng tiếng la hét hoảng loạn chạy trốn, lại trở thành khúc ca tình yêu Tiên ma cảm động trời đất của bọn họ.
+
+Sau khi chết, ta hóa thành lệ quỷ, chìm trong oán niệm suốt ngàn năm. Khi tỉnh lại lần nữa, ta bị trói buộc với một thứ gọi là Hệ thống.
+
+Nó nói nó đến từ thế giới khác, còn thế giới ta đang sống chỉ là một quyển sách.
+
+Bất kể ta đầu thai bao nhiêu lần cũng không thoát khỏi số phận nữ phụ độc ác. Ta sẽ bị giẫm xuống bùn đen, đời đời kiếp kiếp không được chết tử tế.`
+  }, {
+    id: 93,
+title: "",
+    image: "imgngon/327ccb5ec10bd295c80349109b23aa2d.jpg",
+    link: "ngontinh/phan-dien-nuoi-toi-ca-mot-doi.html",
+    type: "ngontinh",
+    desc: `Bị phản diện u ám phát hiện tôi là người đi công lược, tôi còn dính luôn combo mang thai con của anh ta.
+
+Nhờ đứa bé, tôi tạm giữ được cái mạng.
+
+Anh ta lạnh như tiền cảnh cáo tôi: “Đợi đứa bé sinh ra, chúng ta tính sổ sau.”
+
+Tôi âm thầm dùng điểm đổi đạo cụ giả chết.
+
+Khoảnh khắc con vừa chào đời, tôi chạy mất dép.
+
+Bốn năm sau.
+
+Hệ thống lại mò được tôi.
+
+“Ký chủ, mấy năm nay tôi cử bao nhiêu người đi công lược phản diện đều fail sạch sẽ. Tôi có thể cho cô đạo cụ đổi mặt, cô quay lại thử thêm lần nữa đi.”
+
+Vì muốn về nhà, tôi gật đầu cái rụp.
+
+Tôi mang một gương mặt hoàn toàn xa lạ, xuất hiện trước mặt phản diện.
+
+Ánh mắt anh ta lướt qua mặt tôi, khóe môi cong lên nhẹ:
+
+“Em trông giống một… người quen cũ của tôi.”`
+  },{
+    id: 94,
+title: "Vệ Sĩ Ngốc Nghếch Của Thiếu Gia",
+    image: "imgdam/602d66e40af8bf9e0e5948c96c409bbd.jpg",
+    link: "dammy/ve-si-ngoc-nghech-cua-thieu-gia.html",
+    type: "dammy",
+    desc: `Tôi là vệ sĩ của thiếu gia.
+
+Sau khi thất tình, thiếu gia ôm chặt lấy ngực tôi rồi khóc nức nở như vừa mất cả thế giới.
+
+“A Địch, tim tôi đau quá… cho tôi cắn một miếng vào cơ ngực của cậu được không?”
+
+Một tiếng sau, tim thiếu gia không còn đau nữa, nhưng ngực tôi thì đúng nghĩa muốn xin nghỉ việc ngay tại chỗ.`
+  },{
+    id: 95,
+title: "Thái Tử Phi Và Những Ngày Không Muốn Chết",
+    image: "imgco/d141468babca1416a378c62f49d4aa38.jpg",
+    link: "cotrang/thai-tu-phi-va-nhung-ngay-khong-muon-chet.html",
+    type: "cotrang",
+    desc: `Hắn vừa mở miệng bảo muốn nạp thiếp, tối hôm đó ta lập tức đưa hai tỳ nữ xinh đẹp vào phòng hắn luôn.
+
+Không bao lâu sau, hắn lại nói Trần Bảo Lâm ở Đông Uyển có thai, bảo ta xử lý.
+
+Khoan đã, xử lý là xử lý kiểu gì?
+
+Ta trừng to mắt, dè dặt hỏi: “Chàng muốn ta chăm sóc Trần Bảo Lâm ở cữ sao?”
+
+Hắn nghiến răng ken két: “Ta chưa từng chạm vào Trần Bảo Lâm. Mấy người nàng đưa tới, ta cũng chưa từng động vào!”
+
+Mắt ta càng mở to hơn nữa.
+
+Ủa vậy là ý gì đây?`
+  }, {
+    id: 96,
+title: "Ngày Định Mệnh Của Anh",
+    image: "imgngon/532071744_122140418042402442_3045357159850208994_n.jpg",
+    link: "ngontinh/ngay-dinh-menh-cua-anh.html",
+    type: "ngontinh",
+    desc: `"Nếu em muốn ly hôn, bất cứ lúc nào cũng được."
+Đó là câu Hoắc Cảnh Trạch nói với tôi ngay ngày cưới.
+Và tôi đã tin.
+
+Hai tháng sau, vào ngày người trong lòng anh ấy trở về, tôi đặt tờ đơn ly hôn trước mặt anh.
+Hoắc Cảnh Trạch nhìn ra cửa sổ, mặt bình thản:
+"Trời mưa rồi."
+"Tâm trạng không tốt, lần sau ly hôn đi."
+Tôi ? ? ?`
+  },{
+    id: 97,
+title: "Sư Tôn Là Chấp Niệm Của Ta",
+    image: "imgdam/ed177493eeb23e9152fd457e4ee9e661.jpg",
+    link: "dammy/su-ton-la-chap-niem-cua-ta.html",
+    type: "dammy",
+    desc: `Xuyên không thành đại đệ tử của sư tôn vô tình, để giữ gìn thanh bạch cho sư tôn, mỗi ngày ta đều uống thuốc bắc. 
+
+Ta khổ cực tu luyện không ngừng, chưa từng nói thừa với sư tôn nửa lời. 
+
+Để ngăn kẻ xấu quấy nhiễu sư tôn, ta đứng canh bên người, thay người uống độc dược, băng bó vết thương cho người. 
+
+Nhưng cẩn thận ngàn lần vẫn không ngăn được tiểu sư đệ bỏ thuốc. 
+
+Ta quay người hét sư tôn chạy đi: “Đệ tử không phụ sứ mệnh, tuyệt đối không dám làm bẩn sư tôn.” 
+
+Kết quả bị sư tôn đè xuống giường, gương mặt ta đỏ bừng. 
+
+Hỏng rồi, quên cho sư tôn uống thuốc bắc rồi.`
+  },{
+    id: 98,
+title: "Mượn Trăng Để Che Một Đời Dối Gian",
+    image: "imgco/5f1725db89f1bc453e846f8ea044bc35.jpg",
+    link: "cotrang/muon-trang-de-che-mot-doi-doi-gian.html",
+    type: "cotrang",
+    desc: `Rất lâu về sau, ta mới gặp lại Thẩm Quân Y.
+
+Lúc đó, chàng là thiếu niên tướng quân quyền thế bậc nhất kinh thành, kiểu người đứng dưới ánh trăng cũng thấy chói, còn ta thì có nhìn tới mỏi mắt cũng chẳng với tới nổi.
+
+Còn ta, chỉ là Kỷ phu nhân bị Ninh Vương bỏ lại sau khi hắn đào tẩu, trong mắt thiên hạ thì tồn tại của ta đúng kiểu “không nên xuất hiện”.
+
+Trong yến tiệc, công chúa hỏi ta, nếu quay lại năm xưa lúc chàng còn sa sút, liệu ta có hối hận vì đã từ hôn hay không.
+
+Ta cúi người, dập đầu sát đất.
+
+“Không hối hận.”`
   },
 
 
