@@ -2118,7 +2118,67 @@ Trong yến tiệc, công chúa hỏi ta, nếu quay lại năm xưa lúc chàng
 Ta cúi người, dập đầu sát đất.
 
 “Không hối hận.”`
+  }, {
+    id: 99,
+title: "Mẹ Kế Và Chị Kế Không Đi Theo Kịch Bản",
+    image: "imgngon/d18336edbe7fbe630cfb56f5ce96a13d.jpg",
+    link: "ngontinh/me-ke-va-chi-ke-khong-di-theo-kich-ban.html",
+    type: "ngontinh",
+    desc: `Cha tôi tái hôn.
+
+Cưới về một bản real life của Lâm Đại Ngọc, hở tí là mắt long lanh ngấn nước, lông mày run run như chuẩn bị khóc tới nơi.
+
+Mà chưa hết đâu, Lâm Đại Ngọc còn dẫn theo một bé Lâm Tiểu Ngọc yếu đuối mong manh nữa chứ.
+
+Ủa alo, cặp mẹ con trà xanh hệ “em chỉ là người dễ tổn thương” này ở đâu rơi xuống vậy?`
+  },{
+    id: 100,
+title: "Beta Leo Thang Sinh Tồn",
+    image: "imgdam/54d5ddf5a495b86bb2e263ab2697d1ff.jpg",
+    link: "dammy/beta-leo-thang-sinh-ton.html",
+    type: "dammy",
+    desc: `Tôi là một Beta sống trong thế giới ABO.
+
+Xuất thân nghèo khó, từ nhỏ đến lớn chỉ biết ngoan ngoãn chịu đựng, làm trâu ngựa cho Alpha, chạy theo Omega như một kẻ si tình vô vọng.
+
+Trong mắt Alpha, tôi là công cụ biết nghe lời.
+
+Trong mắt Omega, tôi là phương án dự phòng an toàn.
+
+Trong mắt những Beta khác, tôi là kẻ hiền lành dễ bắt nạt.
+
+Nhưng sự thật là tôi tầm thường, thực dụng, và chỉ giỏi dùng mọi cách có thể để leo lên cao.`
+  },{
+    id: 101,
+title: "Hoàng Quyền Ngoảnh Lại",
+    image: "imgco/ad34d0359d174fbb55c6c6fa4dd00d55.jpg",
+    link: "cotrang/hoang-quyen-ngoanh-lai.html",
+    type: "cotrang",
+    desc: `Năm thứ hai mươi ta ở bên cạnh Tiêu Triệt.
+
+Hắn phong một vị mỹ nhân kiều diễm làm Quý phi.
+
+Quý phi rất được sủng ái, mới nhập cung năm thứ hai đã hạ sinh hoàng tử. Đứa trẻ ấy trở thành tâm can bảo bối của nàng. Chỉ cần hài tử hơi quấy khóc, Quý phi liền nổi giận, sai người lôi hết thái giám cùng cung nữ trong điện ra đánh gậy.
+
+Ta lên tiếng trách nàng hành sự quá đỗi tàn nhẫn.
+
+Quý phi lập tức rơi lệ. Tiêu Triệt thấy vậy liền sinh lòng xót xa, quay sang trách ta rằng: “Hoàng hậu đã lâu không làm mẹ, tất nhiên không còn nhớ cảnh trẻ nhỏ quấy khóc. Làm mẫu thân, đau lòng con là lẽ thường tình.”
+
+Đúng vậy, đã rất lâu rồi ta không làm mẹ.
+
+Nhưng ta cũng từng có một đứa con.
+
+Đứa trẻ ấy mới chỉ ba tuổi, đã vì Tiêu Triệt mà chết dưới tay tặc nhân.
+
+Từ đó trở đi, ta không còn muốn bước chân vào hoàng cung nữa.
+
+Hoàng gia dùng tranh họa để tuyển tú, ta liền đưa cho họa sư một nén vàng.
+
+Họa sư gật đầu, cười nói: “Xin cô nương yên tâm, ta nhất định vẽ cô nương đẹp tựa tiên nhân, chắc chắn sẽ trúng tuyển.”
+
+Ta lắc đầu, giọng bình thản: “Không, ta muốn rớt tuyển.”`
   },
+
 
 
 
