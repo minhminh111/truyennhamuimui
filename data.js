@@ -2296,7 +2296,78 @@ Sau khi trở thành thái tử phi được hai năm, Hạ Hầu Khâm đưa co
 Số lần ta gặp thái tử có thể đếm trên đầu ngón tay. Ta cũng chưa từng oán than điều gì, bởi cục diện trong triều ngày một phức tạp, ta hiểu chàng bận rộn công vụ, khó lòng ngày ngày trở về.
 
 Nhưng lần này, chàng vào hoàng cung đã mười ngày chưa trở lại.`
+  }, {
+    id: 108,
+title: "Dưới Vỏ Bọc Ngoan Ngoãn",
+    image: "imgngon/a71522befa76a21953749651f92d3461.jpg",
+    link: "ngontinh/duoi-vo-boc-ngoan-ngoan.html",
+    type: "ngontinh",
+    desc: `Một tai nạn bất ngờ khiến Giang Nghiễn quên sạch chuyện chúng tôi đã là vợ chồng hợp pháp.
+
+Anh còn hiểu lầm rằng chính mình đang giam giữ tôi.
+
+Một người đàn ông vừa đẹp trai vừa cao quý, tự nhiên biến thành chú cún bệnh kiều sống lỗi với xã hội.
+
+“Đúng, cô ấy kết hôn với người đàn ông khác rồi.”
+
+“Đúng, tôi ép buộc cô ấy đấy.”
+
+“Thì sao nào?”
+
+“Người chồng vô dụng của cô ấy đến giờ còn chẳng dám tới tìm tôi, rõ ràng hắn đâu yêu cô ấy bằng tôi.”
+
+Về sau khi biết được sự thật, anh lại vô tình phát hiện bản thỏa thuận ly hôn tôi đã chuẩn bị từ mấy hôm trước.
+
+Chú chó con đang vui vẻ lập tức tối sầm mặt.
+
+“Quả nhiên vẫn phải nhốt lại mới không chạy mất.”
+
+“Em yêu, em thích loại dây xích nào? Loại có nơ bướm màu hồng nhé?”`
+  },{
+    id: 109,
+title: "Nam Phụ Không Muốn Làm Vai Phụ Nữa",
+    image: "imgdam/f31d0f5d47b8091ebfebe45a8a6ac135.jpg",
+    link: "dammy/nam-phu-khong-muon-lam-vai-phu-nua.html",
+    type: "dammy",
+    desc: `Xuyên vào truyện ngọt sủng làm nam phụ pháo hôi, tôi vừa mở mắt đã bị nữ chính phát thẻ “anh trai tốt”.
+
+Quá vui mừng, tôi lập tức quay đầu kéo nam chính bỏ chạy.
+
+Nam chính lạnh mặt hất tay tôi ra:
+“Tôi không thích đàn ông.”
+
+Tôi nghe xong cũng chẳng buồn nữa, quay đầu sống cuộc đời phú nhị đại ăn chơi cho khỏe.
+
+Ai ngờ một tháng sau.
+
+Nam chính nổi tiếng lạnh lùng đứng trước cửa nhà tôi suốt cả đêm, mắt đỏ hoe gõ cửa như phát điên:
+
+“Lục Triển… cậu thật sự không cần tôi nữa sao?”`
+  },{
+    id: 110,
+title: "Kiếp Này Ta Chọn Tiểu Lang",
+    image: "imgco/9bcc7e208f3932f147203dc618a7110c.jpg",
+    link: "cotrang/kiep-nay-ta-chon-tieu-lang.html",
+    type: "cotrang",
+    desc: `Vào ngày đại hôn, Trưởng công chúa cố tình làm nhục phu quân ta trước mặt bàn dân thiên hạ.
+
+Mà vị phu quân Thừa tướng cao cao tại thượng ấy của ta lại treo cổ tự vẫn ngay trong thư phòng.
+
+Ta cố nén đau lòng đi thu dọn di vật của hắn, ai ngờ lại phát hiện trong ám các cất giấu đầy tranh vẽ Trưởng công chúa.
+
+Ở cuối mỗi bức họa đều có một hàng chữ nhỏ.
+
+“Ta yêu Uyển Uyển.”
+
+Thì ra hắn đã yêu nàng ta từ lâu như vậy rồi.
+
+Lần nữa mở mắt ra, ta trùng sinh trở về đúng ngày Trưởng công chúa ép hắn vào phủ.
+
+Lần này, ta không còn ném ra ngàn vạn lượng vàng để cứu hắn nữa, mà chỉ bình thản nâng chén chúc mừng.
+
+“Người này dung mạo đúng là cực phẩm nhân gian, chúc mừng công chúa tìm được đồ chơi mới.”`
   },
+
 
 
 
