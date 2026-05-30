@@ -2366,7 +2366,69 @@ Lần nữa mở mắt ra, ta trùng sinh trở về đúng ngày Trưởng côn
 Lần này, ta không còn ném ra ngàn vạn lượng vàng để cứu hắn nữa, mà chỉ bình thản nâng chén chúc mừng.
 
 “Người này dung mạo đúng là cực phẩm nhân gian, chúc mừng công chúa tìm được đồ chơi mới.”`
+  }, {
+    id: 111,
+title: "Nữ Chính Cuộc Đời Mình",
+    image: "imgngon/57cb01921f8c6ecdfe8c1580119845a8.jpg",
+    link: "ngontinh/nu-chinh-cuoc-doi-minh.html",
+    type: "ngontinh",
+    desc: `Tôi là bạch nguyệt quang của nam chính, nhưng đời trớ trêu tôi lại chỉ là nữ phụ.
+
+Lúc biết được chuyện này, tôi suýt nữa muốn quỳ xuống cảm tạ nữ chính một cái, cảm ơn cô ấy đã cứu cả một đời tôi khỏi cái kịch bản nghe thôi đã thấy mệt.
+
+Suy cho cùng, tôi đã đọc trước cái kết của cuốn sách này ngay khi hệ thống vừa kết nối xong.
+
+Tóm lại một cách gọn gàng thì nữ chính và nam chính cuối cùng vẫn kết hôn, còn bạch nguyệt quang từng yêu mà không có được thì đi du học, nâng cấp bản thân thành một người phụ nữ học cao hiểu rộng.
+
+Đến lúc gặp lại, nữ chính bị nhà chồng soi mói vì không sinh được con trai, còn những chuyện lông gà vỏ tỏi kéo dài năm này qua năm khác cũng bào mòn tình yêu của cô và nam chính đến mức gần như không còn gì.`
+  },{
+    id: 112,
+title: "Sư Tôn Tỏa Hương",
+    image: "imgdam/1b44cc03f5373b4c878b891c68f9ec8c.jpg",
+    link: "dammy/su-ton-toa-huong.html",
+    type: "dammy",
+    desc: `Trong tiên giới, ai ai cũng đồn ta là chân thần lạnh lùng nhất, kiểu người nhìn một cái thôi cũng thấy lạnh sống lưng, miễn tiếp xúc.
+
+Nhưng thật ra đâu phải ta muốn vậy.
+
+Ta là nam hoa thần duy nhất của tam giới, cứ hễ cảm xúc dao động là trên người lại tỏa hương thơm ngào ngạt như vừa bước ra từ tiệm nước hoa cao cấp. Có lúc còn không khống chế nổi, hoa rơi lả tả quanh người như hiệu ứng phim tiên hiệp kinh phí lớn.
+
+Nên ta chỉ có thể ngày ngày giữ mặt lạnh, cố giấu cho bằng được.
+
+Cho đến một ngày, đại ma đầu khiến cả tam giới nghe tên thôi đã muốn chạy tám hướng, vậy mà lại nắm cổ chân ta, giọng khàn khàn đầy nguy hiểm.`
+  },{
+    id: 113,
+title: "Mười Năm Hoán Mệnh Trả Thù",
+    image: "imgco/341b36bf756fe7e5ab4d424c50c1b5f8.jpg",
+    link: "cotrang/muoi-nam-hoan-menh-tra-thu.html",
+    type: "cotrang",
+    desc: `Năm ấy, tỷ tỷ ta lên phố bán nghệ, lại bị vị tiểu Hầu gia phong lưu để mắt tới.
+
+Hắn chẳng nói chẳng rằng đã đánh trọng thương phụ mẫu ta, cưỡng ép muốn mang tỷ tỷ đi. Tỷ tỷ không chịu, liền cắn đứt một bên tai của hắn.
+
+Nào ngờ hắn nổi điên, đem tỷ tỷ hành hạ ngay giữa phố, còn dùng dao chém chết phụ mẫu ta. Cả nhà cửa bị đốt sạch, đến con chó giữ cổng cũng không thoát, bị lột da chặt xác, thảm đến mức không còn đường lui.
+
+Hắn còn đứng giữa phố cười như phát điên, nói rằng “Diệt cỏ phải diệt tận gốc, xem sau này còn ai dám nói bản Hầu gia ta sẽ gặp báo ứng nữa.”
+
+Chuyện lớn đến mức hoàng đế phải đích thân xử lý, nhưng cuối cùng cũng chỉ phạt hắn đi tu hành ở chùa miếu một thời gian, coi như gió thoảng mây bay.
+
+Mười năm sau, hắn đổi tên đổi họ, trở thành một vị hòa thượng ôn nhu như ngọc, đi khắp nơi giảng kinh truyền đạo, được dân chúng tôn sùng như tiên nhân giáng thế.
+
+Không ai còn nhớ hắn từng là kẻ sát nhân từng tàn sát cả một gia đình vô tội.
+
+Ngoại trừ ta.
+
+Mười năm trôi qua, ta đã trở thành mỹ nhân quyến rũ nhất kinh thành.
+
+Ta cố ý chọn đúng ngày hắn hồi kinh, tự bán mình vào kỹ viện phố Đông, chỉ chờ khi hắn đi ngang qua liền từ trên cửa sổ nhảy xuống, rơi thẳng vào lòng hắn.
+
+“Hòa thượng, ta sợ quá.”
+
+Cảm nhận thân thể hắn dần nóng lên, ta khẽ mỉm cười.
+
+Mười năm rồi, tiểu Hầu gia, báo ứng của ngươi cuối cùng cũng đến.`
   },
+
 
 
 
