@@ -2427,7 +2427,51 @@ Ta cố ý chọn đúng ngày hắn hồi kinh, tự bán mình vào kỹ việ
 Cảm nhận thân thể hắn dần nóng lên, ta khẽ mỉm cười.
 
 Mười năm rồi, tiểu Hầu gia, báo ứng của ngươi cuối cùng cũng đến.`
+  }, {
+    id: 114,
+title: "Ánh Trăng Trong Tim",
+    image: "imgngon/e81f6344ce48aa271eceeafef663f823.jpg",
+    link: "ngontinh/anh-trang-trong-tim.html",
+    type: "ngontinh",
+    desc: `Kim chủ dẫn tôi đi dự tiệc, tôi và ánh trăng sáng của anh ta tẩn nhau một trận ra trò.
+
+Anh ta kéo tôi ra khỏi đám hỗn chiến.
+
+Tôi vén mái tóc rối bù, nhìn anh ta bằng ánh mắt lạnh lùng: “Anh thiên vị à?”
+
+Anh ta im lặng không thèm đáp.
+
+Tôi tháo chiếc nhẫn ném thẳng vào mặt anh ta: “Là tôi chia tay anh.”`
+  },{
+    id: 115,
+title: "Cậu Là Ngoại Lệ Của Tôi",
+    image: "imgdam/6bb3571c0caa83642631d14ff7936bd2.jpg",
+    link: "dammy/cau-la-ngoai-le-cua-toi.html",
+    type: "dammy",
+    desc: `Trước khi phân hoá, thiếu gia cúi đầu liếm tuyến thể của tôi, giọng khàn khàn, hung dữ nói:
+
+“Đợi khi cậu thành Omega, tôi nhất định sẽ chơi chết cậu!”
+
+Kết quả hôm phân hoá, tôi lại trở thành Beta. Còn hắn là Omega.
+
+Trong lòng tôi khẽ thở phào, cứ tưởng cuối cùng cũng được tự do.
+
+Ai ngờ hắn lại lật ngược tình thế, đè tôi xuống, siết chặt eo tôi:
+
+“Omega thì sao? Omega cũng có thể khiến cậu kêu la inh ỏi!”`
+  },{
+    id: 116,
+title: "Cung Đấu Không Có Đường Lui",
+    image: "imgco/a8040f9a2c7838a73cc27470603fac2c.jpg",
+    link: "cotrang/cung-dau-khong-co-duong-lui.html",
+    type: "cotrang",
+    desc: `Vào đúng ngày lễ ông Công ông Táo, cũng là ngày thứ hai mươi chín kể từ khi ta nhập cung.
+Lão hoàng đế già cuối cùng cũng tắt thở, đến cả đêm giao thừa cũng không gắng gượng nổi thêm được chút nào.
+Trước khi chết, lão còn để lại một đạo khẩu dụ nghe mà lạnh sống lưng, toàn bộ phi tần không có con nối dõi đều phải tuẫn táng theo lão.
+Trong đó có cả ta.`
   },
+
+
 
 
 
