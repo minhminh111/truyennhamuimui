@@ -2469,7 +2469,81 @@ title: "Cung Đấu Không Có Đường Lui",
 Lão hoàng đế già cuối cùng cũng tắt thở, đến cả đêm giao thừa cũng không gắng gượng nổi thêm được chút nào.
 Trước khi chết, lão còn để lại một đạo khẩu dụ nghe mà lạnh sống lưng, toàn bộ phi tần không có con nối dõi đều phải tuẫn táng theo lão.
 Trong đó có cả ta.`
+  }, {
+    id: 117,
+title: "Hệ Thống Ăn Dưa Quét Sạch Hào Môn",
+    image: "imgngon/390dd92beffb586d9e97f1ef06ff37b2.jpg",
+    link: "ngontinh/he-thong-an-dua-quet-sach-hao-mon.html",
+    type: "ngontinh",
+    desc: `Tôi là thiên kim thật.
+
+Vừa trói định với cái hệ thống hóng drama online thì ngày đầu tiên quay về hào môn, cả nhà đã nghe được sạch sẽ tiếng lòng của tôi.
+
+[Mẹ mình bảo dưỡng đỉnh thật đấy, chẳng trách ly hôn với ba xong vẫn làm streamer sexy ngon ơ.]
+
+Mẹ ruột vốn đang định dạy tôi quy củ, nghe xong mặt trắng như giấy.
+
+Tôi lại liếc sang thiên kim giả đang khóc sướt mướt bên cạnh.
+
+[Ồ hố, có thai rồi à. Nhưng khoan, là của anh cả hay anh hai vậy trời?]
+
+Hai ông anh lập tức nhìn nhau bằng ánh mắt không thể tin nổi.
+
+Đúng lúc đó ba ruột ung dung tới muộn.
+
+Tôi “Chậc” một tiếng trong lòng.
+
+[À đâu, hóa ra là của ba.]`
+  },{
+    id: 118,
+title: "Tình Cổ Giam Giữ Tim Em",
+    image: "imgdam/2040d93bf9bea2c72c3cf9227d33d323.jpg",
+    link: "dammy/tinh-co-giam-giu-tim-em.html",
+    type: "dammy",
+    desc: `Trong lớp mới chuyển đến một tên mặt lạnh như tiền, ngày nào cũng bày cái mặt kiểu cả thế giới thiếu hắn tám tỷ.
+
+Tôi nhìn hắn thôi đã thấy ngứa mắt, thế là ngày nào cũng tranh thủ kiếm chuyện cà khịa.
+
+Có người còn nhắc tôi:
+
+“Giang Nhàn, nghe nói Kỷ Thanh Tuyệt là người Miêu Trại đấy, coi chừng bị hắn hạ cổ.”
+
+Tôi nghe xong chỉ hừ lạnh:
+
+“Toàn mấy tin xàm trên mạng mà cũng tin được à.”
+
+Ai ngờ sau lần chơi hắn một vố, trên tay tôi thật sự xuất hiện mấy đường vân xanh mờ mờ, chạm vào đau rát như bị kim đâm.
+
+Lúc đó tôi mới bắt đầu thấy rén thật.
+
+Não chưa kịp load xong thì chân đã mềm nhũn, chỉ biết quỳ xuống cầu hắn tha mạng.
+
+Kỷ Thanh Tuyệt túm tóc tôi, cười lạnh tới mức sống lưng tôi tê luôn.
+
+“Muốn sống à?”
+
+“Dễ thôi.”
+
+“Làm chó ngoan cho tôi, được không?”`
+  },{
+    id: 119,
+title: "Hương Quế Cố Mộng",
+    image: "imgco/ca0254f280928c2d1e5a8ae6313a58e9.jpg",
+    link: "cotrang/huong-que-co-mong.html",
+    type: "cotrang",
+    desc: `Thái hậu vừa mới nhập liệm an táng, chiếu phế hậu đã đưa thẳng đến trước mặt ta.
+
+Bất chấp quần thần phản đối đến long trời lở đất, Thẩm Dực vẫn nhất quyết lập Tô Thiên Nhi làm hoàng hậu.
+
+Cả triều đều kinh ngạc vì hắn nóng vội quá mức.
+
+Chỉ mình ta hiểu rõ, từ ngày Thái hậu ban hôn ta cho hắn đến nay đã mười một năm. Hắn chờ ngày này lâu lắm rồi.
+
+Mà Tô Thiên Nhi, cũng chờ rất lâu.
+
+Ta quỳ xuống tiếp chỉ, khẽ nói: “Tạ ơn thánh ân của bệ hạ.”`
   },
+
 
 
 

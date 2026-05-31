@@ -1,12 +1,10 @@
-window.addEventListener("DOMContentLoaded", function(){
+window.addEventListener("DOMContentLoaded", function () {
 
   const modal = document.getElementById("modal");
   const story = document.getElementById("story");
   const unlockBtn = document.getElementById("unlockBtn");
 
-  if(!modal || !story || !unlockBtn){
-    return;
-  }
+  if (!modal || !story || !unlockBtn) return;
 
   /* ===== LINK QUẢNG CÁO ===== */
 
@@ -17,70 +15,96 @@ window.addEventListener("DOMContentLoaded", function(){
     "https://www.tiktok.com/@zyl000111?_r=1&_t=ZS-96n1OkqTmLZ"
   ];
 
-  /* ===== NGÀY HÔM NAY ===== */
+  /* ===== KEY ===== */
 
   const today = new Date().toDateString();
 
-  /* ===== KEY MỞ KHÓA ===== */
-
   const unlockKey = "unlock_all_day";
+  const stepKey = "ad_step";
+  const waitKey = "waiting_return";
 
-  /* ===== CHECK KHÓA ===== */
+  /* ===== MỞ KHÓA ===== */
 
-  function checkLock(){
-
-    const unlockedDay =
-      localStorage.getItem(unlockKey);
-
-    if(unlockedDay === today){
-
-      unlockStory();
-
-    }else{
-
-      lockStory();
-
-    }
-
+  function unlockStory() {
+    modal.style.display = "none";
+    story.style.display = "block";
   }
 
   /* ===== KHÓA ===== */
 
-  function lockStory(){
-
+  function lockStory() {
     modal.style.display = "flex";
     story.style.display = "none";
-
   }
 
-  /* ===== MỞ KHÓA ===== */
+  /* ===== ĐÃ MỞ HÔM NAY ===== */
 
-  function unlockStory(){
-
-    modal.style.display = "none";
-    story.style.display = "block";
-
-  }
-
-  /* ===== CLICK MỞ KHÓA ===== */
-
-  unlockBtn.addEventListener("click", function(){
-
-    links.forEach(link => {
-      window.open(link, "_blank");
-    });
-
-    localStorage.setItem(
-      unlockKey,
-      today
-    );
-
+  if (localStorage.getItem(unlockKey) === today) {
     unlockStory();
+    return;
+  }
+
+  lockStory();
+
+  let step = parseInt(localStorage.getItem(stepKey) || "0");
+
+  /* ===== CẬP NHẬT NÚT ===== */
+
+  function updateButton() {
+
+    if (step >= links.length) {
+
+      localStorage.setItem(unlockKey, today);
+      localStorage.removeItem(stepKey);
+      localStorage.removeItem(waitKey);
+
+      unlockStory();
+
+      return;
+    }
+
+    unlockBtn.disabled = false;
+
+    unlockBtn.textContent =
+      `Xem quảng cáo ${step + 1}/${links.length}`;
+  }
+
+  updateButton();
+
+  /* ===== CLICK ===== */
+
+  unlockBtn.addEventListener("click", function () {
+
+    if (step >= links.length) return;
+
+    localStorage.setItem(waitKey, "1");
+
+    unlockBtn.disabled = true;
+    unlockBtn.textContent = "Quay lại trang để tiếp tục...";
+
+    window.open(links[step], "_blank");
 
   });
 
-  /* ===== START ===== */
+  /* ===== PHÁT HIỆN QUAY LẠI ===== */
 
-  checkLock();
+  document.addEventListener("visibilitychange", function () {
+
+    if (!document.hidden) {
+
+      const waiting =
+        localStorage.getItem(waitKey);
+
+      if (waiting === "1") {
+
+        step++;
+
+        localStorage.setItem(stepKey, step);
+        localStorage.removeItem(waitKey);
+
+        updateButton();
+      }
+    }
+  });
 
 });
