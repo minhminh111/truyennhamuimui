@@ -2542,7 +2542,124 @@ Chỉ mình ta hiểu rõ, từ ngày Thái hậu ban hôn ta cho hắn đến n
 Mà Tô Thiên Nhi, cũng chờ rất lâu.
 
 Ta quỳ xuống tiếp chỉ, khẽ nói: “Tạ ơn thánh ân của bệ hạ.”`
+  }, {
+    id: 120,
+title: "Lời Nói Dối Của Con Gái Tôi",
+    image: "imgngon/631dc674f85d044b7ee38c8f5c5c66e7.jpg",
+    link: "ngontinh/loi-noi-doi-cua-con-gai-toi.html",
+    type: "ngontinh",
+    desc: `Con gái của tôi là một kẻ nói dối. Khi còn nhỏ, nó lỡ ngã đập vào tay nhưng lại nói là do tôi véo, khiến mẹ chồng tôi nổi giận với tôi.
+
+Lớn lên một chút, nó thường xuyên trốn học rồi nói với giáo viên chủ nhiệm rằng ở nhà quá ngột ngạt nên bị trầm cảm. Sau đó nó còn yêu sớm với một tên lưu manh.
+
+Tôi từng lén theo nó lên sân thượng nơi hai đứa hẹn hò. Trong một lần tranh cãi với tên đó, tôi bị đẩy ngã từ trên cao xuống. Tôi chết ngay tại chỗ, nhưng phản ứng đầu tiên của con gái tôi lại là quay video rồi khóc lóc nói: “Mẹ, tại sao mẹ lại nhảy xuống vậy chứ!”
+
+Khi mở mắt ra lần nữa, tôi đã quay về năm cuối trung học của con gái tôi, lúc nó đang dùng cái chết để đe dọa để được cùng tên lưu manh cao chạy xa bay.
+
+Tôi dứt khoát giúp nó thu dọn đồ đạc rồi nói: “Đi đi con gái, mẹ ủng hộ con tự do yêu đương.”`
+  }, {
+    id: 121,
+    title: "Dính Lấy Nhau Giữa Sóng Gió Dư Luận",
+    image: "imgdam/ad9b8a81846d8edd996bb0d7ac6b7682.jpg",
+    link: "dammy/dinh-lay-nhau-giua-song-gio-du-luan.html",
+    type: "dammy",
+    desc: `Tôi tên là Kỷ Nguyên, 27 tuổi, phó giáo sư trẻ nhất S đại.
+
+Vì hai tai không nghe chuyện ngoài cửa sổ, trong đầu chỉ có toán học với nghiên cứu, nên sinh viên âm thầm đặt cho tôi biệt danh “người tiền sử”.
+
+Một hôm đang dạy trên lớp, tôi vô tình liếc thấy điện thoại của một sinh viên đang lơ đãng, trên màn hình hiện rõ tin giải trí hot hòn họt: 《Sốc! Ảnh hôn của lưu lượng tiểu sinh Lưu Diễn bị lộ, đối tượng lại là……》
+
+“Tập trung học đi bạn học này, dù sao người được đại minh tinh hôn cũng đâu phải em.”
+
+Không ngờ cậu sinh viên kia trợn mắt nhìn tôi như vừa thấy đề toán có ma.
+
+“Nhưng thầy… người anh ấy hôn… hình như là thầy!”
+
+Tôi đầy dấu hỏi chấm, giật lấy điện thoại xem thử, kết quả suýt nữa linh hồn bay thẳng khỏi xác.`
+  },{
+    id: 122,
+    title: "Hồng Trần Đồ Tể Nương",
+    image: "imgco/10f6ee38e110c72eda6c8e61b8981840.jpg",
+    link: "cotrang/hong-tran-do-te-nuong.html",
+    type: "cotrang",
+    desc: `Ta là một nữ đồ tể, nào ngờ một ngày lại thành mẫu thân của giả thiên kim phủ thừa tướng.
+
+Phu nhân phủ thừa tướng cao quý ngời ngời, vừa tới đã che mũi ném giả thiên kim trước cửa nhà ta.
+
+Ta nhìn tiểu cô nương kia, đầy bụng nghi hoặc: “Tiểu cô nương này, ngươi thật sự không cần nữa sao?”
+
+Nàng ta lạnh nhạt liếc qua, ánh mắt chán ghét chẳng thèm giấu, sau đó dắt thiên kim thật rời đi.
+
+Ta gật đầu một cái, thôi cũng được, coi như trong nhà có thêm một chiếc bánh gạo nếp nhỏ.
+
+Từ đó về sau, ta mỗi ngày giết năm con lợn, tiểu cô nương mỗi ngày ăn năm bát cơm.
+
+Lại còn suốt ngày lẽo đẽo theo sau ta, kéo tay áo mềm giọng gọi: “Mẫu thân, đói rồi, cơm cơm.”`
+  }, {
+    id: 123,
+    title: "Hạnh Phúc Cách Một Bước",
+    image: "imgngon/8982a7de8d98992467f59933f1c88755.jpg",
+    link: "ngontinh/hanh-phuc-cach-mot-buoc.html",
+    type: "ngontinh",
+    desc: `Tôi dùng quyền lực ép Kỳ Tống hẹn hò với mình hai năm.
+
+Cứ ngỡ cả hai đều hiểu lòng nhau, nhưng khi có người nói muốn theo đuổi tôi với anh, anh lại cười nói: “Ước còn chẳng được.”
+
+Đứng ngoài cửa, đầu ngón tay tôi lạnh buốt.
+
+Năm năm sau trong một buổi xã giao, có người hỏi tôi có phải từng hẹn hò với sếp Kỳ - đại gia mới nổi không.
+
+Tôi cười đáp: “Sao có thể, làm gì có chuyện đó.”
+
+Ngoảnh đầu lại, tôi thấy Kỳ Tống đang đứng ở cửa, nhìn tôi chằm chằm.`
+  },{
+    id: 124,
+    title: "Giam Em Dưới Mùi Bạc Hà",
+    image: "imgdam/2dabd59aa1255ba3b9bb1cca3b7f5d12.jpg",
+    link: "dammy/giam-em-duoi-mui-bac-ha.html",
+    type: "dammy",
+    desc: `Tôi là một beta sống trong thế giới ABO.
+
+May mà beta không bị ảnh hưởng bởi pheromone của ai hết.
+
+Nhưng xui một cái, tôi lại là beta giả omega.
+
+Tôi không có pheromone, ngày nào cũng phải xịt nước hoa mùi sữa lên người để lừa chồng tôi. Một alpha chính hiệu, kiểu tổng tài bá đạo bước ra từ tiểu thuyết cẩu huyết.
+
+Tôi muốn ly hôn.
+
+Tôi muốn chạy trốn.`
+  },{
+    id: 125,
+    title: "Một Đời Bẻ Gãy Thiên Mệnh",
+    image: "imgco/f90cf1727d8d1b5d4995d02a57f4dc34.jpg",
+    link: "cotrang/mot-doi-be-gay-thien-menh.html",
+    type: "cotrang",
+    desc: `Khi Thái tử đăng cơ, người lập Thái tử trắc phi làm Hoàng hậu.
+
+Nguyên do cũng đơn giản thôi.
+
+Trên sách mệnh có ghi rõ, vị Hoàng hậu đầu tiên của Thái tử sẽ chết dưới loạn tiễn xuyên tim.
+
+Ngày thánh chỉ phong Hậu vừa ban xuống, tỷ tỷ của ta, cũng chính là Thái tử phi Thẩm Thành Vân, đã cười tươi rói bước vào cung ta, hành lễ qua loa đến mức nhìn thôi cũng biết nàng ta đang làm màu.
+
+“Thần thiếp xin chúc mừng Hoàng hậu nương nương.”
+
+Nói xong, nàng lại chậm rãi tiến đến gần ta, đôi môi đỏ thắm cong lên đầy ý cười độc địa.
+
+“Thẩm Nhược Nhược, tranh thủ hưởng vài ngày tốt đẹp này đi.”
+
+“Nhưng cũng đừng quá đắc ý.”
+
+“Nếu khiến ta không vui, sau khi ngươi chết có được thụy hiệu đẹp hay không, vẫn phải xem tâm trạng của ta đấy.”
+
+“Thật sao.”
+
+Ta lùi về sau một bước, giọng điệu nhàn nhạt.
+
+“Vậy thì tỷ tỷ nhất định phải sống lâu hơn ta mới được.”`
   },
+
 
 
 
