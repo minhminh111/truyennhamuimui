@@ -2770,7 +2770,67 @@ Nhưng thật sự không ngờ nàng dám giết ta.
 Chén rượu độc nóng như lửa thiêu, trôi xuống cổ họng đau đến tận tâm can. Ta nghiêng đầu nhìn sang bên cạnh, trên giường thêu vẫn còn đặt một chiếc trung y vừa may xong.
 
 Sở Lệ Chỉ không thích những loại vải mềm mại trong cung. Mỗi tháng, ta đều dùng vải bông pha sợi gai để may cho hắn vài bộ trung y.`
+  },{
+    id: 132,
+    title: "Tình Cũ Chưa Bao Giờ Quên",
+    image: "imgngon/8e8a7a0f7d7796cf39ab83ea3102f773.jpg",
+    link: "ngontinh/tinh-cu-chua-bao-gio-quen.html",
+    type: "ngontinh",
+    desc: `Con trai bị sốt, tôi đưa thằng bé đến bệnh viện, không ngờ bác sĩ điều trị lại là bạn trai cũ của tôi.
+
+Đoạn Vân Sơ nhìn tôi, giọng đầy mỉa mai: “Chia tay một năm, con đã hai tháng?”
+
+Tôi cũng chẳng vừa: “Đúng vậy, chia tay xong hôm đó tôi đã ở bên người dự bị. Anh ấy giỏi lắm, không vô dụng như ai kia.”
+
+Sắc mặt Đoạn Vân Sơ đen lại thấy rõ. Anh ta liếc nhìn tôi rồi mở hồ sơ bệnh án.
+
+“Trẻ dưới sáu tháng còn có kháng thể từ mẹ, mới hai tháng đã phát sốt, cô thật có bản lĩnh.”
+
+Tôi bực bội: “Tối qua ân ái với chồng, làm bé bị đá rơi chăn. Anh khám được thì khám, không khám được tôi đổi bác sĩ khác.”
+
+Đoạn Vân Sơ nhíu mày nhẹ, liếc tôi một cái: “Sốt cao quá, phải truyền nước. Ra đại sảnh chờ đi.”
+
+Tôi chẳng buồn cãi thêm, đợi anh ta kê đơn xong thì bế con rời đi.`
+  },{
+    id: 133,
+    title: "Mặc Đồ Nữ Bị Phát Hiện",
+    image: "imgdam/b6e9532883459a7daa51f811c33ade71.jpg",
+    link: "dammy/mac-do-nu-bi-phat-hien.html",
+    type: "dammy",
+    desc: `Tôi bị ba người bạn cùng phòng, toàn trai thẳng chính hiệu, bắt gặp lúc đang lén mặc đồ nữ trong ký túc xá. Từ đó, mọi chuyện bắt đầu trở nên kỳ lạ.
+
+Trương Cuồng, ông vua trường học, thỉnh thoảng lại khoe cơ bụng trước mặt tôi.
+
+Đoạn Dịch, cậu bạn đẹp trai kiểu ngầm, đêm nào cũng mò lên giường tôi vì lý do mộng du.
+
+Còn Ôn Dụ, học bá lạnh lùng, ngày nào cũng kiên nhẫn cầm tay chỉ tôi học bài.
+
+Mọi thứ vẫn yên ổn cho đến khi tôi định hẹn hò với một người khác thì lại bị khóa trái trong ký túc xá.
+
+"Khoan đã, không phải nói bọn họ đều là trai thẳng sao."`
+  },{
+    id: 134,
+    title: "Trong Sinh Ta Giàu Nhất Thiên Hạ",
+    image: "imgco/796f59be653266b3bff7de0bf062cc13.jpg",
+    link: "cotrang/trong-sinh-ta-giau-nhat-thien-ha.html",
+    type: "cotrang",
+    desc: `Ta và thứ muội cùng rơi xuống nước, nhưng vị hôn phu của ta lại gấp gáp hô lớn: “Mau cứu Nguyệt Nhu muội muội trước.”
+
+Bởi vì ta không biết bơi, sau khi được kéo lên bờ liền tắt thở.
+
+Thứ muội âm thầm ghé sát bên tai ta, giọng điệu độc ác đến lạnh người.
+
+“Ta là nữ xuyên không, ta mới là nữ chính thật sự. Ngươi đấu không lại ta đâu.”
+
+“Nếu không phải ngươi ăn trộm bài thơ của ta trong tiệc xuân, ta đã sớm danh chấn kinh thành rồi. Thái tử điện hạ vốn cũng phải là người của ta. Ta hận ngươi.”
+
+Nàng không biết rằng trong triều vốn đã từng xuất hiện hai nữ xuyên không khác, mà bài thơ ấy, bọn họ cũng từng đọc qua.
+
+Nhưng cuối cùng, cả hai đều chết rất thảm.
+
+Lần nữa mở mắt ra, ta sống lại đúng vào ngày diễn ra tiệc xuân.`
   },
+
 
 
 
