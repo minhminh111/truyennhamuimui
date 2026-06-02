@@ -2884,7 +2884,57 @@ Nhìn gương mặt Thái tử nghe đồn động một cái là có người b
 Ta đành gượng dậy, ngồi xuống trước cây đàn, tay gảy loạn như đang thử vận may, mặt còn méo hơn cả sắp khóc. Ta hỏi: “Thái tử thấy thế nào?”
 
 Hắn nhìn ta một lúc rồi bỗng bật cười, ánh mắt sáng lên: “Rất tốt.”`
+  },{
+    id: 138,
+    title: "Bạn Cùng Phòng Trà Xanh Hai Mặt",
+    image: "imgngon/cca81aa055e1d0ea75d0cafe47e70607.jpg",
+    link: "ngontinh/ban-cung-phong-tra-xanh-hai-mat.html",
+    type: "ngontinh",
+    desc: `Đang lúc liên hoan thì bạn cùng phòng đột nhiên nói rằng cô ta cảm thấy tôi không xứng với bạn trai tôi, còn hỏi xin tôi nick Wechat của anh ấy.
+
+Tôi không cho, nhưng không ngờ cô ta lại đi tìm bạn trai tôi rồi quay sang trách tôi nhỏ mọn.
+
+Tôi hỏi cô ta có ý gì.
+
+Cô ta tỉnh bơ đáp: “Sao cậu nhỏ nhen thế nhỉ? Có bạn gái thì không được phép kết bạn với người khác giới à? Hòa bình xíu đi được không.”
+
+Tôi nổi giận: “Hòa bình cái chó ấy!”`
+  },{
+    id: 139,
+    title: "Giấc Mộng Bị Chiếm Giữ",
+    image: "imgdam/dff723d4948f5457e3fe0ec2d1b0051f.jpg",
+    link: "dammy/giac-mong-bi-chiem-giu.html",
+    type: "dammy",
+    desc: `Sau khi gia đình phá sản, mỗi đêm tôi đều mơ thấy một chàng trai trẻ đè tôi xuống giường, tùy ý chiếm hữu, làm những chuyện không thể miêu tả.
+
+Hắn vô số lần ép hỏi tôi là ai.
+
+Dù hắn dùng trăm phương nghìn kế, tôi vẫn cắn răng im lặng không đáp.
+
+Bởi vì vị thiếu gia nhà họ Thịnh, người chỉ cần dậm chân một cái cũng khiến cả Cảng Thành rung chuyển ba lần, kẻ thù không đội trời chung của tôi, trên mu bàn tay hổ khẩu cũng có một nốt ruồi nhỏ y hệt người trong mơ.
+
+Sau này trong một lần hợp tác, Thịnh Lẫm nhìn thấy nốt ruồi sau tai tôi.
+
+Đêm hôm đó, hắn đè tôi xuống, vừa trừng phạt vừa nói từng chữ một:
+
+“Bảo bối, tôi tìm được em rồi.”`
+  },{
+    id: 140,
+    title: "Hoàng Hậu Duy Nhất Của Đế Vương Máu Lạnh",
+    image: "imgco/0e19f75afaa2f9e13fd900c9445f992c.jpg",
+    link: "cotrang/hoang-hau-duy-nhat-cua-de-vuong-mau-lanh.html",
+    type: "cotrang",
+    desc: `Ngày thứ hai mươi tám sau khi ta được sắc phong làm Hoàng hậu, đích tỷ của ta vào cung.
+
+Nàng muốn đổi lại thân phận với ta, quay về làm Hoàng hậu cao quý.
+
+Ta vui mừng nhảy cẫng lên, hớn hở muốn ôm Thanh Long đại đao của ta rời khỏi cung.
+
+Dù sao ta cũng chẳng hề muốn hầu hạ tên bạo chúa thất thường, động một chút là chém người như Phó Thanh Hoằng.
+
+Chỉ là sau đó, ta bị Phó Thanh Hoằng chặn lại ở trường săn. Hắn híp mắt, cười như không cười: “Chuồn đi không một tiếng động luôn ha, Lục Thương Nhĩ, gan cũng lớn rồi nhỉ.”`
   },
+
 
 
 
