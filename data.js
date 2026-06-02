@@ -2847,7 +2847,7 @@ Mắt tôi lập tức sáng rực lên.
   },{
     id: 136,
     title: "Hoá Ra Em Mới Là Định Mệnh",
-    image: "imgdam/8672ad5f0d046a97e4dc912efddec916.jpg",
+    image: "imgdam/Ảnh màn hình 2026-06-02 lúc 16.59.59.jpg",
     link: "dammy/hoa-ra-em-moi-la-dinh-menh.html",
     type: "dammy",
     desc: `Đứa em Omega khốn kiếp của tôi bỏ trốn hôn sự.
@@ -2933,6 +2933,101 @@ Ta vui mừng nhảy cẫng lên, hớn hở muốn ôm Thanh Long đại đao c
 Dù sao ta cũng chẳng hề muốn hầu hạ tên bạo chúa thất thường, động một chút là chém người như Phó Thanh Hoằng.
 
 Chỉ là sau đó, ta bị Phó Thanh Hoằng chặn lại ở trường săn. Hắn híp mắt, cười như không cười: “Chuồn đi không một tiếng động luôn ha, Lục Thương Nhĩ, gan cũng lớn rồi nhỉ.”`
+  },{
+    id: 141,
+    title: "Ly Hôn Không Hối Tiếc",
+    image: "imgngon/a6cfeb823d2eca1c2c8049ee821613be.jpg",
+    link: "ngontinh/ly-hon-khong-hoi-tiec.html",
+    type: "ngontinh",
+    desc: `Chồng tôi luôn yêu cầu bữa ăn không nói chuyện, giờ ngủ không trò chuyện, thế nên căn nhà này vĩnh viễn lạnh lẽo như khách sạn vô hồn.
+
+Hôm ấy, con trai ném cái máy tính bảng cho tôi, bảo tiện đường đem đi sửa. Tôi xách theo cả đống đồ sinh hoạt, vội vã tới tiệm sửa chữa.
+
+Máy vừa mở, tin nhắn nhóm "Gia tộc họ Chu đi xem mắt (99+)" nhấp nháy liên tục.
+
+Tôi tò mò bấm vào. Đập vào mắt là tin nhắn của con gái:
+
+“Thật ghen tị với mẹ quá đi~ Có bố nuôi, ngày ngày nằm không làm cá mặn, công việc duy nhất chắc là nấu bữa cơm tối nhỉ?”
+
+Con trai trả lời:
+
+“Không có tiền đồ! Em cũng muốn thành loại người vô dụng như bà ấy sao?”
+
+Và cuối cùng, chồng tôi góp vui:
+
+“Các con biết vì sao bố về nhà chẳng muốn mở miệng không?
+
+Vì ngoài mấy chuyện vặt vãnh ở chợ, mẹ các con chẳng biết gì. Một người đàn ông như bố mà phải quan tâm tới giá rau hôm nay á?”
+
+Trong nhóm đó không có tôi, nhưng ba người mang họ Chu kia lại xem việc chế giễu tôi là thú vui mỗi ngày.
+
+Thế à? Vậy thì để họ xem thử—một “con cá mặn” thứ thiệt khi bắt đầu tận hưởng cuộc sống, sẽ sống vui đến mức nào.`
+  },{
+    id: 142,
+    title: "CP Này Không Toang Nổi Đâu",
+    image: "imgdam/808ca3ffc53bec509cd1c11ee3b9702d.jpg",
+    link: "dammy/cp-nay-khong-toang-noi-dau.html",
+    type: "dammy",
+    desc: `Trong nhà ma, nữ chính nép vào lòng người khác, còn nam chính thì đứng đực ra như khúc gỗ.
+
+Tôi nghiến răng ken két, cảm giác CP mình ship sắp bay màu tới nơi nên quyết định tự thân xuất mã, làm đạo cụ biết đi cứu vãn tình hình.
+
+Nhưng ngay lúc tôi vừa mon men lại gần, nam chính đột nhiên run giọng kêu cứu.
+
+Tôi lập tức phát bệnh “chuunibyou”, lấy nguyên cái mông húc bay con quỷ đang lao tới.
+
+“Hắn là người của tôi, đừng có động vào.”
+
+Con quỷ dưới ánh đèn hồng ngoại trợn mắt nhìn tôi như kiểu gặp phải người bệnh tâm thần trốn viện.
+
+Tôi mặc kệ.
+
+Cảm nhận được ánh mắt nóng rực phía sau, tôi chỉ muốn chuồn lẹ khỏi hiện trường xã chết này.
+
+Ai ngờ vừa mới nhấc chân đi được một bước, cổ tay đã bị người ta nắm chặt.
+
+Ngón tay khẽ vuốt qua da thịt, sau đó tôi bị kéo thẳng vào căn phòng tối bên cạnh.
+
+“Cạch.”
+
+Cửa đóng lại.
+
+Hai tay tôi bị bẻ ra sau, cổ tay còn bị khóa bằng còng sắt.
+
+Cố Hí tháo mặt nạ quỷ của tôi xuống, nâng cằm tôi lên, ép tôi nhìn thẳng vào đôi mắt nguy hiểm kia.
+
+Tôi còn đang cứng họng thì cậu ấy đã ghé sát tai, giọng trầm thấp.
+
+“Anh, bắt được anh rồi nha.”`
+  },{
+    id: 143,
+    title: "Trại Chủ Rơi Vào Lưới Tình",
+    image: "imgco/22008d75d9b436459a9d9007a9b4f23f.jpg",
+    link: "cotrang/trai-chu-roi-vao-luoi-tinh.html",
+    type: "cotrang",
+    desc: `Cha từng nói, nếu muốn kế thừa sơn trại thì nhất định phải sinh được một hài tử ưu tú trước đã.
+
+Ta nhắm tới Lục tú tài, người tuấn tú vô song.
+
+Một đêm không trăng không sao, ta trói hắn như đòn bánh chưng, vác thẳng về phòng.
+
+“Lục tú tài, ta muốn có con...”
+
+Hắn ngoài miệng liên tục nói không được, trông dáng vẻ giữ mình như liệt nam trinh tiết, nhưng đôi tay lại vô cùng thành thật.
+
+Ta hoảng hốt che lại vạt áo bị kéo xuống, run run hỏi tiếp nửa câu còn dang dở.
+
+“Vậy nên, ngươi có thể gọi ta một tiếng nương không?”
+
+Hắn không đáp.
+
+Sau đó ta xoa thắt lưng đau nhức, cả đêm chạy trốn.
+
+Hắn mang binh vây kín, ánh mắt lạnh lẽo nguy hiểm.
+
+“Nàng có thể chạy đi đâu đây? Nương…”
+
+“Tử.”`
   },
 
 
