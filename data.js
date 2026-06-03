@@ -3028,6 +3028,77 @@ Hắn mang binh vây kín, ánh mắt lạnh lẽo nguy hiểm.
 “Nàng có thể chạy đi đâu đây? Nương…”
 
 “Tử.”`
+  },{
+    id: 144,
+    title: "Hợp Đồng Giả Yêu Với Thái Tử Gia Bắc Kinh",
+    image: "imgngon/cc4327767f8f3b1852cb6b94e93860c5.jpg",
+    link: "ngontinh/hop-dong-gia-yeu-voi-thai-tu-gia-bac-kinh.html",
+    type: "ngontinh",
+    desc: `Thái tử gia Bắc Kinh là lão bản của tôi. Anh ta bảo tôi giúp anh ta chặn hoa đào.
+
+Tôi: “Ok.”
+
+Ngày hôm sau, anh ta nhìn cái bụng hơi nhô lên của tôi, cả người đứng hình: “Cái gì vậy? Mới qua một đêm mà lớn nhanh dữ vậy sao?”
+
+Tôi cười nhạt: “Ông chủ, tôi phải mang theo quả bóng làm đạo cụ chứ.”
+
+Từ đó, tôi khoác tay ông chủ đi khắp nơi, gặp hai cô bạn thanh mai trúc mã của anh ta là lập tức ưỡn bụng lên, khí thế ngút trời: “Tôi có con rồi, các cô lấy gì đấu với tôi đây?”`
+  },{
+    id: 145,
+    title: "Tình Địch Của Tôi",
+    image: "imgdam/6021941463541c6bbb8c0725dec3115c.jpg",
+    link: "dammy/tinh-dich-cua-toi.html",
+    type: "dammy",
+    desc: `Trong đội, Bạch Duẫn đúng kiểu “bé cưng quốc dân”.
+
+Da trắng, mặt xinh, tính tình lại mềm mềm đáng yêu như bánh mochi mới hấp.
+
+Ai cũng mê cậu ấy.
+
+Bao gồm cả tôi.
+
+Một đội có năm người, mà bốn người đều đang cầm bảng số chen hàng vào trái tim crush.
+
+Tôi muốn nói chuyện với cậu ấy, đội trưởng Trì Tiêu lập tức lên tiếng cắt ngang.
+
+Tôi vừa quay đầu nhìn sang, Tần Mục Dạ đã nghiêng người chắn sạch tầm mắt của tôi.
+
+Tôi muốn ngồi cạnh cậu ấy, Hướng Nam Tinh cười híp mắt giành luôn chỗ trước.
+
+Tôi: ?
+
+Ủa alo, mọi người đều là tình địch mà, sao cứ nhắm đúng mình tôi để đập vậy trời.`
+  },{
+    id: 146,
+    title: "Mua Một Quốc Công Phủ",
+    image: "imgco/47bf76f9558e7771b7256ff120dc7a86.jpg",
+    link: "cotrang/mua-mot-quoc-cong-phu.html",
+    type: "cotrang",
+    desc: `Cha ta là một thương nhân chính hiệu, người lúc nào cũng phảng phất mùi bạc tiền. Trong triều không có ai chống lưng, trong tộc cũng chẳng có nổi một vị làm quan.
+
+Vậy mà ông lại có thể gả ta vào phủ Quốc công Vệ.
+
+Dựa vào thứ gì ư.
+
+Dựa vào tiền.
+
+Vệ Quốc công Cơ Bá Ung trấn thủ biên cương phía tây suốt mười hai năm, đánh bảy trận lớn thì thắng đủ bảy trận. Quân Tây Lương chỉ cần thấy quân kỳ họ Cơ là quay đầu chạy mất dép.
+
+Triều đình năm nào cũng ban thưởng nghe rất oai, nhưng quân lương thì năm nào cũng chậm như rùa bò.
+
+Cha ta dùng ba mươi vạn lượng bạc làm của hồi môn, đổi cho ta một vị trí chính thê trong phủ Quốc công.
+
+Nghe thì là liên hôn môn đăng hộ đối.
+
+Nhưng ai cũng hiểu rõ.
+
+Vệ Quốc công thiếu tiền nuôi quân.
+
+Còn con gái nhà buôn như ta thì đang trèo cao bước vào danh môn vọng tộc.
+
+Khi mối hôn sự này vừa định xong, đại ca ta đập bàn tính “rầm” một tiếng xuống bàn, chỉ thẳng vào cha mà mắng.
+
+“Ba mươi vạn lượng mua một vị chính thê. Cha đang gả con gái hay đang đi ký khế ước làm ăn vậy.”`
   },
 
 
