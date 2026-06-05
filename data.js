@@ -3216,8 +3216,172 @@ Cho đến ngày con trai nàng đầy tháng.
 Ta đỏ hoe mắt, vừa đau vừa hận, run giọng chất vấn vì sao nàng có thể độc ác đến vậy. Nàng chỉ bật cười, sai người bưng tới một bát độc dược, khóe môi cong cong, giọng điệu dịu dàng đến rợn người.
 
 “Tỷ tỷ à, đều tại tỷ năm xưa ngăn ta cùng Chu lang bỏ trốn.”`
-  },
+  },{
+    id: 153,
+    title: "Trò Chơi Trong Biệt Thự Chết Chóc",
+    image: "imgngon/dd871d1d14599d0f95afa9372f442859.jpg",
+    link: "ngontinh/tro-choi-trong-biet-thu-chet-choc.html",
+    type: "ngontinh",
+    desc: `Đêm khuya, anh bạn trai nằm cạnh tôi lặng lẽ đứng dậy rồi đi sang phòng bên của bạn thân tôi.
 
+Tôi từ từ mở mắt, sau đó cũng dậy đi vào nhà vệ sinh.
+
+Vừa bật công tắc, cả mảng tường lớn trước mặt liền biến thành một chiếc gương hai chiều.
+
+Phía sau lớp gương đó chính là căn phòng bên cạnh.`
+  },{
+    id: 154,
+    title: "Alpha Đỉnh Cấp Cố Chấp Ép Tôi Thành Vợ",
+    image: "imgdam/355f8db83d9a00c4a92762398d34c3c9.jpg",
+    link: "dammy/alpha-dinh-cap-co-chap-ep-toi-thanh-vo.html",
+    type: "dammy",
+    desc: `Tôi với tên thiếu gia thật mà tôi ghét cay ghét đắng lại cùng nhau xuyên vào thế giới ABO.
+
+Hắn thành Alpha cấp cao nhất, kiểu đỉnh của chóp luôn ấy.
+
+Còn tôi thì xui tận mạng, xuyên thành một Omega chuyên đi ôm đùi đại gia để leo lên cành cao của hắn.
+
+Đỉnh điểm là lúc tỉnh dậy, trên người tôi còn đang mặc đúng một lớp voan mỏng dính, rõ ràng là chuẩn bị quyến rũ hắn để đổi đời.
+
+Đầu óc vừa tỉnh táo lại, tôi lập tức bật mode ngông nghênh:
+
+“Đừng khinh thường thiếu niên nghèo. Sau này mày nhất định sẽ phải quỳ xuống cầu xin gia đây cho xem.”
+
+Sau này lúc hắn bước vào kỳ phát tình, tôi còn tranh thủ chạy tới cà khịa.
+
+Ai ngờ chưa kịp cười đểu thì đã bị hắn đè xuống.
+
+Đôi mắt hắn tối thẫm, giọng khàn đặc như vừa nuốt cát:
+
+“Ngoan nào, cuối cùng em cũng là của tôi rồi.”
+
+Không phải chứ anh em.
+
+Tôi coi tên thiếu gia thật này là kẻ thù truyền kiếp, kết quả hắn lại nhắm vào… cái mông của tôi à?!`
+  },{
+    id: 155,
+    title: "Thứ Nữ Đương Gia",
+    image: "imgco/596636ed8a75a805891060a6e5b1a345.jpg",
+    link: "cotrang/thu-nu-duong-gia.html",
+    type: "cotrang",
+    desc: `Đại tẩu bất mãn khi ta nắm quyền quản gia, liền chạy thẳng tới từ đường làm loạn. Nàng ta cầm dao kề cổ, nước mắt nước mũi giàn giụa, giọng điệu như đang diễn hí khúc.
+
+“Nếu không để ta quản gia, ta sẽ mang theo con chết ở đây.”
+
+“Tiểu cô chỉ là thứ nữ, gả cho mã phu cũng đã là trèo cao rồi. Còn ta mới là người sinh con nối dõi tông đường cho Từ gia các ngươi.”
+
+“Gia sản vốn là của nhi tử. Tiểu cô cố tình không chịu lấy chồng, chẳng phải là tham gia sản sao.”
+
+Cả nhà im phăng phắc nhìn ta.
+
+Ta chỉ khẽ cười, bình thản như gió thoảng mây trôi.
+
+“Tân nương vô lễ như vậy, chi bằng viết hưu thư đưa về nhà mẹ đẻ đi.”
+
+Gia nghiệp của Từ gia là do Từ Nam Từ ta gây dựng từng chút một. Chưa tới lượt nàng tới đây khoa tay múa chân.`
+  },{
+    id: 156,
+       title: "Bẫy Tình Yêu Của Một Bạn Trai Hoàn Hảo",
+    image: "imgngon/2f4f986f09df70a97575719bca4ac850.jpg",
+    link: "ngontinh/bay-tinh-yeu-cua-mot-ban-trai-hoan-hao.html",
+    type: "ngontinh",
+    desc: `Bạn trai tôi đúng kiểu người mà ai nhìn vào cũng phải cảm thán: “Ôi trời, đúng là Bồ Tát sống giữa nhân gian.”
+
+Anh ta hiền lành, tốt bụng, sống tử tế hết phần thiên hạ. Đến mức còn muốn xây hẳn một nơi trú ẩn cho người vô gia cư nữa cơ.
+
+Mỗi tội, anh ta cũng tiện tay dùng luôn tiền của tôi để thuê nhà bên ngoài, rồi dốc lòng dốc sức chăm sóc em gái thanh mai trúc mã như nuôi báu vật.`
+  },{
+    id: 157,
+    title: "Chúng Ta Suýt Nữa Lạc Nhau",
+    image: "imgdam/7227c35cd6059381cd9f229b732f2b87.jpg",
+    link: "dammy/chung-ta-suyt-nua-lac-nhau.html",
+    type: "dammy",
+    desc: `Tôi và anh ấy cùng nhau debut, cộng đồng mạng đều nói chúng tôi trời sinh một cặp.
+
+Nhưng tôi biết rõ anh ấy là trai thẳng.
+
+Thế nên tôi giấu kín tình cảm của mình, làm bạn thân của anh ấy suốt tám năm trời.
+
+Sau này nhóm nhạc tan rã, tôi nói dối anh ấy rằng tôi về quê kết hôn.
+
+Ai ngờ anh ấy ngồi tàu hỏa suốt hai mươi tiếng đồng hồ, mắt đỏ hoe, van nài tôi đừng kết hôn.`
+  },{
+    id: 158,
+    title: "Ác Nhân Trả Giá",
+    image: "imgco/0fc0050e3aefb24a709024615b0611ba.jpg",
+    link: "cotrang/ac-nhan-tra-gia.html",
+    type: "cotrang",
+    desc: `Cô phụ là đồ tể nổi danh khắp vùng, sức lực khỏe như trâu mộng. Chỉ vì nghi ngờ cô mẫu lén tư thông cùng kẻ khác, hắn liền bê nguyên nồi dầu sôi tạt thẳng lên mặt cô mẫu.
+
+Cha mẹ ta vừa nghe tin đã cuống cuồng chạy tới cứu người. Kết quả, cả hai lại chết thảm dưới lưỡi đao của cô phụ. Sau đó, cô phụ bị nha dịch áp giải đi xử trảm giữa phố.
+
+Cô mẫu bảo ta mất đi song thân, muốn đón ta về ở cùng. Ngoài miệng nói là nương tựa lẫn nhau, ai ngờ đêm xuống lại cầm dao rạch da mặt ta, rồi ném ta xuống vực sâu, mặc cho thi thể bị rắn rết chuột kiến gặm nhấm.
+
+Sau khi chết thảm, ta sống lại đúng ngày cô mẫu bị dội dầu sôi.`
+  },{
+    id: 159,
+    title: "Chú Chó Con Yêu Dấu Của Tôi",
+    image: "imgngon/02560fbdf1bd04af6d56de3df3cca8e5.jpg",
+    link: "ngontinh/chu-cho-con-yeu-dau-cua-toi.html",
+    type: "ngontinh",
+    desc: `Tên lưu manh âm u giam cầm tôi đã bị mất trí nhớ. Nhìn những bức ảnh chụp lén và lịch sử trò chuyện, anh rơi vào trầm tư.
+
+"Tuy tôi thừa nhận cô rất đáng yêu, rất mê hoặc tôi, nhưng không đến mức khiến tôi sa đọa thành kẻ dâm đãng như vậy."
+
+"Cô nói gì đi chứ, là cô ép buộc tôi làm những chuyện này!"
+
+"Tôi không phải loại đàn ông dễ dãi."
+
+"Trinh tiết là của hồi môn tốt nhất của tôi, hy vọng cô tự biết điều."
+
+"Hành vi của cô, có khác gì trêu ghẹo một con vịt hoang bên vệ đường?"
+
+"Huhu, tôi đâu phải là vịt hoang!"
+
+Tôi không thể nhịn được nữa, giáng cho anh một cái tát.
+
+"Đói rồi, đi làm cơm cho tôi!"
+"Ồ"
+`
+  },{
+    id: 160,
+    title: "Em Trai Nuôi Không Còn Nghe Lời",
+    image: "imgdam/f4cf63ad833d4594c0c1ee6e358040f9.jpg",
+    link: "dammy/em-trai-nuoi-khong-con-nghe-loi.html",
+    type: "dammy",
+    desc: `Khi tỉnh lại, tôi đang dạy dỗ người em trai trên danh nghĩa của mình. Đó là đứa trẻ được gia đình tôi nhận nuôi.
+
+Thiếu niên tóc đen mắt đen, khóe mắt còn vương lệ, quỳ dưới chân tôi. Tôi khẽ đặt mũi giày lên eo hắn. “Em trai, đừng bướng bỉnh.”
+
+Trước mặt tôi là kẻ sau này sẽ trở thành đại lão thương nghiệp, người có thể giết chết tôi. Là một Alpha, tôi chẳng hề nao núng.
+
+Về sau, tôi lại bị hắn ép dưới thân. Người đàn ông vẫn giữ gương mặt vô hại như cũ.
+
+“Anh, tốt nhất cũng nên ngoan một chút.”`
+  },{
+    id: 161,
+    title: "Phản Kích Trên Chiến Trường",
+    image: "imgco/ef4c41329993da4e224b28008b66712f.jpg",
+    link: "cotrang/phan-kich-tren-chien-truong.html",
+    type: "cotrang",
+    desc: `Ta vì cứu Thẩm Nam Phong mà dung mạo bị hủy. Hắn bất đắc dĩ mới phải cưới ta.
+
+Đêm thành thân, hắn trợn mắt giận dữ, quát ta: “Ngươi là ả đàn bà rắn rết xấu xí vô cùng. Tự biên tự diễn trò này, chẳng qua chỉ muốn chia rẽ ta và Yến Nhi.”
+
+Người khắp kinh thành đều đồn rằng ta vì muốn gả cho Thẩm tướng quân đang được muôn người theo đuổi mà không từ thủ đoạn, khiến thể diện phủ Trấn quốc tướng quân bị chà đạp không còn gì.
+
+Mười năm phòng không gối chiếc, cho đến tận trước khi chết, ta chỉ nghe được một câu của hắn.
+
+“Nếu có kiếp sau, ta thà tàn phế cũng không cưới ngươi.”
+
+Từng chữ như dao đâm vào tim.
+
+Từng câu như máu chảy thành sông.
+
+Mở mắt lần nữa, ta đã trở về đúng đêm hắn bị ám sát.
+
+Thẩm Nam Phong, lần này, mong ngươi cùng người trong mộng cầm sắt hòa minh, bạc đầu giai lão.`
+  },
 
 
 
