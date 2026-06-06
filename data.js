@@ -3477,7 +3477,129 @@ Mấy đôi giày hàng hiệu cứ thế đạp lên người nó không thươ
 Em gái tôi trong video nhìn chẳng khác gì người đã chết.
 
 Tôi cong khóe môi, vui vẻ xem hết đoạn clip dài sáu phút ba mươi bảy giây, không tua một giây nào.`
+  },{
+    id: 166,
+    title: "Một Kiếm Đoạn Duyên",
+    image: "imgdam/74f462de515a3586eac10b1d45c8a178.jpg",
+    link: "dammy/mot-kiem-doan-duyen.html",
+    type: "dammy",
+    desc: `Tôi xuyên vào một cuốn tiểu thuyết tiên hiệp đam mỹ, trở thành đạo lữ bị Thanh Giác Tiên Tôn sát phu chứng đạo.
+
+Hoàn thành nhiệm vụ xong, tôi lập tức thoát khỏi thế giới này, ung dung hưởng tuổi già với tiền lãi ngân hàng.
+
+Năm thứ ba, Hệ Thống đột nhiên tìm tới.
+
+“Thanh Giác Tiên Tôn điên cuồng tìm ngươi, thế giới sắp sụp đổ rồi, ngươi quay về ổn định giúp.”
+
+Tôi cười xòa. Sao có thể…
+
+“Năm mục tiêu nhỏ.”
+
+Tôi bật dậy ngay lập tức.
+
+“Bằng tình huynh đệ của chúng ta, về. Lập tức về.”
+
+Hệ Thống cười lạnh, nhìn thấu bản chất tôi.
+
+Khi quay lại, tôi đổi thân phận thành đạo lữ của đồ đệ Thanh Giác Tiên Tôn.`
+  },{
+    id: 167,
+    title: "Thiên Kim Thất Lạc Được Hai Nhà Nâng Niu",
+    image: "imgco/a39fb002ef8cacf2cb9db6fdb1715bcf.jpg",
+    link: "cotrang/thien-kim-that-lac-duoc-hai-nha-nang-niu.html",
+    type: "cotrang",
+    desc: `Ngày quan phủ bảo ta đi tìm cha mẹ ruột, ta lại nghe nhầm giữa họ “Thẩm” và họ “Thân”.
+
+Thế là ta ngơ ngác gõ cửa lớn Thẩm phủ.
+
+Bên trong tức khắc náo loạn một phen.
+
+Thẩm phu nhân xắn tay áo, tay cầm chổi lông gà, khí thế hừng hực đuổi đánh Thẩm lão gia khắp sân.
+
+“Hồng Đản! Ông giỏi lắm rồi đấy. Dám lén lút nuôi con gái riêng bên ngoài sau lưng ta.”
+
+Thẩm lão gia ôm đầu chạy vòng quanh, miệng kêu oan đến khản cổ.
+
+“Phu nhân ơi, ta thật sự không biết chuyện này mà.”
+
+Ta đứng ngoài cửa, ôm tay nải, nhìn cảnh tượng gà bay chó sủa trước mắt mà lòng dần lạnh xuống.
+
+Xem ra... nhà này cũng chẳng thích ta.
+
+Ta lặng lẽ xoay người định rời đi.
+
+Nào ngờ vị thiếu niên đứng bên cạnh bỗng đưa tay giữ lấy tay nải của ta, giọng điệu vừa bất đắc dĩ vừa dịu dàng.
+
+“Còn đứng ngây ra đó làm gì. Đã tới rồi thì mau lên tiếng gọi người đi chứ.”
+
+Ta ngoan ngoãn mở miệng.
+
+“Chít.”
+
+Trong khoảnh khắc, cả phụ thân, mẫu thân lẫn vị ca ca kia đều đồng loạt sững người.
+
+Không khí lặng đi như bị điểm huyệt.
+
+Một lát sau, không biết là ai thở dài trước.
+
+“Toang rồi... lại còn là một tiểu đồ ngốc.”
+
+Từ ngày ấy, ta liền trở thành đối tượng được cả nhà nâng như nâng trứng, hứng như hứng hoa.
+
+Cho tới khi vị đại ca ca nhà bên mang gương mặt âm trầm tới gõ cửa, thiếu điều muốn lật tung cả Thẩm phủ.
+
+Hắn chỉ thẳng vào ta, nghiến răng nghiến lợi.
+
+“Ngươi không biết ca ca mình trông ra sao thì thôi đi. Đến cả họ cũng có thể nhận sai được à.”
+
+“Ta mới là ca ca ruột của ngươi cơ mà.”`
+  },{
+    id: 168,
+    title: "Chồn Nhỏ Phiêu Lưu Nhân Giới",
+    image: "imgngon/67ded55c9e9c3f0e18d63ebfcc1b4d4b.jpg",
+    link: "ngontinh/chon-nho-phieu-luu-nhan-gioi.html",
+    type: "ngontinh",
+    desc: `Tôi là một con chồn nhỏ vừa mới thành tinh.
+
+Ông chủ quán gà rán ép tôi sát vào tường, ghé sát tai thì thầm:
+“Em muốn ăn loại gà nào đây?”
+
+Tôi nuốt nước miếng, rụt rè đáp:
+“Tiêu… gà muối tiêu…”
+
+Anh cười nhẹ, khóe môi nhếch lên:
+“Trùng hợp ghê, bán hết rồi.”`
+  },{
+    id: 169,
+    title: "Kẻ Sống Sót Trong Trò Đùa Của Thiên Mệnh",
+    image: "imgdam/ca45f7e4de4154be37fb34a07b95a9d8.jpg",
+    link: "dammy/ke-song-sot-trong-tro-dua-cua-thien-menh.html",
+    type: "dammy",
+    desc: `Nam phủ bốn vạn binh, xương trắng làm tế.
+
+Ba mươi bảy cái đầu của nhà Mạnh, biến thành bậc thang.
+
+Hoàng thập lục tử không những không leo lên được long ỷ, mà còn tự biến mình thành chó.
+
+Quả đúng là phế vật.`
+  },{
+    id: 170,
+    title: "Huyết Lộ Tu Tiên Giới",
+    image: "imgco/1ca97684ffe38a7bda2e9a158e75a887.jpg",
+    link: "cotrang/huyet-lo-tu-tien-gioi.html",
+    type: "cotrang",
+    desc: `Ta mang thai đứa con của nhân vật phản diện, lại bị nhốt vào Thượng Cổ Bí Cảnh.
+
+Sư môn cứ ngỡ mọi chuyện đã được sắp xếp ổn thỏa, nào ngờ tất cả chỉ là bề ngoài.
+
+Thực ra ta đã sớm để mắt tới bảo vật trong bí cảnh.
+
+Ta xuyên sách mà đến, sớm biết nơi này có một tòa Linh thảo thượng cổ, cũng chính là bàn tay vàng lớn nhất của nhân vật chính.
+
+Nhưng điều ta không ngờ tới chính là, cha của đứa trẻ trong bụng ta, kẻ tu vô tình đạo, lại động tình với ta, đến mức tẩu hỏa nhập ma, phát điên không kiểm soát.`
   },
+
+
 
 
 
