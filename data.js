@@ -3381,6 +3381,102 @@ Từng câu như máu chảy thành sông.
 Mở mắt lần nữa, ta đã trở về đúng đêm hắn bị ám sát.
 
 Thẩm Nam Phong, lần này, mong ngươi cùng người trong mộng cầm sắt hòa minh, bạc đầu giai lão.`
+  },{
+    id: 162,
+    title: "Ván Cờ Hôn Nhân",
+    image: "imgngon/0b7f40229773eb73cd3a33629e831b58.jpg",
+    link: "ngontinh/van-co-hon-nhan.html",
+    type: "ngontinh",
+    desc: `Gần đây chồng tôi bao nuôi một cô gái không được ngoan cho lắm.
+
+Nuông chiều cô ta đến mức giờ cô ta chẳng còn biết trời cao đất dày là gì, vậy mà còn dám tìm đến tận nơi gây chuyện với tôi.
+
+Cô gái có đôi mắt sáng ngời, thậm chí còn cố chấp không chịu gọi tôi là bà Thời: “Cô Lận, trong tình yêu, người không được yêu mới là người thứ ba.”
+
+Tôi cong mắt, đưa ngón tay thon dài giật mạnh chiếc bông tai ngọc trai trên tai cô ta xuống, vành tai lập tức rỉ máu.
+
+Phía sau, Thời Sâm xuất hiện, quai hàm hắn căng chặt.
+
+Mắt Lâm Khả hoe đỏ: “Anh Thời, anh đừng tức giận, chắc cô Lận không cố ý đâu.”
+
+Còn Thời Sâm chỉ lo xem tay tôi, nhẹ nhàng thổi thổi: “A Bối, tay em có đau không?”
+
+Lâm Khả không tin nổi nhìn hắn, nước mắt rơi dài trên mặt.
+
+Còn tôi chỉ khẽ mỉm cười.`
+  },{
+    id: 163,
+    title: "Bị Tổng Tài Nhắm Trúng Rồi Thì Chạy Sao Đây",
+    image: "imgdam/dd90cfae4a4fa80393f47498206d873b.jpg",
+    link: "dammy/bi-tong-tai-nham-trung-roi-thi-chay-sao-day.html",
+    type: "dammy",
+    desc: `Tôi là một paparazzi nam. Chỉ vì vô tình phá hỏng chuyện “tốt đẹp” của tổng tài bá đạo và nữ thần, tôi bị tổng tài tóm gọn ngay trên giường.
+
+“Ông chủ của cậu bảo cậu đến quyến rũ tôi à?”
+
+“Tổng giám đốc Tần, tôi thẳng mà, anh không thể!”
+
+Tôi còn chưa kịp nói hết câu, bàn tay lạnh ngắt của Tần Bạc đã luồn thẳng vào trong áo tôi. Tôi cuống cuồng vùng vẫy muốn thoát ra, kết quả bị anh dùng một tay đè chặt, nhúc nhích cũng không nổi. Chóp mũi anh cọ nhẹ lên má tôi, môi thì lúc chạm lúc không lên môi tôi.
+
+Cái cảm giác vừa lạnh vừa tê đó lan từ da đầu xuống tận sống lưng, xấu hổ tới mức tôi chỉ muốn đào cái hố tự chui xuống luôn cho đỡ nhục.
+
+Tôi khóc không ra nước mắt. Phen này đúng kiểu tự mình dâng đầu vào miệng sói rồi.`
+  },{
+    id: 164,
+    title: "Quậy Nát Cả Tam Giới",
+    image: "imgco/0e25d18f8f27b5315e6c719eb3e21474.jpg",
+    link: "cotrang/quay-nat-ca-tam-gioi.html",
+    type: "cotrang",
+    desc: `Kiếp trước, ta bị tất cả mọi người xa lánh, bị sư tôn ném thẳng xuống Tru Tiên Đài, thần hồn tan nát chẳng còn chút gì.
+
+“Vệ Thần, ngươi hãm hại đồng môn, thả yêu thú, tội ác tày trời.”
+
+Nghe tiếng quát giận dữ cuối cùng của sư tôn, ta chậm rãi nhắm mắt.
+
+Cho đến khi ý thức rơi vào màn đêm vô tận, ta mới biết được hóa ra mình chỉ là nữ phụ ác độc trong một quyển sách nào đó.
+
+Cho nên ta được sinh ra chính là để tranh đoạt với nữ chủ, dâng cơ duyên cho nam chủ, giúp hắn phi thăng, sau đó lại bị hắn chán ghét như giẻ rách.
+
+Mà khi ta mở mắt lần nữa, khóe môi liền cong lên.
+
+Nếu ông trời đã nhét sẵn “cẩm nang vượt ải” vào tay ta rồi, vậy còn chờ gì nữa.
+
+Nhanh chân ôm “ký ức bản đồ kho báu”, men theo đường cũ đời trước, cướp sạch cơ duyên trước khi đám người kia kịp mò tới mới là chuyện đứng đắn.
+
+Kiếm bổn mạng.
+
+Bảo vật yêu thú viễn cổ.
+
+Bí cảnh linh thảo.
+
+Đời này, bọn họ đừng hòng động vào dù chỉ một cọng lông.
+
+Ta muốn hốt sạch.
+
+Về phần đám nam chủ nữ chủ kia có đột phá được hay không, có phi thăng nổi hay không, liên quan gì tới ta.
+
+Ăn gió tây bắc đi.
+
+Ha ha ha ha ha.`
+  },{
+    id: 165,
+    title: "Lớp Học Của Những Tội Lỗi",
+    image: "imgngon/17fabb4bb7adc73133a2e3bef15b2ea7.jpg",
+    link: "ngontinh/lop-hoc-cua-nhung-toi-loi.html",
+    type: "ngontinh",
+    desc: `Lúc em gái tôi nửa sống nửa chết bị đẩy vào phòng cấp cứu, chiếc điện thoại dính đầy máu của con bé đột nhiên sáng lên.
+
+Đó là một đoạn video do số lạ gửi tới.
+
+Trong video, em gái tôi ngồi bệt dưới đất, quần áo rách bươm, mặt sưng vù. Vô số bàn tay từ sau màn hình thò ra tát liên tục lên mặt con bé.
+
+Mấy đôi giày hàng hiệu cứ thế đạp lên người nó không thương tiếc, như thể nó là túi rác bẩn nhất thế giới vậy.
+
+Âm thanh trong video loạn cào cào, vừa có tiếng cười vừa có tiếng chửi bới của cả nam lẫn nữ.
+
+Em gái tôi trong video nhìn chẳng khác gì người đã chết.
+
+Tôi cong khóe môi, vui vẻ xem hết đoạn clip dài sáu phút ba mươi bảy giây, không tua một giây nào.`
   },
 
 
