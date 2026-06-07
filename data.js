@@ -3597,6 +3597,57 @@ Thực ra ta đã sớm để mắt tới bảo vật trong bí cảnh.
 Ta xuyên sách mà đến, sớm biết nơi này có một tòa Linh thảo thượng cổ, cũng chính là bàn tay vàng lớn nhất của nhân vật chính.
 
 Nhưng điều ta không ngờ tới chính là, cha của đứa trẻ trong bụng ta, kẻ tu vô tình đạo, lại động tình với ta, đến mức tẩu hỏa nhập ma, phát điên không kiểm soát.`
+  },{
+    id: 171,
+    title: "Yêu Nhầm Một Người Không Thuộc Về Mình",
+    image: "imgngon/94215806a7dbf9f682db1586f1d7c97d.jpg",
+    link: "ngontinh/yeu-nham-mot-nguoi-khong-thuoc-ve-minh.html",
+    type: "ngontinh",
+    desc: `Ngày đi công tác, tôi phát hiện ra bí mật của bạn trai.
+
+Anh ta có một tài khoản Weibo mở từ rất lâu, bên trong toàn là những dòng chữ yêu thương dành cho một cô gái khác.
+
+Anh sẵn sàng yêu cô ta từ khoảng cách hơn một nghìn km, nhưng lại không muốn yêu xa với tôi dù chỉ cách nhau một trăm km.
+
+Anh nói mình không thích đi xa, nhưng lại âm thầm tích góp tới hai trăm mười ba vé tàu hỏa đường dài chỉ để gặp cô ta.
+
+Trên đời này người thì nhiều thật, nhưng anh chỉ yêu nhất Nguyệt Nguyệt, còn tôi là Triều Triều.`
+  },{
+    id: 172,
+    title: "Hồ Yêu Lạc Ấn Phật Tâm",
+    image: "imgdam/142dcdd4fe9730e8a88138352ed43436.jpg",
+    link: "dammy/ho-yeu-lac-an-phat-tam.html",
+    type: "dammy",
+    desc: `Vì thèm một hạt bồ đề, ta lén lút mò vào Vô Vân Tự, ai ngờ lại đụng ngay vị Phật tử đang trúng Điệp Độc.
+
+Cái thứ độc dược âm hiểm ấy khiến hắn đêm đó ghì ta xuống giường, thô bạo phá giới ngay tại chỗ.
+
+Sau một đêm long trời lở đất, ta ôm đuôi hồ ly chuồn mất dạng.
+
+Đến lúc gặp lại, hắn lại dẫn nguyên đội Giám Yêu Ti tới bao vây bắt người.
+
+Ta tức đến nổ phổi, chỉ thẳng mặt hắn mà gào:
+
+“Đồ trọc đầu chết tiệt này, ngủ xong không chịu trách nhiệm thì thôi đi, còn mặc cà sa giả bộ thanh cao. Ta không trộm gà cũng chẳng giết người, dựa vào cái gì mà bắt ta chứ?”`
+  },{
+    id: 173,
+    title: "Công Chúa Bị Ruồng Bỏ",
+    image: "imgco/4a171d4de841fdc3c9c7c4e692d51789.jpg",
+    link: "cotrang/cong-chua-bi-ruong-bo.html",
+    type: "cotrang",
+    desc: `Năm Cảnh Chinh thứ mười ba, Hoàng hậu Đại Cảnh hạ sinh Thập Tứ công chúa.
+
+Đúng lúc ấy trời đất nổi dị tượng. Giữa trán của Thập Tứ công chúa xuất hiện một vết bớt hình nửa cánh mai. Đại tế ti vừa nhìn đã phán rằng, nơi nào có công chúa, nơi ấy tất sinh tai họa liên miên, quả thực là điềm chẳng lành.
+
+Hoàng đế nghe xong nổi trận lôi đình, lập tức hạ lệnh chém Đại tế ti, lại ban tên cho Thập Tứ công chúa là Tần Tranh.
+
+Ai ngờ đến lúc công chúa mở mắt, mọi người lại phát hiện đôi mắt nàng đỏ như máu. Hoàng đế muốn phong tỏa tin tức, nhưng lời đồn vẫn như cỏ gặp gió, lan khắp trong ngoài kinh thành. Nào là thiên tai sắp giáng xuống, nào là dân chúng lầm than, thậm chí còn có lời bảo sẽ mất cả thành trì.
+
+Tất cả đều đổ lên đầu Thập Tứ công chúa, nói nàng chính là điềm xấu.
+
+Chuyện càng lúc càng lớn. Các đại thần thi nhau dâng tấu, người thì xin phế hậu, người thì muốn vứt bỏ Thập Tứ công chúa cho xong chuyện.
+
+Nhưng Hoàng đế không nỡ xuống tay với con gái mình, cuối cùng chỉ đành nhốt công chúa trong Triều Vận điện, không cho xuất hiện trước mặt người ngoài nữa.`
   },
 
 
