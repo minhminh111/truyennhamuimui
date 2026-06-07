@@ -3648,7 +3648,158 @@ Tất cả đều đổ lên đầu Thập Tứ công chúa, nói nàng chính l
 Chuyện càng lúc càng lớn. Các đại thần thi nhau dâng tấu, người thì xin phế hậu, người thì muốn vứt bỏ Thập Tứ công chúa cho xong chuyện.
 
 Nhưng Hoàng đế không nỡ xuống tay với con gái mình, cuối cùng chỉ đành nhốt công chúa trong Triều Vận điện, không cho xuất hiện trước mặt người ngoài nữa.`
+  },{
+    id: 174,
+    title: "Hôn Nhân Hợp Đồng Với Mối Tình Đầu",
+    image: "imgngon/2f20cb84b5ab95f4717d5daeb3113f7f.jpg",
+    link: "ngontinh/hon-nhan-hop-dong-voi-moi-tinh-dau.html",
+    type: "ngontinh",
+    desc: `Sau khi nghỉ việc và quay về quê, tôi kết hôn với anh trai của bạn thân, nhưng hình như anh ấy không thích tôi cho lắm.
+
+Không sao, tôi tự an ủi mình, coi như tôi cưới luôn cả bạn thân là được.
+
+Thế nên sau đám cưới, tôi vẫn đều đặn chạy sang gặp bạn thân, cho đến một ngày, anh ấy trực tiếp túm tôi lại không cho đi.
+
+“Vợ à, em thật sự muốn để anh ăn chay mãi như vậy sao?”
+
+“?????”`
+  },{
+    id: 175,
+    title: "Bị Nhầm Là Thế Thân Của Bạch Nguyệt Quang",
+    image: "imgdam/26d9511e885e8763295302a10e804bd0.jpg",
+    link: "dammy/bi-nham-la-the-than-cua-bach-nguyet-quang.html",
+    type: "dammy",
+    desc: `Sau khi xuyên vào truyện, trở thành pháo hôi thế thân của nam chính, hệ thống lập tức thông báo cho tôi biết:
+
+Chỉ cần công lược được nam chính, tôi không những có thể quay về thế giới thực mà còn được thưởng hẳn một tỷ.
+
+Lúc đầu, nam chính nói gì tôi làm nấy, ngoan còn hơn học sinh tiểu học gặp giáo viên chủ nhiệm.
+
+Nhưng về sau tôi mới phát hiện ra, trong lòng hắn từ đầu đến cuối chỉ có mỗi bạch nguyệt quang.
+
+Nhiệm vụ này nghe thôi đã thấy mùi bất khả thi bay mù trời rồi.
+
+Thế là tôi mặc kệ luôn, sống kiểu ai thích sao thì sống. Quần áo thích mặc gì mặc nấy, ngày nào cũng ru rú trong nhà chơi game, phản nghịch tới mức hệ thống nhìn còn muốn tăng huyết áp.
+
+“Tô Tô, dạo này em bị sao thế?”
+
+“Đi thì đi!”
+
+Tôi nói xong liền quay đầu về phòng, để lại hắn đứng đơ tại chỗ như vừa bị lag mạng.
+
+Nam chính đưa bạch nguyệt quang về nước, còn tôi thì bị hắn giữ lại trong nhà. Nghĩ kiểu gì cũng thấy không cam lòng nổi.
+
+Có lần hắn uống say quay về, vừa cười vừa khóc nhìn cực kỳ thảm.
+
+Tôi theo phản xạ nâng mặt hắn lên lau nước mắt, đầu óc mơ hồ kiểu thiếu ngủ quá mức, miệng nhanh hơn não:
+
+“Đừng khóc nữa, anh khóc lên chẳng giống anh ấy chút nào.”
+
+Đoạn Từ Cảnh lập tức khựng lại, sau đó đột ngột túm lấy tôi, ánh mắt đáng sợ đến mức muốn đóng băng người khác.
+
+“Ý em là gì?”`
+  },{
+    id: 176,
+    title: "Hoàng Cung Không Giữ Được Ta",
+    image: "imgco/a3ce36e5fc4b0f1327b559abdf296a6d.jpg",
+    link: "cotrang/hoang-cung-khong-giu-duoc-ta.html",
+    type: "cotrang",
+    desc: `Ta từng ngỡ rằng, chỉ cần bản thân đủ hiểu chuyện, đủ ngoan ngoãn, sớm muộn gì cũng sẽ được người kia đặt ở vị trí quan trọng nhất trong lòng.
+
+Mãi cho đến ngày ta và Uyển phi cùng dâng tì bà đã bóc vỏ lên trước mặt hoàng đế, hắn vẫn như bao lần trước, không chút do dự mà chọn nàng ta trước.
+
+Đợi đến lượt ta, Lưu Sóc đã chẳng còn hứng thú động đũa.
+
+Ta đứng lặng hồi lâu, trong lòng bỗng như gương sáng được lau sạch bụi mờ. Thì ra suốt những năm tháng ấy, người hắn ưu tiên từ đầu đến cuối vẫn luôn là Ôn Uyển.
+
+Năm đó tuyển Hậu, hắn từng hỏi nàng có muốn ngồi lên ngôi vị Hoàng hậu hay không.
+
+Ôn Uyển chỉ thản nhiên lắc đầu.
+
+“Làm Hoàng hậu cực khổ cả đời thì có gì hay? Thần thiếp không thích.”
+
+Vì một câu nói ấy, ta trở thành Hoàng hậu bị thiên hạ âm thầm chế giễu.
+
+Mãi đến lúc nhắm mắt xuôi tay, cũng chưa từng đổi thay.
+
+Lần nữa mở mắt, ta đã trở về yến tiệc tuyển phi năm ấy.
+
+Thái hậu nhìn ta, chậm rãi hỏi.
+
+“Đã từng đọc qua những sách gì?”
+
+Kiếp trước, vì muốn được nhập cung, ta cố ý giấu tài, chỉ đáp rằng mình từng đọc “Nữ Tắc”, “Nữ Giới”.
+
+Nhưng lần này, ta chỉ khẽ cong môi.
+
+“Kinh Thi, Mạnh Tử, Tả Truyện...”`
+  },{
+    id: 177,
+    title: "Những Cánh Diều Tuổi Thơ",
+    image: "imgngon/9bcdc477c63aecd1410e3720cec84bcc.jpg",
+    link: "ngontinh/nhung-canh-dieu-tuoi-tho.html",
+    type: "ngontinh",
+    desc: `Tôi đã trọng sinh rồi.
+
+Năm 2001.
+
+Mẹ vẫn còn sống.
+
+Ba vẫn chưa trở nên u uất, lặng lẽ.
+
+Chiếc răng sâu của tôi vẫn còn đau.
+
+Chú chó hoang A Mao ở góc phố vẫn còn giành giật khúc xương.
+
+Cô bạn thân đi vệ sinh cùng – Mỹ Mỹ bất ngờ đưa que kem ra trước mặt tôi: “Ăn nhanh đi, ăn xong còn nhảy dây.”
+
+Sau giờ tan học, quanh dãy nhà cấp bốn vẫn là đám bạn nghịch ngợm chơi đùa cùng nhau, chưa ai rời xa.
+
+Tuổi thanh xuân mà tôi đã mãi mãi đánh mất…
+
+Đã quay trở về.
+
+Ai đó đẩy tôi một cái, tiếng của bạn cùng bàn vang bên tai, ngân nga như một câu hát tuổi thơ:
+
+“Này, cậu nói xem, lớn lên sẽ như thế nào nhỉ?”`
+  },{
+    id: 178,
+    title: "Bạn Cùng Phòng Không Ngủ Ngày Hôm Ấy",
+    image: "imgdam/6cd295cb53af52d97ab0f2d164ad4bf3.jpg",
+    link: "dammy/ban-cung-phong-khong-ngu-ngay-hom-ay.html",
+    type: "dammy",
+    desc: `Bạn cùng phòng không may làm vỡ gói hàng của tôi.
+
+Nhìn những thứ rơi ra bên trong, cậu ta sững lại, há hốc mồm đến mức có thể nhét vừa hai quả trứng gà.
+
+Tôi nói: “Chỉ là mấy cái quần lót thôi mà, sao phải biểu cảm như vậy? Làm như cậu chưa từng mặc quần lót, cứ để trống không vậy.”
+
+Cậu ta chỉ vào đống đồ dưới sàn, vẻ mặt đầy phức tạp.
+
+“Tôi chưa bao giờ mặc quần lót tam giác, ren, của nam.”
+
+Tôi: “?”`
+  },{
+    id: 179,
+    title: "Hồi Sinh Giữa Phong Ba Hận Thù",
+    image: "imgco/001e7d00c04564478ec0b5d45edb8e41.jpg",
+    link: "cotrang/hoi-sinh-giua-phong-ba-han-thu.html",
+    type: "cotrang",
+    desc: `Kiếp trước, tỷ tỷ gả cho thế tử, nhưng hắn lại có sở thích Long Dương, để nàng một mình trong căn phòng lạnh lẽo, trở thành trò cười của cả thành.
+
+Còn ta gả cho Lịch Cảnh Hành, từ một kẻ canh giữ cổng thành vô danh, hắn từng bước leo lên vị trí đại thần nhất phẩm, chúng ta bên nhau hòa thuận, yêu thương suốt đời.
+
+Thế nhưng tỷ tỷ lại lừa ta uống rượu độc, cùng ta trọng sinh trở lại.
+
+Sau đó, nàng lập tức giành lấy tín vật của nhà họ Lịch, giọng đầy đắc ý như đã nắm chắc phần thắng trong tay, nói rằng: “Lần này Lịch Cảnh Hành là của ta.”
+
+Nàng tự mãn, tưởng như vận mệnh đã nằm gọn trong lòng bàn tay.
+
+Nhưng ngay sau đó, Lịch Cảnh Hành đẩy cửa bước vào, gió tuyết theo hắn tràn vào phòng lạnh buốt, hắn thản nhiên giật lại ngọc bội từ tay nàng, cười lạnh một tiếng.
+
+“Ngươi tưởng ta là cây cải trắng hay gì mà muốn chọn thì chọn sao?”`
   },
+
 
 
 
