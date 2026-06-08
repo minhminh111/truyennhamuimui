@@ -3843,6 +3843,164 @@ Không ai biết, phía sau cánh cổng Thẩm gia, ta đã sống những ngà
 Sống lại một đời, đúng lúc Thẩm Nghiễn lại vang danh thiên hạ, ta lặng lẽ thu dọn hành lý, trải giấy viết thư hòa ly, sau đó mỉm cười dịu dàng ngồi chờ hắn ngay ngoài cửa.
 
 “Chúc mừng lang quân, thiếp tự nguyện rời đi, trả lại tự do cho chàng, từ nay về sau, đôi ta không ai nợ ai.”`
+  },{
+    id: 183,
+    title: "Quả Bóng Đập Trúng Tim Em",
+    image: "imgngon/7c14b93ac524ffb03183c1139f07c492.jpg",
+    link: "ngontinh/qua-bong-dap-trung-tim-em.html",
+    type: "ngontinh",
+    desc: `Sau khi bị quả bóng rổ bay trúng đầu, trùm trường Cố Diễn tỏ vẻ mất kiên nhẫn hỏi:
+
+“Bao nhiêu tiền?”
+
+Tôi ngẩn người một giây rồi mới phản ứng lại, lấy điện thoại ra đưa cho anh ta quét mã.
+
+“Một ngàn.”
+
+Cố Diễn khẽ cười khẩy, cầm điện thoại của người đi cùng bên cạnh, dứt khoát chuyển cho tôi năm ngàn tệ.
+
+Trước khi rời đi, giọng nói đầy châm chọc của anh ta vang lên:
+
+“Cầm lấy mà đi khám lại cái đầu. Không đủ thì đến tìm tôi nữa.”
+
+Quả nhiên trùm trường đúng như lời đồn, nhiều tiền nhưng đầu óc có vẻ cũng… khá đơn giản.
+
+Tôi rất “nghe lời”, cứ hết tiền là lại chạy đi xem Cố Diễn chơi bóng rổ.
+
+Hễ thấy quả bóng bay lệch sân, tôi lập tức lao ra “đón” đúng lúc để kiếm chác.
+
+Sau năm lần như vậy, Cố Diễn cuối cùng cũng nhận ra vấn đề.
+
+Anh ta nghiến răng:
+
+“Ngôn Nhan, cậu thật sự nghĩ tôi ngu à?”
+
+Bị bóc mưu ngay tại chỗ, tôi hoảng hốt quay đầu bỏ chạy.
+
+Sau đó, mỗi lần thấy tôi cầm tiền của giáo thảo, Cố Diễn liền chặn tôi trong lớp, mắt đỏ ngầu:
+
+“Tôi mẹ nó đúng là có tiền, nhưng không có não chắc?
+
+Dễ lừa như vậy mà cậu không tìm?
+
+Cậu lại đi tìm cái tên trắng trẻo như hồ ly đó, không sợ bị người ta ăn sạch đến không chừa lại cái gì à?”`
+  },{
+    id: 184,
+    title: "Biến Số Mang Thai Của Thế Giới Thú Nhân",
+    image: "imgdam/3ce1ab1821aad5a4eaeb2f893a3cfdf6.jpg",
+    link: "dammy/bien-so-mang-thai-cua-the-gioi-thu-nhan.html",
+    type: "dammy",
+    desc: `Tôi xuyên đến một thế giới đầy hổ, sư tử, trăn… đủ loại sinh vật to lớn rải khắp nơi.
+
+Còn bị ép buộc liên kết với một hệ thống sinh con.
+
+Hệ thống bảo tôi chỉ cần sinh đủ 100 đứa là có thể quay về thế giới cũ.
+
+Nhìn sang căn giường đối diện, ông anh du côn trường học với đôi tai sói dựng thẳng.
+
+Giường dưới là nam thần với nửa người trên là người, nửa người dưới là… đuôi rắn.
+
+Giường kế bên lại là nam sinh khoa múa đang lắc cái đuôi trắng tinh.
+
+Tôi chỉ có thể nghĩ, mọc ba cái sừng còn dễ hơn cái này.
+
+Tôi là đàn ông.
+
+Đàn ông thì sinh kiểu gì.
+
+Sinh một trăm đứa.`
+  },{
+    id: 185,
+    title: "Song Xu Nghịch Thiên",
+    image: "imgco/afe62da3e8ad85f42e1be413be16513e.jpg",
+    link: "cotrang/song-xu-nghich-thien.html",
+    type: "cotrang",
+    desc: `Việc đầu tiên tân hoàng làm sau khi đăng cơ chính là gả Tứ công chúa Hứa Khanh Ỷ đi hòa thân.
+
+Tiện thể còn tiện tay gả tôi cho đứa em trai phế vật của hắn.
+
+Nhưng dựa vào hơn mười năm giao phong với Hứa Khanh Ỷ mà xét, tân đế đúng là cầm đèn đi tìm nhà xí, tự mình lao đầu vào chỗ chết ngay trong đêm.
+
+Quả nhiên, năm năm sau, Hứa Khanh Ỷ tạo phản.
+
+Nàng trở thành thái hậu của địch quốc, còn công khai tuyên bố muốn lấy cái mạng chó của hoàng đế.`
+  },{
+    id: 186,
+    title: "Lật Trang Quá Khứ",
+    image: "imgngon/80a450fddf079148e5e497b476d4af2b.jpg",
+    link: "ngontinh/lat-trang-qua-khu.html",
+    type: "ngontinh",
+    desc: `Cha tôi là ông trùm xã hội đen, mẹ tôi là đại tiểu thư trong giới Bắc Kinh.
+
+Anh trai tôi lại là một kẻ cuồng em gái. Cuộc đời tôi suôn sẻ đến mức khiến mọi người thèm muốn.
+
+Vì vậy, khi phát hiện mình được tái sinh, tôi cứ đinh ninh rằng mình sẽ có một cuộc đời thứ hai hạnh phúc hơn.
+
+Thế nhưng, khi cô y tá bế tôi, đứa trẻ sơ sinh, đến trước mặt cha, người cha mà trong ký ức luôn yêu thương tôi lại chỉ thờ ơ liếc nhìn.
+
+“Kiếp trước con đã hưởng hết phúc phận của thiên kim nhà họ Lục rồi, kiếp này con nên nhường thân phận cho Khinh Khinh.”
+
+Nói rồi, ông ấy không chút biểu cảm đưa cho y tá một tấm chi phiếu.
+
+“Tìm một gia đình tốt nhận nuôi con bé, đừng để nó xuất hiện trước mặt tôi nữa.”
+
+Y tá bế tôi rời bệnh viện bằng cửa sau, nhưng chưa đi được bao xa thì đã bị đánh ngất ở đầu hẻm.
+
+Nhìn thấy người anh trai quen thuộc bế tôi khỏi vòng tay y tá, tôi cứ tưởng mình đã gặp được vị cứu tinh.
+
+Nhưng anh ấy lại bịt miệng tôi, đi qua vài con phố tối tăm, dừng lại ở cửa sau của một hộp đêm ngầm. Ánh mắt anh ấy độc ác, giọng nói đầy thù hận:
+
+“Anh đã hứa với Khinh Khinh, nhất định phải để em chìm đắm trong cái ổ quỷ này, để em nếm trải cái mùi bị khinh rẻ, lăn lộn trong chốn phong nguyệt.”`
+  },{
+    id: 187,
+    title: "Đặt Nhầm Mị Ma",
+    image: "imgdam/df5615cba09322fde99d3ce1fb233758.jpg",
+    link: "dammy/dat-nham-mi-ma.html",
+    type: "dammy",
+    desc: `Tôi tự nhận mình là top, lên mạng đặt mua một con mị ma nhỏ nhắn mềm mại về để phát tiết.
+
+Ai ngờ đời không như là mơ.
+
+Cậu ta vừa đẹp trai vừa dâm đãng, nhưng lúc lôi hàng ra thì… còn khủng hơn cả tôi.
+
+Tôi chui tọt vào phòng tắm, run tay nhắn cho bên bán hàng.
+
+“Có khi nào các anh gửi nhầm model không vậy. Sao tôi thấy cậu ta như muốn đè tôi ra thế?”
+
+Người bán trả lời cực tỉnh.
+
+“Chúng tôi sản xuất đúng theo tùy chỉnh khách hàng mà. Có lẽ… thuộc tính thật của cậu là 0 đấy.”
+
+Tôi nghiến răng ken két.
+
+“Tôi mặc kệ. Tôi muốn trả hàng.”
+
+Ngoài phòng tắm, mị ma nhà tôi nghe sạch không sót chữ nào, tay siết chặt đến nổi gân.
+
+Từ hôm đó, cậu ta bắt đầu “trả thù”.
+
+Ban ngày dỗ tôi ăn.
+
+“Ngoan, nuốt hết vào, đừng để rơi ra ngoài.”
+
+Ban đêm cũng y chang câu đó.`
+  },{
+    id: 188,
+    title: "Thần Nữ Trở Lại Phá Vỡ Thiên Mệnh",
+    image: "imgco/a4b742ea28d7d410477e9646f6162d9f.jpg",
+    link: "cotrang/than-nu-tro-lai-pha-vo-thien-menh.html",
+    type: "cotrang",
+    desc: `Bùi gia ta cứ ba đời lại sinh ra một vị thần nữ.
+
+Năm ta chào đời, bách điểu triều phượng, ráng mây rực khắp trời. Người đời đều tin, ta chính là kẻ được trời chọn.
+
+Cho đến khi Bắc Ngụy gặp đại hạn, ta đứng trên Lăng Vân Đài, đàn khúc cầu mưa nhưng trời vẫn lặng như tờ. Ngược lại, thứ muội chỉ một lần xuất hiện, mưa gió liền kéo đến ầm ầm.
+
+Từ đó, thiên hạ đổi lời, nói rằng nàng mới là thần nữ chân chính.
+
+Bọn họ phẫn nộ vì nhận nhầm người, phế đi ngón tay ta, đuổi ta ra khỏi Bùi gia.
+
+Ngày ta rời đi, ta đứng ở Lăng Vân Đài, nhìn bách điểu quanh trời cúi đầu mà cười đến chảy cả nước mắt.`
   },
 
 
