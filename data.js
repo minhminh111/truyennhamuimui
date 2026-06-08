@@ -3798,6 +3798,51 @@ Nàng tự mãn, tưởng như vận mệnh đã nằm gọn trong lòng bàn ta
 Nhưng ngay sau đó, Lịch Cảnh Hành đẩy cửa bước vào, gió tuyết theo hắn tràn vào phòng lạnh buốt, hắn thản nhiên giật lại ngọc bội từ tay nàng, cười lạnh một tiếng.
 
 “Ngươi tưởng ta là cây cải trắng hay gì mà muốn chọn thì chọn sao?”`
+  },{
+    id: 180,
+    title: "Người Cũ Không Bao Giờ Thực Sự Rời Đi",
+    image: "imgngon/5827e86a4706a91f0a784a560318c50e.jpg",
+    link: "ngontinh/nguoi-cu-khong-bao-gio-thuc-su-roi-di.html",
+    type: "ngontinh",
+    desc: `Đi tìm bạn trai cũ mới chia tay được đúng một tuần để nói chuyện quay lại. Kết quả vừa mở cửa ra đã thấy anh ấy đang cúi đầu hôn một cô gái, mà cô ta còn đang mặc váy ngủ của tôi nữa chứ. Điều khiến tôi sốc ngang còn là người đó chẳng phải ai xa lạ, mà chính là bạn cùng phòng ký túc xá của tôi.
+
+Tối qua ở phòng ngủ, bạn cùng phòng đột nhiên nói có lẽ cô ấy sắp dọn ra ngoài ở rồi. Vì người con trai cô ấy thích suốt bao năm cuối cùng cũng chịu gật đầu đồng ý yêu đương, còn muốn dọn ra sống chung với cô ấy nữa.
+
+Lúc đó tôi còn ngu ngơ ngồi chúc mừng cô ấy như thật, cứ tưởng chị em cuối cùng cũng hái được hoa thơm. Ai mà ngờ được người bạn trai kia lại chính là người yêu cũ mới chia tay đúng một tuần của tôi. Đúng kiểu “nước phù sa không chảy ruộng ngoài”, quay một vòng vẫn hốt ngay người quen.`
+  },{
+    id: 181,
+    title: "Tỉnh Dậy Một Đêm Kẻ Đối Đầu Lại Nằm Chung Một Nhà",
+    image: "imgdam/021859ec2fca068c1b30521fdb2eda8f.jpg",
+    link: "dammy/tinh-day-mot-dem-ke-doi-dau-lai-nam-chung-mot-nha.html",
+    type: "dammy",
+    desc: `Tôi và Tống Tu Ninh đúng kiểu hai đường thẳng song song, đời này kiếp này chẳng bao giờ có nổi một giao điểm.
+
+À không, phải nói là hai cục nam châm cùng cực, vừa dí lại gần là tự động bật nhau ra mới chuẩn.
+
+Mối thù này cũng chẳng phải kiểu giận dỗi trẻ con của mấy đôi yêu nhau vớ vẩn gì đó, mà là loại vừa nghe tiếng chuông tan học vang lên một cái là muốn lao vào combat luôn.
+
+Nửa đêm tỉnh giấc, tôi bàng hoàng phát hiện mình đột nhiên xuyên tới tận mười năm sau.
+
+Kẻ thù không đội trời chung của tôi, Tống Tu Ninh, lúc này lại đang ôm cứng tôi trong chăn. Môi hắn tham lam hôn khắp nơi, cướp sạch không khí của tôi luôn. Trên tường còn treo nguyên cái ảnh cưới to đùng của hai đứa, ngọt ngào đến mức khiến người ta muốn xỉu ngang.
+
+Tôi... thế mà lại đi đăng ký kết hôn với hắn ở tận trời Tây luôn rồi à?`
+  },{
+    id: 182,
+    title: "Hòa Ly Xong Ta Trở Thành Nữ Quan",
+    image: "imgco/5a876d78c61a0f6c34d4353ebee93c0e.jpg",
+    link: "cotrang/hoa-ly-xong-ta-tro-thanh-nu-quan.html",
+    type: "cotrang",
+    desc: `Kiếp trước ta gả cho Thẩm Nghiễn, ai ai nghe đến cũng phải xuýt xoa bảo ta số hưởng, vớ được nhân duyên tốt đến mức muốn ghen tị.
+
+Thẩm Nghiễn tuổi thiếu niên đã công thành danh toại, sau đó như cá gặp nước, một đường thăng tiến không phanh, trở thành thủ phụ, phò tá ấu đế, quyền thế khuynh đảo cả triều đình.
+
+Nhưng cái vinh quang đó, từ đầu đến cuối cũng chỉ là của một mình Thẩm Nghiễn.
+
+Không ai biết, phía sau cánh cổng Thẩm gia, ta đã sống những ngày chua chát đến mức nào.
+
+Sống lại một đời, đúng lúc Thẩm Nghiễn lại vang danh thiên hạ, ta lặng lẽ thu dọn hành lý, trải giấy viết thư hòa ly, sau đó mỉm cười dịu dàng ngồi chờ hắn ngay ngoài cửa.
+
+“Chúc mừng lang quân, thiếp tự nguyện rời đi, trả lại tự do cho chàng, từ nay về sau, đôi ta không ai nợ ai.”`
   },
 
 
