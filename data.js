@@ -4059,6 +4059,115 @@ Trong mắt nàng, ta chẳng khác nào món đồ có thể tùy ý chà đạ
 Nhưng bọn họ nào biết, ta là nữ xuyên không, sở trường lớn nhất chính là nhẫn nhịn chờ thời cơ, giả heo ăn thịt hổ.
 
 Mãi đến khi ta thật sự trở thành đích nữ, mới phát hiện đám người này ai nấy đều có thêm một bộ mặt khác.`
+  },{
+    id: 192,
+    title: "Có Thai Rồi Mới Biết Sếp Không Hề Vô Tình",
+    image: "imgngon/a15fe1cb674b38e8a87924345006517c.jpg",
+    link: "ngontinh/co-thai-roi-moi-biet-sep-khong-he-vo-tinh.html",
+    type: "ngontinh",
+    desc: `Sau một lần say rượu, tôi và sếp lỡ lao vào nhau như phim drama chiếu giờ vàng.
+
+Ba tháng sau, chỉ vì một tờ siêu âm, Hứa Văn Châu bị ép cưới tôi luôn cho nóng.
+
+Sau khi kết hôn, hai người sống với nhau lịch sự đến mức giống khách thuê chung nhà hơn là vợ chồng. Ai ở góc người nấy, không ai vượt ranh giới nửa bước.
+
+Tôi biết anh không yêu tôi.
+
+Sinh con xong, tôi cũng tự giác dẹp luôn mấy suy nghĩ viển vông của bản thân, định bụng ly hôn rồi cao chạy xa bay.
+
+Ai ngờ người đàn ông lúc nào cũng lạnh như tủ đông ấy lại đỏ hoe mắt, ép tôi vào phòng tắm.
+
+“Noãn Noãn, em không cần anh nữa sao?”`
+  },{
+    id: 193,
+    title: "Giả Gái Yêu Nhầm Dã Vương",
+    image: "imgdam/842b4cf3b0c748add7552128caab910e.jpg",
+    link: "dammy/gia-gai-yeu-nham-da-vuong.html",
+    type: "dammy",
+    desc: `Tôi dùng ảnh của chị gái để tán được một “dã vương” trong game.
+
+Hắn muốn gặp mặt ngoài đời, thế là tôi quyết định giả gái đi gặp.
+
+Ai ngờ hắn chẳng phát hiện ra chút nào, thậm chí còn dính tôi ngày một nhiều hơn.
+
+Tôi dứt khoát nói chia tay.
+
+Nhưng sau đó, khi tôi không còn ngụy trang nữa, hắn lại tóm được tôi.
+
+Hắn ghé sát bên tai tôi, giọng trầm thấp mang theo cảm giác nguy hiểm:
+
+“Vợ à, nhìn cũng nhìn rồi, dùng cũng dùng rồi, không định chịu trách nhiệm sao?”`
+  },{
+    id: 194,
+    title: "Bếp Nhỏ Của Ái Phi",
+    image: "imgco/7ce5ac311464b31f281c66f1f9ff25f0.jpg",
+    link: "cotrang/bep-nho-cua-ai-phi.html",
+    type: "cotrang",
+    desc: `Phụ thân muốn ta tiến cung thay tỷ tỷ, thế là ta thu dọn đồ đạc, bỏ trốn ngay trong đêm.
+
+Khởi hành từ kinh thành, ta đánh xe ngựa một mạch hướng thẳng về Giang Nam. Giữa tiết đông chuyển xuân, dọc đường chỉ thấy tuyết mỏng phủ lên rừng cây tịch mịch. Đến khi đặt chân tới Giang Nam thì nhân gian đã đổi sắc, xuân về chim hót, trăm hoa đua nở, cảnh đẹp như họa khiến lòng người say đắm. Ta du sơn ngoạn thủy, vui đến mức chẳng muốn quay về.
+
+Hôm ấy, ta đang hai mắt sáng rực ngồi xổm trước quầy bán chân giò hun khói chờ đồ chín thì phía sau bỗng truyền đến tiếng bước chân hỗn loạn. Một bàn tay vươn tới vặn mạnh tai ta kéo lên, ta bất đắc dĩ nhe răng nhăn mặt đứng dậy.
+
+Phụ thân ta từ trong đám gia đinh bước ra, trên mặt treo nụ cười chế giễu: “Ân Sở Sở, chỉ cần ngươi bằng lòng thay tỷ tỷ vào cung, chuyện ngươi tự ý bỏ trốn lần này ta có thể không truy cứu.”
+
+Hoàng thượng muốn Ân gia đưa một nữ nhi vào cung. Theo lệ, người được chọn vốn phải là tỷ tỷ, nhưng tỷ tỷ từ nhỏ thân thể yếu ớt, phụ thân và di nương không nỡ để nàng bước vào nơi thị phi như ăn thịt người không nhả xương, liền nhắm vào ta. Mẫu thân ta vì khó sinh mà qua đời, ta ở Ân phủ vốn chỉ là nhị tiểu thư không nơi nương tựa, mặc người bài bố.
+
+Thân thể của tỷ tỷ là thịt, chẳng lẽ thân thể của ta thì không phải sao. Ta cúi đầu, bàn tay siết chặt cây trâm bạc mới mua ở chợ đêm hôm qua: “Nếu ta nói ta không muốn thì sao.”
+
+Ông ta bật cười, nếp nhăn trên mặt co lại thành hình thù đáng sợ: “Ngươi có thể trốn đi đâu. Trừ khi ngươi chết, nếu không dù đào ba thước đất ta cũng sẽ lôi ngươi ra.”
+
+Ta chợt lộ ra vẻ như bừng tỉnh, cung kính khom người, nhẹ giọng đáp: “Đa tạ phụ thân thành toàn.”
+
+Dưới ánh mắt kinh ngạc của ông ta, ta dùng trâm bạc tự vẫn.
+
+Gió đầu xuân len qua khe áo, lạnh đến thấu xương. Ta nằm trên đất, nhìn thế gian bằng đôi mắt tiếc nuối. Đáng tiếc bát chân giò hun khói thơm phức kia, nếu nó chín sớm thêm chút nữa, có lẽ ta đã kịp dùng nó để kết liễu chính mình rồi.
+
+Đây đã là lần thứ bảy ta chết đi, chết đến mức phát chán.`
+  },{
+    id: 195,
+    title: "Rắn Nuôi Lâu Ngày Thành Chồng Tôi",
+    image: "imgdam/16384b43a35ae185a17bbcd101c77bad.jpg",
+    link: "dammy/ran-nuoi-lau-ngay-thanh-chong-toi.html",
+    type: "dammy",
+    desc: `Tôi kéo Ly Trạm ra từ đống xác chết.
+
+Dùng máu của tôi nuôi dưỡng nó, lấy mạng của tôi bảo vệ nó, để nó từ một con rắn đen nhỏ ai cũng có thể bắt nạt, trở thành kẻ có thể hô phong hoán vũ, làm chủ thiên hạ.
+
+Thế mà nó lại dùng xích sắt khóa tôi lại, mặc sức bắt nạt.
+
+“Ca ca tốt, đệ đã biết bí mật của huynh rồi. Đệ chẳng qua chỉ là một nhiệm vụ của huynh thôi.”
+
+“Nhưng không sao, giờ huynh chỉ có thể là của đệ. Huynh sinh cho đệ thật nhiều tiểu xà nhé, được không?”
+
+“Đồ nghịch tử. Lão tử rõ ràng là nam nhân. Lão tử còn là sư phụ của ngươi nữa đó.”`
+  },{
+    id: 196,
+    title: "Kế Sâu Khó Lường Của Chủ Mẫu",
+    image: "imgco/d5ed05fa12307705d20659a64ff3c0d1.jpg",
+    link: "cotrang/ke-sau-kho-luong-cua-chu-mau.html",
+    type: "cotrang",
+    desc: `Vừa mới thành thân được một năm, phu quân đã dẫn Lâm Mạn Nhu đến trước mặt ta, nói muốn nạp nàng làm thiếp.
+
+Ta tự nhiên không đồng ý.
+
+Lâm Mạn Nhu vốn kiêu căng ngạo mạn, lại ỷ vào việc phu quân sủng ái mà ngày ngày đối chọi với ta.
+
+Cả An Nam Hầu phủ vì thế mà như bị phủ một tầng u khí nặng nề.
+
+Ta mất đi đứa con cùng khả năng sinh dưỡng, còn Lâm Mạn Nhu thì mất mạng.
+
+Thanh danh của ta cũng vì vậy mà thối nát khắp kinh thành.
+
+Người người Thịnh Kinh đều nói, chủ mẫu An Nam Hầu phủ là kẻ ngu dại, đố kỵ, tâm địa độc ác như rắn rết.
+
+Phụ mẫu ta vì giữ danh vọng Quốc công phủ, chủ động mở lời cho phép phu quân ta cưới thêm một vị bình thê.
+
+Người được chọn, lại chính là biểu muội của hắn.
+
+Đến sau ta mới hiểu, người phu quân ta thật sự yêu từ đầu đến cuối, chỉ có biểu muội ấy mà thôi. Ta và Lâm Mạn Nhu bất quá chỉ là quân cờ trên bàn cờ của hắn.
+
+Ta bị giam nơi điền trang, cô độc suốt ba mươi năm. Rồi sau đó, ta được sống lại.`
   },
 
 
