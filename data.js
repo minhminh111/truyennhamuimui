@@ -4168,6 +4168,116 @@ Người được chọn, lại chính là biểu muội của hắn.
 Đến sau ta mới hiểu, người phu quân ta thật sự yêu từ đầu đến cuối, chỉ có biểu muội ấy mà thôi. Ta và Lâm Mạn Nhu bất quá chỉ là quân cờ trên bàn cờ của hắn.
 
 Ta bị giam nơi điền trang, cô độc suốt ba mươi năm. Rồi sau đó, ta được sống lại.`
+  },{
+    id: 197,
+    title: "Bình Yên Là Khi Có Anh Ở Đây",
+    image: "imgngon/330f4eed6674186fe2661e69d7688017.jpg",
+    link: "ngontinh/binh-yen-la-khi-co-anh-o-day.html",
+    type: "ngontinh",
+    desc: `Đêm đã khuya, gần mười một giờ, tôi mặc đồ ngủ lò dò ra mở cửa cho anh trai. Kết quả cửa vừa mở, anh trai đã đẩy thẳng người bạn thân của anh ấy vào nhà.
+
+“Người anh em, đưa cậu về tới nơi là tôi phải chạy gấp rồi. Em gái tôi ngốc lắm, không chừng ngủ như chết, gõ cửa cũng không nghe, còn phải gọi cứu hỏa tới phá cửa.”`
+  },{
+    id: 198,
+    title: "Mảnh Giấy Giấu Cả Thanh Xuân",
+    image: "imgdam/5807b039a039572f6c0991687836c57c.jpg",
+    link: "dammy/manh-giay-giau-ca-thanh-xuan.html",
+    type: "dammy",
+    desc: `Trước khi tan học, tôi phát hiện một mẩu giấy nằm trong ngăn bàn.
+
+Mở ra xem, bên trên viết rất rõ ràng:
+
+[Tớ thích cậu, tan học có thể gặp nhau ở đình Lan cạnh sân thể dục không?]
+
+Lúc đó tôi còn tưởng ai rảnh quá bày trò nên chẳng buồn để tâm. Đọc xong liền vo tròn mẩu giấy rồi ném thẳng vào ống bút trên bàn.
+
+Thế nhưng suốt một tuần sau đó, trong hộc bàn của tôi liên tục xuất hiện những mẩu giấy tương tự.
+
+Tôi vừa khó chịu vừa tò mò đến phát bực.
+
+Cuối cùng, sự hiếu kỳ thắng thế.
+
+Tôi quyết định tới điểm hẹn xem rốt cuộc là ai.
+
+Dưới đình Lan, tôi và Thẩm Phục Tú, kẻ luôn đứng đầu khối, bốn mắt nhìn nhau.
+
+Còn tôi chính là cái người ngồi chễm chệ ở vị trí thứ hai suốt bao năm không đổi.`
+  },{
+    id: 199,
+    title: "Nghịch Mệnh Thâm Cung",
+    image: "imgco/3ff4bef3f42ec3a7644ac55296ab9c34.jpg",
+    link: "cotrang/nghich-menh-tham-cung.html",
+    type: "cotrang",
+    desc: `Chủ tử của ta xuất thân cao quý, khí chất thanh tao như cúc, nhìn vào đã thấy một cỗ khí tức thoát tục khó gần.
+
+Thế nhưng lại bị Quý phi hãm hại, nàng không hề biện bạch lấy một câu. Ta một thân một mình đi theo nàng vào lãnh cung, tận tâm tận lực che chở.
+
+Vì rửa sạch oan khuất cho nhà mẫu của nàng, ta nuốt xuống mọi thù hận, chủ động mượn thế lực của Hiền tần, kẻ từng ngược đãi ta.
+
+Vì giúp nàng giành thắng lợi trong cuộc chiến đoạt vị, ta không tiếc hạ sát Quý phi, tay dính đầy máu tươi cùng tội nghiệt khó mà rửa sạch.
+
+Đến khi nàng ngồi lên ngôi Hoàng hậu, nàng lại đẩy ta ra chịu tội thay.
+
+Nàng bình thản nói rõ mọi chuyện: “Hoàng Thượng, thần thiếp xưa nay không tranh không đoạt, càng không ham ngôi vị này.”
+
+“Mọi chuyện đều do ả làm, thần thiếp chưa từng hay biết, cũng chưa từng cảm kích.”
+
+Ta bị cắt lưỡi, đưa vào Thận Hình Ty, chịu đủ bảy mươi hai hình phạt tra tấn, cuối cùng ôm hận mà chết.
+
+Mở mắt lần nữa, ta quay về đúng ngày cùng nàng bước vào lãnh cung.`
+  },{
+    id: 200,
+    title: "Tro Tàn Hôn Nhân",
+    image: "imgngon/2d767fd56d7f6b79916a1042b5b8ab41.jpg",
+    link: "ngontinh/tro-tan-hon-nhan.html",
+    type: "ngontinh",
+    desc: `Lửa lớn thiêu rụi nửa tòa nhà. Mặc kệ khói đặc nghẹt thở, tôi vẫn cắm đầu lao vào tìm chồng. Nhưng lúc vừa quay đầu lại, xuyên qua khung cửa sổ, tôi lại thấy anh ta đang ôm một người phụ nữ khác cuống cuồng bắt taxi ven đường, chạy mất dép luôn chứ không phải đùa, một chiếc dép lê còn rớt lại giữa đường.
+
+Từ đầu tới cuối, anh ta không hề quay đầu nhìn tôi lấy một lần.
+
+Phía sau lưng tôi là khói đen cuồn cuộn, ánh lửa từ khe cửa phòng ngủ hắt ra lập lòe như phim thảm họa chiếu giờ vàng.
+
+Tầm mắt tôi dần mờ đi. Trong khoảnh khắc cuối cùng trước khi mất ý thức, tôi hình như còn nghe thấy tiếng chuông điện thoại vang lên.
+
+Sau đó thì tôi không biết gì nữa.`
+  },{
+    id: 201,
+    title: "Kẻ Thù Thành Người Một Nhà",
+    image: "imgdam/bb6b21f76b40c947a8d7fd4aef5a8075.jpg",
+    link: "dammy/ke-thu-thanh-nguoi-mot-nha.html",
+    type: "dammy",
+    desc: `Vì tin tình báo, tôi và kẻ thù không đội trời chung giả vờ làm người yêu trong nửa tháng.
+
+Lần đầu tiên diễn cảnh ôm nhau, hắn rút dao găm kề vào tôi, còn tôi thì dí dao găm vào ngực hắn:
+
+“Lại gần thêm chút nữa, tôi sẽ làm thịt cậu!”
+
+“Ai làm thịt ai còn chưa chắc đâu!”
+
+Sau này, lúc ôm nhau, hắn kề sát vào tôi, tôi run rẩy hai chân đẩy hắn ra:
+
+“Lại gần thêm chút nữa, anh đang muốn làm thịt em đó.”
+
+“Buông ra, không thể tiếp tục làm nữa đâu.”`
+  },{
+    id: 202,
+    title: "Hỷ Sự Giấu Sau Lời Dối Trá",
+    image: "imgco/93cdfef5865a0008e68b0a8435e82023.jpg",
+    link: "cotrang/hy-su-giau-sau-loi-doi-tra.html",
+    type: "cotrang",
+    desc: `“Thái tử ca ca, huynh đi xem tỷ tỷ thế nào đi đã, ta không sao đâu.”
+
+Ta ngồi dưới đất, y phục ướt sũng, cố ý khẽ xoa mắt cá chân, động tác vừa rụt rè vừa đáng thương, như thể chỉ cần chạm mạnh thêm chút nữa là có thể đau đến rơi lệ.
+
+Khi ngẩng đầu lên, khóe mắt đã đỏ hoe, lệ quang lấp lánh, gương mặt nhỏ nhợt nhạt như sương sớm, đôi môi hơi bĩu, yếu ớt đến mức ai nhìn thấy cũng khó lòng không mềm lòng.
+
+Thái tử Tô Triệt lạnh mặt bế ta lên, giọng nói nghe như răn dạy nhưng lại mang theo mấy phần dịu dàng khó giấu.
+
+“Nàng còn nghĩ cho người khác làm gì, nếu nàng ta thật sự nhận được cái ân tình này của nàng, thì đã không khiến nàng rơi vào cảnh này rồi.”
+
+Dứt lời, chàng lập tức bế ta rời đi, bước chân dứt khoát, thậm chí chẳng thèm liếc nhìn An Ngữ Nhu đang ngồi dưới đất dù chỉ một cái.
+
+Nếu nói lúc này trong lòng ta không có chút sung sướng nào, vậy thì đúng là tự lừa mình dối người rồi.`
   },
 
 
