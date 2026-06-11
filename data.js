@@ -4280,7 +4280,7 @@ Dứt lời, chàng lập tức bế ta rời đi, bước chân dứt khoát, t
 Nếu nói lúc này trong lòng ta không có chút sung sướng nào, vậy thì đúng là tự lừa mình dối người rồi.`
   },{
     id: 203,
-    title: "Lỡ Thương Anh Trai Bạn Thân",
+    title: "",
     image: "imgngon/1ad3929ddd2b491ec8bc00d4ca5bd696.jpg",
     link: "ngontinh/lo-thuong-anh-trai-ban-than.html",
     type: "ngontinh",
@@ -4325,7 +4325,75 @@ Ta thay chồng đến cảm tạ, chỉ khẽ cúi đầu hành lễ, nhưng á
 Về sau, những di vật của chồng mà ta thường ôm khi không ngủ được, cứ lần lượt biến mất. Thời gian anh chồng ở một mình trong từ đường cũng ngày một lâu hơn. Có một đêm, ta đi ngang qua từ đường, nghe từ bên trong vọng ra giọng nói trầm thấp, u ám, như bị kìm nén đến tận cùng.
 
 “Em trai, ta thật sự ghen tị với ngươi, không, ta giữ ngươi.”`
+  },{
+    id: 206,
+    title: "Anh Chồng Trà Xanh Giả Bộ Yếu Đuối",
+    image: "imgngon/d18336edbe7fbe630cfb56f5ce96a13d.jpg",
+    link: "ngontinh/anh-chong-tra-xanh-gia-bo-yeu-duoi.html",
+    type: "ngontinh",
+    desc: `Lấy nhau mới có ba tháng, bạch nguyệt quang của anh chồng tôi cứ hở cái là ốm đau bệnh tật lại mò tới cửa. Tôi còn đang tính sống cho có tình có nghĩa, chủ động đề nghị ly hôn cho người ta đoàn tụ, ai ngờ đâu anh chồng ngày thường yếu như cọng bún, gió thổi cái là ho tới rung người, hôm nay lại gấp tới mức tung một cú đá bay luôn xe lăn, cầm gậy quẩy ngang quẩy dọc như phim hành động.
+
+“Cút, cô ghen tị vì tôi có vợ chứ gì.”`
+  },{
+    id: 207,
+    title: "Đêm Dài Có Anh Bên Cạnh",
+    image: "imgdam/3946026ada72a58f3d56ef1a0143a41b.jpg",
+    link: "dammy/dem-dai-co-anh-ben-canh.html",
+    type: "dammy",
+    desc: `Thương Xích mắc chứng mất ngủ, phải ôm người khác mới ngủ được.
+
+Mà tôi lại là trợ lý nam của Thương Xích, đêm nào cũng nằm trên giường của anh ấy.
+
+Cho đến một ngày, tôi bất ngờ thức tỉnh năng lực đọc suy nghĩ và nghe thấy tiếng lòng của anh ấy.
+
+[Tối nay lại được ôm vợ ngủ rồi.]
+
+[Vợ đáng yêu quá, còn thơm nữa.]
+
+[Nếu tôi không giả vờ mất ngủ thì làm sao có cơ hội ôm vợ ngủ được chứ!]
+
+...
+
+Đến lúc đó tôi mới biết, Thương Xích chẳng những không hề mất ngủ, mà còn âm thầm nhắm vào tôi từ lâu rồi.
+
+Nhưng vấn đề là... tôi là trai thẳng cơ mà!`
+  },{
+    id: 208,
+    title: "Trâm Phượng Hoàng Lạc Đôi",
+    image: "imgco/55a73f780ba004c064176849f85b17a4.jpg",
+    link: "cotrang/tram-phuong-hoang-lac-doi.html",
+    type: "cotrang",
+    desc: `Ta cùng tỷ muội tốt Sở Tinh Lạc đều được Hoàng hậu để mắt tới, muốn ban hôn cho hai vị Hoàng tử dòng chính.
+
+Ta với tài bắn cung bách phát bách trúng, được chỉ định làm phi của Lục Hoàng tử, người nổi danh võ nghệ cao cường.
+
+Còn Sở Tinh Lạc, với khúc cổ cầm thanh thoát như tiên nhạc nơi cửu thiên, được ban hôn cho Thái tử, người tinh thông văn chương.
+
+Sau khi thành thân, ngày tháng trôi qua bình yên đến mức khiến người ta muốn ngáp dài.
+
+Trong một buổi tiệc trà của các tiểu thư quý tộc, Sở Tinh Lạc vừa nhấm nháp mứt hoa quả vừa thần thần bí bí ghé sát tai ta:
+
+“Ta cảm thấy Thái tử hình như đã có người trong lòng rồi, ta muốn hòa ly với hắn.”
+
+Ta ngẫm nghĩ hồi lâu, cũng nghiêm túc đáp lời:
+
+“Lục Hoàng tử hình như cũng có bệnh kín. Ngươi ly thì ta cũng ly.”
+
+Nhưng còn chưa kịp lấy được thư hòa ly, chúng ta đã bị nhốt lại trong phòng.
+
+Thái tử đẩy ta tựa vào cửa, hai gò má hơi ửng đỏ, ánh mắt thâm tình đến mức khiến người ta nổi da gà:
+
+“Nếu Lục đệ muội không hài lòng với Lục đệ, có thể đổi với Sở cô nương.”
+
+Ta ngơ ngác hồi lâu, đầu óc như bị sét đánh:
+
+“Đổi... đổi cái gì?”
+
+Thái tử khẽ cười, để lộ hàm răng trắng đều:
+
+“Đổi phu quân.”`
   },
+
 
 
 
