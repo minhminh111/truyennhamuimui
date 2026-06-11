@@ -4392,6 +4392,162 @@ Ta ngơ ngác hồi lâu, đầu óc như bị sét đánh:
 Thái tử khẽ cười, để lộ hàm răng trắng đều:
 
 “Đổi phu quân.”`
+  },{
+    id: 209,
+    title: "Vụ Án Sau Lớp Khói Bếp",
+    image: "imgngon/c660a42a266b1596f6bed3a016724fde.jpg",
+    link: "ngontinh/vu-an-sau-lop-khoi-bep.html",
+    type: "ngontinh",
+    desc: `Người đàn ông xâm hại em gái tôi đã mất tích sau khi ra tù.
+
+Cảnh sát cũng tìm đến điều tra tôi.
+
+“Nghe nói nhà cô làm ba trăm cân thịt xông khói và lạp xưởng trong một đêm.”
+
+Tôi chỉ mỉm cười bình thản:
+
+“Đúng vậy, hàng xóm xung quanh cũng ăn rồi, có phạm pháp không?”`
+  },{
+    id: 210,
+    title: "Anh Là Chấp Niệm Không Thể Buông Của Em",
+    image: "imgdam/f2ebaf387d0fe06ab89e41543774798b.jpg",
+    link: "dammy/anh-la-chap-niem-khong-the-buong-cua-em.html",
+    type: "dammy",
+    desc: `Thời Tễ là anh cùng cha khác mẹ của tôi.
+
+Tôi từng nghĩ anh lạnh nhạt với tôi là vì ghét tôi, thế nên ngày nào cũng tìm cách chọc anh nổi điên. Mãi đến khi tôi chết rồi mới biết mình hiểu sai từ đầu đến cuối.
+
+Linh hồn tôi đi theo anh xuống tầng hầm.
+
+Tôi nhìn thấy anh ở trong một căn phòng dán kín ảnh của tôi, hôn tôi, đeo nhẫn cho tôi, rồi tự sát.
+
+Đến lúc ấy tôi mới biết, anh không hề ghét tôi.
+
+Anh yêu tôi.
+
+Yêu đến phát điên.
+
+Một đời nữa bắt đầu.
+
+Khi anh hỏi tôi lại muốn làm gì, tôi cúi đầu hôn anh một cái.
+
+“Muốn yêu anh một lần.”
+
+Sau này, mọi chuyện hoàn toàn đảo ngược.
+
+Tôi ôm eo chạy từ phòng tắm ra ngoài, kết quả lại bị một bàn tay mạnh mẽ kéo ngược trở về.
+
+Trước gương, đuôi mắt tôi đỏ bừng, uất ức đến mức sắp khóc.
+
+“Tôi không yêu nữa được không?”
+
+“Không được.”
+
+“Ngoan, anh nhẹ thôi, thêm lần nữa.”`
+  },{
+    id: 211,
+    title: "Một Đời Không Hối Hận",
+    image: "imgco/cc2631cf1bcf1c9640a84cb2e934227e.jpg",
+    link: "cotrang/mot-doi-khong-hoi-han.html",
+    type: "cotrang",
+    desc: `Ngày ta đánh mất sự trong sạch, Tạ Quan Lan đã đến tận cửa cầu hôn.
+
+Nhưng mười năm sau khi thành thân, hắn đối với ta vẫn lạnh nhạt xa cách, như thể giữa hai người chưa từng có một chút tình nghĩa nào.
+
+Cho đến khi hắn vì cứu Quý phi mà trúng kịch độc, nằm trên giường bệnh thoi thóp.
+
+Lúc ấy ta mới biết, người hắn đặt trong lòng từ đầu đến cuối, lại chính là thứ muội của ta.
+
+Trước lúc lâm chung, hắn nắm chặt lấy tay ta, giọng khàn đặc như gió cuối đông.
+
+“Xin lỗi, Thời Ngu, ai bảo người Thái tử thích năm xưa lại là nàng.”
+
+“Vì Thời An, ta không còn cách nào khác, chỉ có thể hạ thuốc nàng.”
+
+“Kiếp sau, chúng ta vẫn làm phu thê, ta nhất định sẽ dùng cả đời để bù đắp.”
+
+Ta tức đến mức máu trào lên cổ họng, chưa kịp nói thêm lời nào đã ôm hận mà chết.
+
+Mở mắt ra lần nữa, ta quay về đúng ngày mình bị hạ thuốc.
+
+Lần này, ta đã đẩy cửa phòng của Thái tử.`
+  },{
+    id: 212,
+    title: "Thiên Kim Nuôi Cún Con Và Chim Hoàng Yến",
+    image: "imgngon/94ea5043076b7ca91562121079f6f535.jpg",
+    link: "ngontinh/thien-kim-nuoi-cun-con-va-chim-hoang-yen.html",
+    type: "ngontinh",
+    desc: `Tôi là cô “con gái ruột bị thất lạc nhiều năm”.
+
+Ngày tôi được đón về nhà họ Cố, họ nghe nói tôi nuôi một chú cún con nhỏ và một con chim hoàng yến.
+
+Mẹ tôi cười ha hả:
+
+“Giỏi lắm, y hệt phong độ năm xưa của mẹ!”
+
+Cha tôi thì mặt mày sa sầm:
+
+“Mua thêm hai căn biệt thự nữa đi, kẻo chúng nó đánh nhau.”
+
+Cô “con gái giả” nước mắt lưng tròng:
+
+“Chị ơi, chia con cún nhỏ cho em đi… 5 con em nuôi ham giàu bỏ chủ mà chạy theo người khác hết rồi.”
+
+Anh trai ruột của tôi vui mừng như gặp được tri kỷ:
+
+“Tốt quá! Em gái đúng là ruột thịt của anh, cũng là song tính à!”
+
+Vị hôn phu tương lai nhìn tôi bằng ánh mắt u uất:
+
+“Thôi được, anh làm ‘tiểu tứ’ cũng được… miễn là em chịu về nhà.”
+
+Tôi chỉ thấy hết sức khó hiểu.
+
+Cho đến khi tôi mang về một chú chó cỏ và một chú chim hoàng yến vàng non về nhà, tất cả mọi người đều: “?”`
+  },{
+    id: 213,
+    title: "Tôi Và Ảnh Đế Không Đội Trời Chung",
+    image: "imgdam/622cf6b1818e36cc863a747a9a08978a.jpg",
+    link: "dammy/toi-va-anh-de-khong-doi-troi-chung.html",
+    type: "dammy",
+    desc: `Tôi muốn xử lý tên côn đồ đã cướp nụ hôn đầu của mình, dĩ nhiên là “xử” theo một cách khác.
+
+Vào lễ tốt nghiệp khi chụp ảnh tập thể, tôi đã cưỡng hôn gã đó trước mặt toàn khoa thể thao.
+
+Tôi đắc ý rồi lập tức cao chạy xa bay ra nước ngoài.
+
+Về sau gia đình phá sản, tôi buộc phải về nước, ứng tuyển vị trí trợ lý cho một ngôi sao điện ảnh.
+
+Tình cờ bắt gặp cảnh nam thần Hạ Xuyên trả lời phỏng vấn: “Nụ hôn đầu của tôi đã mất, bị một tiểu yêu nghiệt cướp đi.”
+
+Cả hội trường xôn xao, phóng viên lại hỏi dồn: “Nếu gặp lại đối phương, anh sẽ làm gì?”
+
+Hạ Xuyên nghiến răng đáp: “Đương nhiên là… xử tử thật đau.”
+
+Về sau tôi mới biết, chữ “xử” này còn mang một hàm nghĩa khác…`
+  },{
+    id: 214,
+    title: "Thừa Tướng Là Kể Não Yêu Đương",
+    image: "imgco/823ea0cd88a00acffff5f72f8425cea0.jpg",
+    link: "cotrang/thua-tuong-la-ke-nao-yeu-duong.html",
+    type: "cotrang",
+    desc: `Vì để thu phục lòng trung thành của vị Thừa tướng vừa anh tuấn vừa lạnh lùng, người nắm trong tay quyền lực khuynh đảo cả triều đình, sau khi ta trở thành Nữ Đế, ngày ngày đều dâng tấu chương bày tỏ lòng mình với hắn.
+
+“Ái khanh tuổi trẻ tài cao, trẫm thật sự không biết phải sủng ái ngươi thế nào cho đủ.”
+
+“Có thiên địa thần minh chứng giám, ái khanh không phụ trẫm, trẫm cũng sẽ không phụ ái khanh.”
+
+“Trẫm vốn nhỏ nhen, nếu ái khanh dám hai lòng, trẫm nhất định sẽ trừng phạt ngươi thật nặng.”
+
+Ngày qua ngày, ta vừa ban ân thưởng vừa dựng oai nghiêm trị, mềm cứng đan xen, vừa đánh vừa xoa, vậy mà lại khiến vị Thừa tướng ấy càng thêm trung thành.
+
+Ta vốn tưởng thuật đế vương của mình đã đến mức xuất thần nhập hóa, nào ngờ có một ngày, vị Thừa tướng thanh lãnh ấy cầm tấu chương đứng trước tẩm điện của ta, vành tai hơi ửng đỏ, dáng vẻ như bị điều gì đó làm cho rối loạn.
+
+“Thần nguyện ý gả cho bệ hạ, cho dù có phải làm thiếp…”
+
+Ta sững người: “?”
+
+Không phải chứ, thuật đế vương của ta rốt cuộc lại gặp phải một kẻ yêu đến mất não rồi sao.`
   },
 
 
