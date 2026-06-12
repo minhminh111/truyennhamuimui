@@ -4614,7 +4614,114 @@ Cả kinh thành đều dõi theo trò náo nhiệt của ta, thỉnh thoảng c
 Ngày sòng bài mở cửa, ta cũng giống như Lý Bồng Bồng, một mình đến Thế gia, nhưng không phải để cầu công lý, mà là để từ hôn. Thế Thời Cảnh, hắn không xứng làm phu quân của ta.
 
 `
+  },{
+    id: 218,
+    title: "Vạch Trần Mặt Nạ Người Yêu Hoàn Hảo",
+    image: "imgngon/527d061f772a5fa377294d7bbf923c61.jpg",
+    link: "ngontinh/vach-tran-mat-na-nguoi-yeu-hoan-hao.html",
+    type: "ngontinh",
+    desc: `Thông báo dỡ bỏ ngôi nhà vừa được ban hành, bạn trai cùng cô bạn thân nhất của tôi lập tức thông đồng với nhau, liên tục bóng gió bên tai, ép tôi thêm tên họ vào sổ hộ khẩu mới. Tôi từ chối, thì ngay lập tức bị họ quay sang lừa mua bảo hiểm nhân thọ, rồi chính tay giết tôi.
+
+Sau khi chết, tôi mới biết bọn họ đã lén lút qua lại từ rất lâu. Cả hai ôm trọn khoản tiền bồi thường lớn của tôi, còn ngồi đó khóc lóc giả vờ đau đớn, cầu xin tha thứ.
+
+“An An, em đừng trách bọn anh, nếu em chết, đứa bé trong bụng Miểu Miểu sẽ không có nơi nương tựa!”
+
+Lần nữa mở mắt ra, tôi quay về đúng thời điểm bọn họ yêu cầu tôi thêm tên vào sổ hộ khẩu.
+
+Nhìn khuôn mặt giả tạo của hai người trước mặt, tôi mỉm cười. Được thôi, muốn chơi thì chơi đến cùng. Để tôi xem cái “tình bạn thân thiết” của các người sẽ đi xa tới đâu.`
+  },{
+    id: 219,
+    title: "Gặp Định Mệnh Trên Con Đường Đỏ",
+    image: "imgdam/122028791b6f2e38bdb3bb08d7b69799.jpg",
+    link: "dammy/gap-dinh-menh-tren-con-duong-do.html",
+    type: "dammy",
+    desc: `Sau khi phá sản, tôi trở thành Omega đứng đường.
+
+Đột nhiên một hệ thống xuất hiện bảo tôi rằng Alpha định mệnh sẽ cứu rỗi tôi. Điều kiện tiên quyết là tôi phải “gần bùn mà chẳng hôi tanh mùi bùn”.
+
+Thế là mỗi khi có xe lao tới, tôi đều nhiệt tình chạy ra đón: “Sếp ơi có đỗ xe không?”
+
+Cửa kính từ từ hạ xuống, khuôn mặt đối thủ hiện ra với vẻ âm trầm, ánh mắt khinh miệt nhìn tôi từ trên cao: “Quý Phỉ, không ngờ cậu lại tự hạ mình đến mức ra đứng đường.”
+
+“Nói đi, một đêm giá bao nhiêu?”
+
+Tôi mỉm cười dịu dàng: “Không bán, chỉ đứng thôi. Tôi mà dịch chân một cái thì anh phải trả tôi 20 tệ đấy.”`
+  },{
+    id: 220,
+    title: "Phong Hoa Trong Chén Ngọc",
+    image: "imgco/f0757bd182d24918c0f34281e0c0ea28.jpg",
+    link: "cotrang/phong-hoa-trong-chen-ngoc.html",
+    type: "cotrang",
+    desc: `Ta bị vị hôn phu chê là con gái nhà quê, kiên quyết đòi từ hôn.
+
+Từ đó, ta trở thành trò cười của các tiểu thư quý tộc khắp kinh thành.
+
+Phụ thân thương ta, muốn ta xuất gia làm ni cô, kế mẫu lại sai người đưa đến một tấm lụa trắng.
+
+Tại Quốc Tử Giám, ta uống rượu, trong lúc men say liền vén rèm trêu chọc một vị thư sinh tuấn tú, lần đầu nếm trải vị mây mưa nhân gian.
+
+Về sau, ta vẽ bức “Lạc Hạ Cô Vụ Đồ”, một bức tranh bán được mười nghìn vàng, danh chấn khắp Thượng Kinh.
+
+Trong tiệc xuân, thám hoa lang Cố Yến Chi vì ta mà làm thơ, nhắc lại ước hẹn năm cũ.
+
+Ta lại bị thư sinh tuấn tú chặn trong phòng, hắn ôm ta đặt lên bàn sách, đôi mắt đỏ hoe mà chất vấn:
+
+“Đơn ngủ với trẫm nhiều lần như vậy, còn không chịu cho trẫm một danh phận sao? Hử?”`
+  },{
+    id: 221,
+    title: "Người Không Thể Quên",
+    image: "imgngon/6a8ec358d4d539cbbad76ed5afea6311.jpg",
+    link: "ngontinh/nguoi-khong-the-quen.html",
+    type: "ngontinh",
+    desc: `Cho đến khi “bạch nguyệt quang” — cô gái nghiện rau mùi ấy — quay trở lại, đôi môi khô nứt của mẹ tôi mấp máy rất lâu, cuối cùng chẳng thốt lên lời nào, chỉ lặng lẽ dẫn tôi rời khỏi nhà.
+
+Từ ngày đó, tôi tự đặt ra quy tắc: Sau này tuyệt đối không giao phó cả đời cho một gã đàn ông mà lòng còn vướng bận ai khác.
+
+Vì vậy, tôi chọn cực kỳ kỹ, và rồi chọn được Lục Nghiễn Thâm — người mà bên cạnh ngay cả một con muỗi cái cũng không có.
+
+Kết hôn năm năm, tất cả anh em anh ta đều khẳng định: tôi là mối tình đầu của anh.
+
+Tôi tưởng cuối cùng mình không đi vào vết xe đổ của mẹ, cho tới buổi tiệc thường niên công ty, gã đàn ông luôn giữ hình tượng lạnh lùng ấy cầm cây guitar điện của đồng nghiệp, và bùng nổ cả sân khấu với bản rock dữ dội.
+
+Năm năm rồi, tôi chưa từng biết anh ấy biết chơi guitar.
+
+Tôi tiện tay đăng đoạn video lên tài khoản chúng tôi dùng để ghi lại cuộc sống hằng ngày, sáng hôm sau, phần quản lý bị một tấm ảnh chiếm trọn màn hình.
+
+Trong ảnh là một cô gái mặc váy trắng, tóc đen dài như thác nước buông xõa, đeo cây guitar hồng phát sáng trên lưng, khí chất rock mạnh mẽ cực kỳ.
+
+Sự đối lập tột cùng, hấp dẫn chết người.
+
+Cư dân mạng bình luận: 【Chị ơi, chị để tóc dài trông y hệt cô ấy.】`
+  },{
+    id: 222,
+    title: "Cả Trường Biết Tôi Là Vợ Đại Ca",
+    image: "imgdam/18c4fdace58e4bd0f15ae11697f62d21.jpg",
+    link: "dammy/ca-truong-biet-toi-la-vo-dai-ca.html",
+    type: "dammy",
+    desc: `Buổi họp lớp, đại ca trường bị cay đến mức bật thốt:
+
+“Vợ ơi, nước.”
+
+Thầy chủ nhiệm đứng hình mất mấy giây rồi bật cười trêu:
+
+“Muốn yêu đến phát điên rồi à, uống say gọi anh em thành vợ, hahaha. Lãng mạn.”
+
+Nhưng ông ấy đâu biết rằng, ngay sau lưng mọi người, chúng tôi đã hôn đến mức môi cũng chẳng còn nguyên vẹn nữa.`
+  },{
+    id: 223,
+    title: "Hoàng Hậu Bất Đắc Dĩ",
+    image: "imgco/cd7f1bfb19711df64f10185993db0eb1.jpg",
+    link: "cotrang/hoang-hau-bat-dac-di.html",
+    type: "cotrang",
+    desc: `Vào ngày lễ ông Công ông Táo, cũng là ngày thứ hai mươi chín kể từ khi ta vào cung.
+
+Lão hoàng đế băng hà, thậm chí chẳng chống cự nổi đến đêm giao thừa.
+
+Trước khi mất, lão để lại khẩu dụ, tất cả phi tần không có con nối dõi đều phải tuẫn táng theo.
+
+Trong đó, có cả ta.`
   },
+
 
 
 
