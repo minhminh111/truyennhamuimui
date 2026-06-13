@@ -4809,6 +4809,71 @@ Trong cơn thịnh nộ, phụ thân sai hạ nhân ném ta, khi ấy đang vậ
 Đêm tuyết lạnh lẽo thấu xương ấy, ta bị chết cóng trong chuồng ngựa bốn bề gió lùa.
 
 Mở mắt ra lần nữa, ta đã trở về thời điểm trước khi phụ thân bị giáng chức.`
+  },{
+    id: 227,
+    title: "Đứa Trẻ Không Phải Của Tôi",
+    image: "imgngon/d98c58afa6c485a534aaecc44abd1214.jpg",
+    link: "ngontinh/dua-tre-khong-phai-cua-toi.html",
+    type: "ngontinh",
+    desc: `Kết quả khám cho biết con gái tôi đang mắc một căn bệnh hiếm gặp.
+
+Để chữa cho nó, tôi bán nhà bán xe, dốc hết sức làm mọi cách tốt nhất có thể để cứu con.
+
+Chồng tôi nói, không chữa được thì thôi, số trời đã định.
+
+Nhưng tôi không đành lòng, vẫn chạy vạy khắp nơi tìm cách chữa bệnh cho con gái.
+
+Vậy mà bác sĩ lại dội cho tôi một gáo nước lạnh, nói rằng căn bệnh con tôi mắc phải là bệnh di truyền, không thể chữa được.
+
+Hai vợ chồng tôi, kể cả gia đình hai bên đều không có ai mắc bệnh đó.
+
+Tôi bắt đầu nghi ngờ con gái không phải con ruột của mình.
+
+Tuy nhiên, giám định ADN chưa kịp có kết quả thì nó lại dọa sẽ nhảy lầu, dùng cái chết để ép tôi cho nó và đứa con trai một của hàng xóm đến với nhau.
+
+Chỉ vì tôi không chịu dẫn cậu ta đến, con gái tôi chửi bới tôi là đồ vô dụng, đồ vô tích sự.
+
+Lúc nhân viên cứu hỏa xông tới cứu nó, nó lại đẩy tôi xuống lầu.
+
+Đúng lúc này, bạn thân cầm kết quả giám định ADN đến tìm tôi.
+
+"Nó không phải con gái cậu đâu..."
+
+Đó là câu cuối cùng tôi nghe được trước khi chết.`
+  },{
+    id: 228,
+    title: "Cưa Cẩm Nữ Phụ",
+    image: "imgdam/fe5b4acb050a5882717cd05b9cb4e04c.jpg",
+    link: "dammy/cua-cam-nu-phu.html",
+    type: "dammy",
+    desc: `Hệ thống: [Xin hãy công lược nam chính.]
+
+Tôi: [Tôi là đồng tính luyến ái.]
+
+Hệ thống: [Xin hãy công lược nam chính.]
+
+Tôi: [Tôi đã nói tôi là đồng tính luyến ái rồi mà.]
+
+Hệ thống: [Xin hãy công lược nữ phụ.]
+
+Tôi: [Tôi nói tôi là đồng tính luyến ái... Hả? Cậu bảo công lược ai cơ?]
+
+Từ đó tôi bắt đầu những ngày tháng công lược nữ phụ.`
+  },{
+    id: 229,
+    title: "Chiến Thần Và Án Ngọc",
+    image: "imgco/5c60951f3cc395b53f739ee35bd5e399.jpg",
+    link: "cotrang/chien-than-va-an-ngoc.html",
+    type: "cotrang",
+    desc: `Ta là một tướng quân không gần nữ sắc, lại bị đồn có sở thích đoạn tụ.
+
+Sau khi đại thắng trở về, hoàng đế long nhan đại hỉ, liền ban cho ta một mối hôn sự. Ngài còn cố ý nhắn rằng đã chọn sẵn cho ta một “bảo bối”, đảm bảo ta nhất định sẽ hài lòng với mối lương duyên này.
+
+Ta vốn còn đang tính mở lời với vị cô nương kia, rằng thực ra ta là nữ tử, có thể cùng nàng kết nghĩa kim lan, coi như thêm một tri kỷ trong đời.
+
+Nhưng khi đẩy cửa bước vào, cảnh tượng trước mắt khiến ta đứng hình ngay tại chỗ. Trên giường hỷ lại là một “cô nương” thân hình cao lớn vạm vỡ, ước chừng chín thước, khí thế như có thể một quyền đánh nứt cửa thành.
+
+Ta như bị sét giáng thẳng xuống đầu, trong lòng không kìm được mà buông một câu thô tục.`
   },
 
 
