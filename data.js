@@ -4874,6 +4874,71 @@ Ta vốn còn đang tính mở lời với vị cô nương kia, rằng thực r
 Nhưng khi đẩy cửa bước vào, cảnh tượng trước mắt khiến ta đứng hình ngay tại chỗ. Trên giường hỷ lại là một “cô nương” thân hình cao lớn vạm vỡ, ước chừng chín thước, khí thế như có thể một quyền đánh nứt cửa thành.
 
 Ta như bị sét giáng thẳng xuống đầu, trong lòng không kìm được mà buông một câu thô tục.`
+  },{
+    id: 230,
+    title: "Cuộc Đời Không Ai Dám Bắt Nạt ",
+    image: "imgngon/b3d9aae5b17dbccc30d5a0fcffe416a6.jpg",
+    link: "ngontinh/cuoc-doi-khong-ai-dam-bat-nat.html",
+    type: "ngontinh",
+    desc: `Ba tôi là phản diện đã phá sản. Năm nghèo nhất, ông định xuống biển.
+
+Trước khi đi, ông để tôi lại trong căn phòng trọ rách nát, dặn dò:
+
+“Yên Yên à, ba đi tìm chỗ dựa to để nuôi con. Con chờ ba nhé.”
+
+Nhưng tôi đợi ba suốt ba ngày. Đến khi sắp chết đói, trước mắt tôi đột nhiên hiện lên một loạt dòng chữ phụ đề.
+
+【Phản diện gặp tai nạn giao thông, hiện đang hôn mê bất tỉnh. Đứa nhỏ này chắc sắp chết đói rồi. Đây chính là con gái của hắn và nữ phụ ác độc.】
+
+【Không thể trách nữ phụ ác độc được, lúc sinh con, ba mẹ cô ta lừa rằng đứa bé đã chết lưu nên cô ta hoàn toàn không biết đến sự tồn tại của con mình.】
+
+【Cô ấy còn nhận nuôi một đứa bé khác, dồn hết tình yêu làm mẹ cho đứa đó. Đứa nhỏ này khi đi tìm ba, suýt bị bọn buôn người bắt cóc, đúng lúc lại lướt qua mẹ ruột của mình.】
+
+Khi bọn buôn người dụ tôi đi, tôi lao thẳng tới ôm chặt chân cô ấy.
+
+“Mẹ ơi! Cứu con!”`
+  },{
+    id: 231,
+    title: "Chồng Mất Trí Nhớ Nhưng Không Quên Yêu Tôi",
+    image: "imgdam/fab48347c932e7241270ff28effe4189.jpg",
+    link: "dammy/chong-mat-tri-nho-nhung-khong-quen-yeu-toi.html",
+    type: "dammy",
+    desc: `Alpha của tôi lại mất trí nhớ rồi.
+
+Anh ấy không nhớ rằng mình có một người vợ cũng là Alpha.
+
+Bạn bè tốt bụng nhắc nhở, nhưng ngay trước mặt tôi, anh lại ôm lấy một omega đang chủ động tiến tới.
+
+“Tôi thẳng như thép, sao có thể yêu AA được?”
+
+“Muốn thu hút sự chú ý của tôi thì có thể đổi cách khác không?”
+
+Tôi bực bội, chẳng chiều theo. Giơ tay tát anh một cái, bắt anh phải chọn:
+
+“Về nhà hay ly hôn?”
+
+Anh ôm má, ánh mắt lập tức trở nên tỉnh táo:
+
+“Cái lực này… quen lắm.”`
+  },{
+    id: 232,
+    title: "Tướng Công Xin Đừng Ngủ Quên Trong Thâm Viện",
+    image: "imgco/53b040c68bf6fe243a9c5851e0ce053f.jpg",
+    link: "cotrang/tuong-cong-xin-dung-ngu-quen-trong-tham-vien.html",
+    type: "cotrang",
+    desc: `Ta là người mang mệnh quả phụ, lại sở hữu một gương mặt diễm lệ, mắt hạnh má đào, nhìn qua đã khiến người ta khó mà dứt mắt.
+
+Cũng chính vì dung mạo ấy mà huynh đệ trong phủ tranh đấu, gia trạch chẳng lúc nào yên ổn.
+
+Cuối cùng, ta bị người ta ném xuống ao, trầm mình mà chết.
+
+Sống lại một lần nữa, ta quay về đúng thời điểm vừa mới xuất giá, khi tướng công bệnh nặng, hơi thở đã như chỉ mành treo chuông. Ta cắn khăn tay, giả vờ khóc thút thít, nói:
+
+“Tướng công cứ yên tâm mà đi, đại ca và tam đệ của chàng đã lo liệu việc tái giá cho thiếp rồi.”
+
+Chàng uể oải liếc ta một cái, ánh nhìn vừa lạnh vừa hờ hững.
+
+Từ hôm ấy trở đi, chàng như cố níu lấy chút hơi tàn cuối cùng, thế nào cũng không chịu chết.`
   },
 
 
