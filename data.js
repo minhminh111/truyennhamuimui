@@ -4720,7 +4720,98 @@ Lão hoàng đế băng hà, thậm chí chẳng chống cự nổi đến đêm
 Trước khi mất, lão để lại khẩu dụ, tất cả phi tần không có con nối dõi đều phải tuẫn táng theo.
 
 Trong đó, có cả ta.`
+  },{
+    id: 224,
+    title: "Nhớ Mãi Giữa Biển Người",
+    image: "imgngon/317d10cfade81cc8408dc7e6c6e95d4f.jpg",
+    link: "ngontinh/nho-mai-giua-bien-nguoi.html",
+    type: "ngontinh",
+    desc: `Mời đồng nghiệp đến quán bar chơi, đến lúc thanh toán thì phát hiện số dư tài khoản không đủ. Trong tình thế cấp bách, tôi bước thẳng về phía anh chàng đẹp trai ngồi bàn bên kia, mở lời luôn không vòng vo.
+
+“Giúp tôi trả tiền, lát nữa tôi chuyển lại anh.”
+
+Người đàn ông lạnh lùng liếc tôi một cái rồi nói.
+
+“Cô gái, chúng ta quen nhau sao?”
+
+Tôi không nghĩ nhiều, trực tiếp giật luôn ly rượu trong tay anh ta.
+
+“Không quen. Nhưng anh hỏi vệ sĩ của anh xem, anh đã làm phiền tôi bao nhiêu lần rồi?”
+
+“Đang cần giúp gấp, chẳng lẽ không thể có qua có lại một lần hả?”
+
+Người đàn ông ngơ ra một nhịp, còn vệ sĩ bên cạnh thì đưa tay che mặt như không dám nhìn thẳng.
+
+“Cậu chủ, là thật đấy. Mỗi lần cậu say rượu đều không cho bất kỳ ai lại gần, chỉ có mỗi cô gái này là ngoại lệ thôi.”
+
+“Để đưa cậu về nhà, tôi thật sự đã gọi vài cuộc cho cô ấy, cầu cứu cô ấy giúp gấp.”`
+  },{
+    id: 225,
+    title: "Alpha Nhà Tôi Hóa Ra Yêu Tôi Rất Lâu Rồi",
+    image: "imgdam/4799a0bc03df93ad8a435027f65381d5.jpg",
+    link: "dammy/alpha-nha-toi-hoa-ra-yeu-toi-rat-lau-roi.html",
+    type: "dammy",
+    desc: `Tô Duẫn liên hôn, đối tượng lại là một Alpha chưa từng quen biết.
+
+Chưa quen biết thì chưa quen biết vậy, dù sao cũng chỉ là liên hôn mà thôi.
+
+Ngày đầu tiên liên hôn, trước cửa Cục Dân chính.
+
+Alpha: “Xin chào, xin hỏi cậu là đối tượng liên hôn của tôi phải chứ?”
+
+Tôi (đối chiếu với ảnh): “Đúng đúng đúng, chào anh, cho hỏi tên anh là gì vậy?”
+
+Tôi vốn nghĩ mình đang cầm kịch bản kiểu nước sông không phạm nước giếng, đến lúc thì đường ai nấy đi, ai ngờ.
+
+Trong kỳ phát tình đặc biệt của Omega.
+
+Alpha (tai đỏ bừng): “Tôi… tôi có thể giúp cậu chứ?”
+
+Alpha (nắm lấy tay tôi): “Thuốc ức chế chắc chắn không tốt bằng tôi đâu.”
+
+Alpha: “Thử dùng tôi đi mà.”
+
+Tôi: “Anh lạnh… anh bình tĩnh chút đi.”
+
+Alpha (lập tức chặn lời): “Vợ ơi, anh không lạnh mà.”
+
+Alpha (ôm chặt lấy): “Vợ ơi, em đang quan tâm anh đấy à?”
+
+Tôi: “???”`
+  },{
+    id: 226,
+    title: "Đêm Trước Lưu Đày Ta Đổi Mệnh",
+    image: "imgco/3d6ed4e36fc833fca2b8750bac98a904.jpg",
+    link: "cotrang/dem-truoc-luu-day-ta-doi-menh.html",
+    type: "cotrang",
+    desc: `Phụ thân vì dâng lời can gián quá khích, xúc phạm long nhan, khiến cả gia tộc bị đày đi lưu phóng.
+
+Trước lúc lâm hành, ông lấy đai ngọc do Tiên đế ngự ban để đổi lấy lệnh đặc xá cho tỷ tỷ, đem nàng gửi gắm cho ân sư của mình chiếu cố.
+
+Tại Bắc Cương, để phụng dưỡng song thân, ta đành vứt bỏ thể diện, bôn ba nơi phố thị dựng một sạp bán canh cừu để duy trì sinh kế.
+
+Năm năm sau, thánh tâm rốt cuộc hồi chuyển, phụ thân được quan phục nguyên chức.
+
+Nào ngờ khi trở về kinh thành, ta lại trở thành sự tồn tại hèn kém nhất trong phủ.
+
+Ánh mắt phụ mẫu nhìn ta tràn ngập chán ghét, như thể ta đã vứt sạch thể diện của cả gia tộc.
+
+Đám hạ nhân lén lút nghị luận, nói trên người ta luôn vương mùi tanh tưởi của cừu, khiến người nghe cũng phải cau mày.
+
+Ngay cả thanh mai trúc mã từng đính ước với ta, cũng sớm đón tỷ tỷ về làm thê tử.
+
+Về sau, phụ thân tự làm chủ, đem ta hứa gả làm tục huyền cho một vị đồng liêu đã ngoài ngũ tuần.
+
+Ta thề chết không gả.
+
+Trong cơn thịnh nộ, phụ thân sai hạ nhân ném ta, khi ấy đang vận y phục mỏng manh lại sốt cao, vào chuồng ngựa để tự hối lỗi.
+
+Đêm tuyết lạnh lẽo thấu xương ấy, ta bị chết cóng trong chuồng ngựa bốn bề gió lùa.
+
+Mở mắt ra lần nữa, ta đã trở về thời điểm trước khi phụ thân bị giáng chức.`
   },
+
+
 
 
 
