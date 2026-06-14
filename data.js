@@ -4939,7 +4939,74 @@ Sống lại một lần nữa, ta quay về đúng thời điểm vừa mới x
 Chàng uể oải liếc ta một cái, ánh nhìn vừa lạnh vừa hờ hững.
 
 Từ hôm ấy trở đi, chàng như cố níu lấy chút hơi tàn cuối cùng, thế nào cũng không chịu chết.`
+  },{
+    id: 233,
+    title: "Trả Giá Cuối Cùng Cho Ván Cờ",
+    image: "imgngon/5a20a82ee81490f8a2eaaa7f526b5a02.jpg",
+    link: "ngontinh/tra-gia-cuoi-cung-cho-van-co.html",
+    type: "ngontinh",
+    desc: `Chồng tôi, Uông Đồ, đang đi vệ sinh trong nhà thì bị tai nạn xe cộ.
+
+Sau khi anh ta đánh tôi xong thì lại đi vào toilet, cô tình nhân bé bỏng của anh ta thì dựa ngay ngoài cửa, vừa nói vừa cười giễu cợt tôi.
+
+Đột nhiên một tiếng nổ lớn vang lên, một chiếc xe tải mất lái lao thẳng vào sân nhà tôi, nghiền qua chồng tôi và cả cô tình nhân nhỏ của anh ta.
+
+Bác sĩ đang tìm kiếm phần cơ thể bị tàn phá của anh ta giữa đống đổ nát, còn tôi thì đá em trai nhỏ của anh ta sang một góc tường.
+
+Sắc mặt anh ta trắng bệch, đôi mắt trợn trừng, trong đó chỉ toàn là chữ hoảng loạn, đáng tiếc là không nói được nữa.
+
+Đến bệnh viện, bác sĩ nói:
+
+“Chân trái đã bị nghiền nát và gãy xương, hy vọng cứu được rất ít, nếu dùng...”
+
+“Không có tiền, cưa đi.”`
+  },{
+    id: 234,
+    title: "Khi Thí Nghiệm Biết Yêu",
+    image: "imgdam/3fa5eaa8a0e29f65d024582c193a1e57.jpg",
+    link: "dammy/khi-thi-nghiem-biet-yeu.html",
+    type: "dammy",
+    desc: `Tôi là một thiên tài sinh học, đam mê nghiên cứu những sinh vật kỳ quái, méo mó.
+
+Dù trông có vẻ như một nhà khoa học điên, tôi vẫn có giới hạn riêng, tuyệt đối không thí nghiệm trên người.
+
+Cho đến ngày hôm đó, xác chết của kẻ thù không đội trời chung lại xuất hiện ngay trước biệt thự của tôi.
+
+Tôi kéo hắn vào phòng thí nghiệm.
+
+Hắn “sống” lại.
+
+Tôi biến kẻ kiêu ngạo ấy thành đầy tớ, bắt hắn gọi tôi là “chủ nhân”.
+
+Nhưng tôi không hề biết mình đã tạo ra một con quái vật như thế nào.`
+  },{
+    id: 235,
+    title: "Nhất Niệm Triều Đình",
+    image: "imgco/12cd273c06f6d19b215daf162b44c472.jpg",
+    link: "cotrang/nhat-niem-trieu-dinh.html",
+    type: "cotrang",
+    desc: `Ta xuyên thành nữ phụ trong một quyển thoại bản.
+
+Chính Thái tử đã đích thân nói cho tôi biết điều đó.
+
+Đêm tân hôn, hắn ngoảnh mặt làm ngơ, chẳng buồn nhìn tôi lấy một lần, giọng điệu lạnh như băng tuyết đầu đông.
+
+“Ta và Cố thừa tướng tình đầu ý hợp. Cưới ngươi chỉ là để che mắt thiên hạ. Ngươi đừng mơ tưởng đến tình yêu của ta.”
+
+Tôi xúc động đến mức vành mắt đỏ hoe, nước mắt lưng tròng, nắm chặt lấy bàn tay thon dài của hắn.
+
+“Điện hạ cứ yên tâm. Người tôi mong thành đôi đều có kết cục viên mãn. Hai người nhất định sẽ hạnh phúc.”
+
+Về sau hắn đăng cơ làm đế.
+
+Tôi đề nghị phong Cố Tử An làm hoàng hậu.
+
+Không ngờ hắn tức giận đến mức đập nát hơn chục chiếc bình hoa.
+
+“Tạ Lâm Ngọc, nàng còn lương tâm hay không? Bao nhiêu năm qua rồi, sao nàng vẫn không quên được hắn?”`
   },
+
+
 
 
 
