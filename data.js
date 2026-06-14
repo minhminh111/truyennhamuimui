@@ -5004,7 +5004,158 @@ Tôi đề nghị phong Cố Tử An làm hoàng hậu.
 Không ngờ hắn tức giận đến mức đập nát hơn chục chiếc bình hoa.
 
 “Tạ Lâm Ngọc, nàng còn lương tâm hay không? Bao nhiêu năm qua rồi, sao nàng vẫn không quên được hắn?”`
+  },{
+    id: 236,
+    title: "Hồ Ly Nhỏ Xuống Núi",
+    image: "imgngon/554d24fa929ea494f66e5948a02516ad.jpg",
+    link: "ngontinh/ho-ly-nho-xuong-nui.html",
+    type: "ngontinh",
+    desc: `Vào ngày thứ ba chiến tranh lạnh với bạn trai, tôi phát hiện mình mang thai.
+
+Vì không muốn mất phong độ mà nói thẳng với anh ấy chuyện này, tôi gửi luôn một tin nhắn vào nhóm bạn của anh ấy.
+
+“Tôi có thai rồi.”
+
+Tôi cứ nghĩ mấy người đó sẽ là người đầu tiên báo lại cho anh ấy, sau đó tôi chỉ việc ngồi chờ anh ấy chạy tới nhận lỗi.
+
+Kết quả là não của hội anh em bên đó đúng kiểu không cùng hệ điều hành.
+
+“Đánh cái gì vậy? Chị dâu, đứa trẻ này không phải của em!”
+
+“Chị dâu, em không dám có ý đồ gì với chị đâu ạ!”
+
+“Đừng đùa, giữa chúng ta trong sạch như nước cất, không thể có con được.”
+
+Tôi: “…”
+
+Đến tối cuối cùng cũng có một người nhìn có vẻ bình thường, lại còn là anh trai của bạn trai tôi: “Nó không muốn nuôi sao?”
+
+Tôi đang định diễn chút đáng thương trước mặt người lớn trong nhà.
+
+Kết quả giây tiếp theo, Cố Đình Sâm người vốn ít nói đột nhiên như bị chập mạch.
+
+Anh trai anh ấy: “Tôi nuôi.”
+
+“Em có phiền nếu đứa trẻ gọi tôi là bố không?”
+
+“Đứa trẻ cũng có quan hệ huyết thống với tôi.”
+
+“Em mang hộ khẩu xuống đây đi, tôi đang ở dưới nhà em rồi.”
+
+Không phải, anh trai, anh định làm gì vậy?`
   },
+{
+    id: 237,
+    title: "Sương Mờ Chạm Ánh Sáng",
+    image: "imgdam/71f6aace84826a44f19ee6155bd5efad.jpg",
+    link: "dammy/suong-mo-cham-anh-sang.html",
+    type: "dammy",
+    desc: `Yến Ngật Phong là chồng tôi.
+
+Vì mù lòa nên anh ta trở nên cáu kỉnh, kỳ quặc. Ngày nào cũng tìm cách tự kết liễu, khi thì tuyệt thực, khi thì im lặng chống đối, như thể chỉ muốn tự tay chấm dứt cuộc đời mình.
+
+Thế là tôi nói với anh ta:
+
+"Trương gia đã chuẩn bị sính lễ xong xuôi cả rồi, đợi anh chết là sẽ đón tôi về."
+
+Anh ta tức đến mức nghiến răng, gầm lên: "Dù tôi có chết cũng phải kéo cậu chôn cùng!"
+
+Nhưng ngày hôm sau, phần ăn vốn dĩ vẫn bị bỏ nguyên suốt ngày lại được ăn sạch sẽ.`
+  },{
+    id: 238,
+    title: "Một Kiếp Trả Hết Nợ Tình Thù",
+    image: "imgco/230d83eb85b4efe018648629d137598f.jpg",
+    link: "cotrang/mot-kiep-tra-het-no-tinh-thu.html",
+    type: "cotrang",
+    desc: `Tiểu thanh mai của phu quân vốn thường giả nam trang, ngày ngày cùng hắn quậy phá chẳng khác nào tri kỷ.
+
+Bọn họ cùng nhau đối ẩm suốt đêm, chuyện trò tâm tình không dứt, lại còn cưỡi ngựa dạo phố, ngắm hoa giữa kinh thành, phong lưu tiêu sái như không vướng bụi trần.
+
+Ta uyển chuyển nhắc nhở đôi lời, nào ngờ lại bị vị tiểu thanh mai ấy trào phúng thẳng mặt.
+
+“Dù sao tẩu phu cũng chỉ là phụ nhân trong thâm trạch, trong lòng chỉ quanh quẩn nam hoan nữ ái. Ta và Khâm ca ca chỉ là huynh đệ tri kỷ, chưa từng có nửa phần vượt quá lễ nghĩa nam nữ.”
+
+Phu quân nghe vậy cũng không vui, ánh mắt trầm xuống, lời nói mang theo vài phần trách ý.
+
+“Tương Tương khác với nữ tử khuê các tầm thường, ngươi suy đoán chúng ta như vậy, quả thực có phần quá đáng.”
+
+Sau đó không lâu, phu quân phụng chỉ xuất chinh.
+
+Tô Vân Tương đi theo quân doanh, lại bất ngờ bị quân địch bắt sống.
+
+Vì cứu nàng, phu quân không tiếc dùng một tòa thành để đổi lấy an toàn cho nàng.
+
+Hầu phủ vì thế mà bị tịch thu, toàn tộc nhân trở thành vật hi sinh phụ trợ cho đoạn tình cảm ấy.
+
+Đến khi mở mắt ra lần nữa, ta đã trọng sinh trở về ngày đầu tiên gặp Tô Vân Tương.`
+  },{
+    id: 239,
+    title: "Nhật Ký Làm Việc Xử Lý Điều Ước",
+    image: "imgngon/2b9459c50862e0d07d2e6cdbe9c44d75.jpg",
+    link: "ngontinh/nhat-ky-lam-viec-xu-ly-dieu-uoc.html",
+    type: "ngontinh",
+    desc: `Sau khi chết được năm năm, tôi trở thành một người giao tiếp với thần tiên.
+
+Công việc chính là ngồi tám chuyện với mấy vị thần động vật trong miếu, xử lý mấy cái điều ước oái oăm của loài người.
+
+Tháng đầu tiên đi làm.
+
+“Bé con! Người này cầu được phỏng vấn đầu tiên, có phải muốn làm người phỏng vấn luôn không?”
+
+“Bé con! Chị gái xinh đẹp này nói muốn tìm một lương nhân, mà ở đây toàn họ Lương, giờ tôi phát đại một người cho chị ấy nhé?”
+
+“Bé con! Hắn ước được thăng chức, công ty từ tầng 5 chuyển lên tầng 18 có tính là thăng không?”
+
+Tôi đứng hình.
+
+???`
+  },{
+    id: 240,
+    title: "Bạch Liên Hoa Tôi Nuôi Dưỡng Lại Là Enigma",
+    image: "imgdam/f6d0e8b7a38e056bb8b08c5229a93fa9.jpg",
+    link: "dammy/bach-lien-hoa-toi-nuoi-duong-lai-la-enigma.html",
+    type: "dammy",
+    desc: `Tôi đã tự tay chọn cho cậu em trai Omega một chiếc vòng cổ.
+
+Sau đó, chiếc vòng ấy lại được đeo ngược lên cổ tôi, che đi tuyến thể đang sưng đỏ đau nhức, cùng với mùi pheromone của cậu ấy tràn ra nồng đến mức như sắp tràn khỏi không khí.`
+  },{
+    id: 241,
+    title: "Tình Cũ Không Quay Đầu",
+    image: "imgco/c27ea991bd860bdc11fa9a4d036bc28f.jpg",
+    link: "cotrang/tinh-cu-khong-quay-dau.html",
+    type: "cotrang",
+    desc: `Vị hôn phu Chu Hồi của ta có một cô thanh mai trúc mã rất hay khóc.
+
+Cứ mỗi lần cô ta khóc là Chu Hồi lại chẳng biết phải làm sao.
+
+Ngày đính hôn, cô ta lại khóc, còn kéo lấy tay áo Chu Hồi.
+
+“Muội không quan tâm, huynh không được cưới tỷ ấy, muội còn chưa thành thân, huynh không được thành thân trước muội.”
+
+Chu Hồi cười cười dỗ dành:
+
+“Được được được, không cưới nàng ta, ta đợi muội gả đi trước.”
+
+Dứt lời, hắn tiện tay thả bay luôn con nhạn sính lễ của ta.
+
+Ngay cả những sính lễ khác cũng bị mang đi tặng hết cho Tô Ngữ Họa để dỗ cô ta.
+
+Ta lập tức trở thành trò cười.
+
+Ta định đi hỏi cho ra lẽ, lại biết được hai người họ đã đến miếu Nhân Duyên.
+
+Chu Hồi còn hứa với Tô Ngữ Họa rằng nếu trong vòng ba năm cô ta vẫn chưa gả cho ai, hắn sẽ cưới cô ta.
+
+Bọn họ thậm chí còn muốn lập lời thề trước miếu Nhân Duyên.
+
+Ta bỗng dưng chẳng còn thiết tha gì nữa.
+
+Không muốn tiếp tục sống những ngày tháng bị ngó lơ như thế này.
+
+Cũng chẳng muốn gả cho Chu Hồi nữa.`
+  },
+
+
 
 
 
