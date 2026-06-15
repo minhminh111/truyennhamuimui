@@ -5220,7 +5220,141 @@ Chỉ vài câu nhẹ tênh, hôn sự của trưởng tỷ liền bị Hầu ph
 Lúc ấy ta mới hiểu, những lời hắn từng nói rằng đã ái mộ ta từ lâu, hóa ra từ đầu đến cuối đều là giả dối. Hắn chưa từng thật lòng, chỉ xem ta như quân cờ để lấy lại thể diện cho vị biểu muội thanh mai trúc mã kia mà thôi.
 
 Sau này, để giữ thanh danh cho các tỷ muội trong tộc, ta tự nguyện bước lên xe ngựa hòa thân đi Bắc Cương. Từ đó non cao đường xa, người cũ không cần gặp lại nữa.`
+  },{
+    id: 245,
+    title: "Chuyện Tình Song Sinh",
+    image: "imgngon/4a9c9df5cf6eb28e2eeac03cb05b07ac.jpg",
+    link: "ngontinh/chuyen-tinh-song-sinh.html",
+    type: "ngontinh",
+    desc: `Tôi và chị gái thay phiên nhau làm bạn gái của Thái tử gia Bắc Kinh.
+
+Chị gái hỏi tôi:
+
+"Em gái, sao chị cứ thấy thái tử gia của chúng ta khi ở cạnh em và khi ở cạnh chị cứ sai sai thế nào ý nhỉ? Lúc anh ta ở với em thì dị ứng với vàng, còn ở cạnh chị thì lại không dị ứng với vàng, hơn nữa sở thích cũng có chút khác biệt..."
+
+Chúng tôi trợn mắt nhìn nhau, sau đó nhất trí cho rằng Thái tử gia bị bệnh tâm thần nên quyết định giả chết chạy trốn.
+
+Mãi tới nửa đêm tôi mới dám bò ra khỏi quan tài.
+
+Nhưng vừa thò đầu ra thì hai người đàn ông dáng dấp rất giống nhau, tay cầm xẻng sắt mặt không đổi sắc nhìn chúng tôi.
+
+“Anh, anh nói xem chủ ý thối tha này là ai nghĩ ra?”
+
+“Chắc là cô em rồi, tối hôm qua cô ấy còn hỏi anh là làm thế nào để chạy trốn nếu bị chôn sống.”`
+  },{
+    id: 246,
+    title: "Nửa Đêm Có Người Nói Lời Yêu",
+    image: "imgdam/ec8d6865d2b149975fdc9ce73d593885.jpg",
+    link: "dammy/nua-dem-co-nguoi-noi-loi-yeu.html",
+    type: "dammy",
+    desc: `Nửa đêm, tôi nhận được cuộc gọi từ bạn trai – một ca sĩ underground.
+
+“Diệp Sinh, anh thích em, chúng ta công khai đi.”
+
+Còn chưa kịp đáp, bên kia đã vang lên một tràng cười ầm ĩ.
+
+“Chỉ là chơi ‘đại mạo hiểm’ thôi, cậu ta sẽ không tưởng thật chứ? Cậu sao có thể thích đàn ông được?”
+
+Một phút sau, tôi lại nhận được một cuộc gọi khác, là của Ảnh đế.
+
+Nội dung gần như giống hệt.
+
+“Diệp Sinh, anh thích em, nếu em đồng ý, chúng ta công khai đi.”
+
+Tôi chớp mắt: “Được thôi.”
+
+Giọng nam trầm thấp từ đầu dây bên kia truyền đến.
+
+“Anh không chọn đại mạo hiểm, mà là thật lòng.”`
+  },{
+    id: 247,
+    title: "Hậu Viện Đẫm Máu Tràn Ngập Mưu Kế",
+    image: "imgco/01264c0c607a0fb2fff2dab18eafc66a.jpg",
+    link: "cotrang/hau-vien-dam-mau-tran-ngap-muu-ke.html",
+    type: "cotrang",
+    desc: `Vừa mới thành thân được một năm, phu quân của ta đã dẫn Lâm Mạn Như đến trước mặt ta, nói rằng muốn nạp nàng làm thiếp. Ta dĩ nhiên không đồng ý.
+
+Lâm Mạn Như tính tình kiêu ngạo, ỷ vào chút sủng ái của phu quân mà ngang nhiên đối đầu với ta. Từ đó Hầu phủ trở nên u ám, ngày ngày chẳng yên.
+
+Kết cục kiếp trước, ta mất con, cũng mất luôn khả năng sinh nở, còn Lâm Mạn Như thì bỏ mạng. Danh tiếng của ta bị hủy đến không còn gì.
+
+Cả Thịnh Kinh đều đồn rằng ta, chủ mẫu An Nam Hầu phủ, tâm địa độc ác, ghen tuông như rắn rết.
+
+Cha mẹ ta vì giữ danh dự Quốc công phủ, cuối cùng đồng ý để phu quân ta cưới thêm một vị bình thê, người đó lại chính là biểu muội của hắn.
+
+Lúc ấy ta mới biết, người hắn thật sự yêu từ đầu đến cuối chính là biểu muội kia. Còn ta cùng Lâm Mạn Như bất quá chỉ là đá kê chân.
+
+Ta bị giam trong trang viên, cô độc suốt ba mươi năm. Rồi ta chết trong uất hận, nhưng khi mở mắt ra, ta đã trọng sinh trở về.`
+  },{
+    id: 248,
+    title: "Báo Cáo Mật Của Thiếu Phu Nhân",
+    image: "imgngon/685802324af3aa93ae34ef151c7e9821.jpg",
+    link: "ngontinh/bao-cao-mat-cua-thieu-phu-nhan.html",
+    type: "ngontinh",
+    desc: `Tôi là một kẻ cuồng theo dõi vừa mới ra khỏi bệnh viện tâm thần.
+
+Đang buồn rầu vì không tìm được việc làm, nghèo rớt mùng tơi đúng nghĩa đen, thì lão gia nhà họ Cố đồng ý trả tôi mười vạn một tháng, để tôi giám sát cháu trai của ông.
+
+Thế là tôi xoay người một cái, từ bệnh nhân tâm thần biến thành phu nhân của Cố thiếu gia.`
+  },{
+    id: 249,
+    title: "Bảy Năm Trong Lồng Son",
+    image: "imgdam/6677da5e7aadf2d881511b4c07726219.jpg",
+    link: "dammy/bay-nam-trong-long-son.html",
+    type: "dammy",
+    desc: `Tôi là chim hoàng yến của Triệu Càn Sinh.
+
+Nghe nói thiếu gia giới kinh thành này rất hào phóng, mỗi lần chia tay đều tặng một khoản tiền không nhỏ.
+
+Đã bảy năm rồi, bạn bè quanh anh, người thì sinh con thứ ba, người thì cưới lần thứ ba, còn anh thì vẫn chưa từng nói chia tay với tôi.
+
+Tôi thật sự chịu không nổi nữa nên quyết định chủ động ra tay.
+
+“Nghe nói Triệu tổng sắp đính hôn, hôm nay tôi xin được rời đi.”
+
+Triệu Càn Sinh cuối cùng cũng ngẩng mắt khỏi công việc, nhưng lại không nói một lời.
+
+Tôi tưởng anh quên chưa đưa tiền chia tay, nên khéo léo gợi ý:
+
+“Từ nhỏ tôi đã muốn có một căn nhà lớn của riêng mình, căn biệt thự này có thể tặng tôi làm quà chia tay không?”
+
+Anh bật cười.
+
+“Tiểu Thâm, nếu tôi nghe không nhầm thì bây giờ em vừa muốn chia tay, vừa muốn đuổi tôi ra khỏi nhà à?”
+
+Ờ… hình như đúng là vậy thật.
+
+Tôi ngượng ngùng gật đầu.
+
+Nửa đêm, tôi bắt đầu hối hận.
+
+Trên người tôi, Triệu Càn Sinh trở nên dữ dội khác thường.
+
+“Tiểu Thâm, có phải tôi đối xử với em quá tốt rồi không? Em mà dám nói chia tay lần nữa, tôi sẽ làm đến khi em nôn mới thôi.”`
+  },{
+    id: 250,
+    title: "Phồn Hoa Một Kiếp Tàn Tro",
+    image: "imgco/c727d29d2610014ac566b19af7e5d325.jpg",
+    link: "cotrang/phon-hoa-mot-kiep-tan-tro.html",
+    type: "cotrang",
+    desc: `Khi xưa, nhà họ Tạ từng một thời hưng thịnh, nhưng rồi vận số đổi dời, phong quang sụp đổ. Tạ đại nhân bị phán tội tử hình, Tạ công tử vì phẫn uất mà sinh trọng bệnh, hơi tàn mệnh mỏng, chẳng còn bao lâu nữa.
+
+Ta được gả vào Tạ gia với danh nghĩa trừ tà, xua đi vận xui. Tạ Chiêu vốn chẳng hề yêu thích ta, tất cả đều chỉ là một cuộc sắp đặt tạm bợ giữa thời thế đảo điên.
+
+Thế nhưng sau khi ta ở bên, Tạ Chiêu lại từng bước lật lại bản án, báo thù rửa hận, đoạt lại thanh danh đã mất.
+
+Tạ công tử ngày nào trở thành Tạ đại nhân mới, Tạ phủ một lần nữa khôi phục phồn hoa như trước, thậm chí hoàng đế còn ban hôn cho Tạ Chiêu với vị tiểu thư thanh mai trúc mã mà chàng từng khắc ghi trong lòng.
+
+Còn ta, lẽ ra sẽ bị chàng ruồng bỏ, bởi khi ấy ta đã chẳng còn xứng đứng cạnh Tạ Chiêu nữa.
+
+Vào ngày ban hôn, ta đã sớm viết thư hòa ly, mang theo chút hành lý rời khỏi Tạ phủ, quay về quê nhà.
+
+Ba năm sau, khi ta gặp lại chàng, không ngờ Tạ Chiêu lại đứng ngay trước mặt. Ánh mắt chàng rơi xuống đứa trẻ trong vòng tay ta, đỏ hoe run rẩy.
+
+“Ngươi dám để con trai ta gọi kẻ khác là cha.”`
   },
+
+
 
 
 
