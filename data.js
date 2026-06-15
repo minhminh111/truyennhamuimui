@@ -5153,7 +5153,75 @@ Ta bỗng dưng chẳng còn thiết tha gì nữa.
 Không muốn tiếp tục sống những ngày tháng bị ngó lơ như thế này.
 
 Cũng chẳng muốn gả cho Chu Hồi nữa.`
+  },{
+    id: 242,
+    title: "Hào Quang Bị Đánh Cắp",
+    image: "imgngon/a26c18acfa088d7a109d7235dafe22a0.jpg",
+    link: "ngontinh/hao-quang-bi-danh-cap.html",
+    type: "ngontinh",
+    desc: `Em gái tôi là đoàn sủng của thế giới Mary Sue.
+
+Tất cả các nhân vật nam đều coi sự bướng bỉnh của cô ấy là sự dễ thương mà chiều chuộng.
+
+Nữ chính không hề quan tâm đến thân phận em vợ của mình.
+
+Tại hôn lễ của tôi, cô ấy đội vương miện, mặc trang phục lộng lẫy như một cô dâu hoàng gia, rồi còn bắt chồng sắp cưới của tôi phải mặc trang phục phù hợp với mình.
+
+Cô ấy còn giành lấy một chỗ trong xe cưới của tôi, rồi nhờ anh rể tương lai bế cô ấy đi dọc thảm đỏ.
+
+Tôi bảo cô ấy dừng lại, cô ấy lại ủy khuất hạ giọng nói:
+
+"Em chỉ muốn trải nghiệm một chút nghi thức của hôn lễ thôi mà."
+
+Chồng sắp cưới của tôi cũng giúp cô ấy chỉ trích tôi:
+
+“Em là chị gái, em không thể nhượng bộ em gái mình sao?”
+
+Sau đó, chiếc xe bị mất lái, tôi và em gái bị kẹp dưới gầm xe cùng lúc.
+
+Để cứu lấy mái tóc của em gái, vị hôn phu của tôi không ngần ngại bỏ rơi tôi, để tôi bị nghiền nát đến chết.
+
+Khi tôi mở mắt ra lần nữa, tôi đã được tái sinh. Lần này, cho dù cô ấy làm gì đi nữa, tôi cũng sẽ xem có tên đàn ông nào còn dám chiều chuộng cô ta đến cùng.`
+  },{
+    id: 243,
+    title: "Sếp Muốn Dính Tôi Cả Đời",
+    image: "imgdam/0371e2d30c2ed60778e4e0e49d3cb88a.jpg",
+    link: "dammy/sep-muon-dinh-toi-ca-doi.html",
+    type: "dammy",
+    desc: `Đi công tác với sếp, không cẩn thận lại thấy sếp đang tắm. Giờ sếp cứ khăng khăng tôi có ý với anh ấy, còn đòi thử xem sao.
+
+Làm sao đây, gấp lắm, đang chờ online.
+
+Cư dân mạng: “Sếp bụng tám múi kìa, cậu cứ theo đi.”
+
+Cư dân mạng: “Sếp tuấn lãng đẹp trai, có gì mà không được chứ.”
+
+Đám cư dân mạng này đúng là hết cứu rồi.
+
+Tôi giận dữ gõ chữ: “Tôi là NAM.”
+
+Tiếng gõ cửa đột nhiên vang lên: “Mộ Từ, cậu qua đây một lát.”`
+  },{
+    id: 244,
+    title: "Yếm Vàng Nơi Cung Môn",
+    image: "imgco/7fda385a092ad74f442f94e2962b19d0.jpg",
+    link: "cotrang/yem-vang-noi-cung-mon.html",
+    type: "cotrang",
+    desc: `Trước ngày xuất chinh, Kỳ Diễm còn cố tình bày ra bộ dạng đáng thương, giọng nói mềm như nước dỗ dành ta, dùng vài lời ngọt ngào mà lừa lấy sự trong trắng của ta trong một đêm mưa gió tơi bời. Nào ngờ sau đêm ấy, hắn rời kinh xuất chinh, rồi biến mất không tung tích, giống như chưa từng tồn tại trong đời ta.
+
+Mãi đến ba tháng sau, đúng vào ngày đại hôn của trưởng tỷ, hắn mới đường hoàng xuất hiện trở lại giữa chốn đông người. Chỉ là lần này, hắn ôm biểu muội đứng giữa đại sảnh, môi treo nụ cười cợt nhả, tiện tay ném xuống một chiếc yếm vàng nhạt ngay trước mặt toàn bộ quan khách. Dải lụa mỏng ấy rơi xuống đất, nhăn nhúm như bị giẫm nát, chẳng khác gì một trò đùa rẻ rúng.
+
+"Nữ nhi Tiêu gia lẳng lơ phóng đãng, không xứng kết thân."
+
+"Hầu gia vì bỏ biểu muội ta mà cưới nữ nhi Tiêu gia, đúng là mù mắt."
+
+Chỉ vài câu nhẹ tênh, hôn sự của trưởng tỷ liền bị Hầu phủ hủy ngay tại chỗ, không chút nể nang. Còn ta thì từ đó trở thành trò cười lan khắp kinh thành, đi đến đâu cũng như có ánh mắt châm chọc đâm vào lưng.
+
+Lúc ấy ta mới hiểu, những lời hắn từng nói rằng đã ái mộ ta từ lâu, hóa ra từ đầu đến cuối đều là giả dối. Hắn chưa từng thật lòng, chỉ xem ta như quân cờ để lấy lại thể diện cho vị biểu muội thanh mai trúc mã kia mà thôi.
+
+Sau này, để giữ thanh danh cho các tỷ muội trong tộc, ta tự nguyện bước lên xe ngựa hòa thân đi Bắc Cương. Từ đó non cao đường xa, người cũ không cần gặp lại nữa.`
   },
+
 
 
 
