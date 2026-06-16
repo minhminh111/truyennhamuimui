@@ -5419,7 +5419,135 @@ Hai người chúng ta đều muốn bỏ chạy. Chỉ là sợ cùng nhau hàn
 Để ngăn ta lại, vị phu quân xưa nay ít nói của ta cuối cùng cũng chịu mở miệng thổ lộ.
 
 “Nương tử, người ta thầm mến từ thuở thiếu thời đến nay chỉ có một mình nàng. Nàng còn muốn chạy đi đâu nữa?”`
+  },{
+    id: 254,
+    title: "Một Đời Cam Chịu",
+    image: "imgngon/defb095bee7f1cc110ba98715b62812d.jpg",
+    link: "ngontinh/mot-doi-cam-chiu.html",
+    type: "ngontinh",
+    desc: `Vào ngày đại thọ 60 tuổi của bà nội, bà quyết định ly hôn.
+
+Nguyên nhân là do bà giúp người khác nấu ăn trong tiệc cưới và nhận của người ta 200 tệ, ông nội đã tát bà trước mặt bao nhiêu người.
+
+“Bà chỉ nấu ăn thôi mà, việc đơn giản như vậy mà bà lại đòi người ta 200 tệ. Sao bà lại lòng dạ hiểm độc như vậy. Mặt mũi của tôi đều bị bà vứt sạch rồi.”
+
+Mọi người trong làng đều nói ông nội là người tốt bụng, còn bà nội thì keo kiệt và hay tính toán.
+
+Sau khi ly hôn, mọi người đều khuyên ông nội đi xin lỗi.
+
+Ông nội khinh thường nói: “Bà ấy rời xa tôi thì chẳng là gì cả, nhiều nhất một tháng là bà ấy phải quay lại thôi.”
+
+Sau đó, bà nội dựa vào tay nghề nấu ăn của mình, gây dựng được sự nghiệp thành công ở thành phố lớn, còn trở thành một người nổi tiếng trên mạng có hàng triệu người theo dõi, một bài quảng cáo có thể kiếm được mười vạn tệ.
+
+Ông nội bắt đầu trông mong chạy theo: “Thục Phân, anh sai rồi, em quay lại đi.”`
+  },{
+    id: 255,
+    title: "Ván Cờ Hai Mặt",
+    image: "imgdam/07f3aef359098c2efcf93fc791fe7d5b.jpg",
+    link: "dammy/van-co-hai-mat.html",
+    type: "dammy",
+    desc: `Bùi Tẫn Trì tốn mọi công sức chỉ để kéo tôi lên giường chơi gay với hắn.
+
+Đến lúc tôi thật sự đem trái tim mình trao cho hắn, tôi mới biết...
+
+Hóa ra hắn làm tất cả chỉ vì người anh trai bạch nguyệt quang của hắn.
+
+Chỉ vì năm đó tôi lỡ buột miệng nói một câu: “Anh trai em kiểu cấm dục thế kia, chắc chắn rất kích thích.”
+
+Thế là hắn quyết tâm phải “dạy dỗ” tôi.
+
+Về sau, khi tôi và anh trai hắn ở chung một phòng, hắn tức đến đỏ cả mắt, đá văng cửa rồi xông thẳng vào.
+
+Tôi chậm rãi nới lỏng mấy nút áo nơi cổ, để lộ những dấu vết mờ ám bên dưới, sau đó nhẹ nhàng vỗ lên mặt hắn, mỉm cười hỏi:
+
+“Bây giờ em muốn đánh tôi... hay muốn đánh anh trai em hơn đây?”`
+  },{
+    id: 256,
+    title: "Song Hỷ Lâm Môn",
+    image: "imgco/5f43526a3ecb086f2b5a791ce72c9c5d.jpg",
+    link: "cotrang/song-hy-lam-mon.html",
+    type: "cotrang",
+    desc: `Sau khi cứu Tạ Chiêu ra khỏi biển lửa, đích tỷ lại khóa cửa nhốt ta giữa đám cháy, chỉ để bịt miệng cho gọn.
+
+Gương mặt ta bị lửa thiêu hủy hoàn toàn, từ đó mang tiếng xấu là kẻ mưu hại đích tỷ, còn dám quyến rũ Thế tử.
+
+Thế gian đồn ta xấu xí lại đầy tâm cơ, lời nào cũng sắc như dao.
+
+Đích tỷ thì nói ta không biết liêm sỉ.
+
+Ngay cả phụ thân cũng ép ta gả cho một gã mã phu một mắt ở trang viên xa xôi, coi như giữ thể diện cho gia tộc.
+
+Ta từng hỏi Tạ Chiêu, người tận mắt chứng kiến tất cả nhưng chưa từng đứng ra nói một lời: “Ta đã cứu ngươi, ta đáng phải chịu kết cục như vậy sao?”
+
+Hắn lạnh lùng nhìn ta, giọng như băng: “Cứu ư? Ta còn chưa trị tội ngươi vì dám phá hỏng cuộc gặp giữa ta và A Dao.”
+
+Tim ta như rơi xuống đáy vực.
+
+Đến ngày đại hôn của hắn và đích tỷ, ta cùng bọn họ đồng quy vu tận.
+
+Khi mở mắt ra lần nữa, ta đã quay về đúng ngày xảy ra trận hỏa hoạn ấy.
+
+Lần này, ta khóa chặt cổng viện, để ngọn lửa bùng lên dữ dội hơn.`
+  },{
+    id: 257,
+    title: "Phó Tổng Mỗi Ngày Đều Tán Tỉnh",
+    image: "imgngon/cb9909557fd038a39fd1eeddcf90ff06.jpg",
+    link: "ngontinh/pho-tong-moi-ngay-deu-tan-tinh.html",
+    type: "ngontinh",
+    desc: `Trong buổi team building của công ty, sếp tôi lịch sự từ chối lời mời rượu của đồng nghiệp.
+“Vợ tôi đang lên kế hoạch mang thai, không cho uống.”
+
+Cả bàn lập tức náo nhiệt hẳn lên, ai nấy bật mode hóng drama chuyện riêng tư của sếp.
+
+Sếp nghiêng đầu, ánh mắt thăm dò pha chút ám muội liếc về phía tôi.
+“Vợ à, chuyện này… tiết lộ được không em?”
+
+Tôi đặt ly nước xuống, nhìn anh ta cực kỳ bình tĩnh.
+“Anh nghĩ sao?”`
+  },{
+    id: 258,
+    title: "Không Thoát Được Anh Ta",
+    image: "imgdam/185d6551f9e1e24f8df1a1b47b1dbd64.jpg",
+    link: "dammy/pho-tong-moi-ngay-deu-tan-tinh.html",
+    type: "dammy",
+    desc: `Ba năm kể từ khi bí mật bên nhau với anh trai nuôi, nữ chính trong sách xuất hiện.
+
+Cô ấy ngọt ngào gọi anh là “anh trai,” và trong buổi tiệc sinh nhật của anh, còn dâng nụ hôn đầu để bày tỏ tình cảm một cách dứt khoát.
+
+Tôi sợ hãi, trên đường đến buổi tiệc, đã gửi một tin nhắn nói “chia tay” rồi vội vàng rời đi.
+
+Ba năm sau, anh đứng chắn trước cửa phòng tắm, mắt đỏ ngầu, nhìn tôi chằm chằm.
+
+“Đã lâu rồi không nghe em gọi anh là anh trai, Yến Yến.”`
+  },{
+    id: 259,
+    title: "Nhìn Lại Nàng Đã Không Còn Ở Đây",
+    image: "imgco/9fa6251884946fe47a702368cac67076.jpg",
+    link: "cotrang/nhin-lai-nang-da-khong-con-o-day.html",
+    type: "cotrang",
+    desc: `Từ thuở còn thơ, ta đã biết, ngày sau mình sẽ trở thành Tam phu nhân của Tạ gia.
+
+Tạ Thận Chi một lòng hướng Phật. Khi các tiểu thư khuê các khác ngày ngày thả diều, đánh đu, cười nói dưới ánh xuân, ta lại lặng lẽ quỳ trong Phật đường, tụng kinh niệm Phật.
+
+Tạ Thận Chi luyện võ, yêu thích những nữ tử có tâm tính kiên nghị. Vì hắn, ta học cưỡi ngựa. Có lần ngã đến gãy chân, đau đến sắc mặt trắng bệch, vậy mà vẫn cắn răng chịu đựng, không để rơi lấy một giọt lệ.
+
+Ta bất chấp tất cả, chỉ mong sống thành dáng vẻ mà hắn yêu thích.
+
+Nào ngờ, người hắn đem lòng thương lại là một cô nương hoàn toàn trái ngược với ta.
+
+Hôn ước không thể hủy bỏ. Ta quay đầu, gả cho đại ca của hắn, người nổi danh khắp kinh thành với tính tình lạnh lùng cùng thủ đoạn cứng rắn như sắt đá.
+
+Sau khi thành thân, Đại lang Tạ gia quả thực không gần nữ sắc như lời đồn.
+
+Chỉ có một lần.
+
+Tạ Thận Chi uống rượu đến say, đứng chắn trước cửa phòng ta.
+
+Tạ Vọng Chi đưa tay che chắn ta phía sau lưng, ánh mắt lạnh nhạt nhìn vị ấu đệ của mình, giọng nói tựa gió lạnh cuối đông.
+
+“Hiện giờ nàng đã là Đại phu nhân của Tạ gia. Đêm khuya thanh vắng, ngươi đến tìm đại tẩu của mình để làm gì?”`
   },
+
 
 
 
