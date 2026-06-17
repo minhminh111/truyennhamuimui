@@ -5588,6 +5588,163 @@ Chỉ một giây thôi, mọi lý trí trong tôi đều sụp đổ.
 Tôi đè anh dưới thân, răng nanh cắm vào tuyến thể sau gáy anh, giọng lại run lên đầy ấm ức:
 
 “Anh ơi… em ngoan thế này rồi. Sao anh còn đi tìm người khác chứ?”`
+  },{
+    id: 262,
+    title: "Mẫu Thân Phong Hoa Tuyệt Thế",
+    image: "imgco/e766adfdf392de36a3bde7f39d1b7177.jpg",
+    link: "cotrang/mau-than-phong-hoa-tuyet-the.html",
+    type: "cotrang",
+    desc: `Ta vốn là con gái của chiến thần mạnh nhất tam giới, người chỉ cần tay không cũng có thể đánh cho Ma quân phải ôm đầu chạy về ma giới.
+
+Thế nhưng người chưa từng cho phép ta gọi là mẫu thần, mà chỉ được gọi là mẹ.
+
+Từ sau lần dùng một kiếm phá vỡ bí cảnh Bàn Cổ, người liền biến mất khỏi tầm mắt thế gian.
+
+Thiên hạ đều đồn rằng người đã đoạt được pháp bảo hủy thiên diệt địa trong bí cảnh rồi ôm bảo vật quy ẩn.
+
+Nhưng ta biết, người đã đi tới một thế giới khác.
+
+Người từng nói, nếu ta có việc quan trọng thì cứ gọi, người nhất định sẽ nghe thấy.
+
+Vì vậy, khi ta sắp bị Ma quân đâm xuyên thân thể, ta liền gào lên: “Mẹ ơi.”
+
+Người lập tức đạp thẳng lên mặt Ma quân mà xuất hiện.
+
+“Đã bảo bao nhiêu lần rồi, giờ này mẹ con phải đắp mặt nạ, đừng có gọi lung tung, mặt nạ của mẹ sắp bị con dọa rơi luôn rồi.”
+
+Ta thở dốc, yếu ớt nói: “Nhưng mẹ à, con sắp không xong rồi.”`
+  },{
+    id: 263,
+    title: "Sau Lớp Mặt Nạ Gia Đình",
+    image: "imgngon/366c20de4bd0a44f8d8eb105a54d1231.jpg",
+    link: "ngontinh/sau-lop-mat-na-gia-dinh.html",
+    type: "ngontinh",
+    desc: `Con gái tôi bị kẻ giết người hàng loạt làm hại, tôi truy đuổi hắn suốt hai mươi năm, cuối cùng cũng đưa hung thủ ra trước công lý, nhưng đối phương lại không thừa nhận đã hại chết con gái tôi.
+
+Chồng cũ của tôi đã kết hôn với em gái tôi, con cái đủ đầy, gia đình hạnh phúc mỹ mãn.
+
+Còn tôi thì vì vất vả quá sức mà sinh bệnh, ung thư gan giai đoạn cuối.
+
+Trước khi chết, em gái nói cho tôi biết, con gái tôi là do chính cô ta giết rồi chôn xác.
+
+Cũng chính cô ta đã xúi giục tôi, dù ly hôn vẫn phải cố chấp truy đuổi hung thủ, đòi lại công bằng cho con gái.
+
+Em gái từng bước loại bỏ mọi chướng ngại, chiếm lấy tất cả những gì thuộc về tôi.
+
+Tôi dùng chút sức lực cuối cùng đẩy cô ta rơi khỏi cửa sổ, cùng nhau đồng quy vu tận.
+
+Lần nữa mở mắt, tôi trọng sinh, trọng sinh vào buổi sáng hôm con gái mất tích.`
+  },{
+    id: 264,
+    title: "Chia Tay Rồi Mới Biết Anh Là Cả Thế Giới",
+    image: "imgdam/4d59ccb89fd77d00831e263e17169779.jpg",
+    link: "dammy/chia-tay-roi-moi-biet-anh-la-ca-the-gioi.html",
+    type: "dammy",
+    desc: `Cậu ấm kinh thành – Trì Dịch – nổi tiếng trong giới vì tính khí tệ hại.
+
+Bạn bè hỏi tôi làm sao chịu đựng được hắn lâu như vậy, tôi cười:
+
+“Với cái tính như chó của hắn, tôi chịu nổi chết liền á!”
+
+Người ta nói kẻ ngang bướng cần một người yêu không thể rời bỏ?
+
+Tôi thì nghĩ: người không có tiền như tôi cần là một ngân hàng không báo cảnh sát cơ!
+
+“Sớm muộn gì tôi cũng phải chia tay cậu ta thôi…”
+
+Trong phòng riêng, tiếng cười vang dội:
+
+“Ha ha, bọn tôi biết mà! Gặp dịp chẳng bằng tình cờ, vừa hay hôm nay cậu Trì cũng đến đấy, anh Tạ, mau chia tay cậu ta đi cho rồi, thoát khỏi biển khổ đi ha ha…”
+
+Động tác nhấp rượu của tôi bỗng cứng đờ.
+
+Quay đầu lại, đối diện là ánh mắt lạnh lùng quen thuộc, nhìn thẳng không chớp:
+
+“Tạ Tri Châu?”
+
+“Ê!”
+
+Tôi đập mạnh ly rượu xuống, trong ánh mắt chờ mong của mọi người, khí thế bừng bừng đứng bật dậy.
+
+Rồi… trượt chân quỳ xuống.
+
+“He he vợ à, vừa rồi anh chỉ nói khoác với tụi nó thôi, đùa mà, đừng tin nhé…”`
+  },{
+    id: 265,
+    title: "Sinh Tử Cửu Châu",
+    image: "imgco/1ba49ff8ebba0466ec41ebf7a53f8a6c.jpg",
+    link: "cotrang/sinh-tu-cuu-chau.html",
+    type: "cotrang",
+    desc: `Sư muội vì cứu một con rắn ven đường mà lén lấy thuốc mạng của sư phụ. Nàng nói rằng vạn vật đều có linh hồn, không thể thấy chết mà không cứu.
+
+Ta cầm kiếm, định chém con rắn để nấu canh thuốc. Sư muội lại lấy thân mình chắn trước mũi kiếm. Sư phụ thở dài, nói thôi, tất cả đều là số mệnh.
+
+Sau này ta mới biết, con rắn đó là thiếu chủ ma tộc, tên Thiếu Ương.
+
+Cả tông môn bị diệt, Thiếu Ương lột da rút gân ta, hành hạ suốt ngày đêm.
+
+Không ngờ sư muội lại gả cho hắn. Nàng nói với ta: “Sư tỷ, đây đều là nhân quả tuần hoàn, ai bảo tỷ lúc trước muốn giết Thiếu Ương.”
+
+Khi mở mắt lần nữa, ta đã trở về ngày sư muội cứu rắn. Ta cầm kiếm trong tay, sư muội lập tức hét lên một tiếng kỳ quái.
+
+Ta cười nhạt nói: “Sư muội, rắn kêu cái gì, nấu canh rắn thì chẳng phải nên lột da rút xương sao?”`
+  },{
+    id: 266,
+    title: "Tôi Ở Mạt Thế Xử Lý Trà Xanh",
+    image: "imgngon/cb9909557fd038a39fd1eeddcf90ff06.jpg",
+    link: "ngontinh/toi-o-mat-the-xu-ly-tra-xanh.html",
+    type: "ngontinh",
+    desc: `Trà xanh trói buộc với hệ thống đoàn sủng đúng lúc mạt thế ập đến.
+
+Thế là toàn bộ thế giới như bật chế độ mất não, ai ai cũng tranh nhau đi lấy lòng cô ta, trong đó có cả anh tôi.
+
+Chỉ vì cô ta buột miệng muốn mỹ phẩm dưỡng da mà anh tôi trực tiếp đi lãnh cơm hộp trong miệng zombie.
+
+Đến lúc cô ta bị zombie bao vây, khóc lóc nức nở cầu xin tôi cứu mạng, tôi không nói nhiều, thẳng tay đâm một nhát.
+
+“Chết cho bà.”`
+  },{
+    id: 267,
+    title: "Anh Ấy Quên Tất Cả Trừ Việc Yêu Tôi",
+    image: "imgdam/66b24c424c5d48bc9c666980ca12c884.jpg",
+    link: "dammy/anh-ay-quen-tat-ca-tru-viec-yeu-toi.html",
+    type: "dammy",
+    desc: `Người bạn trai mới yêu được một ngày đã mất trí nhớ vì tai nạn giao thông. Lãng mạn.
+
+Trong phòng bệnh, anh ấy nhìn tôi với vẻ mặt bối rối rồi hỏi:
+
+“Cậu là ai?”
+
+Tôi thật sự đã hối hận ngay từ khoảnh khắc đồng ý làm bạn trai của Lục Yến.
+
+Dù sao tôi cũng là con trai.
+
+Thế nên tôi không đỏ mặt, tim cũng không loạn nhịp, chỉ lạnh lùng nói dối:
+
+“Xin chào, tôi là anh em tốt của cậu.”
+
+Lục Yến bật cười lạnh, rồi bất ngờ ép tôi xuống giường bệnh, giọng nói tràn đầy uy hiếp:
+
+“Trần Thuật, tôi đã nói rồi, nếu cậu dám lừa tôi, thì cậu chết chắc.”`
+  },{
+    id: 268,
+    title: "Tâm Ma Của Sư Tôn",
+    image: "imgco/7fe4c4d2fc7756bb413492212c475b93.jpg",
+    link: "cotrang/tam-ma-cua-su-ton.html",
+    type: "cotrang",
+    desc: `Sư tôn cho ta vào thức hải của người, để ta giúp người giết chết tâm ma.
+
+Nhưng tâm ma xảo quyệt, còn thích trêu ghẹo người.
+
+Ta sơ ý, trúng kế, ngủ với tâm ma.
+
+Ta không còn mặt mũi nào đối diện với sư tôn, đành phải xám xịt rời khỏi tông môn.
+
+Sau đó, ta nghe nói sư tôn đã nhập ma.
+
+Không những trở thành ma tôn, còn lấy thân nam nhi sinh hạ một đứa trẻ.
+
+Toàn bộ ma giới đều rầm rộ tìm kiếm ta, kẻ phụ tình vứt chồng bỏ con.`
   },
 
 
