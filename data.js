@@ -5546,7 +5546,50 @@ Tạ Thận Chi uống rượu đến say, đứng chắn trước cửa phòng 
 Tạ Vọng Chi đưa tay che chắn ta phía sau lưng, ánh mắt lạnh nhạt nhìn vị ấu đệ của mình, giọng nói tựa gió lạnh cuối đông.
 
 “Hiện giờ nàng đã là Đại phu nhân của Tạ gia. Đêm khuya thanh vắng, ngươi đến tìm đại tẩu của mình để làm gì?”`
+  },{
+    id: 260,
+    title: "Mắt Trái Nhìn Thấy Tương Lai",
+    image: "imgngon/4fa291b4858604bc15222df84f7a32a0.jpg",
+    link: "ngontinh/mat-trai-nhin-thay-tuong-lai.html",
+    type: "ngontinh",
+    desc: `Mắt trái của tôi có thể nhìn thấy tương lai trước một năm.
+
+Tôi dùng khả năng này để nhìn số trúng thưởng vé số vào một năm sau. Tôi đã ghi lại thông tin của những tờ vé số vào cuốn nhật ký.
+
+Chỉ cần chờ một năm, một năm sau tôi sẽ có thể phất lên trong một đêm.
+
+Mỗi ngày đều có thể trúng giải nhất. “một một”.
+
+Tôi có được năng lực này vào một đêm dông tố của bốn tháng trước. Bí mật này tôi vẫn chưa nói với ai hết. Tôi định lợi dụng năng lực này mua vé số, sau đó có thể hốt được một mẻ lớn.
+
+Nhưng điều tôi lo lắng nhất là, ngày mà tôi sẽ gặp phải trong tương lai.`
+  },{
+    id: 261,
+    title: "Đuôi Nhỏ Nhà Bên",
+    image: "imgdam/5f1b59ff390028a2553deaeea7e3f709.jpg",
+    link: "dammy/duoi-nho-nha-ben.html",
+    type: "dammy",
+    desc: `Tôi yêu Ngụy Cảnh Nguyên, yêu từ cái thuở còn mặc quần thủng đũng.
+
+Thế mà số phận lại ném ra một trò đùa đúng kiểu không biết nên cười hay nên khóc.
+
+Để rồi cả hai chúng tôi đều phân hoá thành Alpha.
+
+Và tôi, tôi quyết định chơi tới cùng với ông trời.
+
+Tôi xé nát tờ báo cáo, trở thành một Omega yếu đuối trong mắt anh.
+
+Tôi diễn rất đạt, lừa được tất cả mọi người.
+
+Cho đến ngày tôi ngửi thấy mùi tin tức tố của một Omega thật sự trên người anh.
+
+Chỉ một giây thôi, mọi lý trí trong tôi đều sụp đổ.
+
+Tôi đè anh dưới thân, răng nanh cắm vào tuyến thể sau gáy anh, giọng lại run lên đầy ấm ức:
+
+“Anh ơi… em ngoan thế này rồi. Sao anh còn đi tìm người khác chứ?”`
   },
+
 
 
 
