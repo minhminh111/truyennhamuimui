@@ -5808,6 +5808,190 @@ Hắn rũ mắt nhìn xuống.
 Ta suýt chút nữa bật khóc.
 
 “Không phải chứ, huynh đài? Huynh bắt nhầm người rồi. Mấy ma ma quét sân trong tông còn giỏi hơn ta gấp trăm lần đấy.”`
+  },{
+    id: 272,
+    title: "Ảnh Đế Ngoài Màn Hình",
+    image: "imgngon/700a59bac3de390e41fe0e49d794ac8f.jpg",
+    link: "ngontinh/anh-de-ngoai-man-hinh.html",
+    type: "ngontinh",
+    desc: `Trong một chương trình truyền hình thực tế chơi khăm, chương trình yêu cầu các nữ khách mời nhắn tin cho bốn nam minh tinh với nội dung: “Em có thai rồi”.
+
+Ảnh đế Phó Tinh Dã phản hồi ngay lập tức: “Tô An Niệm, chúng ta chia tay ba tháng rồi.”
+
+Sau một hồi im lặng, cả trường quay bùng nổ tiếng cười, ai cũng khen phản ứng của ảnh đế quá nhanh và quá gọn, đúng chuẩn người trong nghề. Thế nhưng ngay sau đó, tin nhắn tiếp theo của anh lại hiện lên màn hình lớn.
+
+“Cái thứ đó có thể sống lâu như vậy à?”`
+  },{
+    id: 273,
+    title: "Cậu Bạn Thẳng Nam Luôn Muốn Leo Lên Giường Tôi",
+    image: "imgdam/2d2c820ab48c9580f3a4f69b5e534749.jpg",
+    link: "dammy/cau-ban-thang-nam-luon-muon-leo-len-giuong-toi.html",
+    type: "dammy",
+    desc: `Để không bị lộ chuyện tôi là gay trong ký túc xá, tôi đã phải cố gắng đến mức nào?
+
+Tên bạn cùng phòng cao 1m88 chính là một con “chó sói lớn” kiêm trai thẳng chính hiệu, lại leo lên giường tôi.
+
+Tôi vẫn giữ lý trí, lập tức đuổi hắn xuống không chậm một giây.`
+  },{
+    id: 274,
+    title: "Một Đời Một Chấp Niệm",
+    image: "imgco/13c4eb8edef529d7bfd5a83643fe36b5.jpg",
+    link: "cotrang/mot-doi-mot-chap-niem.html",
+    type: "cotrang",
+    desc: `Ta là Thái tử phi, thế nhưng Thái tử lại chẳng hề yêu ta. Khi ta nằm giữa ranh giới sinh tử trong lúc vượt cạn, hắn lạnh lùng nói phải giữ con, bỏ mẹ. Tang lễ của ta còn chưa kịp qua, hắn đã rước biểu tỷ của ta về phủ. Bọn họ quấn quýt mặn nồng, cùng nhau đón những đứa trẻ thân yêu, sống một đời hạnh phúc viên mãn như tranh vẽ.
+
+Thế nhưng đứa trẻ mà ta đánh đổi cả mạng sống để sinh ra lại phải chịu đủ mọi khổ sở, sống không khác gì đang thoi thóp giữa địa ngục trần gian.
+
+Ta hóa thành một vong hồn u ám, lẩn khuất trong bóng tối, chỉ có thể bất lực nhìn nó bị bỏ đói, bị lạnh, nhìn nó bị người ta xô ngã xuống đất rồi coi như món đồ chơi, cưỡi lên như cưỡi ngựa. Nhìn nó vì một xâu kẹo hồ lô mà phải học tiếng chó sủa.
+
+Ta đã là một hồn ma lang thang, mọi dơ bẩn và khổ nạn của nhân gian ta đều có thể chịu đựng. Nhưng duy chỉ một điều ta không thể nhẫn nhịn, chính là nhìn “miếng thịt” từ thân mình rơi xuống bị hành hạ đến mức không còn hình người.
+
+Vì vậy, ta đã trọng sinh.`
+  },{
+    id: 275,
+    title: "Phản Diện Nuôi Tôi Thành Chỉ Biết Nằm Dài",
+    image: "imgngon/7e8dd697b1f71eb8e90d2e0db17e3eaa.jpg",
+    link: "ngontinh/phan-dien-nuoi-toi-thanh-chi-biet-nam-dai.html",
+    type: "ngontinh",
+    desc: `Tôi là chim hoàng yến của một phản diện u ám, nhưng lại thuộc hệ lười chảy thây chính hiệu.
+
+Phản diện phá sản, hệ thống bắt tôi phải mắng anh ta cho ra bã, tiện chân đá thêm một cú để kích thích ý chí vươn lên.
+
+Tôi từ chối thẳng.
+
+Lười mắng.
+
+Chu Tĩnh Xuyên nắm cằm tôi, giọng khàn khàn pha chút cáu kỉnh.
+
+“Đám người đó đều bỏ tôi đi hết rồi. Cô cũng muốn ở lại chỉ để xem tôi thảm hại đến mức nào sao?”
+
+Tôi ngáp một cái, uể oải đến mức không buồn diễn sâu.
+
+“Lười chạy.”
+
+Mắt anh đỏ lên, giọng tuyệt vọng.
+
+“Giờ tôi chẳng còn gì nữa. Không thể cho cô cuộc sống vinh hoa như trước...”
+
+Tôi tiện tay xoa đầu anh.
+
+“Thôi nào, nói nhiều vậy không mệt à? Lại đây, nằm ngủ một lát đi.”
+
+Thế là...
+
+Để tôi không chết đói, Chu Tĩnh Xuyên bật chế độ trâu bò, một ngày làm liền ba việc.
+
+Đến đoạn trong nguyên tác đáng lẽ anh phải đi hẹn hò, bồi dưỡng tình cảm với nữ chính...
+
+Thì anh lại đang ở nhà, một chân quỳ dưới đất, cực kỳ nghiêm túc buộc nơ con bướm trên váy công chúa cho tôi.
+
+Hệ thống gào lên trong đầu tôi.
+
+“Chị ơi chị tu tà đạo à?”`
+  },{
+    id: 276,
+    title: "Trả Lãi Bằng Cả Một Mối Tình",
+    image: "imgdam/c4ee1bcb7aa033ab8aaeedd4529af041.jpg",
+    link: "dammy/tra-lai-bang-ca-mot-moi-tinh.html",
+    type: "dammy",
+    desc: `“Tôi không cần biết, cậu hoặc là trả tiền tôi ngay bây giờ, hoặc là đền cậu cho tôi, tôi không muốn bạn thân, tôi muốn vợ!”
+
+“Vợ thì không thể rồi, cùng lắm tôi chỉ có thể đền cho cậu một người bạn trai ...”`
+  },{
+    id: 277,
+    title: "Nhiếp Chính Vương Ngoài Lạnh Trong Nóng",
+    image: "imgco/567e9e9314d77e86f369dc37bb80027e.jpg",
+    link: "cotrang/nhiep-chinh-vuong-ngoai-lanh-trong-nong.html",
+    type: "cotrang",
+    desc: `Cầm Thành Cẩn cưới ta, đối với hắn đây chẳng khác nào một sự sỉ nhục.
+
+Đây là điều mà khắp kinh thành ai ai cũng đồng tình.
+
+Rốt cuộc, hắn là vị nhiếp chính vương nắm đại quyền, đầy tham vọng, còn ta chỉ là một cô nhi dung mạo tầm thường, bán đậu hũ mà sống qua ngày.
+
+Đêm tân hôn, hắn vội vã vén khăn che mặt ta, rồi ngồi sang một bên, sắc mặt u ám, một mình uống rượu.
+
+Trong lòng hắn tất hẳn đầy phiền muộn.
+
+Ta lén nhìn hắn. Dung mạo vốn đã tuấn tú, nay khoác hỉ phục đỏ thẫm lại càng thêm thanh tuyệt, ánh mắt vốn lạnh lẽo lại xen vài phần diễm sắc.
+
+Chỉ là phần diễm sắc ấy lúc này lại mang theo khí tức hằn học.
+
+Ta ngoan ngoãn cúi đầu, không dám thở mạnh, chỉ lặng im ngồi trên giường tân hôn.
+
+Cầm Thành Cẩn buông một tiếng rủa khẽ, rồi đứng dậy bước đến trước mặt ta, hai ngón tay nâng cằm ta lên, nhìn kỹ đầy khắt khe.
+
+Hồi lâu sau, hắn khó chịu nói: “Da dẻ không mịn màng chút nào.”
+
+Ta ngượng ngùng cười gượng.
+
+Hắn lại nắm lấy tay ta, dưới ánh nến mà xem xét, rồi lạnh lùng chê: “Tay cũng vậy.”
+
+Ngón tay hắn thon dài như ngọc, so với ta quả thực đẹp hơn nhiều.
+
+Ta tự ti muốn rụt tay lại, nhưng hắn lại siết chặt hơn.
+
+“Ta vốn có thể cưới một quý nữ dòng dõi cao sang, tinh thông cầm kỳ thi họa, ai nấy đều thanh tú xinh đẹp.” Hắn lạnh giọng, gần như nghiến răng.
+
+Ta lúng túng, chỉ biết gật đầu.
+
+“Đến cả Trường công chúa đương triều cũng đem lòng yêu ta, nàng thử xem, nàng có gì so được với nàng ấy?” Hắn tiếp tục mỉa mai.
+
+Ta nghe mà lòng chua xót, cúi đầu đáp khẽ: “Ta thực sự không thể so với họ.”
+
+Cầm Thành Cẩn hừ lạnh, cúi xuống ngửi cổ ta: “Ngay cả hương thơm cũng không che được mùi đậu hũ trên người nàng.”
+
+Hơi thở hắn phả sát bên tai, khiến mặt ta nóng bừng, lòng càng thêm bức bối, không nhịn được nghiêng người tránh đi.
+
+Nhưng hắn lập tức ôm lấy eo ta, khó chịu nói: “Nàng cứ tránh ta làm gì?”
+
+Ta cố nén nghẹn ngào, dùng mu bàn tay lau mặt, giả vờ bình thản: “Ta sợ mùi đậu hũ làm nhiếp chính vương khó chịu, hay là đêm nay ta ra ngoài ngủ?”
+
+Hắn lập tức đẩy ta ngã xuống giường, nghiêng người đè lên, sắc mặt căng chặt: “Đã ngửi bao nhiêu ngày rồi, còn thiếu gì một đêm này nữa.”
+
+Sau đó, hắn gọi người vào dọn dẹp.
+
+Ta khàn giọng hỏi: “Ngài không phải lên triều sao, nhiếp chính vương?”
+
+Hắn lười biếng đáp: “Bản quan mới đại hôn, nghỉ một ngày thì có sao.”
+
+Thấy nha hoàn bưng cơm sáng lên, ta càng chắc chắn hắn muốn từ từ hành hạ ta.
+
+Trên bàn tám món ăn thì đến năm món là đậu hũ.
+
+Đậu hũ nước, đậu hũ mặn, đậu hũ chiên, đậu hũ trộn, đậu hũ luộc.
+
+Trước kia khi sống khó khăn ở trấn cũ, tiền bán đậu hũ chỉ đủ nuôi mình ta đã khó, huống chi thêm một nam nhân.
+
+Bữa ăn khi ấy thường chỉ là đồ đậu hũ thừa lại không bán hết từ hôm trước, hôm kia.
+
+Ăn suốt hai tháng, đến mức ta chỉ nhìn thấy sắc trắng cũng thấy buồn nôn.
+
+Cầm Thành Cẩn lại ăn rất ngon lành, thấy ta không động đũa liền tự tay múc cho ta một bát: “Sao vậy?”
+
+Hắn khẽ cười, đôi mắt hổ phách nhìn ta.
+
+Ta đành miễn cưỡng đưa miếng đậu hũ vào miệng: “Không có gì.”
+
+Hắn khẽ nhướng cằm, chỉ nha hoàn phía sau: “Từ nay nàng ấy sẽ là thị nữ thân cận của nàng.”
+
+Ta theo phản xạ quay lại nhìn nha hoàn, khẽ mỉm cười.
+
+Cầm Thành Cẩn nhìn bàn tay ta, khẽ cau mày: “Sau này không cần làm việc nặng nữa, dưỡng cho tốt, đừng để ta mất mặt.”
+
+Ta vội giấu tay dưới bàn, im lặng không nói.
+
+Ta làm phu nhân trong phủ quyền quý, ngày tháng thật tẻ nhạt.
+
+Cầm Thành Cẩn là đệ đệ của tiên hoàng hậu, cũng giống ta đều mất cha mẹ sớm, nên không cần thỉnh an phụ mẫu.
+
+Hắn cả ngày bận triều chính, muốn gặp chỉ có thể chờ buổi tối, mà buổi tối ấy… thà không gặp còn hơn.
+
+Ta cho người dắt Tiểu Thanh ra sân, vừa cho nó ăn cỏ vừa thầm mắng Cầm Thành Cẩn vô ơn bội nghĩa, bạo ngược vô lương, lại than cho số phận bị cuốn vào tranh đấu quyền thế.
+
+Đang lúc mắng hăng say, hắn trở về phủ.
+
+Ta tưởng hắn sẽ trách ta vô lễ, để lừa vào tiền viện, nhưng không ngờ hắn chỉ lặng lẽ bước tới, đưa tay vuốt lưng Tiểu Thanh, còn nhặt cỏ dưới đất đút cho nó.`
   },
 
 
