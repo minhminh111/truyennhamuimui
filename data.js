@@ -5745,6 +5745,69 @@ Sau đó, ta nghe nói sư tôn đã nhập ma.
 Không những trở thành ma tôn, còn lấy thân nam nhi sinh hạ một đứa trẻ.
 
 Toàn bộ ma giới đều rầm rộ tìm kiếm ta, kẻ phụ tình vứt chồng bỏ con.`
+  },{
+    id: 269,
+    title: "Trở Thành Con Gái Nhà Hào Môn",
+    image: "imgngon/650c8e0cfff56f1f84846b599a97096e.jpg",
+    link: "ngontinh/tro-thanh-con-gai-nha-hao-mon.html",
+    type: "ngontinh",
+    desc: `Kiếp trước, em gái được một gia đình giàu nhận nuôi, còn tôi thì được một nhân viên lao công nhận nuôi.
+
+Kết quả là gia đình giàu xảy ra xung đột nội bộ nghiêm trọng, ba mẹ lạnh lùng, anh trai thì bắt nạt, cuối cùng em ấy trắng tay rời đi.
+
+Còn gia đình tôi thì rất hòa thuận, tôi, một cô gái yếu đuối nhà nghèo, lại được thiếu gia nhà giàu đem lòng yêu, mọi thứ cứ như một bộ phim thần tượng.
+
+Em gái ôm hận, sát hại tôi, sau đó cùng tôi quay trở lại đúng ngày được nhận nuôi.
+
+Lần này, em ấy lao thẳng vào lòng người nhân viên lao công:
+
+“Chị ơi, lần này đến lượt em làm nữ chính trong phim thần tượng rồi.”
+
+Nhưng em ấy không biết, nữ chính sở dĩ là nữ chính, không phải vì xuất thân.`
+  },{
+    id: 270,
+    title: "Ngọn Lửa Không Tắt",
+    image: "imgdam/df536f294857a772b9a4778b62398ca1.jpg",
+    link: "dammy/ngon-lua-khong-tat.html",
+    type: "dammy",
+    desc: `Sau khi cưa đổ học bá Alpha ôn hòa, cao quý, tôi từ Beta phân hóa thứ cấp thành Alpha.
+
+Thế là tôi bỏ chạy.
+
+Nhưng không ngờ, ba năm sau, anh đích thân quay lại tóm tôi.
+
+Đúng vào ngày kỳ phát tình, anh ép tôi vào sau cánh cửa, bàn tay chậm rãi vuốt lên tuyến thể sau gáy tôi, mắt đỏ hoe, giọng run rẩy hỏi: “Còn muốn chạy?”
+
+“Em nói xem, hôm đó có phải anh nên khiến em không thể chạy được không?”`
+  },{
+    id: 271,
+    title: "Hồng Y Kiếm Ý",
+    image: "imgco/d2575a9c219b3cf992427d0849f81b6d.jpg",
+    link: "cotrang/hong-y-kiem-y.html",
+    type: "cotrang",
+    desc: `Giới tu tiên đều đồn rằng ta là yêu nữ đứng đầu Hợp Hoan Tông, dung nhan khuynh quốc khuynh thành, chỉ một ánh mắt cũng đủ làm lòng người điên đảo.
+
+Nhưng sự thật thì khác xa lời đồn.
+
+Những bản lĩnh căn cơ của Hợp Hoan Tông, ta còn chưa học đến nơi đến chốn. Thứ duy nhất có chút thiên phú, lại là kiếm đạo.
+
+Tông chủ nhà ta thường chống trán thở dài, khẳng định rằng ta chỉ thích hợp làm linh vật trấn tông.
+
+Một ngày nọ, ta cùng chiếc giường yêu quý của mình đồng loạt bị bắt đi.
+
+Kẻ bắt ta chính là Phật tử lừng danh của giới tu tiên. Người ấy áo trắng hơn tuyết, khí chất thanh lãnh như vầng trăng treo giữa trời đông, không vướng nửa hạt bụi trần.
+
+Mũi kiếm lạnh như sương tuyết đặt ngang cổ ta.
+
+Hắn rũ mắt nhìn xuống.
+
+“Xin mời cô nương thử dụ ta nhập ma.”
+
+“Nếu không, ta sẽ đích thân tiễn cô nương lên đường.”
+
+Ta suýt chút nữa bật khóc.
+
+“Không phải chứ, huynh đài? Huynh bắt nhầm người rồi. Mấy ma ma quét sân trong tông còn giỏi hơn ta gấp trăm lần đấy.”`
   },
 
 
