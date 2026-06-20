@@ -5948,7 +5948,129 @@ Hắn cùng nữ đạo tặc tài hoa, vừa chính vừa tà là Tô Uyển Uy
 Một người cơ trí sâu xa, một người linh hoạt tinh tế. Từ đối đầu xa lạ, họ dần trở thành cộng sự ăn ý, cùng nhau tìm ra chân tướng, minh định công lý, lưu lại bao truyền kỳ được người đời truyền tụng.
 
 Chỉ là, ta, vị hôn thê danh chính ngôn thuận của hắn, lại dần trở thành kẻ đứng ngoài lề, lạc lõng giữa mọi câu chuyện vốn thuộc về mình.`
+  },{
+    id: 281,
+    title: "Hôn Nhân Với Thái Tử Gia Bắc Kinh",
+    image: "imgngon/4742c03af306535ae303b4d2941df5d3.jpg",
+    link: "ngontinh/hon-nhan-voi-thai-tu-gia-bac-kinh.html",
+    type: "ngontinh",
+    desc: `Sau khi kết hôn với vị thái tử gia của giới kinh doanh Bắc Kinh, có phóng viên hỏi anh ấy về cảm nhận đối với tôi.
+
+Anh ấy nhìn chằm chằm vào chiếc nhẫn cưới trên ngón áp út, trầm ngâm một lúc rồi nói: “Người tốt, nhưng không phải gu của tôi.”
+
+“Nếu ngoan ngoãn một chút thì tốt hơn, đừng lúc nào cũng cãi lời tôi.”
+
+“Ở nhà thì có thể ăn mặc gợi cảm một chút, tôi không ngại đâu.”
+
+Phóng viên bất lực đỡ trán: “Ý tôi là hỏi anh về cảm nhận với bộ phim mới ra mắt của cô ấy.”
+
+Cả mạng xã hội bùng nổ.`
+  },{
+    id: 282,
+    title: "Kẻ Thù Sống Còn Trong Vô Hạn Lưu",
+    image: "imgdam/57d4f18316a42752044d0358a86ed417.jpg",
+    link: "dammy/ke-thu-song-con-trong-vo-han-luu.html",
+    type: "dammy",
+    desc: `Đây là phó bản cuối cùng của vô hạn lưu.
+
+Chỉ có một người được sống, tôi và kẻ thù không đội trời chung nhất định phải có một người chết.
+
+Chúng tôi đã đánh nhau đến sát ranh giới sinh tử.
+
+Nhưng đúng giây cuối cùng, hắn lại đẩy tôi về phía cánh cửa còn lại, cánh cửa của sự sống.
+
+Hắn rơi xuống, chỉ để lại một câu.
+
+“Tạ Kiến Hỷ, cậu phải nhớ tôi cả đời.”
+
+Tôi cười khẩy, không chút do dự nhảy theo hắn.
+
+“Nhớ cậu làm gì. Không có cậu thì sống cũng chẳng còn ý nghĩa gì.”`
+  },{
+    id: 283,
+    title: "Mùa Xuân Không Thuộc Về Ai",
+    image: "imgco/e96c3fd527dc12203b4e99c7de96cacb.jpg",
+    link: "cotrang/mua-xuan-khong-thuoc-ve-ai.html",
+    type: "cotrang",
+    desc: `Ta là đồng dưỡng tức được Tạ Kim Ngôn mua về từ thuở bé.
+
+Nhưng việc đầu tiên hắn làm sau khi đỗ Trạng nguyên lại là nhận ta làm nghĩa muội.
+
+Ta hiểu rất rõ, Tạ Kim Ngôn tâm cao khí ngạo, nhất định sẽ không cam lòng cưới một nữ tử thôn quê chỉ biết cày cấy và bếp núc làm thê tử.
+
+Mà ta, vốn là một sinh viên nông học xuyên đến thời đại này. Đối với ta mà nói, chuyện đồng áng còn quan trọng hơn nam nhân nhiều.
+
+Thế là từ đó, mỗi người một ngả. Hắn đi tìm công danh phú quý của hắn.
+
+Ta đi tìm cuộc sống bình yên của ta.
+
+Chỉ là có một ngày, khi ta đã mang thai, đang đứng trong học đường giảng cho đám học trò về hai mươi bốn tiết khí.
+
+Thì Tạ Kim Ngôn, người đang làm quan nơi kinh thành, lại bất ngờ xuất hiện với sắc mặt âm trầm, nghiến răng nghiến lợi hỏi ta:
+
+“Tiểu Vân, nàng đang mang thai con của ai?”
+
+Ta khẽ nhíu mày, nhìn hắn như nhìn một kẻ mắc chứng điên dại.
+
+“Đại ca, ngươi hồ đồ rồi sao? Ta là muội muội của ngươi. Đứa bé này đương nhiên là con của muội phu ngươi rồi.”`
+  },{
+    id: 284,
+    title: "Ác Nhân Tự Gieo Nghiệp Báo",
+    image: "imgngon/f31e3ebda7391053d3220c3f7620d733.jpg",
+    link: "ngontinh/ac-nhan-tu-gieo-nghiep-bao.html",
+    type: "ngontinh",
+    desc: `Tôi thi đậu đại học Bắc Kinh, nhưng không khí trong nhà lại trầm hẳn xuống.
+
+Lý do đơn giản, anh kế tôi thi rớt nên phải học lại.
+
+Mẹ kế biết tôi đậu Trạng Nguyên khoa tự nhiên còn có tiền thưởng liền bắt đầu lên kế hoạch ngay.
+
+Bà ta dùng tiền mua bằng cho anh kế, đóng phí cho em kế vào trường quý tộc, đổi xe cho cả bà ta với bố, rồi còn chuyển sang nhà lớn hơn.
+
+Mọi thứ trông có vẻ hoàn hảo. Chỉ tiếc là tôi không còn là con nhóc yếu đuối để họ muốn làm gì thì làm nữa.
+
+Tôi bây giờ là nữ ma đầu của tổ tuyển sinh Bắc Đại.`
+  },{
+    id: 286,
+    title: "Nuôi Dưỡng Nam Chủ Cả Nhà Hưởng Phúc",
+    image: "imgco/a604a770181efc85e3f0cc14d585ed8b.jpg",
+    link: "cotrang/nuoi-duong-nam-chu-ca-nha-huong-phuc.html",
+    type: "cotrang",
+    desc: `“Tướng quân đã hồi phủ, hơn nữa còn dẫn theo một nữ tử đang mang thai!”
+
+Nghe tin ấy, ta lập tức chạy thẳng ra trước phủ, bước chân vội vã đến mức đánh rơi cả một chiếc hài thêu vẫn chẳng hay biết. Tướng quân phong trần mệt mỏi, từ xa nhìn ta một cái, ánh mắt hai người giao nhau, đều như phủ một tầng lệ quang rưng rưng.
+
+Cuối cùng rồi. Chúng ta đã tìm thấy mẫu thân của nam chủ.`
+  },{
+    id: 285,
+    title: "Bạn Trai Cũ Phát Điên Vì Hiểu Lầm",
+    image: "imgdam/948ee9d1b01c7a62ffbfd70e18b715b8.jpg",
+    link: "dammy/ban-trai-cu-phat-dien-vi-hieu-lam.html",
+    type: "dammy",
+    desc: `Ai mà ngờ, trong lúc đang đi làm thì lại bị tin nhắn của bạn trai cũ dội bom liên tục, như kiểu vừa mở máy là thấy cả một “chiến dịch spam tình cảm” vậy.
+
+“Tiết Thành, chia tay rồi mà em lại tự rẻ rúng mình thế sao?”
+
+“Em thiếu tiền à? Anh có thể cho em tiền, chỉ cần em không làm nghề này nữa.”
+
+“Em chơi với thằng trà xanh đó thế nào rồi? Nó có bền bỉ được bằng anh không?”
+
+“Em chưa trả lời tin nhắn, là còn chưa xong việc à?”
+
+“Tiết Thành, anh sai rồi, anh thua cuộc hoàn toàn, anh không quên được em, anh không thể nào buông bỏ được em.”
+
+“Đừng qua đêm với hắn nữa có được không? Hãy qua đêm ở chỗ anh đi.”
+
+“Em coi họ như khách sạn, còn coi anh là nhà được không? Anh chấp nhận rồi.”
+
+“Chỉ cần em coi anh là người chính, em chơi thế nào cũng được.”
+
+“……”
+
+Này, anh ơi, anh đang diễn kịch đấy à?`
   },
+
+
 
 
 
