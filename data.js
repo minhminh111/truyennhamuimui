@@ -5909,6 +5909,45 @@ Hệ thống gào lên trong đầu tôi.
 
 Rốt cuộc, hắn là vị nhiếp chính vương nắm đại quyền, đầy tham vọng, còn ta chỉ là một cô nhi dung mạo tầm thường, bán đậu hũ mà sống qua ngày.
 `
+  },{
+    id: 278,
+    title: "Ánh Trăng Không Thuộc Về Tôi",
+    image: "imgngon/2ad5ad7a6096c0309580ee3552ccf48f.jpg",
+    link: "ngontinh/anh-trang-khong-thuoc-ve-toi.html",
+    type: "ngontinh",
+    desc: `Sau khi kết hôn, tôi mới biết chồng mình từng có một cô bạn gái cũ mà anh ta yêu sâu đậm.
+
+Vào đêm trước đám cưới của mình, cô gái ấy đã lái xe suốt đêm để đến gặp anh ta, chỉ để nói lời tạm biệt với mối tình đầu của mình.
+
+Sau khi bị tôi phát hiện, chồng tôi liền cầu xin tôi đừng vạch trần mọi chuyện, “Nếu không, cuộc đời cô ấy sẽ bị hủy hoại”.`
+  },{
+    id: 279,
+    title: "Sau Khi Tôi Mù Kẻ Thù Thành Người Của Tôi",
+    image: "imgdam/de6a2bdcb653cf291a4b5e4ebdb24304.jpg",
+    link: "dammy/sau-khi-toi-mu-ke-thu-thanh-nguoi-cua-toi.html",
+    type: "dammy",
+    desc: `Sau khi tôi bị mù, kẻ thù không đội trời chung cứ nhất quyết đòi dọn đến ở chung với tôi.
+
+Tôi cứ đinh ninh rằng cậu ta muốn nhân cơ hội này để châm chọc, cười nhạo tôi.
+
+Cho đến một ngày, tôi bất ngờ khôi phục thị lực.
+
+Đôi mắt tôi chạm đúng vào ánh mắt đong đầy dục vọng của cậu ta.
+
+Cậu ta cắn lấy vạt áo, đè nén hơi thở, ánh nhìn điên cuồng dán chặt vào tôi.`
+  },{
+    id: 280,
+    title: "Phu Quân Của Ta Không Biết Xấu Hổ",
+    image: "imgco/e7e197112f73f8c2caa29fd153f6b479.jpg",
+    link: "cotrang/phu-quan-cua-ta-khong-biet-xau-ho.html",
+    type: "cotrang",
+    desc: `Gần đây, vị hôn phu của ta nổi danh khắp Kinh thành.
+
+Hắn cùng nữ đạo tặc tài hoa, vừa chính vừa tà là Tô Uyển Uyển, kết thành liên thủ, cùng nhau phá giải vô số đại án. Vì truy tra hung phạm, hai người thậm chí còn giả bái đường thành thân, dựng nên một màn kịch nửa thật nửa giả, khiến người ngoài khó phân thật giả.
+
+Một người cơ trí sâu xa, một người linh hoạt tinh tế. Từ đối đầu xa lạ, họ dần trở thành cộng sự ăn ý, cùng nhau tìm ra chân tướng, minh định công lý, lưu lại bao truyền kỳ được người đời truyền tụng.
+
+Chỉ là, ta, vị hôn thê danh chính ngôn thuận của hắn, lại dần trở thành kẻ đứng ngoài lề, lạc lõng giữa mọi câu chuyện vốn thuộc về mình.`
   },
 
 
