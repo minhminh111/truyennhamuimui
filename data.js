@@ -6068,6 +6068,54 @@ Cuối cùng rồi. Chúng ta đã tìm thấy mẫu thân của nam chủ.`
 “……”
 
 Này, anh ơi, anh đang diễn kịch đấy à?`
+  },{
+    id: 287,
+    title: "Mùa Xuân Đảo Chiều Giới Giải Trí",
+    image: "imgngon/d89c25ffd4fc81b6ea4e2a2f4f8abeac.jpg",
+    link: "ngontinh/mua-xuan-dao-chieu-gioi-giai-tri.html",
+    type: "ngontinh",
+    desc: `Tôi và đứa bạn thân dắt tay nhau cùng nhau tiến vào giới giải trí. Giang cư mận lúc nào cũng mắng chúng tôi là giả ngu giả ngơ, chuyên làm nũng. Nhưng chúng tôi oan thật sự, nếu thông minh thật thì ai lại đi vào giới giải trí làm gì cho khổ đời cơ chứ. 
+    Công ty thấy chúng tôi chẳng làm nên trò trống gì ra hồn, thế là đóng gói gọn gàng rồi ném thẳng vào một chương trình tạp kỹ, coi như làm nền cho nữ minh tinh đang nổi hiện nay.
+
+Trong chương trình tạp kỹ, cô ta nói mình là cô hai của nhà họ Bùi ở Giang Thành. Đứa bạn thân nghe xong thì hoảng hốt: “Hả, bố tôi thế mà lại lén lút có con gái riêng á…”
+
+Cô ta còn nói bạn trai cô ta là thái tử gia Tần Du của giới Kinh Khuyên. Tôi ngẩn người một lúc rồi buột miệng: “Ồ, hóa ra bạn trai tôi còn có một cô bạn gái khác nữa à…”
+
+Đứa bạn thân đau lòng chạy tới tìm tôi: “Tao muốn bỏ nhà ra đi.”
+
+Tôi vội nói: “Tao đi cùng mày, đúng lúc tao cũng muốn đào hôn.”
+
+Chúng tôi quyết định bỏ trốn suốt đêm. Đêm đó, Bùi Yếm, người giàu nhất Giang Thành, phát điên rồi: “Em gái tôi nãy còn sờ sờ ra đó, giờ đâu rồi?”
+
+Thái tử gia Tần Du của giới Kinh Khuyên cũng phát điên luôn: “Vợ tôi nãy còn sờ sờ ra đó, giờ đâu rồi?”`
+  },{
+    id: 288,
+    title: "Ảnh Đế Giả Trai Thẳng",
+    image: "imgdam/b354329371f255d8cf86a370ff0f2c0d.jpg",
+    link: "dammy/anh-de-gia-trai-thang.html",
+    type: "dammy",
+    desc: `Tôi và Ảnh đế cùng nhau quay một bộ phim đam mỹ.
+
+Ảnh đế nói anh ta là trai thẳng, bảo tôi đừng lo lắng quá.
+
+Kết quả là môi tôi bị hôn đến sưng cả lên.
+
+Vậy rốt cuộc đây là giống “trai thẳng” gì thế này?`
+  },{
+    id: 289,
+    title: "Đường Tu Tiên Của Kẻ Bị Phản Bội",
+    image: "imgco/192f4f855842007cc06560487e985802.jpg",
+    link: "cotrang/duong-tu-tien-cua-ke-bi-phan-boi.html",
+    type: "cotrang",
+    desc: `Ta mang thai hài tử của nhân vật phản diện, bị nhốt vào Thượng Cổ Bí Cảnh.
+
+Sư môn tự cho rằng đã an bài mọi chuyện vô cùng chu toàn.
+
+Nhưng bọn họ nào biết, ta đã sớm để mắt tới bảo vật trong bí cảnh này.
+
+Ta xuyên vào trong sách, trong lòng hiểu rõ nơi đây cất giấu một tòa linh thảo thượng cổ, cũng chính là bàn tay vàng lớn nhất của nhân vật chính.
+
+Điều duy nhất vượt ngoài dự liệu của ta chính là, phụ thân của đứa trẻ trong bụng ta, kẻ tu vô tình đạo kia, vậy mà lại động chân tình với ta, cuối cùng tẩu hỏa nhập ma, phát cuồng mất rồi.`
   },
 
 
