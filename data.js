@@ -6071,7 +6071,7 @@ Này, anh ơi, anh đang diễn kịch đấy à?`
   },{
     id: 287,
     title: "Mùa Xuân Đảo Chiều Giới Giải Trí",
-    image: "imgngon/d89c25ffd4fc81b6ea4e2a2f4f8abeac.jpg",
+    image: "imgngon/df02076ff98ce2579aab9ade2284d7ea.jpg",
     link: "ngontinh/mua-xuan-dao-chieu-gioi-giai-tri.html",
     type: "ngontinh",
     desc: `Tôi và đứa bạn thân dắt tay nhau cùng nhau tiến vào giới giải trí. Giang cư mận lúc nào cũng mắng chúng tôi là giả ngu giả ngơ, chuyên làm nũng. Nhưng chúng tôi oan thật sự, nếu thông minh thật thì ai lại đi vào giới giải trí làm gì cho khổ đời cơ chứ. 
@@ -6116,7 +6116,155 @@ Nhưng bọn họ nào biết, ta đã sớm để mắt tới bảo vật trong
 Ta xuyên vào trong sách, trong lòng hiểu rõ nơi đây cất giấu một tòa linh thảo thượng cổ, cũng chính là bàn tay vàng lớn nhất của nhân vật chính.
 
 Điều duy nhất vượt ngoài dự liệu của ta chính là, phụ thân của đứa trẻ trong bụng ta, kẻ tu vô tình đạo kia, vậy mà lại động chân tình với ta, cuối cùng tẩu hỏa nhập ma, phát cuồng mất rồi.`
+  },{
+    id: 290,
+    title: "Chân Tình Là Trò Chơi Của Anh",
+    image: "imgngon/d89c25ffd4fc81b6ea4e2a2f4f8abeac.jpg",
+    link: "ngontinh/chan-tinh-la-tro-choi-cua-anh.html",
+    type: "ngontinh",
+    desc: `Mọi người trong giới đều biết, Tần Việt bao nuôi một cô gái, không những vậy còn là người khiếm thính.
+
+Hắn cưng chiều hết mực, gần như chỉ thiếu đúng một bước là rước về làm vợ.
+
+Ngày tôi khôi phục lại được thính giác, tôi kích động đi tìm hắn, vậy mà lại nghe thấy anh em của hắn cười nói vang cả phòng.
+
+“Vẫn là anh Tần biết cách chơi, cùng người ta lăn giường mà vẫn còn có thể gọi tên người con gái khác.”
+
+“Cô ấy cũng không nghe thấy.”
+
+Tần Việt cười khẽ: “Khóc đến đáng thương, còn rất ngoan ngoãn.”
+
+Thế là tôi liền bỏ đi.
+
+Ba năm sau, trong một bữa tiệc của giới thượng lưu, tôi bị Tần Việt bắt được.
+
+“Làm loạn đủ rồi, lập tức theo anh trở về.”
+
+Hắn bỗng nhiên đỏ mắt nói.
+
+“Đỗ Đô.”
+
+Chủ nhân trẻ tuổi của bữa tiệc thở dài, ủy khuất xin tôi một nụ hôn.
+
+“Tình địch tìm tới cửa nhiều như vậy, em vẫn định không cho anh một danh phận sao?”`
+  },{
+    id: 291,
+    title: "Bạch Nguyệt Quang Trong Tim Anh",
+    image: "imgdam/f4d699098df497cf5e0634baae570cb8.jpg",
+    link: "dammy/bach-nguyet-quang-trong-tim-anh.html",
+    type: "dammy",
+    desc: `Vì anh ấy, tôi đã tự hủy hoại chính mình.
+
+Lúc mới quen tôi, tiên sinh đã khen ngợi tên của tôi. Anh ấy nói chữ “Ngọc” mang vẻ đẹp của mưa xuân nhưng lại cô độc.
+
+Cho nên vì tên tôi có chữ “Ngọc” nên anh ấy rất thích.
+
+Tiên sinh luôn gọi tôi là “Ngọc Ngọc”. Thực ra tôi khá ngạc nhiên, bởi vì chữ “Ngọc” trong tên tôi đứng ở giữa nhưng vì tiên sinh thích nên anh ấy hay gọi như vậy.
+
+Sau này tôi mới biết, hóa ra “Ngọc Ngọc” mà anh ấy gọi không phải là tôi.
+
+Người yêu của tiên sinh là tôi nhưng người anh ấy yêu lại không phải là tôi.
+
+Vậy ra, tiên sinh của tôi chưa từng yêu tôi.
+
+Hóa ra là do tôi quá ngốc nhưng tôi đã yêu anh ấy đến mức không thể dứt ra được rồi.
+
+Nếu là lúc mới yêu, có lẽ tôi sẽ vác dao đuổi tiên sinh ra khỏi nhà nhưng giờ tôi đã không nỡ rời xa anh ấy, tôi rất yêu anh ấy.
+
+Thế nên, sau khi cân nhắc, tôi cũng cam tâm tình nguyện làm thế thân cho “Ngọc Ngọc” của anh ấy, chỉ cần tiên sinh không hối hận.
+
+Tôi nguyện cho anh ấy mọi thứ.`
+  },{
+    id: 292,
+    title: "Hồng Trần Đoạt Mệnh",
+    image: "imgco/26413af726ecdfa333bba6d46677fc55.jpg",
+    link: "cotrang/hong-tran-doat-menh.html",
+    type: "cotrang",
+    desc: `Đã bảy năm kể từ ngày ta cùng bạn thân xuyên vào thế giới trong sách.
+
+Nàng ấy mang đến cho ta một tin mừng, nói rằng chỉ cần thân xác này chết đi, chúng ta liền có thể quay trở về thế giới ban đầu của mình.
+
+Nói xong lời ấy, nàng liền từ trên lầu cao nhảy xuống.
+
+Máu tươi bắn lên tay áo phu quân của nàng.
+
+Người nam nhân vừa rồi còn mắng nàng diễn trò, giờ phút ấy lại đau đớn đến tận cùng.
+
+Ta bước qua hắn, ánh mắt rơi về phía nam nhân đang ôm ấp, dỗ dành ánh trăng sáng của họ ở đằng xa.
+
+Người ấy chính là phu quân của ta, cũng là bậc đế vương trị vì thiên hạ này.
+
+Trong lòng ta chợt nghĩ, có lẽ ta cũng nên quay về nhà rồi.`
+  },{
+    id: 293,
+    title: "Trái Tim Này Chỉ Để Dành Cho Em",
+    image: "imgngon/0c2229cbd3c66b508330556e88f88b5b.jpg",
+    link: "ngontinh/trai-tim-nay-chi-de-danh-cho-em.html",
+    type: "ngontinh",
+    desc: `Sau kỳ thi đại học, tôi còn chưa kịp cởi bộ đồng phục rách tả tơi thì mẹ tôi đã vội vã dắt về cho tôi một ông bố dượng mới toanh.
+
+Bố dượng lạnh lùng nhìn tôi rồi nói:
+
+“Cô không phải con ruột tôi, đừng mong tôi đối xử tốt.”
+
+“Đây là một triệu xem như quà ra mắt, từ giờ mỗi tháng chỉ có đúng mười vạn tiền sinh hoạt.”
+
+Mẹ tôi mắt đỏ hoe, nghẹn ngào nói:
+
+“Đều là tại mẹ vô dụng, để con chịu ấm ức thế này…”
+
+Ấm ức này đúng là tuyệt vời. Thật sự quá tuyệt vời.
+
+Tôi còn đang nhắm đến ông anh cùng cha khác mẹ chưa từng gặp mặt kia, vị tổng tài lạnh lùng, cao một mét tám, 28 tuổi, IQ 180, mỗi lần cởi áo là khiến người ta vừa thở dốc vừa choáng váng.
+
+Ai nói con người không thể vừa muốn cái này, vừa muốn cái kia, rồi còn muốn thêm nữa chứ.`
+  },{
+    id: 294,
+    title: "Ánh Trăng Trong Khung Ảnh",
+    image: "imgdam/bdb8c0014b8c0cf1f28bd0f67519d878.jpg",
+    link: "dammy/anh-trang-trong-khung-anh.html",
+    type: "dammy",
+    desc: `Tôi đeo bám Lịch Hòe suốt một năm trời, cuối cùng vẫn nhận về một cái kết thảm không nỡ nhìn.
+
+Bởi vì mặc kệ tôi cố gắng thế nào, làm đủ mọi cách ra sao, anh ấy vẫn chỉ lạnh nhạt đáp lại bằng đúng một câu:
+
+“Xin lỗi, tôi đã có người trong lòng rồi.”
+
+Được lắm.
+
+Anh thắng rồi.
+
+Tôi bỏ cuộc.
+
+Tôi chủ động lùi về vị trí nửa quen nửa lạ với anh.
+
+Cho đến một ngày, tôi vô tình phát hiện trong khung ảnh đặt trên bàn làm việc của anh có giấu một tấm ảnh photo.
+
+Tôi ngơ ngác nhìn hồi lâu rồi buột miệng hỏi:
+
+“Anh lấy ảnh tôi lúc tám tuổi ở đâu ra vậy?”
+
+Lịch Hòe lập tức sững người.
+
+Anh trợn mắt nhìn tôi, vẻ mặt đầy kinh ngạc như vừa nghe thấy chuyện không tưởng.
+
+“Ý cậu là... đây là cậu sao?”`
+  },{
+    id: 295,
+    title: "Vương Gia Là Kẻ Phá Gia Chi Tử",
+    image: "imgco/4392f34ef5e28464cf52a2c56ec8dfe6.jpg",
+    link: "cotrang/vuong-gia-la-ke-pha-gia-chi-tu.html",
+    type: "cotrang",
+    desc: `Tướng quân xuất chinh trở về, lại còn dẫn theo một nữ tử mang thai.
+
+Từ ngày hồi phủ, hắn xem ta như người vô hình, suốt ngày cùng nàng ta cười nói vui vẻ, tình ý quấn quýt chẳng rời. Không những thế còn hứa hẹn sẽ cưới hỏi đàng hoàng, nâng nàng ta lên làm bình thê.
+
+Ta bỏ ra biết bao tâm huyết, đổi lại chỉ là sự chà đạp lên tôn nghiêm cùng lòng chân thành của mình. Vì một tiểu thiếp mà hắn chẳng ngần ngại làm tổn thương ta đến tận cùng. Nếu đã như vậy, ta cũng chẳng còn gì để lưu luyến. Chi bằng một phong hưu thư, cắt đứt sạch sẽ mọi duyên nợ.
+
+Minh Vương nói: “Tướng quân chớ nên vượt quá giới hạn. Người vợ bị ngươi ruồng bỏ trong miệng ngươi, nay đã là vương phi của bổn vương.”`
   },
+
+
 
 
 
