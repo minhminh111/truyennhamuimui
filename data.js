@@ -6262,7 +6262,54 @@ Từ ngày hồi phủ, hắn xem ta như người vô hình, suốt ngày cùng
 Ta bỏ ra biết bao tâm huyết, đổi lại chỉ là sự chà đạp lên tôn nghiêm cùng lòng chân thành của mình. Vì một tiểu thiếp mà hắn chẳng ngần ngại làm tổn thương ta đến tận cùng. Nếu đã như vậy, ta cũng chẳng còn gì để lưu luyến. Chi bằng một phong hưu thư, cắt đứt sạch sẽ mọi duyên nợ.
 
 Minh Vương nói: “Tướng quân chớ nên vượt quá giới hạn. Người vợ bị ngươi ruồng bỏ trong miệng ngươi, nay đã là vương phi của bổn vương.”`
+  },{
+    id: 296,
+    title: "Một Kiếp Đổi Vận",
+    image: "imgngon/d07e0ac34a2d38478fcfbf92b3435dbd.jpg",
+    link: "ngontinh/mot-kiep-doi-van.html",
+    type: "ngontinh",
+    desc: `Em gái tôi dường như cũng sống lại.
+Kiếp trước, cô ta và thái tử gia Kinh Khuyên yêu đương rầm rộ, trốn học, đánh nhau, đua xe, cuối cùng vì hắn mà chết dưới cơn mưa xối xả.
+Cô ta đem toàn bộ chuyện này đổ hết lên đầu tôi.
+Sau khi sống lại, cô ta đề nghị với bố mẹ cho tôi chuyển vào lớp yếu kém nơi thái tử gia đang học.
+“Chị, lần này đến lượt chị bị hắn bắt nạt, ngược luyến tình thâm với hắn nhé.”
+Tôi nở nụ cười.
+Người thì sống lại rồi, nhưng đầu óc vẫn kẹt ở dưới âm phủ.
+Dù cô ta có sống thêm một trăm lần nữa thì cũng không xứng làm đối thủ của tôi.`
+  },{
+    id: 297,
+    title: "Tái Hợp Sau Ánh Đèn Showbiz",
+    image: "imgdam/72dcf95e846495c0dd3a197fa7c094e4.jpg",
+    link: "dammy/tai-hop-sau-anh-den-showbiz.html",
+    type: "dammy",
+    desc: `Tôi thua trò chơi, hình phạt bốc được là phải gửi một tin nhắn Wechat: “[Sau khi chia tay, anh hối hận rồi]”.
+
+Ngay sau đó, ảnh đế gọi video đến.
+
+“Ha, hối hận rồi à? Tôi đã bảo em chắc chắn sẽ hối hận mà!”
+
+“Thấy em hối hận rồi nên tôi không bắt em nói sai chỗ nào nữa.”
+
+“Thôi, mấy chuyện khác không phân tích lại nữa, nhưng có một lỗi sau này em nhất định phải sửa!”
+
+“Bảo tôi quỳ bàn phím hay quỳ sầu riêng cũng được, nhưng tuyệt đối không được tùy tiện nói chia tay!”
+
+Tôi đơ cả người, cả mạng xã hội bùng nổ.
+
+Fan bình luận sôi nổi: “[Đỉnh lưu x Ảnh đế? CP nam-nam mà tôi đẩy thuyền thành thật rồi sao?]”`
+  },{
+    id: 298,
+    title: "Lão Thái Thái Trọng Sinh",
+    image: "imgco/21cda3c8d25b8e43535f491bb47db705.jpg",
+    link: "cotrang/lao-thai-thai-trong-sinh.html",
+    type: "cotrang",
+    desc: `Ta là Lão Thái Thái của Hầu phủ, cả đời lao tâm khổ tứ, một tay lo liệu trên dưới trong phủ, vậy mà đám con cháu chẳng có đứa nào chịu nghe lời.
+
+Đến khi tuổi già sức yếu, cả nhà lại phải chịu kết cục bị tru di.
+
+Sống lại một đời, ta quyết định mặc kệ tất cả, ăn chơi hưởng lạc, phá sạch gia sản, để xem các ngươi còn có thể gây ra họa gì nữa!`
   },
+
 
 
 
