@@ -6308,6 +6308,150 @@ Fan bình luận sôi nổi: “[Đỉnh lưu x Ảnh đế? CP nam-nam mà tôi
 Đến khi tuổi già sức yếu, cả nhà lại phải chịu kết cục bị tru di.
 
 Sống lại một đời, ta quyết định mặc kệ tất cả, ăn chơi hưởng lạc, phá sạch gia sản, để xem các ngươi còn có thể gây ra họa gì nữa!`
+  },{
+    id: 299,
+    title: "Quyền Lực Không Có Chỗ Cho Sai Lầm",
+    image: "imgngon/8e79ed4ca7d9b18c7ab490aae0ba74e1.jpg",
+    link: "ngontinh/quyen-luc-khong-co-cho-cho-sai-lam.html",
+    type: "ngontinh",
+    desc: `Tôi là đứa con gái duy nhất, là “đoàn sủng” của cả khu phố.
+
+Mãi cho đến khi anh bạn thân từ nhỏ dẫn một cô gái về.
+
+Cô ta vừa thấy mặt tôi đã tỏ ra khinh thường.
+
+“Đều là con gái cả, ai mà không biết trong lòng người kia nghĩ cái gì!”
+
+“Cái gì mà đoàn sủng, nữ hán tử thảo mai chính là nữ hán tử thảo mai, giả vờ giả vịt cái gì!”
+
+“Mấy người đúng là lũ ngốc, còn xem trà xanh như châu báu!”
+
+Tôi chỉ cười, không nói gì, xoay người đi giành chuyện làm ăn của bố cô ta.
+
+Sau đó tôi nhìn cô gái bị bố tát mấy bạt tai, còn bị túm cổ áo kéo đến xin lỗi tôi.
+
+Tôi mỉm cười, vỗ vỗ gò má cô ta.
+
+“Thấy được chưa? Đây chính là thực lực của nữ hán tử thảo mai đó.”
+
+“Còn đến đây gây sự với tôi nữa, tôi sẽ đánh gãy chân cô.”`
+  },{
+    id: 300,
+    title: "Nốt Ruồi Sau Gáy",
+    image: "imgdam/61a16847991a668a37c050d3d16061bf.jpg",
+    link: "dammy/not-ruoi-sau-gay.html",
+    type: "dammy",
+    desc: `Người tôi thầm yêu thích Omega có hương pheromone ngọt ngào.
+
+Thế nhưng pheromone của tôi lại nhạt nhẽo như nước lọc.
+
+Trong đầu tôi chỉ có một suy nghĩ, dù không có được thì cũng phải cắn một miếng rồi đi.
+
+Vậy nên tôi đã nhốt Liên Dục Tinh lại, ép buộc anh ta suốt một tháng.
+
+Alpha vừa giận vừa tức:
+
+“Cậu là Beta? Đừng để tôi tóm được cậu, chờ đấy.”
+
+Tôi bĩu môi, ngồi phịch xuống, đáp tỉnh bơ:
+
+“Chồng ơi, em chờ anh đến giết em đây.”
+
+Đến tôi là Beta hay Omega mà anh ta còn không phân biệt nổi.
+
+Còn đòi bắt tôi á?`
+  },{
+    id: 301,
+    title: "Cửu Vương Giả Ngốc",
+    image: "imgco/eb789775b2deef8f4be975c3dd055cf2.jpg",
+    link: "cotrang/cuu-vuong-gia-ngoc.html",
+    type: "cotrang",
+    desc: `Bị ban hôn với Cửu Vương gia ngốc nghếch, ta trở thành trò cười khắp kinh thành.
+
+Hắn tuy ngốc nghếch nhưng lương thiện, lại dễ bị người đời ức hiếp.
+
+Ta vẫn cố gắng làm tròn bổn phận của một Vương phi, ở bên bầu bạn, che chở cho hắn.
+
+Cho đến một ngày, chúng ta gặp thích khách.
+
+Một bóng hình bên cạnh chợt động, thích khách lập tức bị hạ sát trong chớp mắt.
+
+Khi ta còn đang ngẩn ngơ, hắn đã nhích lại gần, ấm ức nói: “Thật đáng sợ, bổn vương sợ quá…”
+
+Ta giật giật khóe mắt: “Người còn giả bộ sao?”`
+  },{
+    id: 302,
+    title: "Tuế Tuế Về Nhà Rồi",
+    image: "imgngon/824a391e4e4112154925facca5602be5.jpg",
+    link: "ngontinh/tue-tue-ve-nha-roi.html",
+    type: "ngontinh",
+    desc: `Tôi là thiên kim giả bị ghét bỏ. Ngày tôi đứng trên sân thượng, tôi bỗng nhìn thấy những dòng bình luận kỳ lạ hiện lên trước mắt.
+
+【Bé ơi đừng nhảy! Con chưa từng là thiên kim giả đâu! Con là tiểu thư thật sự bị bắt cóc mà!】
+
+【Cả nhà nữ chính đúng là đáng chết, để an ủi Thẩm phu nhân mất con gái nên họ trộm con nhà người ta về nuôi.】
+
+【Trộm về rồi còn đối xử tệ, bé ơi đừng dại, người thân của con đang tìm con muốn phát điên rồi.】
+
+【Anh trai con còn 30 giây nữa là tới, làm ơn cố thêm chút nữa thôi.】
+
+Tôi khựng lại, đầu óc hơi trống rỗng, còn chưa kịp lùi chân lại thì phía sau đã có người lao tới ôm chặt lấy tôi, cả hai cùng ngã lăn xuống đất.
+
+Một giọt nước mắt nóng hổi rơi lên trán tôi, giọng anh ấy nghẹn lại run run: “Đừng sợ, bé con, anh đến rồi.”
+
+Tôi còn đang ngơ ngác trong vòng tay đó thì chưa kịp phản ứng, cả hai đã ngã xuống nền sân thượng. Anh ấy làm đệm cho tôi, che hết mọi va chạm, không để tôi bị trầy xước chút nào.
+
+Não tôi vốn chậm chạp mà lúc này lại hoạt động cực nhanh, tôi nghe rõ giọng người phía dưới đang run rẩy nói: “Đừng sợ, bé con, anh đến rồi.”`
+  },{
+    id: 303,
+    title: "Phu Quân Của Ta Là Tử Địch Giang Hồ",
+    image: "imgdam/aa60a0119809284062bc326c5b1dde9c.jpg",
+    link: "dammy/phu-quan-cua-ta-la-tu-dich-giang-ho.html",
+    type: "dammy",
+    desc: `Tiểu thiếu chủ của Vô Cương Thành là ta, Khương Minh Tích, vốn bị mẹ mình, người mà ta luôn nghi ngờ độ đáng tin, lừa một cú trời giáng, ép tiến cung làm hoàng hậu, ngồi chễm chệ giữa ba ngàn mỹ nữ trong hậu cung. May thay, vị hoàng đế kia không những không nghi ngờ ta, mà còn chẳng buồn để tâm tới hậu cung, đến mức hai người từ khi thành thân tới nay còn chưa từng chạm mặt lấy một lần.
+
+Ta mang danh hoàng hậu nhưng lại chẳng làm việc của hoàng hậu, ngày ngày rong ruổi giang hồ, thích đi gây chuyện đánh nhau, sống kiểu tiêu dao tự tại, còn tiện thể có thêm một kẻ thù không đội trời chung. Thế nhưng, vào một ngày vô tình quay lại hậu cung để làm bình hoa cho đủ số, ta lại phát hiện dung mạo của phu quân trên danh nghĩa của mình… giống hệt cái tên kẻ thù truyền kiếp kia.`
+  },{
+    id: 304,
+    title: "Trọng Sinh Bẻ Gẫy Nhân Duyên Hầu Môn",
+    image: "imgco/79d8e151ba11eb562c1b9f201f288bf2.jpg",
+    link: "cotrang/trong-sinh-be-gay-nhan-duyen-hau-mon.html",
+    type: "cotrang",
+    desc: `“Tiểu thư! Hầu phủ… đã từ hôn rồi!”
+
+Tiếng khóc nghẹn ngào của bà vú xuyên qua từng lớp màn sa, vang vọng khắp khuê phòng tĩnh lặng.
+
+Ta siết chặt hộp phấn trong tay, đầu ngón tay trắng đến mức chẳng còn chút huyết sắc.
+
+“Vì sao?”
+
+“Thế tử muốn cưới ân nhân cứu mạng… Quận chúa Vinh An.”
+
+Ba ngày sau, bà mối mặt mày rạng rỡ, ý cười đầy mặt, gần như bước nhanh vào tận nội thất.
+
+“Tin vui đó tiểu thư! Thái phó đại nhân muốn cưới người!”
+
+Đêm Nguyên Tiêu hôm ấy, một cơn gió bất ngờ nổi lên, thổi tung lớp sa che mặt.
+
+Giữa biển người đông đúc như nước chảy, Tiêu Cảnh Thần đứng sững tại chỗ.
+
+“Thẩm Tri Ý?!”
+
+Hắn nhìn ta không chớp mắt, thanh âm khàn khàn.
+
+“Nàng… sao lại đẹp đến vậy…”
+
+Đúng lúc ấy, một bóng người mặc huyền y chậm rãi tiến tới, chắn trước người ta.
+
+“Thế tử Tiêu.”
+
+Bùi Hoài Chi thong thả vuốt nhẹ ngọc bội bên hông ta, thần sắc lãnh đạm.
+
+“Vị hôn thê của bản quan… ngài đã nhìn đủ chưa?”
+
+Mãi về sau ta mới biết.
+
+Cuộc hôn sự này vốn là một tấm lưới săn đã được chàng âm thầm bày sẵn từ rất lâu.`
   },
 
 
