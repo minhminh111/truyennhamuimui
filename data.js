@@ -6452,6 +6452,53 @@ Bùi Hoài Chi thong thả vuốt nhẹ ngọc bội bên hông ta, thần sắc
 Mãi về sau ta mới biết.
 
 Cuộc hôn sự này vốn là một tấm lưới săn đã được chàng âm thầm bày sẵn từ rất lâu.`
+  },{
+    id: 305,
+    title: "Truy Thê Đến Cùng Trời",
+    image: "imgngon/5f363ca8aada3e113b61f5d6bdb693ff.jpg",
+    link: "ngontinh/truy-the-den-cung-troi.html",
+    type: "ngontinh",
+    desc: `Tôi giận dỗi Lục Hoài Cẩn nên tức giận đăng một câu tus lên Weibo: “Tôi muốn cảnh hôn!”. 
+
+Sau đó lập tức có đạo diễn gửi kịch bản cho tôi. 
+
+Nhưng khi tôi đến trường quay xem thì. 
+
+Cứu mạng. 
+
+Sao nam chính lại là Lục Hoài Cẩn?`
+  },{
+    id: 306,
+    title: "Lưới Tình Kẻ Điên",
+    image: "imgdam/651a6a3aa94ea187462eee7ded5aba6f.jpg",
+    link: "dammy/luoi-tinh-ke-dien.html",
+    type: "dammy",
+    desc: `Sau khi mất trí nhớ, tôi bàng hoàng phát hiện ra mình đang mang thai. Quá bực tức, tôi quyết định tìm đến tận biệt phủ của một đại gia vô trách nhiệm nào đó để ba mặt một lời.
+
+Tôi hầm hầm chất vấn: “…Sao anh không chịu trách nhiệm với tôi và đứa bé của tôi?”
+
+Khuôn mặt của đại gia Alpha lạnh lùng bỗng tỏ vẻ kinh ngạc tột độ. Mãi một lúc lâu sau anh ta mới hoàn hồn lại được rồi bảo: “Cậu cứ ở lại đây, tôi sẽ chịu trách nhiệm.”
+
+Ngay lúc tôi đang vô cùng tự mãn vì nghĩ mình đã dựa vào đứa bé để tống tiền được một đại gia có vẻ ngoài dễ bị bắt nạt, tha hồ ăn uống miễn phí trong nhà anh ta, thì bỗng nhiên người bạn thân của tôi đến thăm.
+
+Cậu ta vừa nhìn thấy tôi đã thốt lên: “Ôi, cục cưng đáng thương của tôi, vậy là cậu trốn chạy thất bại, bị tên điên cuồng cố chấp đó bắt về rồi sao?”
+
+Tôi liền hoang mang kiểu: “???”`
+  },{
+    id: 307,
+    title: "Đông Cung Huyết Mạch",
+    image: "imgco/f9fb5f639f3cdf123ad6c32f3fe3d823.jpg",
+    link: "cotrang/dong-cung-huyet-mach.html",
+    type: "cotrang",
+    desc: `Một cuộc hôn nhân do hoàng thượng ban tặng, tựa như một đóa kỳ hoa cắm nhầm vào đống phân trâu.
+
+Phân trâu là ta, một vị công chúa dung mạo xấu xí, quanh năm chẳng được sủng ái. Còn Chu Phi lại là đóa kỳ hoa ấy, vị tân khoa trạng nguyên vừa bước lên đỉnh vinh quang.
+
+Ba năm sau ngày thành thân, hắn ngủ trong thư phòng suốt ba năm.
+
+Về sau, hắn đỏ hoe vành mắt, nhìn ta mà hỏi:
+
+“Có phải trong lòng nàng đã có người khác rồi không?”`
   },
 
 
