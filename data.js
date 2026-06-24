@@ -6541,7 +6541,85 @@ Ta mắt đỏ hoe, trong lòng nghĩ thầm, nếu kẻ kia đã một dạ hai
 Nhưng không ngờ, miệng hắn khi đối đáp với người ngoài lại sắc như nọc ong độc, lời nào cũng khiến người khác khó mà chống đỡ.
 
 Còn đối với ta thì`
+  },{
+    id: 311,
+    title: "Cảng Thành Hôn Nhân Điên Loạn",
+    image: "imgngon/6909d57d0753c633fa6569cec7c07df9.jpg",
+    link: "ngontinh/cang-thanh-hon-nhan-dien-loan.html",
+    type: "ngontinh",
+    desc: `Tôi là một cô gái to xác.
+
+Mỗi ngày đều đi quấy rầy người chồng được định sẵn qua cuộc hôn nhân của tôi.
+
+Sau khi mất trí nhớ, tôi quyết định làm lại cuộc đời cho đàng hoàng.
+
+Anh vừa tắm xong, cởi trần bước ra ngoài.
+
+Tôi liền cầm lấy áo choàng tắm.
+
+“Người lớn tuổi miễn dịch kém, đừng để bị cảm lạnh.”
+
+Anh như thể vừa uống nhầm thuốc kích thích, hai má đỏ bừng, hơi thở cũng trở nên gấp gáp.
+
+Tôi lại rót cho anh một ly nước nóng.
+
+“Không có việc gì thì nên uống nhiều nước, đừng có mua bậy mấy loại thực phẩm chức năng linh tinh.”
+
+Anh không nói một lời, càng lúc càng im lặng.
+
+Giữa chúng tôi là một kiểu lễ nghĩa khách sáo kỳ quặc.
+
+Cho đến một ngày, tôi nhìn thấy bài đăng cầu cứu mà anh từng gửi.
+
+“Đàn ông sau 30 tuổi còn cơ hội cứu vãn không?”
+
+“Hôn nhân đang trên bờ vực tan vỡ thì làm sao để níu kéo?”
+
+“Những dấu hiệu của việc nửa kia ngoại tình là gì?”`
+  },{
+    id: 312,
+    title: "Bí Mật Quái Vật Dưới Lớp Da",
+    image: "imgdam/c77263b819250ba1d9b0f88bd89f368d.jpg",
+    link: "dammy/bi-mat-quai-vat-duoi-lop-da.html",
+    type: "dammy",
+    desc: `Sau tận thế, với thân phận là một Alpha, tôi bị buộc phải tham gia vào kế hoạch sinh sản giữa hai Alpha. Trong đầu tôi lúc đó chỉ toàn dấu hỏi chấm bay loạn.
+
+“Có nhầm không vậy? Alpha thì làm sao sinh được chứ!”
+
+Cho đến khi tôi nhìn thấy hồ sơ của đối tượng được phân cho tôi, Cảnh Trừng.
+
+Cao một mét chín mươi, tuổi tác không rõ. Trong bức ảnh, anh ta đẹp trai đến mức nổi bật, khí chất như vừa từ nhiệm vụ trở về. Mái tóc đen hơi rối, trên mặt còn dính vài vệt bụi xám. Nếu là anh ấy…
+
+…thì hình như cũng không phải không thể chấp nhận được.
+
+Tối hôm đó, tôi kéo anh ấy lên giường, sốt ruột thúc giục.
+
+“Nhìn cái gì nữa? Làm nhanh lên!”
+
+Sau một khoảnh khắc im lặng ngắn ngủi, Cảnh Trừng đưa tay tháo thắt lưng.
+
+Ngay giây tiếp theo, tôi lập tức hối hận vì những lời mình vừa thốt ra.
+
+Cái này… có khi chết thật chứ chẳng đùa.`
+  },{
+    id: 313,
+    title: "Đào Hoa Lệ Ảnh",
+    image: "imgco/c28b7610f978655a12cd6f85f9be23f9.jpg",
+    link: "cotrang/dao-hoa-le-anh.html",
+    type: "cotrang",
+    desc: `Ta hỏi Liên di nương: "Mẫu thân ơi, hoạn quan và nam nhân bình thường có gì khác biệt ạ?"
+
+Liên di nương ấp úng hồi lâu, cuối cùng mới nói: "Chính là... không thể sinh con..."
+
+Hai mắt ta lập tức sáng bừng.
+
+Không thể sinh con ư?
+
+Trên đời này lại có chuyện tốt đẹp như vậy sao?
+
+Ta vui vẻ hớn hở, quyết định gả cho vị hoạn quan ấy.`
   },
+
 
 
 
