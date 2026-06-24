@@ -6499,7 +6499,50 @@ Ba năm sau ngày thành thân, hắn ngủ trong thư phòng suốt ba năm.
 Về sau, hắn đỏ hoe vành mắt, nhìn ta mà hỏi:
 
 “Có phải trong lòng nàng đã có người khác rồi không?”`
+  },{
+    id: 308,
+    title: "Duyên Sai Một Nhịp Thương Cả Một Đời",
+    image: "imgngon/0f4c352f452994eba21fcbdba949a7de.jpg",
+    link: "ngontinh/duyen-sai-mot-nhip-thuong-ca-mot-doi.html",
+    type: "ngontinh",
+    desc: `Bàn phím điện thoại của tôi bị lỗi rồi.
+Đang hăng say mắng sếp thì thay vì soạn “Giống cái đầu bố anh!”, tôi lại gõ thành “Suốt cả đêm nhớ anh”, còn tin “Tôi luôn mơ thấy anh” lại thành “Tôi không có ý đó”.
+Ngày hôm sau, cứ thấy tôi là sếp tránh như tránh tà.
+Loại oán hận này có lẽ bắt nguồn từ việc anh ta tự cho rằng tôi thích anh ta chăng?`
+  },{
+    id: 309,
+    title: "Sói Vương Nuôi Dưỡng Vợ Nhỏ",
+    image: "imgdam/bd587b9f7089e5d674783a59193939b8.jpg",
+    link: "dammy/soi-vuong-nuoi-duong-vo-nho.html",
+    type: "dammy",
+    desc: `Tôi xuyên không vào thân thể của em trai Sói vương, sống qua ngày bằng cách liếm láp cho hắn.
+
+Nào ngờ Sói vương động dục, lại kéo tôi vào hang sâu.
+
+Tôi: “Em là em trai anh mà!”
+
+Hắn: “Em là do mẹ vợ để lại cho anh, nếu không thì tại sao anh lại nuôi em như vợ tương lai hả?”
+
+Tiêu rồi, gặp phải chuyên gia phẫu thuật chỉnh hình thật rồi.`
+  },{
+    id: 310,
+    title: "Tướng Quân Sủng Thê",
+    image: "imgco/d0176b15203f7ccc8b18f49e364655f9.jpg",
+    link: "cotrang/tuong-quan-sung-the.html",
+    type: "cotrang",
+    desc: `Phu quân ta rời nhà đã mười năm, nay công thành danh toại, trở thành đại tướng quân, liền đón cả gia quyến lên kinh thành hưởng phúc.
+
+Vừa đặt chân đến kinh đô, Quận chúa của vương phủ đã chặn ngay trước đường, cao giọng mà rằng: “Tướng quân cùng ta tình sâu nghĩa nặng, nếu ngươi biết điều thì tự hạ mình làm thiếp, bản Quận chúa sẽ ban cho ngươi một bát cơm mà ăn.”
+
+Nội tổ mẫu, quân mẫu, đại cô cùng tiểu cô đều dùng giọng địa phương không thuần của kinh thành, mắng chửi nàng ta đến mức nàng ta không kịp trở tay, chỉ còn biết ôm mặt chịu nhục.
+
+Ta mắt đỏ hoe, trong lòng nghĩ thầm, nếu kẻ kia đã một dạ hai lòng, vậy ta liền thu dọn hành lý, quay về tiếp tục làm nghề buôn bán nhỏ của mình.
+
+Nhưng không ngờ, miệng hắn khi đối đáp với người ngoài lại sắc như nọc ong độc, lời nào cũng khiến người khác khó mà chống đỡ.
+
+Còn đối với ta thì`
   },
+
 
 
 
