@@ -6618,7 +6618,181 @@ Không thể sinh con ư?
 Trên đời này lại có chuyện tốt đẹp như vậy sao?
 
 Ta vui vẻ hớn hở, quyết định gả cho vị hoạn quan ấy.`
+  },{
+    id: 314,
+    title: "Ván Cờ Đổi Mệnh",
+    image: "imgngon/c34052396f5bda27595fdef00af9d1d9.jpg",
+    link: "ngontinh/van-co-doi-menh.html",
+    type: "ngontinh",
+    desc: `Tôi và chồng đến Tương Tây du lịch, tôi đã bện tóc bằng những sợi dây sắc màu rồi đăng lên trang cá nhân khoe.
+
+Bạn bè kinh hãi: “Tuyệt đối đừng tết tóc bằng dây sắc màu, sẽ khắc chồng đấy!”
+
+Tôi không mê tín, kết quả tối đó chồng tôi đã chết trong căn homestay.
+
+Trước khi chết trong tay còn nắm một sợi dây sắc màu.`
+  },{
+    id: 315,
+    title: "Yêu Thầm Hóa Thành Thật",
+    image: "imgdam/ccb0e31cfccd10bd06d33e259605329b.jpg",
+    link: "dammy/yeu-tham-hoa-thanh-that.html",
+    type: "dammy",
+    desc: `Ảnh đế nói anh ấy không thích con trai, tôi nản lòng thoái chí, bèn quay sang tạo CP với tiểu hoa đán đang nổi.
+
+Một phóng viên tò mò hỏi ảnh đế nghĩ gì về chuyện này, anh ấy tùy ý đáp: “Chuyện tình ngọt ngào ư? Tôi lại cảm thấy bọn họ giống như không được tự nhiên, cứ như nhìn thấy Lâm Đại Ngọc mặc bikini cưỡi sao chổi Halley đi đua tốc độ vậy!”
+
+Cư dân mạng thi nhau đoán ảnh đế yêu thầm tiểu hoa. Ai ngờ tối hôm đó, video tôi và ảnh đế ở chung một phòng, qua đêm không về nhà lại leo thẳng lên hot search.
+
+Tài khoản chính thức xác nhận: [Hai người họ đúng là đang hẹn hò.]`
+  },{
+    id: 316,
+    title: "Mưa Tan Trong Hận Ý",
+    image: "imgco/c6c6eb2c19035e4483712af9a907c125.jpg",
+    link: "cotrang/mua-tan-trong-han-y.html",
+    type: "cotrang",
+    desc: `Huynh trưởng của ta luôn tỏ ra mình là bậc quân tử, không vì chút lợi lộc mà hạ mình. Khi thẩm cướp đoạt gia sản, ta liều mạng giữ lại. Hắn lại mắng ta là đàn bà thô lỗ, làm mất thể diện gia môn, rồi quay đầu tự tay giao nộp nhà cửa ruộng đất. Đồng môn của hắn thì hết lời ca tụng hắn khí độ cao nhã, còn tiến cử hắn vào nhà quyền quý.
+
+Còn ta như kẻ ăn mày, không biết ngày mai sống chết ra sao, đành cầu xin hắn thu nhận. Hắn chỉ liếc ta một cái, lạnh nhạt nói: “Chút cơm canh đạm bạc cũng đủ sống, sao phải đi xin xỏ miếng ăn từ người khác.”
+
+Để nuôi sống bản thân, ta phải ra chợ làm thuê, vì vài đồng bạc lẻ mà bị đánh đến đầu rơi máu chảy. Hắn lại chê ta toàn mùi tiền dơ bẩn, làm mất mặt hắn, rồi thản nhiên bán ta cho một Huyện thừa sáu mươi tuổi làm người hầu.
+
+Hắn còn nói: “Ở chung nhà với người có học thức, cũng nên học lấy vài phần đức hạnh, đừng làm mất mặt gia phong.”
+
+Cuối cùng, ta bị làm nhục đến chết. Hắn thì ôm chân nữ nhân quyền quý, kẻ đã giết phụ mẫu ta, mà than thở rằng: “Muội muội ta tham vọng quá lớn, cuối cùng lại chết trên giường kẻ quyền quý, cũng coi như chết đúng chỗ.” Ả nữ nhân kia lại khen hắn thức thời, hứa ban cho cả đời vinh hoa phú quý.
+
+Đến lúc ấy ta mới hiểu, cái gọi là quân tử, từ lâu đã bị danh vọng và quyền lực bẻ gãy.
+
+Khi mở mắt lần nữa, ta đã quay về ngày tranh đoạt gia sản. Lần này, thể diện của ngươi không cần giữ, mạng sống của ngươi cũng không đáng giữ.`
+  },{
+    id: 317,
+    title: "Ánh Sáng Cuối Đường Mưa Đêm",
+    image: "imgngon/89d4f53b937234f93f6781564bc031ae.jpg",
+    link: "ngontinh/anh-sang-cuoi-duong-mua-dem.html",
+    type: "ngontinh",
+    desc: `Mọi người đều ghen tị với Lục Vãn Châu, vì anh có một người vợ chưa cưới vừa dịu dàng, hiền lành, lại còn có học thức cao như tôi.
+
+Mỗi lần có ai nhắc đến chuyện này, anh đều chỉ cười cười, kiểu cà lơ phất phơ rồi nói “Mua được đó.”
+
+Tôi không nói gì, chỉ ngoan ngoãn gật đầu, tiếp tục bóc vỏ tôm cho anh.
+
+Sau này, khi scandal của anh và một nữ minh tinh nào đó leo thẳng lên hotsearch.
+
+Tôi bình tĩnh thu dọn đồ đạc, chuẩn bị rời đi, nhưng anh lại giữ tôi lại.
+
+“Ở lại đi.” Anh nghiến răng nói, lần đầu tiên hạ giọng nhượng bộ với tôi. “Em ra giá đi, bao nhiêu cũng được.”
+
+Tôi mỉm cười. “Một trăm triệu…”
+
+Anh gần như không cần suy nghĩ, lập tức gật đầu, lấy điện thoại ra gọi người chuyển tiền.
+
+Tôi kéo vali, vẫn giữ nụ cười, nói nốt nửa câu sau. “... cũng không mua được tôi.”`
+  },{
+    id: 318,
+    title: "Ăn 2 Lương",
+    image: "imgdam/6b869a6525392619724346b2771a4eb0.jpg",
+    link: "dammy/an-2-luong.html",
+    type: "dammy",
+    desc: `Tôi có hai khoản thu nhập.
+
+Một khoản là tiền tôi kiếm được vào ban ngày, làm thư ký trưởng cho Cố Uyên, lương năm cả triệu, nhưng mệt như chó!
+
+Khoản còn lại là tiền tôi kiếm được vào ban đêm, làm “chim hoàng yến” sưởi giường cho anh ta, tính theo giờ thì vô giá, mà sung sướng thì khỏi bàn!
+
+Anh ta đẹp trai, kỹ năng tuyệt đỉnh, tiền thì nhiều vô kể. Tôi cực kỳ hài lòng.
+
+Nhưng dạo này, sếp Cố có gì đó rất kỳ lạ.
+
+Tin nhắn không trả.
+
+Điện thoại không nghe.
+
+Ba bốn ngày chẳng thèm về nhà.
+
+Cho đến một ngày, anh ta lại về rất sớm, sức lực cũng rất… mạnh, kiểu như muốn đập nát cái giường.
+
+Tôi đang vui, thì anh ta lại buông một câu:
+
+“Quan hệ không thể gặp ánh sáng như chúng ta… nên kết thúc rồi.”`
+  },{
+    id: 319,
+    title: "Hoàng Hậu Mang Hai Mặt",
+    image: "imgco/a685935917b6a3fa3dea67b3ca6f1571.jpg",
+    link: "cotrang/hoang-hau-mang-hai-mat.html",
+    type: "cotrang",
+    desc: `Năm thứ hai ta ngồi trên ngôi vị Hoàng hậu, một cơn trọng bệnh bất ngờ ập đến. Bệnh căn dây dưa mãi không dứt, từ đó ta không còn khả năng sinh con nữa.
+
+Hoàng thượng chuyển sang sủng ái Trân phi. Nàng được ân sủng không ngừng, liên tiếp sinh hạ con nối dõi, vinh quang trải khắp hậu cung.
+
+Cho đến một ngày, Thái y quỳ rạp dưới chân Hoàng thượng, run giọng bẩm báo rằng Trân phi đã không còn sống được bao lâu nữa.
+
+Kiếp này, kể từ ngày ta lâm bệnh, cũng chính là ngày số mệnh của Trân phi bắt đầu đi đến hồi kết.
+
+Bởi vì ở kiếp trước, người chết chính là ta.`
+  },{
+    id: 320,
+    title: "Chấp Niệm Ngọt Ngào Của Tôi",
+    image: "imgngon/83b32d1f68d1c2b4a65666720595f48a.jpg",
+    link: "ngontinh/chap-niem-ngot-ngao-cua-toi.html",
+    type: "ngontinh",
+    desc: `Tôi là kiểu bệnh kiều nói nhiều.
+
+Nghỉ hè ngày nào cũng gọi mẹ ba trăm cuộc, bà ấy chịu không nổi nữa.
+
+Thế là đích thân lái xe hơn một ngàn cây số, lừa tôi sang tỉnh khác rồi bỏ lại.
+
+“Thật ra con có một vị hôn phu định sẵn từ nhỏ, con cứ đi quấy rầy cậu ta đi.”
+
+Tôi còn chưa kịp hiểu chuyện gì thì đã bị quăng sang đây.
+
+Hôm nay tôi đi ngang sân bóng thì đúng lúc thấy tên đầu gấu trường bị trượt chân khi chơi bóng.
+
+Cậu ta mặt lạnh tanh, từ chối luôn sự quan tâm của hoa khôi.
+
+Ngay lúc đó trước mắt tôi bỗng hiện ra một loạt chữ ảo.
+
+【Đợi lát nữa vợ tới xem, tôi coi cậu còn đau không.】
+
+【Không khóc không mè nheo, chỉ là chưa đúng thời điểm.】
+
+【Bên ngoài thì lạnh lùng dữ tợn, trước mặt vợ lại nũng nịu khóc lóc đòi ôm.】
+
+【Đàn ông vốn cứng rắn, gặp vợ thì hóa mềm.】
+
+Tôi còn chưa kịp tiêu hóa hết thì giây tiếp theo.
+
+Tên đầu gấu vừa nhìn thấy tôi đã “Oa” một tiếng khóc luôn tại chỗ.
+
+“Đau quá hu hu hu.”
+
+“Cậu có thể bế tôi tới phòng y tế không?”`
+  },{
+    id: 321,
+    title: "Nhặt Nhầm Cậu Nhóc Bá Đạo",
+    image: "imgdam/9bb8a6e83010ff728481754708d4a356.jpg",
+    link: "dammy/nhat-nham-cau-nhoc-ba-dao.html",
+    type: "dammy",
+    desc: `Sau khi xuyên vào một bộ truyện tranh BL, tôi trở thành vai quần chúng trong thân phận tổng tài bá đạo.
+
+Tôi trực tiếp mang về nhà một cậu bé đáng thương bị chủ n/ợ truy đuổi đến đường cùng.
+
+Sau này, khi cậu ta đ/è tôi xuống sofa, cọ cọ vào cổ tôi, vừa rên rỉ vừa gọi tôi là anh, tôi mới hiểu ra, thứ tôi mang về căn bản chính là một đóa hoa ăn th!t người!`
+  },{
+    id: 322,
+    title: "Đọc Tâm Đổi Vận Hoàng Huynh",
+    image: "imgco/17f3a3298734f8420fc8e065c97863eb.jpg",
+    link: "cotrang/doc-tam-doi-van-hoang-huynh.html",
+    type: "cotrang",
+    desc: `Sau khi xuyên không, cả nhà ta đều có thể nghe thấy tiếng lòng của ta.
+
+【Tứ công chúa làm mẫu phi nhận nuôi là con gái của người phụ hoàng thật lòng yêu thương, bà ta đã sớm hạ độc mãn tính cho nàng.】
+
+【Hoàng huynh và Tam hoàng tử tranh giành sống chết, chẳng qua là thủ đoạn phụ hoàng dùng để làm suy yếu họ. Người mà phụ hoàng muốn truyền ngôi là con trai ruột của người mà ông ấy thật lòng yêu thương.】
+
+【Ta là người đáng thương nhất, không lâu sau, sẽ phải thay Tứ công chúa đi hòa thân, cuối cùng bị bạo hành đến chết. Cả nhà chúng ta đều là bia mà phụ hoàng xây lên, thay người khác chịu tội mà thôi.】
+
+Tuy nhiên, cốt truyện đã hoàn toàn thay đổi. Hoàng huynh xin đến đất phong, vài năm sau dẫn chúng ta trở về: “Chúng ta đến để cứu các người, chia rẽ đất cho các người.”`
   },
+
 
 
 
