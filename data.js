@@ -6886,7 +6886,101 @@ Nàng nghĩ rằng Thái tử vẫn sẽ như trước kia, vì nàng mà có th
 Nhưng nàng không biết rằng, từ lâu ta đã kéo nàng xuống khỏi đài cao ấy rồi.
 
 Hiện giờ, nàng ngay cả tư cách đứng cạnh ta để tranh giành cũng không còn nữa.`
+  },{
+    id: 326,
+    title: "Bước Qua Thanh Xuân Đến Bên Em",
+    image: "imgngon/083687a0c7bcd1f9f839b9fb4f2dd2e9.jpg",
+    link: "ngontinh/buoc-qua-thanh-xuan-den-ben-em.html",
+    type: "ngontinh",
+    desc: `Tôi thầm mến trúc mã bảy năm.
+
+Dưới sự cổ vũ của bạn thân, tôi cầm bánh gato và hoa, ngồi xe cả đêm đến tỏ tình với cậu ta.
+
+Không ngờ cảnh tượng tôi nhìn thấy lại là hai người họ đang hôn nhau giữa sân bóng rổ ồn ào tiếng nói cười.
+
+Trúc mã ôm eo bạn thân, giọng điệu lạnh lùng hỏi tôi: “Cậu đến đây làm gì? Không thấy tôi rất bận sao?”
+
+Tôi lúng túng, đang định mở miệng giải thích.
+
+Bạn cùng phòng đứng bên cạnh cậu ta khẽ cười một tiếng: “Bạn gái tôi đến tặng bánh gato cho tôi, liên quan gì đến cậu sao?”`
+  },{
+    id: 327,
+    title: "Kiếp Đào Vỡ Mộng Trên Thiên Giới",
+    image: "imgdam/1d63322a3dc85c4c6d4ca3e638f7fa4e.jpg",
+    link: "dammy/kiep-dao-vo-mong-tren-thien-gioi.html",
+    type: "dammy",
+    desc: `Bản tiên sắp chết rồi, kiểu hồn phi phách tán luôn ấy.
+
+Thiên kiếp còn đúng năm ngày, vậy mà ta lại buông xuôi, mặc đời trôi tới đâu thì tới.
+
+Trong năm ngày cuối cùng ấy, ta cố gắng hết sức đóng vai bạn thân tốt của Thẩm Tiên Quân, tuyệt đối không vượt quá ranh giới.
+
+Cho đến lúc thiên kiếp giáng xuống, ta đứng dưới bầu trời sét đánh ngập trời, đối diện ánh mắt kinh ngạc của hắn, rồi thần hồn tan thành mây khói.
+
+Vậy mà hắn lại đứng nguyên tại chỗ như bị nhập ma, run rẩy phục hồi lại tín vật định tình đã bị nghiền nát thành bụi.
+
+Ngay sau đó, Thẩm Tiên Quân vốn thanh khiết vô nhiễm của thiên đình lại cam tâm sa vào ma đạo, một mình xuống địa ngục giành lại hồ hồn cho ta.`
+  },{
+    id: 328,
+    title: "Mở Nhà Trẻ Giữa Hoàng Cung",
+    image: "imgco/1c837f8dc43d3ec5209a10302aad689f.jpg",
+    link: "cotrang/mo-nha-tre-giua-hoang-cung.html",
+    type: "cotrang",
+    desc: `Ta, một giáo viên mầm non đã làm việc suốt năm năm, vậy mà lại có một ngày tỉnh dậy rồi xuyên không thành một phi tần cấp thấp nhất trong hoàng cung.
+
+Đã vậy, ta còn chẳng có bất kỳ bàn tay vàng nào trong truyền thuyết.
+
+Sau khi suy nghĩ kỹ càng, ta quyết định mặc kệ tất cả, sống một cuộc đời yên bình trong cung, ăn uống qua ngày, không tranh không đấu.
+
+Không ngờ, sau một năm nằm yên hưởng nhàn, vị phi tần sống cùng cung điện với ta lại đột nhiên bị ban chết.
+
+Con trai của nàng ấy, Ngũ Hoàng tử ba tuổi, lập tức biến thành củ khoai lang nóng bỏng tay mà ai cũng muốn tránh xa.
+
+Cuối cùng, sau một hồi bị đẩy qua đẩy lại, đứa trẻ đáng thương ấy lại rơi vào tay ta.
+
+Chăm sóc hài tử vốn là chuyện ta am hiểu nhất.
+
+Cho đến năm sau, một vị Quý nhân qua đời, Công chúa vừa sinh chưa đầy tháng cũng được đưa đến cung của ta.
+
+Sau đó, Mai Phi vốn kiêu căng ngang ngược bị thất sủng, ngay cả vị Trưởng Công chúa mười tuổi cũng được đưa đến...`
+  },{
+    id: 329,
+    title: "Người Cũ Luôn Khóc Vì Tôi",
+    image: "imgdam/b218aa0dd6c35e16c0ba61d7e9d7bff2.jpg",
+    link: "dammy/nguoi-cu-luon-khoc-vi-toi.html",
+    type: "dammy",
+    desc: `Tôi và bạn trai cũ… trở thành bạn cùng phòng đại học.
+
+Đúng lúc anh ta quay đầu đi, giả vờ như chẳng quen biết tôi, thì trước mắt tôi bỗng hiện lên một loạt bình luận bay lơ lửng:
+
+[Nam chính còn giả vờ nữa à? Mỗi tối nhớ vợ đến khóc ướt gối là ai quên rồi chắc?!]
+[Các chị em ghi nhớ: người càng nghẹn khuất càng dễ đánh mất tình yêu!!]
+[Dựa vào cái gì mà anh ta được yêu một mỹ nhân lạnh lùng, sạch sẽ bậc này hả?? Tôi không phục!!]
+[Gấp gấp, nhìn mà tức! Ôm cậu ấy đi! Hôn đi! Cầu xin quay lại đi!!]
+[Haha không ngờ vợ chẳng thèm để ý, chắc ai đó lại trốn đi khóc nữa rồi…]
+
+Khoan đã…
+
+Là ai lan tin đồn tôi là người nằm dưới vậy hả?!`
+  },{
+    id: 330,
+    title: "Một Đời Gió Ngược Trời Nam",
+    image: "imgco/1d315c3ac58cb5a53826752af9612d25.jpg",
+    link: "cotrang/mot-doi-gio-nguoc-troi-nam.html",
+    type: "cotrang",
+    desc: `Ta tuổi vừa độ xuân xanh, vậy mà đã phải khoác lên người hỉ phục, trở thành bình thê của Nhiếp Chính Vương.
+
+Theo lẽ thường, bình thê chỉ được cưới vào phủ khi chính thê đã không còn trên đời.
+
+Thế nhưng hiện tại Vương phi vẫn đang khỏe mạnh, dung nhan còn rạng rỡ, vậy mà ta lại được nghênh đón bằng kiệu hoa, đường đường chính chính đi vào từ cổng chính của phủ Nhiếp Chính Vương.
+
+Đêm tân hôn, Nhiếp Chính Vương lại mang theo Vương phi cùng nhau tiến vào phòng, tự tay vén khăn hỷ của ta.
+
+Ta kinh hãi đến mức trong đầu chỉ còn một ý nghĩ.
+
+"Chơi lớn vậy sao?"`
   },
+
 
 
 
