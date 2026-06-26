@@ -6791,7 +6791,103 @@ Sau này, khi cậu ta đ/è tôi xuống sofa, cọ cọ vào cổ tôi, vừa 
 【Ta là người đáng thương nhất, không lâu sau, sẽ phải thay Tứ công chúa đi hòa thân, cuối cùng bị bạo hành đến chết. Cả nhà chúng ta đều là bia mà phụ hoàng xây lên, thay người khác chịu tội mà thôi.】
 
 Tuy nhiên, cốt truyện đã hoàn toàn thay đổi. Hoàng huynh xin đến đất phong, vài năm sau dẫn chúng ta trở về: “Chúng ta đến để cứu các người, chia rẽ đất cho các người.”`
+  },{
+    id: 323,
+    title: "Nhà Tôi Có Hồ Ly Và Ảnh Đế",
+    image: "imgngon/700f1bd8a36fc3ec27b2dd4d2e44811a.jpg",
+    link: "ngontinh/nha-toi-co-ho-ly-va-anh-de.html",
+    type: "ngontinh",
+    desc: `Couple Lục Tồn và Giang Lệ.
+Trên show giải trí, đối thủ cạnh tranh cố tình để lại cho tôi một con chim làm bạn đồng hành, mục đích là muốn tôi bẽ mặt và rơi vào thế khó xử.
+Ai cũng biết con chim này là bảo bối của Lục Tồn, Thái tử gia giới giải trí Bắc Kinh, tính tình cực kỳ khó chiều, ai đụng vào cũng mệt.
+Vậy mà tôi lại thẳng tay giơ lên cho nó một cái tát.
+
+Đối phương lập tức lên tiếng: “Giang Lệ, hành hạ chim là hành vi sai trái, động vật nhỏ cũng biết đau.”
+
+Cư dân mạng thì hả hê như bắt được vàng: Giang Lệ tiêu đời rồi, không biết minh tinh tuyến hai từng bị chim mổ đến mức cấm sóng trước đó sao, vậy mà còn dám ngược đãi chim.
+
+Ngay trong ngày hôm đó, vị Thái tử gia kia ôm con chim yêu quý xuất hiện tại trường quay.
+Trước mặt tất cả mọi người, anh nắm đầu con chim, điên cuồng nháy mắt ra hiệu: “Xin lỗi mẹ con nhanh lên.”
+
+Couple Gia Nghi x Trình Lệ.
+Cha tôi là Thái tử gia giới giải trí Bắc Kinh, mẹ tôi là Ảnh hậu.
+
+Vậy mà bạn cùng phòng lại cứ nghĩ tôi là con nhà quê mùa, còn vu oan tôi ăn trộm điện thoại của cô ta, bắt tôi bồi thường một vạn tệ.
+
+Ngay lúc đang đôi co căng thẳng, tự nhiên từ đâu rơi xuống một anh chàng hot boy nghèo kiết xác, trên tay cầm một cuốn sổ đỏ.
+
+“Đây không phải là tiền sao? Cầm lấy, tôi đền cho em ấy.”
+
+Nói xong, anh quay sang nhìn thẳng vào tôi.
+
+“Được rồi Lục Gia Nghi, tiền tổn thất tinh thần của cô ta tôi đền đủ rồi, em lại tát cho cô ta một cái đi.”
+
+Về đến nhà, tôi kể lại hết chuyện này cho mẹ nghe. Nghe xong, mẹ tôi nhíu mày.
+
+“Cậu bạn học hot boy của con, sao lại ngốc y chang con trai của Ảnh đế nhà cạnh vậy.”
+
+Cha tôi vừa nghe xong liền bật dậy, xách dao lao ra ngoài.
+
+“Bọn họ đúng là cha nào con nấy, toàn hồ ly tinh đi mê hoặc người khác. Thằng cha quyến rũ vợ tôi không được, giờ lại để thằng con trai đến quyến rũ con gái tôi.”
+
+Couple Trình Hạc x Trang Dao.
+
+Trước khi Trình Hạc được đề cử Ảnh đế, anh đã bám theo tôi ba năm.
+Gần đến ngày cưới, anh lại vướng vào chuyện tình tay ba với nữ học bá cùng trường và Thái tử gia giới giải trí, tin tức lan truyền nhanh đến chóng mặt.
+
+Tôi đề nghị chia tay, anh im lặng không nói gì, ngược lại còn đi hỏi nữ học bá kia:
+“Cô ấy mang thai rồi, tôi nên làm gì bây giờ?”
+
+Khoảnh khắc đó, tôi hoàn toàn chết tâm rời đi.
+
+Hai năm sau, tôi đăng bài viết ẩn danh lên mạng hỏi:
+Có lẽ, ý tôi là có lẽ, con người có thể sinh ra hồ ly trắng không?
+
+Một cư dân mạng có ID là Tôi không phải Trình Hạc liên tục nhắn tin riêng cho tôi:
+“Có thể. Vấn đề này của cô rất nghiêm trọng, trước tiên hãy gửi địa chỉ cho tôi, chúng ta phải gặp mặt nói chuyện chi tiết.”
+`
+  },{
+    id: 324,
+    title: "Nhặt Được Giáo Sư Sau Đêm Say Rượu.",
+    image: "imgdam/f788fb5bd484a9c9b059d7b14bc6117f.jpg",
+    link: "dammy/nhat-duoc-giao-su-sau-dem-say-ruou.html",
+    type: "dammy",
+    desc: `Tôi tỉnh dậy trong một căn phòng lạ lẫm, vừa mới ngồi bật dậy thì cánh cửa phòng đã khẽ mở ra.
+
+“Em tỉnh rồi à?” Một giọng nam trầm ấm, nghe thôi đã thấy cuốn, vang lên bên tai.
+
+Tôi đờ người ra mất hai giây, mắt nhìn chằm chằm vào khuôn mặt từng khiến trái tim mình thét gào, thổn thức suốt bao lâu nay.
+
+“Còn thấy khó chịu ở chỗ nào không?” Anh lại hỏi.
+
+Tôi giật mình, lập tức tỉnh táo cả người, thốt lên trong vô thức: “Giáo sư Phó!”
+
+Anh khẽ mỉm cười: “Ừ.”
+
+Lúc này, ký ức của tôi hoàn toàn bị đứt đoạn, chẳng thể nhớ nổi chuyện gì đã xảy ra vào tối hôm qua, chỉ biết ngơ ngác lắc đầu: “Dạ không… Chắc là do em say quá nên đã làm phiền thầy nhiều lắm đúng không ạ?”
+
+Anh nhìn tôi, gương mặt vẫn bình thản như không: “Phiền thì cũng không phiền lắm, chỉ là khi em ôm chặt lấy chân tôi, khóc lóc thảm thiết rồi gọi “chồng ơi đừng đi”, lúc đó tôi có hơi bất ngờ một chút thôi.”
+
+Nghe đến bốn chữ ấy, tôi chỉ muốn có cái lỗ nào để độn thổ ngay lập tức.`
+  },{
+    id: 325,
+    title: "Hoàng Quyền Nữ Tử",
+    image: "imgco/4fcaf859fa5d5b4cd7af276fbe71fa18.jpg",
+    link: "cotrang/hoang-quyen-nu-tu.html",
+    type: "cotrang",
+    desc: `Một năm sau khi ta gả cho Thái tử, bạch nguyệt quang của hắn vậy mà lại hồi tâm chuyển ý.
+
+Nàng xông thẳng vào Đông cung, tay cầm kéo cắt nát cát phục Thái tử phi của ta, dáng vẻ kiêu ngạo đến mức như thể cả thiên hạ này đều phải xoay quanh nàng.
+
+“Ngươi chỉ là một nhạc công ti tiện, cũng xứng chiếm vị trí của ta?”
+
+Nàng nghĩ rằng Thái tử vẫn sẽ như trước kia, vì nàng mà có thể không màng tính mạng, chỉ cần nàng quay đầu là mọi thứ sẽ trở lại như cũ.
+
+Nhưng nàng không biết rằng, từ lâu ta đã kéo nàng xuống khỏi đài cao ấy rồi.
+
+Hiện giờ, nàng ngay cả tư cách đứng cạnh ta để tranh giành cũng không còn nữa.`
   },
+
 
 
 

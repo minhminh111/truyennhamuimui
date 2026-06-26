@@ -9,8 +9,8 @@ window.addEventListener("DOMContentLoaded", function () {
   /* ===== LINK QUẢNG CÁO ===== */
 
   const links = [
-    "https://s.shopee.vn/Ll5vWypAv",
-    "https://spf.shopee.vn/9AMURoSb6j",
+    "https://s.shopee.vn/7fXjqens9f",
+    "https://spf.shopee.vn/AAF4pKS5ll",
     "https://vt.tiktok.com/ZS96FF8apdQUj-DTIPa/",
     "https://s.lazada.vn/s.ncEIA?c=p&t=p-iKa3iA-sWuUwh"
   ];
