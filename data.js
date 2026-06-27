@@ -6979,6 +6979,63 @@ Thế nhưng hiện tại Vương phi vẫn đang khỏe mạnh, dung nhan còn 
 Ta kinh hãi đến mức trong đầu chỉ còn một ý nghĩ.
 
 "Chơi lớn vậy sao?"`
+  },{
+    id: 331,
+    title: "Thích Em Là Điều Anh Không Nói",
+    image: "imgngon/94c8a65cccd8e57fead2bc35d25d059b.jpg",
+    link: "ngontinh/thich-em-la-dieu-anh-khong-noi.html",
+    type: "ngontinh",
+    desc: `7 năm yêu thầm anh chàng thanh mai trúc mã, lại còn được cô bạn thân cổ vũ như kiểu “đi đi, không thử sao biết đời đau hay không”.
+
+Tôi ôm hoa với bánh kem, ngồi tàu đêm suốt cả đêm chỉ để đến tỏ tình với anh.
+
+Nhưng ngay tại sân bóng rổ đông nghịt người, mọi thứ lại không giống như tôi tưởng tượng.
+
+Tôi thấy họ hôn nhau.
+
+Anh ấy nắm tay cô bạn thân của tôi, ánh mắt lạnh nhạt nhìn tôi rồi hỏi: “Cô đến đây làm gì? Không thấy tôi đang bận sao?”
+
+Tôi chật vật đứng đó, luống cuống đến mức đầu óc trống rỗng, cố gắng mở lời giải thích.
+
+Anh chàng ở chung phòng thì đứng bên cạnh cười khúc khích: “Bạn gái tặng bánh kem cho tôi thì liên quan gì tới cậu?”`
+  },{
+    id: 332,
+    title: "Nhật Ký Nuôi Vợ Của Trai Thẳng",
+    image: "imgdam/066670f7b02f6d5f8e93a20c462b59f6.jpg",
+    link: "dammy/nhat-ky-nuoi-vo-cua-trai-thang.html",
+    type: "dammy",
+    desc: `Có người nói rằng người bạn cùng phòng lạnh lùng của tôi là một kẻ não yêu đương.
+    
+    Tôi không tin vào mấy cái tin đồn nhảm nhí đó chút nào. Nhưng ngay giây tiếp theo, bằng chứng rành rành đã được đặt ngay trước mắt khiến tôi câm nín.
+
+Tôi vắt óc suy nghĩ mãi, thật sự đoán không ra cái danh tính thần bí nào có thể khiến cho một bông hoa cao lãnh, lúc nào cũng trưng ra cái bộ mặt lạnh lùng như cậu ấy phải mê muội đến mức đấy.
+
+Cho đến khi tôi vô tình làm rơi chiếc ba lô, cuốn sổ vốn bị đè khuất ở bên dưới liền rơi ra ngoài.
+
+Trong trang giấy mở sẵn, có một câu nói cực kỳ đặc biệt đập thẳng vào mắt tôi.
+
+【Vợ có vết bớt hình trái tim, đặc biệt quá, thật muốn cắn một cái.】
+
+Tôi hít mạnh một hơi khí lạnh, vội vàng đưa tay lên che chặt phần eo sau lưng của mình lại.`
+  },{
+    id: 333,
+    title: "Tướng Quân Giả Danh Phu Tử",
+    image: "imgco/c9fe087397ebef54073460376f7e82c3.jpg",
+    link: "cotrang/tuong-quan-gia-danh-phu-tu.html",
+    type: "cotrang",
+    desc: `Lang quân lên kinh ứng thí, ta luôn ở bên chăm sóc từng miếng ăn giấc ngủ, lo liệu chu toàn sinh hoạt hàng ngày cho hắn.
+
+Đến ngày bảng vàng chi danh, hắn quả nhiên không phụ sự kỳ vọng mà trở thành Thám hoa lang, danh tiếng lẫy lừng, là đối tượng được săn đón bậc nhất chốn kinh thành hoa lệ.
+
+Đúng lúc niềm vui ấy chưa kịp lắng xuống, Triệu Phỉ Nhi, một nữ tử từng được ta dang tay cứu giúp khi nàng mới chân ướt chân ráo đến kinh thành, đột nhiên gửi thư hẹn ta đến trà lâu để gặp mặt.
+
+Nghĩ đến tình cảm tỷ muội lâu ngày không gặp, lòng ta vô cùng hoan hỷ mà vui vẻ sửa soạn đi đến điểm hẹn.
+
+Thế nhưng, ta chẳng thể ngờ được rằng, ngay khi vừa chạm mặt, câu đầu tiên thốt ra từ khuôn miệng nhỏ nhắn của nàng lại là một gáo nước lạnh buốt: “Diệp tỷ tỷ, tỷ hãy hòa ly với Tùng lang đi.”
+
+Lời nói ấy khiến niềm vui vừa nhen nhóm trong lòng ta nháy mắt đã bị dội cho tắt ngấm.
+
+Nàng vốn là vị tiểu thư tôn quý, là nữ nhi duy nhất của đương kim Thừa tướng, gia thế hiển hách khôn cùng lại được gia tộc muôn vàn cưng chiều, nâng như nâng trứng hứng như hứng hoa, phàm là thứ gì nàng đã muốn thì trên đời này chưa từng có chuyện không chiếm được.`
   },
 
 
