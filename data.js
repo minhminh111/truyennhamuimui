@@ -7036,7 +7036,140 @@ Thế nhưng, ta chẳng thể ngờ được rằng, ngay khi vừa chạm mặ
 Lời nói ấy khiến niềm vui vừa nhen nhóm trong lòng ta nháy mắt đã bị dội cho tắt ngấm.
 
 Nàng vốn là vị tiểu thư tôn quý, là nữ nhi duy nhất của đương kim Thừa tướng, gia thế hiển hách khôn cùng lại được gia tộc muôn vàn cưng chiều, nâng như nâng trứng hứng như hứng hoa, phàm là thứ gì nàng đã muốn thì trên đời này chưa từng có chuyện không chiếm được.`
+  },{
+    id: 334,
+    title: "Chị Gái Phản Đòn Showbiz",
+    image: "imgngon/0665585c8dc983f3402101ab6b70ea01.jpg",
+    link: "ngontinh/chi-gai-phan-don-showbiz.html",
+    type: "ngontinh",
+    desc: `Em trai tôi là một ngôi sao nhỏ nổi tiếng trên mạng, khi cùng tham gia chương trình gameshow về gia đình, em ấy cẩn thận từng li từng tí, còn tôi thì chửi trời chửi đất, đến cả con chó đi ngang cũng bị tôi đá cho hai phát.
+
+Em trai tôi: “Chị ơi, chị bớt xéo sắc đi, em xin chị đấy.”
+
+Fan: “Hay lắm, chửi tiếp đi, chúng tôi thích xem!”`
+  },{
+    id: 335,
+    title: "Cưa Nhầm Bạn Cùng Phòng Sáu Múi",
+    image: "imgdam/d31a76d9bb2ca69418682a71f7342e22.jpg",
+    link: "dammy/cua-nham-ban-cung-phong-sau-mui.html",
+    type: "dammy",
+    desc: `Nửa đêm nghe tiếng ngáy vang dội hệt như máy khoan bê tông của mấy khứa bạn cùng phòng, tôi cuối cùng cũng thở phào nhẹ nhõm vì biết tụi nó đã ngủ say.
+
+Tôi bắt đầu khởi động chuỗi combo hành động quen thuộc mỗi tối, đeo tai nghe, chui tọt vào trong chăn ấm, mở ứng dụng video ngắn lên rồi đăng nhập ngay vào cái tài khoản phụ thân yêu của mình.
+
+Tâm trạng tôi lập tức trở nên vui vẻ, hứng khởi hẳn lên.`
+  },{
+    id: 336,
+    title: "Gạt Tuyết Tìm Xuân",
+    image: "imgco/f78ecab2461574233f5e736a8f272c64.jpg",
+    link: "cotrang/gat-tuyet-tim-xuan.html",
+    type: "cotrang",
+    desc: `Sau khi được tự do, rời khỏi Tống phủ, ta chọn dừng chân nơi phía Tây thành gian khổ, lặng lẽ mở một tiệm bánh nhỏ mưu sinh qua ngày.
+
+Mỗi ngày trôi qua, ta đều bầu bạn với cối bột, lò than, tự tay nhào nặn rồi hấp những mẻ bánh thơm phức, đón đưa từng lượt khách ghé qua, cuộc sống cứ thế trôi đi trong sự bình lặng và an ổn.
+
+Thế nhưng, vào một đêm mưa gió bão bùng, sấm chớp ngập trời, đích trưởng tử của phủ gia chủ cũ lại đột nhiên tìm đến, gõ vang cánh cửa phòng ta giữa canh khuya thanh vắng.
+
+Trong lồng ngực vững chãi của hắn, bấy giờ đang bọc chặt một đứa trẻ, là một bé gái chừng ba tuổi.
+
+“An Ý cô nương, gia tộc nay gặp đại nạn, tình thế ngàn cân treo sợi tóc, ta chẳng thể tìm được ai để gửi gắm tiểu muội, không biết cô nương có thể rủ lòng thương, tạm thời chăm sóc muội muội một thời gian chăng?”
+
+Ta chỉ thoáng chút đăm chiêu trong khoảnh khắc, rồi liền gật đầu đáp ứng: “Được.”
+
+Dẫu sao đi nữa, nhà họ Tống năm xưa đối với ta có ân tái sinh, ta tuyệt đối không phải hạng người vong ân bội nghĩa.
+
+Thấm thoát mười năm dài đằng đẵng trôi qua, ta vẫn một lòng giữ lấy tiệm bánh nhỏ này, tận mắt chứng kiến đứa trẻ năm nào dần trưởng thành thiếu nữ, ngày ngày ngóng đợi gia tộc họ Tống có thể đông sơn tái khởi.
+
+Ta thầm nghĩ, ân tình xưa kia nay xem như đã vẹn toàn, cũng đã đến lúc ta phải tự định đoạt cho chuyện chung thân đại sự của riêng mình.
+
+Thế nhưng vạn lần không ngờ tới, ngay đúng ngày ta tương thân xem mắt, vị trưởng tử năm nào của nhà họ Tống nay đã khoác lên mình bộ quan phục màu đỏ thắm quyền uy, ngồi thẳng lưng ngay giữa khoảng sân nhỏ nhà ta.
+
+Ánh mắt hắn sắc lẹm tựa rươm đao, khẽ đảo qua một lượt khiến cho tất cả những kẻ có mặt ở đó đều cảm thấy như đang ngồi trên đống lửa, rồi hắn trầm giọng lên tiếng: “Ta đến để kiểm tra người giúp cô nương.”`
+  },{
+    id: 337,
+    title: "Bạch Nguyệt Quang Không Đi Theo Kịch Bản",
+    image: "imgngon/581a79f00717af12d82bf6abb24c0d18.jpg",
+    link: "ngontinh/bach-nguyet-quang-khong-di-theo-kich-ban.html",
+    type: "ngontinh",
+    desc: `Bạch nguyệt quang đi du học sắp trở về rồi.
+
+Tin tức thì không mấy tốt đẹp, về hơi muộn một chút, lúc này trong giới hào môn đã sớm bị nữ chính thật sự thuyết phục, còn chuẩn bị sẵn tinh thần để nghênh đón “bạch nguyệt quang” sắp xuất hiện.
+
+Tin xấu hơn nữa là thánh mẫu bạch liên trong truyền thuyết, cái kiểu bạch nguyệt quang ngốc nghếch chỉ có mỗi nhan sắc, chính là tôi.
+
+Cho nên, khi đối diện với bộ dáng yếu đuối và đáng thương của nữ chính thật, tôi mỉm cười rồi nói “Cô không cần như vậy đâu, tôi hiểu mà, trước kia tôi cũng từng là trà xanh.”`
+  },{
+    id: 338,
+    title: "Ánh Nhìn Của Kẻ Chụp Lén",
+    image: "imgdam/bef04716789b30c46cabb8aa95545e13.jpg",
+    link: "dammy/anh-nhin-cua-ke-chup-len.html",
+    type: "dammy",
+    desc: `Tôi tự thấy bản thân giống hệt một con chuột chũi luẩn quẩn dưới cống ngầm tăm tối, chỉ dám lén lút ngước mắt lên nhìn vầng mặt trời chói lọi phía xa xa.
+
+Mà Ngụy Lâm Thanh, nam thần vạn người mê của cái trường đại học này, chính là bí mật vừa dơ dáy vừa đen tối nhất mà tôi luôn chôn sâu dưới đáy lòng.
+
+Cái hôm đi liên hoan định mệnh đó, cậu ấy say khướt quên lối về, bất ngờ kéo tuột tôi vào một góc khuất tối tăm rồi trao cho tôi một nụ hôn nồng cháy.
+
+Thế nhưng ngay khi tỉnh táo lại vào ngày hôm sau, cậu ta liền quay ngoắt thái độ, buông ra một câu lạnh lùng bảo tôi tốt nhất nên giữ khoảng cách.
+
+Tôi ôm theo nỗi niềm dày vò đau đớn ấy lên mạng tâm sự với người bạn qua mạng có biệt danh là L.
+
+Cậu ta nghe xong chỉ thả nhẹ một câu: “Có lẽ cậu ấy không hề ghét cậu đâu.”
+
+Mãi về sau này, tôi run rẩy bấm vào trang chủ cá nhân của L thì đập ngay vào mắt là bài đăng mới nhất kèm theo một bức ảnh chụp rõ mồn một.
+
+Đó chính là tôi, đang ngủ ngon lành trên chiếc giường thân yêu của Ngụy Lâm Thanh.
+
+Kèm theo dòng chú thích đầy mùi mờ ám: [Nhặt được một chú chuột nhỏ vừa đáng thương vừa đáng yêu.]`
+  },{
+    id: 339,
+    title: "Nhật Ký Đam Mỹ Của Nữ Sát Thủ",
+    image: "imgco/202f03a1f6714be2daa0839d60832e62.jpg",
+    link: "cotrang/nhat-ky-dam-my-cua-nu-sat-thu.html",
+    type: "cotrang",
+    desc: `Ta vốn là một sát thủ chuyên nghiệp, thế nhưng sau khi dốc hết vốn liếng mua độc dược, ta đã nhận về thất bại cay đắng lần thứ sáu mươi sáu trong công cuộc ám sát Điền Vương.
+
+Trong cơn phẫn nộ tột cùng, ta quyết định cầm bút lên, tự tay tổng hợp rồi thêu dệt nên một thiên tình sử đầy ám muội giữa Điền Vương và các đại thần dưới trướng của hắn.
+
+Trong câu chuyện ấy, hắn yêu người này một chút, vờn người kia một tẹo, tạo nên những bí mật thầm kín không thể bật mí của vị vương gia phong lưu cùng giàn triều thần văn võ.
+
+Tựa sách thì ta cũng đã nảy ra ngay trong đầu, quyết định đặt tên là “Tình nhân vụng trộm của vị vương gia bách biến”.
+
+Kế hoạch của ta là biến hắn thành cái gai trong mắt, thành kẻ thù chung của toàn bộ triều đình.
+
+Bởi vì mượn đao giết người mới chính là cảnh giới tối cao của một sát thủ thực thụ.`
+  },{
+    id: 340,
+    title: "Gả Cho Minh Quân Độc Miệng",
+    image: "imgdam/5863c6c7a40739834490a9c5228b610e.jpg",
+    link: "dammy/ga-cho-minh-quan-doc-mieng.html",
+    type: "dammy",
+    desc: `Tôi ngoài ý muốn xuyên vào một cuốn tiểu thuyết cổ đại ngược tâm ngược thân, chính thức trở thành một hoàng tử pháo hôi đen đủi.
+
+Nguyên chủ cũng giống tôi, là một kẻ bệnh tật quanh năm suốt tháng, sau này trong cuộc tranh đoạt quyền lực bị nam chính cặn bã coi là chướng ngại vật rồi tiện tay bay màu luôn.
+
+Để tránh kết cục bi thảm đó, tôi quyết định bản thân phải tránh thật xa trung tâm của cốt truyện.
+
+Thế là khi nữ chính trọng sinh, chán nản muốn xin hoàng đế cho mình đi hòa thân, tôi liền nhanh miệng cướp lời nói trước: “Con đi hòa thân.”
+
+Trước ánh mắt kinh ngạc của cả hai người, tôi không hề hối hận với quyết định này. Giữ được cái mạng nhỏ này mới là quan trọng nhất, mọi thứ khác cứ tính sau đi.
+
+Hơn nữa, hoàng thượng ơi, con trai ngài thực ra là gay đó.`
+  },{
+    id: 341,
+    title: "Kế Hoạch Vỗ Béo Thái Tử",
+    image: "imgco/bd60c26ff1d222a91105e8d875d56227.jpg",
+    link: "cotrang/ke-hoach-vo-beo-thai-tu.html",
+    type: "cotrang",
+    desc: `Vào ngày ta chuẩn bị bước chân vào chốn hoàng cung sâu thẳm, mẫu thân đã nắm tay ta, ân cần dặn dò từng lời:
+
+“Con phải làm người dưới một người, trên vạn người.”
+
+Ta khắc cốt ghi tâm lời dạy bảo của mẫu thân, suốt bao năm qua luôn cần mẫn, tận tụy làm việc không ngơi nghỉ.
+
+Để rồi cuối cùng, ta thực sự đã trở thành người dưới một người, và đứng trên vạn thái giám.`
   },
+
 
 
 
