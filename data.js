@@ -7168,6 +7168,114 @@ Hơn nữa, hoàng thượng ơi, con trai ngài thực ra là gay đó.`
 Ta khắc cốt ghi tâm lời dạy bảo của mẫu thân, suốt bao năm qua luôn cần mẫn, tận tụy làm việc không ngơi nghỉ.
 
 Để rồi cuối cùng, ta thực sự đã trở thành người dưới một người, và đứng trên vạn thái giám.`
+  },{
+    id: 342,
+    title: "Kế Hoạch Bẫy Tình Của Tổng Tài Si Tình",
+    image: "imgngon/199dac3b0391b9248446f75ea43f133c.jpg",
+    link: "ngontinh/ke-hoach-bay-tinh-cua-tong-tai-si-tinh.html",
+    type: "ngontinh",
+    desc: `Thẻ ngân hàng chỉ còn 250.41 tệ, tôi chụp ảnh màn hình rồi đăng lên trang cá nhân để troll mọi người.
+
+“Bản thân không muốn cố gắng nữa, có chút khuyết điểm nhỏ, 100.000 tệ bán.”
+
+Một phút sau, tin nhắn từ Giang Yến Lâm nhảy vào khung chat: “Vui lòng nhận 100.000,00 nhân dân tệ.”
+
+Tôi?
+
+“Kết hôn.”
+
+“Mỗi tháng mười vạn.”
+
+Ha, tôi là loại người bị tiền mua chuộc sao?
+
+Nghĩ một đằng, làm một nẻo.
+
+Xác nhận chuyển khoản thành công.`
+  },{
+    id: 343,
+    title: "Kế Hoạch Theo Đuổi Thầy Giáo Của Cậu Chủ Hào Môn",
+    image: "imgdam/f34589bc1794a3ad602dff56294e3179.jpg",
+    link: "dammy/ke-hoach-theo-duoi-thay-giao-cua-cau-chu-hao-mon.html",
+    type: "dammy",
+    desc: `Cuốn nhật ký thầm kín bao năm của tôi bỗng một ngày đẹp trời bị người ta lôi ra ánh sáng, phơi bày trước bàn dân thiên hạ.
+
+Bên trong trang giấy dày đặc chữ nghĩa, nhưng lướt qua lướt lại thì toàn bộ đều là ba chữ Tống Chiêu thần thánh.
+
+Có tiếng đứa nào đó trong lớp bắt đầu la ó, hét lớn đầy khoa trương để gây sự chú ý:
+“Đậu má, Tống Chiêu ơi, thế mà thằng Sở Hà lại thầm thương trộm nhớ cậu kìa! Hai người còn ở chung một phòng ký túc xá nữa chứ, không chừng ngày ngày cậu ta còn lén lút chụp trộm cậu rồi đem ra tưởng tượng bậy bạ gì đó rồi cũng nên.”
+
+Khỏi phải nói, sắc mặt của Tống Chiêu ngay lập tức trở nên vô cùng khó coi và xám xịt lại:
+“Cút đi! Ghê tởm chết đi được.”
+
+Ngay sau câu nói phũ phàng đó, cậu ta đầm đìa sát khí bước tới đứng sừng sững trước mặt tôi, gương mặt bày ra một rổ chán ghét kèm theo cái chìa tay ra lệnh:
+“Đưa điện thoại đây.”`
+  },{
+    id: 344,
+    title: "Cá Nhỏ Của Nhiếp Chính Công Chúa",
+    image: "imgco/e56055e4185bc3f01d8627d2c52fea9a.jpg",
+    link: "cotrang/ca-nho-cua-nhiep-chinh-cong-chua.html",
+    type: "cotrang",
+    desc: `Ta vốn là một vị công chúa nhận được muôn vàn sủng ái.
+
+Cứ ngỡ năm tháng tranh đoạt ân sủng sắp sửa hạ màn, bản thân sắp được rời cung, dọn về phủ công chúa để ngày ngày nuôi dưỡng nam sủng, nào ngờ hậu cung lại đột ngột xảy ra đại biến.
+
+Phụ hoàng long ngự thượng tân, huynh đệ tỷ muội trong hoàng tộc cũng chẳng còn lại bao lăm, những kẻ may mắn giữ được mạng sống thì nay cũng đều trở thành phế nhân.
+
+Nơi kiếp sống trước, có một vị pháp sư danh tiếng lẫy lừng từng nói với ta: “Dù trong tay ngươi có là một quân bài tồi tệ đến đâu, ngươi cũng tuyệt đối không thể từ bỏ ván bài ấy.” Ta khi ấy đã tin vào điều đó.
+
+Thế nhưng giờ đây, khi lắng nghe lời phó thác trong lúc hấp hối của phụ hoàng: “Về sau A Cẩn giao cho con lo liệu.”
+
+Ta chỉ biết lặng im, trong lòng tràn ngập cảm giác bất lực. Ta vốn dĩ chỉ là một thân nữ nhi công chúa, làm sao có thể gánh vác nổi trọng trách giang sơn đại xã tắc này? Ta còn đang mòn mỏi đợi chờ những ngày tháng an nhàn, có muôn vàn mỹ nam vây quanh hầu hạ cơ mà.
+
+Nhưng cũng thật may mắn, trên con đường hoạn lộ thâm nghiêm và thăm thẳm này, vẫn còn có một vị Du mỹ nam ẩn nhẫn đã lâu.`
+  },{
+    id: 345,
+    title: "Bí Ẩn Phía Sau Mật Thất",
+    image: "imgngon/65ff3260a73227e5e500b3bf9828e059.jpg",
+    link: "ngontinh/bi-an-phia-sau-mat-that.html",
+    type: "ngontinh",
+    desc: `Tôi là nữ minh tinh tuyến đen đỏ, sau khi thức tỉnh hệ thống “Lợi Dụng Lòng Nước Đục”, có thể đọc được chỉ số sập phòng của đồng nghiệp.
+
+Tôi đọc chỉ số của vị Ảnh đế nổi tiếng trong giới, phát hiện trên đỉnh đầu anh ta là một con số to đùng đỏ chói: “500%”.
+
+Không phải chứ, anh trai này là đang giẫm lên luật pháp mà nhảy disco à?`
+  },{
+    id: 346,
+    title: "Nhật Ký Nuôi Thỏ Của Tổng Tài",
+    image: "imgdam/f6c5652ff1c62df416eb8b82eb91a1d0.jpg",
+    link: "dammy/nhat-ky-nuoi-tho-cua-tong-tai.html",
+    type: "dammy",
+    desc: `Sau khi chính thức hóa thành người, tôi đã bị hớp hồn bởi vẻ đẹp trai không góc chết của Chu Luật.
+
+Thế là tôi tự nguyện làm người tình ấm giường của anh suốt hai năm trời ròng rã.
+
+Trong mắt anh thì mối quan hệ này chỉ là một cuộc vui thoáng qua, nhưng bản thân tôi lại lỡ sa chân vào lưới tình lúc nào không hay biết.
+
+Cái ngày tôi gom hết dũng khí tích tụ suốt bấy lâu để cầu hôn, anh chỉ cười khẩy một cái rồi cúi xuống hôn tôi, buông lời phũ phàng:
+“Thích bám lấy tôi thì cứ bám đi, sao lại còn dám đòi hỏi danh phận?”
+“Mà huống hồ gì, làm sao tôi có thể rước một con thỏ về làm vợ được cơ chứ?”
+
+Tâm hồn tôi lúc đó hoàn toàn tan nát, liền dứt khoát để lại tờ kết quả khám thai rồi xách vali rời đi ngay trong đêm.
+
+Sau này nghe người ta khấp khởi kể lại, thiếu gia Chu vốn dĩ là người vô cùng điềm đạm kiềm chế, vậy mà lại nổi trận lôi đình rồi điên cuồng truy lùng con thỏ của mình khắp hang cùng ngõ hẻm trong thành phố.
+
+Anh ta thậm chí còn rêu rao với thiên hạ rằng nếu bắt được tôi thì một nửa sẽ đem hấp, còn một nửa đem kho tàu cho bõ ghét.
+
+Thế nhưng đến khi hai bên vô tình chạm mặt nhau, anh chỉ biết run rẩy chỉ tay vào đứa trẻ đang nằm ngoan ngoãn trong lòng tôi, đôi mắt đỏ hoe như sắp khóc:
+“Có thể cho anh bế đứa bé một chút được không?”`
+  },{
+    id: 347,
+    title: "Góa Phụ Nghèo Ép Đại Thần Trả Nợ Đêm Xuân",
+    image: "imgco/a0d25e130eabfede468de6d56642ddc6.jpg",
+    link: "cotrang/goa-phu-ngheo-ep-dai-than-tra-no-dem-xuan.html",
+    type: "cotrang",
+    desc: `Năm nhà ta lâm vào cảnh bần hàn cùng quẫn nhất, ta đã chấp nhận một việc làm mang tiếng tiếng nhơ, ấy là nhận lời sinh dưỡng huyết mạch nối dõi cho tử tù nơi ngục tối.
+
+Ngày thứ hai sau đêm xuân phong nồng đượm, hắn bỗng chốc được rửa sạch hàm oan.
+
+Triệu Thanh Hà đưa ánh mắt lãnh đạm nhìn ta, thanh âm đều đều cất lên: “Sự việc đã thành, nàng theo ta về phủ đi.”
+
+Nhưng ta biết rõ bản thân chỉ là một góa phụ nghèo hèn nơi trần thế, còn hắn lại là bậc quân tử thanh cao như trúc thanh giữa ngục ngàn, vốn được người người chốn kinh kỳ hết lời ca ngợi.`
   },
 
 
