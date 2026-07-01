@@ -7373,6 +7373,112 @@ Sư tôn nghe xong liền ngơ ngác đầy nghi hoặc.
 Nụ cười trên môi Tần Ương cũng lập tức khựng lại, ngơ ngác chẳng kém.
 
 Ta gào khóc nức nở: “Mười vạn lượng bạc của ta, thật là chết tiệt, tại sao chuyện lại thành ra như thế này!”`
+  },{
+    id: 353,
+    title: "Cả Thanh Xuân Là Anh",
+    image: "imgngon/926098ff9c6f51e8db6f8241a61d3f7b.jpg",
+    link: "ngontinh/ca-thanh-xuan-la-anh.html",
+    type: "ngontinh",
+    desc: `Sau khi kết hôn với người mù.
+Mỗi ngày tôi đều ăn mặc mát mẻ, đi qua đi lại trong căn nhà như thể đang diễn thời trang tại gia.
+Thậm chí có những lúc tôi còn… không mặc gì cho thoải mái, coi nhà như chốn vô hình.
+
+Người đàn ông ngồi trên sofa thì vẫn bình tĩnh, im lặng, cứ như không hề bị ảnh hưởng.
+Nhưng lạ một cái là vành tai anh lúc nào cũng đỏ bừng, đôi khi còn chảy máu mũi không rõ lý do.
+
+Cho đến một ngày, tôi nghe được tiếng lòng của anh.
+[Rốt cuộc có nên nói cho vợ biết thực ra mắt mình đã khỏi.]
+[Nhưng vòng eo của vợ trông thật mềm mại.]
+[Không biết khi ôm lên sẽ có cảm giác thế nào…]
+[Chân của vợ dài quá.]
+[Không biết đặt trên vai mình…]
+
+Tôi lập tức bước tới, bịt miệng anh lại, giọng gấp gáp: “Đừng nói nữa!”`
+  },{
+    id: 356,
+    title: "Chim Hoàng Yến Tự Nguyện Vào Lồng",
+    image: "imgdam/a623afec1a29df94ed36849d94d3084f.jpg",
+    link: "dammy/chim-hoang-yen-tu-nguyen-vao-long.html",
+    type: "dammy",
+    desc: `Ngay khi phát hiện ra kim chủ có người mới, tôi đã chủ động rời đi.
+
+Tôi tỏ ra ung dung, khoan dung, hoàn toàn không hề bận tâm.
+
+Tất cả chỉ là một màn kịch tự biên tự diễn nhằm che giấu sự yếu đuối.
+
+Thực ra, trong lòng tôi luôn nuôi hy vọng anh ta sẽ hối hận rồi quay lại níu kéo tôi.
+
+Sau bao ngày mòn mỏi chờ đợi, cuối cùng người ấy cũng chịu xuất hiện, vác thẳng tôi về nhà, ném lên giường rồi chậm rãi cởi từng chiếc cúc áo:
+
+“Để lần tới anh cố gắng thêm chút, xem em có chạy nổi khi đang mang bầu không?”
+
+Chết tiệt, tôi là đàn ông chính hiệu, lấy đâu ra cái mùa xuân mang bầu cơ chứ.`
+  },{
+    id: 355,
+    title: "Bức Họa Giấu Kín Trong Thư Phòng",
+    image: "imgco/1193ab9585bde9c617c9c5f9b23d6293.jpg",
+    link: "cotrang/buc-hoa-giau-kin-trong-thu-phong.html",
+    type: "cotrang",
+    desc: `“Tướng quân xuất chinh trở về còn dẫn theo một nữ tử đang mang thai...”
+
+
+Lúc ta đang thêu thùa thì nghe được tin tức này, bất ngờ đến mức không kịp tránh mũi kim đang xuyên từ dưới lên trên, đâm vào ngón tay trỏ. Một giọt máu đỏ sẫm cứ như vậy nhỏ trên đôi uyên ương ta vừa mới thêu.
+
+
+Tần Nhu ở một bên tiến lại gần, liếc mắt nhìn món đồ thêu trong tay ta: “Tướng quân cũng đâu phải chưa nói cho ngươi biết việc này. Tướng quân còn chưa về tới, ngươi đã bắt đầu diễn rồi. Thật quá là lãng phí hai con vịt này.”
+
+
+Ta nói cho nàng biết, đây là ta đang thêu hình uyên ương, sau đó mời nàng ra khỏi phủ, quyết định tuyệt giao với nàng hai ngày.
+Quả thật trước đó Lục Kính Viêm đã nói cho ta biết, hắn sẽ dẫn một nữ tử mang thai trở về, là góa phụ của một người lính. Nhưng ta cho rằng hắn nói đùa. Dù gì binh lính cũng đều là từ kinh thành ra đi, góa phụ của binh lính cũng nên tại kinh thành chứ. Những người lính ở kinh thành đâu có lý do gì để dẫn theo phu nhân xuất chinh.
+
+
+Bây giờ hắn thật sự dẫn về cho ta một nữ nhân đang mang thai, ta đoán đó là góa phụ của một người lính thân cận với hắn.
+
+
+Lúc dùng bữa tối, không khí trên bàn ăn hết sức nặng nề. Ngay cả tiểu đệ Mạc Ly, ngày thường lúc nào cũng ồn ào pha trò, hôm nay lại chỉ vùi đầu ăn cơm.
+
+
+Ta đặt đũa xuống và nói: “Phụ thân, từ hôn cho con đi!”
+
+`
+  },{
+    id: 354,
+    title: "Đông Cung Nuôi Dưỡng Một Nhành Hoa",
+    image: "imgdam/02dfed4ab032241833928b2c5ded2335.jpg",
+    link: "dammy/dong-cung-nuoi-duong-mot-nhanh-hoa.html",
+    type: "dammy",
+    desc: `Kiếp trước, ta gánh còng lưng thay cho đại sư huynh, xách hành lý vào Đông cung làm nam sủng của Thái tử.
+
+Ta vì bảo toàn mạng sống cho cả cái tông môn này mà chấp nhận hy sinh, vậy mà hắn lại trơ tráo đứng chế giễu ta ngay trước mặt đông đảo đồng môn:
+“Trên giường mộng vàng, sân sau ngọc hoa nở… Ha ha ha ha.”
+“Ta là danh môn chính phái, sao có thể dung túng cho một kẻ bị nam nhân đùa bỡn giống tiểu nữ tử thế kia?”
+
+Đến khi đại sư huynh thuận lợi kế thừa ngôi vị tông chủ, việc đầu tiên hắn làm chính là đá đít, trục xuất ta ra khỏi cửa.
+Ta bị phía hoàng thất truy bắt gắt gao, cuối cùng nhận cái kết đắng lòng là rơi xuống vực sâu mà chết.
+
+Thế nhưng khi mở mắt ra lần nữa, ta bỗng thấy đại sư huynh đang quỳ gối ngay trước mặt mình, nước mắt giàn dụa chảy dài trên mặt:
+“Sư đệ, cầu xin ngươi thay sư huynh đi gặp Thái tử!”`
+  },,{
+    id: 357,
+    title: "Vương Gia Mặt Dày",
+    image: "imgco/8fc5926ad371e63192c2496cd97e3fe6.jpg",
+    link: "cotrang/vuong-gia-mat-day.html",
+    type: "cotrang",
+    desc: `Đây đã là lần thứ mười hai hắn đến nhà ta cầu hôn.  
+
+Phụ thân nhìn ta run rẩy, lông mày nhíu lại, "A Niệm à, đây là lần thứ mười hai rồi, mà người đến còn là Vinh Vương đấy."  
+
+Ta run rẩy gật đầu, "Cha à, nếu đồng ý, chẳng khác nào đưa mạng sống của con vào chỗ chết."  
+
+Phụ thân gãi đầu, "A Niệm, từ tháng trước con đã nói rằng hôn sự này sẽ lấy mạng con, rốt cuộc con sợ điều gì?"  
+
+Ta sợ điều gì, cha không biết, nhưng ta biết rõ.  
+
+Ta đã trọng sinh trở lại, kiếp trước chính vì Hoàng đế kiêng dè Vinh Vương, mà đã chia rẽ hắn với thanh mai trúc mã của mình, ép hẳn phải cưới con gái của quan văn chính là con gái của cha đây.  
+
+Sau đó, Vinh Vương nổi loạn, khi hắn dẫn đại quân vào thành, ta bị chính thanh mai trúc mã của hắn dìm chết dưới nước.  
+
+Nay ta trọng sinh trở lại, hắn liền đến cầu hôn, nếu là cha, người có dám gả không.`
   },
 
 
