@@ -7312,6 +7312,67 @@ Một mặt, ta điên cuồng đối nghịch với vai ác này, mặt khác l
 Nhưng kẻ thù không đội trời chung ấy lại bắt ta trở về phủ của hắn, ánh mắt đỏ ngầu, gằn giọng hỏi ta từng chữ một:
 
 “Hắn có gì tốt mà khiến nàng suốt bao năm qua chưa từng quay đầu lại nhìn ta một lần?”`
+  },{
+    id: 350,
+    title: "Học Cách Yêu Một Người",
+    image: "imgngon/88de20843e9df038a59a71c71d8859a3.jpg",
+    link: "ngontinh/hoc-cach-yeu-mot-nguoi.html",
+    type: "ngontinh",
+    desc: `Sau khi kết hôn ba năm với Giang Trì, tôi sinh một cô con gái đáng yêu.
+
+Ngày sinh con, Giang Trì liên tục xin lỗi qua điện thoại: “Xin lỗi, xin lỗi, Sư Sư, tha lỗi cho anh. Dự án này hiện tại anh thực sự không thể rời khỏi được, sáng mai anh nhất định sẽ về. Em chăm sóc bản thân nhé, đừng buồn, anh thực sự xin lỗi...”
+
+Mồ hôi nhỏ giọt từ trán, cơn đau cuộn lên dồn dập đến mức tôi gần như không thở nổi nữa.
+
+Tôi tự mình gọi y tá.
+
+Trước khi bị đẩy vào phòng sinh, câu cuối cùng tôi nói với Giang Trì là: “Ly hôn đi, Giang Trì. Ba ngày nữa tôi sẽ đợi anh ở Cục dân chính.”`
+  },{
+    id: 351,
+    title: "Nhặt Được Vợ Nhờ Bức Ảnh Hotsearch",
+    image: "imgdam/91a58c8f56bc65cc5acdc78dc358bf39.jpg",
+    link: "dammy/nhat-duoc-vo-nho-buc-anh-hotsearch.html",
+    type: "dammy",
+    desc: `Năm thứ ba sau khi tôi dấn thân vào cái showbiz này với tư cách một nghệ sĩ tuyến mười tám không ai nhớ mặt gọi tên, bước ngoặt cuộc đời bỗng ập đến theo cách không thể cảm lạnh hơn, tôi hiên ngang leo thẳng lên đỉnh bảng tìm kiếm nóng.
+
+Từ khóa Hứa Đa Ngư bị bao dưỡng rồi đến Hứa Đa Ngư hẹn hò với thái tử giới tài chính cứ gọi là sáng nhất đêm nay.
+
+Người quản lý của tôi lập tức gọi điện đến, giọng điệu như muốn banh nát màng nhĩ của tôi: “Cậu nghìn lần không nên, vạn lần không nên dùng cái chiêu trò hạ đẳng này để tạo nhiệt. Nhà họ Quan là cái danh môn vọng tộc kiểu gì mà loại tép riu như cậu có thể mặt dày bám vào hả?”
+
+Tôi ngơ ngác nhìn mười cái chủ đề thị phi đang đỏ rực phát bỏng trên màn hình mà lòng đầy hoang mang.
+
+Nhân vật nam chính bị kéo vào scandal tình ái với tôi lần này, thật ra tôi đã từng gặp mặt qua một lần, chính là cái hồi tôi còn làm thiếu gia ngậm thìa vàng, anh ta từng có một cái bắt tay xã giao với tôi.
+
+Nghe đồn người đàn ông này thuộc hệ hoàng tộc thanh cao, mắt không chịu nổi một hạt cát, tính tình vô cùng khắt khe.
+
+Bây giờ tự dưng bị tế chung một bài văn sặc mùi mờ ám với tôi, chẳng cần nói cũng biết, ngày tàn của tôi chắc chắn đã đến và anh ta sẽ không để tôi yên ổn.
+
+Mà quả thực là những ngày tháng sau đó tôi suýt nữa thì bị anh ta xử lý đến nơi đến chốn, có điều địa bàn không phải ở tòa án mà là ở trên giường.`
+  },{
+    id: 352,
+    title: "Giật Hào Quang Của Đóa Sen Bảy Màu",
+    image: "imgco/c424506704b2184cbff870c6b96523a8.jpg",
+    link: "cotrang/giat-hao-quang-cua-doa-sen-bay-mau.html",
+    type: "cotrang",
+    desc: `Sư tôn từ phàm giới xa xôi mang về một vị nữ tử.
+
+Nàng ta tên gọi Tần Ương, mỗi cái nhíu mày hay một nụ cười nhẹ đều toát lên vẻ phong tình vạn chủng, khiến lòng người không khỏi mê đắm.
+
+Ta thất thần lạc bước xông vào tẩm điện của sư tôn, liền bắt gặp cảnh tượng Tần Ương đang nép mình vào lòng người, dáng vẻ vô cùng dịu dàng và ân cần.
+
+Trông thấy ta đột ngột lỗ mãng xông vào, sư tôn liền biến sắc quát lớn: “Ngươi dám tự tiện xông vào tẩm điện, còn biết quy củ là gì nữa không!”
+
+Tần Ương khẽ nở nụ cười thanh thoát, quay đầu nhẹ giọng khuyên giải sư tôn: “Chàng đừng trách phạt nàng ấy, có lẽ nàng ấy chỉ vì quá mức kinh ngạc mà thôi.”
+
+Ngay tại thời khắc này, ta mới chân chính thấu hiểu thế nào là nỗi đau đớn đến thấu tận tâm can.
+
+Ta chỉ biết hét lên trong sự đau đớn tột cùng: “Sao ngươi lại có đối tượng rồi! Ta cùng với đại sư huynh đã lập lời cá cược, nếu trong vòng năm vạn năm mà ngươi tìm được đối tượng, ta sẽ phải thua cho huynh ấy mười vạn lượng bạc!”
+
+Sư tôn nghe xong liền ngơ ngác đầy nghi hoặc.
+
+Nụ cười trên môi Tần Ương cũng lập tức khựng lại, ngơ ngác chẳng kém.
+
+Ta gào khóc nức nở: “Mười vạn lượng bạc của ta, thật là chết tiệt, tại sao chuyện lại thành ra như thế này!”`
   },
 
 
