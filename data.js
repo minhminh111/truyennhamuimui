@@ -7479,6 +7479,54 @@ Ta đã trọng sinh trở lại, kiếp trước chính vì Hoàng đế kiêng
 Sau đó, Vinh Vương nổi loạn, khi hắn dẫn đại quân vào thành, ta bị chính thanh mai trúc mã của hắn dìm chết dưới nước.  
 
 Nay ta trọng sinh trở lại, hắn liền đến cầu hôn, nếu là cha, người có dám gả không.`
+  },{
+    id: 358,
+    title: "Ngày Linh Lan Úa Tàn",
+    image: "imgngon/9f878f44677924e347c57acf06dbe7ee.jpg",
+    link: "ngontinh/ngay-linh-lan-ua-tan.html",
+    type: "ngontinh",
+    desc: `Tại bữa tiệc sinh nhật, bạn gái cũ của chồng tôi đã có màn comeback không thể nào khoa trương hơn.
+
+Trong lúc cả hội đang hăng máu chơi trò nói thật lòng, chồng tôi bỗng bị dí một câu hỏi chí mạng: "Tổng giám đốc Tề có người nào đó mà anh không thể quên không?"
+
+Anh ta chẳng thèm né tránh mà thản nhiên trả lời: "Có."
+
+Ngay lập tức, đôi mắt của cô nàng người yêu cũ sáng rực lên, ánh mắt hai người giao nhau giữa bầu không khí mập mờ đang tăng vọt lên đỉnh điểm.
+
+Tôi lẳng lặng giấu nhẹm tờ giấy siêu âm vốn định làm quà tạo bất ngờ cho anh ta vào túi.
+
+Ngay trước mặt bàn dân thiên hạ, tôi dõng dạc nói: "Tề Việt, chúng ta ly hôn đi."`
+  },{
+    id: 359,
+    title: "Chú Nhỏ Là Của Riêng Tôi",
+    image: "imgdam/62e08125aa16e2ca1f7565a0748e010b.jpg",
+    link: "dammy/chu-nho-la-cua-rieng-toi.html",
+    type: "dammy",
+    desc: `Sau khi xuyên sách, tôi đã nuôi hỏng nam chính rồi.
+Chín năm ròng rã dạy dỗ Hạ Việt, tôi tự hào biến cậu ta từ một nam chính điên rồ thành một chàng trai lương thiện.
+Thế nhưng, ngay giây tiếp theo, tôi lại bị Hạ Việt ấn chặt vào tường và cưỡng hôn ngay trước mặt nữ chính.
+Đầu óc tôi lúc đó hoàn toàn trống rỗng.
+Chỉ đến khi nhìn thấy ánh mắt bàng hoàng pha lẫn phấn khích của cô gái kia thì tôi mới hoàn hồn, vội vàng đẩy mạnh cậu ta ra.
+Tôi giận dữ nghiến răng quát: “Hạ Việt! Tôi đã dặn cậu bao nhiêu lần là không được tùy tiện hôn người khác rồi hả?”
+Ánh mắt cậu ta sáng lên, khóe miệng cong lên đầy ngạo mạn: “Em không hôn người khác. Em chỉ hôn người em thích thôi mà.”
+Tim tôi đập thình thịch liên hồi, cố vớt vát chút lý trí: “Tôi là chú của cậu đấy!”
+Hạ Việt cười khẽ, vòng tay siết chặt eo tôi rồi nói: “Nhưng có phải chú ruột đâu.”
+Mẹ kiếp!`
+  },{
+    id: 360,
+    title: "Cuộc Tái Giá Hạnh Phúc Bên Thợ Săn Què",
+    image: "imgco/b18da2ad25f6413186260b8f123e5ee6.jpg",
+    link: "cotrang/cuoc-tai-gia-hanh-phuc-ben-tho-san-que.html",
+    type: "cotrang",
+    desc: `Phụ thân ta là Triệu Vĩnh An, trước khi lên đường tòng quân xa xứ, ông đã từng căn dặn lại rằng, nếu bản thân chẳng may bỏ mạng nơi biên cương xa xôi, thì hãy cho phép mẫu thân ta được tái giá cùng người thợ săn ở trong làng.
+
+Nghe người ta đồn đại rằng kẻ thợ săn ấy tuy tật nguyền một chân, nhưng tính tình lại vô cùng hung bạo, một quyền có thể đấm chết hổ dữ, lại còn nghe nói rằng ông ấy từng ra tay đánh chết người vợ trước.
+
+Nếu mẫu thân gả cho loại người như hắn, khác nào tự mình dấn thân vào chốn hiểm nguy gian tà.
+
+Thấm thoắt ba năm sau, tin dữ từ ngoài biên cương xa xôi truyền về, phụ thân ta quả thực đã tử trận sa trường.
+
+Tổ mẫu cùng các vị tộc lão trong làng đã nhận lấy hai mươi lượng bạc từ tay người thợ săn kia, rồi ngang nhiên ép buộc mẫu thân ta phải gả cho hắn.`
   },
 
 
