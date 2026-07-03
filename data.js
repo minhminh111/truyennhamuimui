@@ -7607,6 +7607,147 @@ Nam chính đứng chắp tay nơi đó, dáng vẻ cô độc tiêu điều, to
 Đối diện với sự kiêu căng ấy, ta chẳng hề nao núng, trực tiếp sai người đem kim chất đổ thẳng vào miệng hắn.
 
 Theo những gì ghi chép trong sách cổ Y Sự Biệt Lục, thứ gọi là kim chất ấy thực chất chính là nước phân tinh khiết, vị đắng, tính hàn, hoàn toàn không có độc, nhưng lại có tác dụng tuyệt vời trong việc chữa trị chứng bệnh thất tâm phong.`
+  },{
+    id: 366,
+    title: "Thư Mục Bí Mật Của Thái Tử Gia",
+    image: "imgngon/7004371e578b39d35e1a9af9b59e3b98.jpg",
+    link: "ngontinh/thu-muc-bi-mat-cua-thai-tu-gia.html",
+    type: "ngontinh",
+    desc: `Đoạn clip Thái tử Bắc Kinh quỳ gối vì tình yêu đang làm mưa làm gió trên mạng.
+
+Giữa một buổi ghi hình chương trình giải trí, tôi và một cô nàng diễn viên trẻ đang hot hit đã nhận được câu hỏi về drama chấn động này.
+
+Tôi thẳng thắn bày tỏ quan điểm: “Tư thế quỳ đó trông chưa chuẩn lắm, đề nghị quỳ lại cho đúng bài.”
+
+Cô nàng diễn viên kia liền tỏ vẻ thấu hiểu chia sẻ: “Nhìn qua là biết anh ấy bị thao túng tâm lý rồi. Tôi thật lòng khuyên anh ấy nên tìm một đối tượng khác phù hợp hơn, chứ gặp tôi thì tôi chẳng bao giờ hành xử cực đoan đến mức như vậy.”
+
+Ngay trong đêm, tôi bị cư dân mạng gắn mác là kẻ thích tỏ ra lập dị và leo thẳng lên vị trí dẫn đầu của bảng tìm kiếm thịnh hành. Trong khi đó, cô nàng kia lại được cả cộng đồng mạng tung hô là người vừa thông minh vừa biết điều.
+
+Nghĩ mà thấy buồn cười vô cùng.
+
+Cái đoạn clip gây bão kia thực chất chính là do anh ấy tự tay gửi cho tôi để nhận lỗi. Tôi chỉ đưa ra một lời nhận xét bâng quơ như vậy mà cũng bị coi là kẻ lập dị sao?`
+  },{
+    id: 367,
+    title: "Chiếc Bẫy Pheromone Ngọt Ngào",
+    image: "imgdam/4679a048c6a2aa1ee9442c6950a25d44.jpg",
+    link: "dammy/chiec-bay-pheromone-ngot-ngao.html",
+    type: "dammy",
+    desc: `Sau khi kẻ thù không đội trời chung của tôi, cũng là một Alpha chính hiệu, bất ngờ phân hoá lần hai thành Enigma, tôi bỗng dưng đổ đốn dính phải cái Huấn Hoa Hồng mang tên nghiện mùi pheromone trên người hắn.
+
+Cả cơ thể bứt rứt khó chịu đến mức không chịu nổi, cuối cùng tôi đành phải muối mặt chặn đường ép hắn vào góc tường:
+“Tổng giám đốc Tần, cho tôi mượn chút pheromone đi.”
+
+Hắn khẽ nhướn đôi lông mày đầy vẻ thách thức, lười nhác đưa tay kéo lỏng chiếc cà vạt ra:
+“Có vay thì phải có trả, thiếu gia đã nghĩ kỹ chưa?”
+
+Sau này mỗi khi nhớ lại khoảnh khắc ấy, tôi lại hối hận đến mức xanh ruột xanh gan. Hai tay bị chiếc cà vạt trói ngược ra sau, tôi hoảng loạn tột độ chỉ muốn tìm đường tẩu thoát.
+
+Nhưng hắn lại giữ chặt lấy tôi, ghé sát tai cất giọng thấp khàn đầy quyến rũ:
+“Ngoan nào, để tôi đánh dấu suốt đời, được không?”`
+  },{
+    id: 368,
+    title: "Có Một Ánh Mắt Nhớ Mãi Ngàn Năm",
+    image: "imgco/22a7ee43b11b9994d41e6cc122eb0788.jpg",
+    link: "cotrang/co-mot-anh-mat-nho-mai-ngan-nam.html",
+    type: "cotrang",
+    desc: `Năm lên 8, ta tự bán mình, đổi được 2 lượng bạc.
+
+Mua thuốc cho mẹ, mua cho đệ đệ quần áo mới, lại mua được cho cả nhà thịt thủ lợn.
+
+Cha ôm đầu ngồi xổm trên đất, không nói một lời.
+
+Ta nói với cha: “Chỉ cần người còn, là còn hy vọng.”
+
+Sau này, phu nhân Trần phủ định nhận ta làm con nuôi, thiếu gia Trần phủ tức tối: “Ta có đủ muội muội rồi, cần thêm muội muội nữa làm gì. Nếu nhận nàng làm nghĩa muội thì ta đâu thể bày tỏ với nàng được.”`
+  },{
+    id: 369,
+    title: "Anh Ấy Luôn Ở Phía Sau Tôi",
+    image: "imgngon/4f30c164edd7fbcdcc63864b26d28dd0.jpg",
+    link: "ngontinh/anh-ay-luon-o-phia-sau-toi.html",
+    type: "ngontinh",
+    desc: `Sau khi chia tay với Thái tử gia Thịnh Cảnh An, cậu ấm con nhà quyền quý bậc nhất kinh thành, tôi lặng lẽ kết nối vào camera giám sát trong nhà anh ta.
+
+Ban đầu chỉ là để xem trộm con mèo của anh, nhưng không hiểu sao cảnh trong camera dần dần trở nên “vừa mờ vừa lem”, khó mà rời mắt.
+
+Anh ta thì đúng kiểu không coi ai ra gì, vô tư khoe cơ bụng, khoe nhan sắc thần thánh ba trăm sáu mươi độ không góc chết, nhìn kiểu gì cũng thấy hơi quá đáng.
+
+Từ chỗ chỉ muốn nhìn mèo, tôi dần dần chuyển sang… nhìn luôn cả con người.
+
+Nửa năm trôi qua, có người thấy tôi mãi không hành động gì nên bắt đầu sốt ruột thay.
+
+Đêm khuya, tôi lại mở camera lên xem.
+
+Trong màn hình, Thịnh Cảnh An đang nằm trên giường, áo choàng tắm nửa kín nửa hở, vừa lười biếng vừa có chút hư hỏng khó tả.
+
+Tôi vô thức nuốt nước bọt, đúng lúc đó lại nghe giọng anh ta lười nhác vang lên qua camera: “Mật khẩu nhà anh không đổi, qua đây đi.”`
+  },{
+    id: 370,
+    title: "Định Luật Trai Thẳng Của Học Bá",
+    image: "imgdam/62f1187958be553052de5ee68c4e13db.jpg",
+    link: "dammy/dinh-luat-trai-thang-cua-hoc-ba.html",
+    type: "dammy",
+    desc: `Tôi trời sinh đã sở hữu một cặp mông vểnh, gương mặt lại thuộc kiểu thanh tú, thế nên bất cứ ai gặp mặt cũng đều bảo tôi ẻo lả, còn khẳng định chắc nịch rằng tôi là người đồng tính.
+
+Tôi có ra sức phản bác kiểu gì thì cũng chẳng có một ai chịu tin.
+
+Chẳng ai ngờ được ngay ngày đầu tiên nhập học đại học, tôi lại bị xếp vào cùng một phòng ký túc xá với nam thần của trường, một nhân vật vốn nổi tiếng là cực kỳ kỳ thị người đồng tính.
+
+Thế là tôi đành phải gồng mình lên đóng giả làm trai thẳng, đối xử với hắn y như anh em chí cốt.
+
+Hắn cũng tin sái cổ, xem tôi như huynh đệ ruột thịt, thậm chí ngủ chung một giường cũng thấy bình thường, ngay cả đi tắm cũng phải rủ tôi đi cùng cho bằng được.`
+  },{
+    id: 371,
+    title: "Nữ Lang Tộc Lọt Vào Tay Ma Quân",
+    image: "imgco/a8edcab01477ca1018c2d742fd63b093.jpg",
+    link: "cotrang/nu-lang-toc-lot-vao-tay-ma-quan.html",
+    type: "cotrang",
+    desc: `Nữ tử cứu mạng Ma Quân, yếu ớt tựa liễu trước gió, từng bước tiến vào cung điện.
+
+Khi ấy, ta đang nằm trong lòng Ma Quân, say sưa ngủ.
+
+Nàng nói mình sắp không sống nổi, cần yêu đan để tiếp tục sống.
+
+Ta trở mình, chớp đôi mắt to tròn nhìn về phía Ma Quân.
+
+Hắn xoa đầu ta, ôn hòa nói: "Yêu đan của Tiểu Đoàn không thể cho."`
+  },{
+    id: 372,
+    title: "Alpha Là Sói Đội Lốt Cừu Non",
+    image: "imgdam/18f41cf6c52cea4c0dae9378bc66f44f.jpg",
+    link: "dammy/alpha-la-soi-doi-lot-cuu-non.html",
+    type: "dammy",
+    desc: `Cả phòng ký túc xá chúng tôi đều là Omega.
+
+Nghe bạn cùng phòng rỉ tai bảo rằng cái trò tìm một anh em chí cốt đánh dấu tạm thời tính ra còn hiệu quả hơn cả việc tống thuốc ức chế vào người.
+
+Tôi nghe xong liền tin sái cổ luôn chứ chẳng nghi ngờ gì. Vì thế ngay khi kỳ phát nhiệt ập đến, tôi đã chủ động dồn anh chàng Alpha thanh mai trúc mã của mình vào thẳng góc tường rồi bảo:
+“Tôi nghe nói đánh dấu tạm thời rất hữu dụng, nhanh, đánh dấu tôi đi!”
+
+Ngay giây tiếp theo, cái mùi hương pheromone vị chanh đã lan tràn khắp mọi ngóc ngách.
+
+Giọng của cậu ấy bỗng trầm hẳn xuống, nghe khàn khàn:
+“Thế cậu ta có nói với cậu rằng đánh dấu vĩnh viễn còn hiệu quả hơn không?”`
+  },{
+    id: 373,
+    title: "Phu Thê Đồng Lòng Khổ Nhục Sẻ Chia",
+    image: "imgco/18f66e6c5c7722ecf9f8cf78fa16ae47.jpg",
+    link: "cotrang/phu-the-dong-long-kho-nhuc-se-chia.html",
+    type: "cotrang",
+    desc: `Ta và Hoàng đế bị sét đánh, từ đó hoán đổi cảm giác với nhau.
+
+Nói một cách đơn giản, vết thương trên người ta thì hắn lại cảm thấy đau, còn ngược lại, vết thương trên người hắn thì ta sẽ chịu thay.
+
+Hắn cho rằng ta ở hậu cung sống trong nhung lụa, có thể đau đến mức nào.
+
+Ta thì nghĩ xung quanh hắn toàn cao thủ, làm gì có mấy nguy hiểm.
+
+Nhưng khi ta bị mẫu thân hắn đánh đòn, hắn phải ôm mông hối hả chạy đến cứu ta.
+
+Lúc hắn bị thích khách đá vào chỗ hiểm, ta ôm khoảng không đau đến chết đi sống lại.
+
+Hắn tức giận muốn lật áo ta để nhét đệm bông vào, còn ta thì giơ dao găm, nhìn chằm chằm hạ bộ của hắn với đôi mắt rực lửa.
+
+Đại thái giám nhìn thấy cảnh tượng ấy, sợ đến mức chạy tán loạn, miệng không ngừng kêu lên: "Điên rồi, điên thật rồi, đều điên hết rồi!"`
   },
 
 
