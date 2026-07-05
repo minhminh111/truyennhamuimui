@@ -7748,6 +7748,59 @@ Lúc hắn bị thích khách đá vào chỗ hiểm, ta ôm khoảng không đa
 Hắn tức giận muốn lật áo ta để nhét đệm bông vào, còn ta thì giơ dao găm, nhìn chằm chằm hạ bộ của hắn với đôi mắt rực lửa.
 
 Đại thái giám nhìn thấy cảnh tượng ấy, sợ đến mức chạy tán loạn, miệng không ngừng kêu lên: "Điên rồi, điên thật rồi, đều điên hết rồi!"`
+  },{
+    id: 374,
+    title: "Định Mệnh Đưa Anh Đến Bên Em",
+    image: "imgngon/b3a29377e8c82d4d8f37b1565ba7c358.jpg",
+    link: "ngontinh/dinh-menh-dua-anh-den-ben-em.html",
+    type: "ngontinh",
+    desc: `Khi đồ ăn tôi order được giao đến, tôi bị dọa đến mức run lẩy bẩy.
+
+“Đồng chí cảnh sát, có chuyện gì vậy ạ?”
+
+Anh cảnh sát nghiêm túc nói, “Không phải khi cô đặt đồ ăn còn kèm theo ghi chú “Cứu em bé” sao? Em bé đâu?”
+
+Đệt.
+
+Tôi thật sự không biết phải giải thích với anh cảnh sát thế nào cho hợp lý nữa.
+
+Tôi chính là em bé tháng tuổi sắp chết đói đây.`
+  },{
+    id: 375,
+    title: "Hôn Nhân Sóng Gió Của Bố Nhỏ Và Gấu Chó",
+    image: "imgdam/637f47e55d500a2df2009c6f049a16f8.jpg",
+    link: "dammy/hon-nhan-song-gio-cua-bo-nho-va-gau-cho.html",
+    type: "dammy",
+    desc: `Năm thứ năm ở bên Lục Tranh, anh đột nhiên bế về một đứa trẻ.
+
+Anh nhìn tôi rồi nói:
+
+“Anh hy vọng em có thể coi nó như con ruột của mình.”
+
+Tôi lạnh lùng nhìn thẳng vào mắt anh:
+
+“Không thể.”
+
+Lục Tranh nhíu mày, vẻ mặt đầy sự khó hiểu:
+
+“Tại sao chứ? Em không thể xem như chính mình đã sinh ra đứa con này sao?”
+
+Tôi hoàn toàn bùng nổ, cơn giận đạt đỉnh điểm, lập tức cầm cái chứng minh nhân dân ném thẳng vào bản mặt anh:
+
+“Vì tôi là đàn ông! Anh mở mắt ra mà nhìn xem, đàn ông thì sinh con kiểu gì được hả?!”`
+  },{
+    id: 376,
+    title: "Duyên Nợ Nàng Dâu Đậu Phụ",
+    image: "imgco/d9f2e24a4396ad8ec9d7ff05eb006de9.jpg",
+    link: "cotrang/duyen-no-nang-dau-dau-phu.html",
+    type: "cotrang",
+    desc: `Thúy Nhi, nha hoàn phụ trách việc nhóm lửa trong bếp, từng rỉ tai nói với ta rằng, mỗi tháng nha hoàn thông phòng sẽ được nhận bổng lộc nhiều hơn nha hoàn bình thường khác tới hai lượng bạc.
+
+Vì số bạc bổng lộc hậu hĩnh ấy, ta liền nghĩ ra trăm phương nghìn kế, quyết tâm trèo lên được giường của công tử.
+
+Trớ trêu thay, ngay sau cái đêm ta đạt được mong muốn, Ôn phủ bỗng chốc gặp họa lớn, bị triều đình tịch thu toàn bộ gia sản.
+
+Do đó, ta đành phải dẫn vị công tử vốn phong độ ngời ngời, nàng tiểu thư kiêu căng tùy tiện, lão gia đang lòng đầy tâm sự và phu nhân vẫn còn bối rối chưa biết phải làm sao, cùng nhau trở về ngôi nhà tranh vách đất đơn sơ của ta, gắng gượng mở một quầy bán đậu phụ để mưu sinh qua ngày.`
   },
 
 
