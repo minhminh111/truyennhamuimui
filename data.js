@@ -7801,6 +7801,64 @@ Vì số bạc bổng lộc hậu hĩnh ấy, ta liền nghĩ ra trăm phương 
 Trớ trêu thay, ngay sau cái đêm ta đạt được mong muốn, Ôn phủ bỗng chốc gặp họa lớn, bị triều đình tịch thu toàn bộ gia sản.
 
 Do đó, ta đành phải dẫn vị công tử vốn phong độ ngời ngời, nàng tiểu thư kiêu căng tùy tiện, lão gia đang lòng đầy tâm sự và phu nhân vẫn còn bối rối chưa biết phải làm sao, cùng nhau trở về ngôi nhà tranh vách đất đơn sơ của ta, gắng gượng mở một quầy bán đậu phụ để mưu sinh qua ngày.`
+  },{
+    id: 377,
+    title: "Nữ Phụ Không Chơi Theo Kịch Bản Tổng Tài",
+    image: "imgngon/fb8fce279eec518484f0133ab3e8ca47.jpg",
+    link: "ngontinh/nu-phu-khong-choi-theo-kich-ban-tong-tai.html",
+    type: "ngontinh",
+    desc: `Trong bệnh viện, chỉ có một túi máu gấu trúc. Nam chính si tình sắp phát điên.
+
+Nhóm máu Rhesus (Rh) âm, thường được gọi là “máu gấu trúc”, chiếm khoảng 0,4% dân số Trung Quốc.
+
+Anh ta hét lớn: “Túi máu này cho Lưu Ly! Tôi chọn Lưu Ly! Trình An An, chắc chắn em có thể tự vượt qua!”
+
+Nữ chính bạch nguyệt quang nằm thoi thóp, cảm động đến phát khóc.
+
+Tôi cũng khóc. Đây là việc một con người có thể làm được sao?
+
+Nhưng bác sĩ nói với y tá: “Truyền máu gấu trúc cho giường số mười trước.”
+
+Nam chính si tình nghe vậy càng không chịu nổi.
+
+Anh ta trợn mắt há hốc mồm, hận không thể tự tay giật lấy: “Tôi đã nói rồi, cho Lưu Ly dùng! Không có máu này, cô ấy sẽ chết!”
+
+“Thật sao?”
+
+Bác sĩ cầm kết quả xét nghiệm máu, không nói nên lời: “Cô ấy là nhóm máu A bình thường, không có máu này thì chết thế nào? Anh giải thích cho tôi nghe xem?”`
+  },{
+    id: 378,
+    title: "Mưu Kế Tẩy Trắng Của Chú Cún Con",
+    image: "imgdam/4b64a92233912da5a44958754116efd4.jpg",
+    link: "dammy/muu-ke-tay-trang-cua-chu-cun-con.html",
+    type: "dammy",
+    desc: `Tôi từng là đại ca xã hội đen uy phong một cõi.
+
+Sau này tôi bị chính thằng nhóc do mình tự tay nhặt về nuôi phản bội, nó dí thẳng họng súng vào đầu tôi rồi buông một câu xanh rờn:
+
+“Cửu ca, em cũng muốn thử một lần.”
+
+Tôi còn tưởng Hàn Sơ Khuyết thèm khát cái ghế quyền thế của tôi, ai dè cái nó chung thủy thèm thuồng lại chính là con người tôi.
+`
+  },{
+    id: 379,
+    title: "Hồ Ly Vây Cánh Linh Đài",
+    image: "imgco/291943d393342517bc62533997f04216.jpg",
+    link: "cotrang/ho-ly-vay-canh-linh-dai.html",
+    type: "cotrang",
+    desc: `Ta là đại nha hoàn trung thành nhất bên cạnh thiếu gia, lo liệu mọi nhu cầu của hắn ta đều đáp ứng, duy chỉ trừ một điều... thị tẩm.
+
+Ta không muốn làm thiếp thất, chỉ mong đợi đến ngày rời phủ, xin hắn cho phép ta tự chọn một tấm chồng như ý.
+
+Nào ngờ đâu, hôm ấy thiếu gia bị phạt bằng gia pháp, phu nhân đến kiểm tra phòng hắn, vừa thấy eo thon như liễu lay theo gió của ta, tức khắc nổi trận lôi đình: “Đồ hồ ly tinh! Thì ra là ngươi quyến rũ con ta!” Chủ mẫu hạ lệnh, ta lập tức sống sờ sờ bị đánh tới chết.
+
+Ta bỗng hiểu ra, ta đã được trọng sinh vào thời khắc then chốt của vận mệnh.
+
+Nhị thiếu gia được nhắc đến, chính là Bùi Linh Quân, đích tử duy nhất của Bùi phủ, được nâng niu như châu như ngọc. Hắn không thích đọc sách, chỉ thích son phấn, rong chơi chốn khuê các. Vì vậy, dù tuổi hắn còn nhỏ nhưng đã là mục tiêu của biết bao nha hoàn trong phủ, ai cũng muốn được trèo lên giường hắn, mong sau này có thể được làm thiếp thất.
+
+Kiếp trước, ta và Liên Chi đều vì nhan sắc mà được chọn vào hầu hạ hắn. Khi ta được thăng lên làm đại nha hoàn, trông coi mọi việc trong phòng, thì Liên Chi lại bất chấp lời khuyên can của ta, trao thân cho Nhị thiếu gia. Các nha hoàn khác cũng rục rịch. Nhị thiếu gia nếm thử đủ cả, rồi đến ép buộc ta, nhưng ta đã cự tuyệt. Bùi phủ xa hoa quá độ, ngày sau ắt sẽ gặp tai ương, ta không thể để mình sa đoạ giữa chốn này.
+
+Thế nhưng Liên Chi lại cho rằng ta đang giả vờ thanh cao. Nàng ta thừa lúc Nhị thiếu gia gây họa bị gia pháp trừng trị, liền chạy đi mách lẻo với phu nhân, đổ hết tội lỗi lên đầu ta. Phu nhân thấy ta có nhan sắc, tức giận quát: “Đồ hồ ly tinh! Thì ra là ngươi quyến rũ con ta!” Bà ta ra lệnh một tiếng, ta lập tức sống sờ sờ mà bị đánh cho tới chết. Còn Nhị thiếu gia, kẻ ngày thường đòi ăn son trên môi ta, lại trơ mắt nhìn ta tắt thở, run rẩy không dám nói một lời.`
   },
 
 
