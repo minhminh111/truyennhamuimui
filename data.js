@@ -7994,6 +7994,40 @@ Hắn ép ta vào góc giường lạnh lẽo, bên tai vang lên giọng nói t
 
 “Nghe lời, gọi ta là phu quân.”
 `
+  },{
+    id: 386,
+    title: "Sau Khi Phá Sản Tôi Bị Kẻ Thù Ép Làm Hoàng Yến",
+    image: "imgdam/f3b2c0a01820b6608704ae46d2e22784.jpg",
+    link: "dammy/sau-khi-pha-san-toi-bi-ke-thu-ep-lam-hoang-yen.html",
+    type: "dammy",
+    desc: `Sau khi phá sản, tôi buộc phải đi cầu xin cầu cứu kẻ thù không đội trời chung.
+
+Hắn ném chuỗi vòng hạt trên tay vào ngực tôi: “Ăn đi, một viên mười triệu.”
+
+Tôi kinh hãi, ăn gỗ sao?
+
+Nhưng nghĩ đến núi nợ ở nhà, tôi nghiến răng cắn vào.
+
+Bỗng hắn lạnh lùng nói: “Ai bảo em dùng miệng ăn!”
+
+Không dùng miệng thì dùng gì? Chẳng lẽ dùng “miệng dưới”...
+
+Con mẹ nó, tên khốn này!!!`
+  },{
+    id: 387,
+    title: "Thân Nữ Nhi Nghịch Thiên Kế Vị Tước Hầu",
+    image: "imgco/993c1110d28ded26d9bd5fa22fd4729a.jpg",
+    link: "cotrang/than-nu-nhi-nghich-thien-ke-vi-tuoc-hau.html",
+    type: "cotrang",
+    desc: `Ta là Thái tử phi tương lai. Một nữ tử lặn lội ngàn dặm đi tìm trượng phu đã chặn xe ngựa của ta giữa đường.
+
+Nàng ta lấy ra ngọc bội bên người của Thái tử, thách thức nói rằng Thái tử đã thành hôn với nàng ta ở dân gian.
+
+Đáng tiếc, nàng ta không biết việc ta trở thành Thái tử phi là ý chỉ thánh ân của Hoàng đế.
+
+Vị trí này nàng ta không thể ngồi.
+
+`
   },
 
 
