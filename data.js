@@ -7932,6 +7932,68 @@ Khi sư tôn nhè nhẹ đùa nghịch tua kiếm, ta lập tức cảm thấy m
 Hắn thản nhiên nhìn ta, ngón tay thon dài nhẹ nhàng nắm lấy vỏ kiếm, khiến đôi chân ta mềm nhũn, suýt chút nữa quỳ xuống trước hắn:
 
 “Sư tôn à, người có thể đừng nghịch kiếm nữa được không?”`
+  },{
+    id: 383,
+    title: "Bản Tình Ca Bình An",
+    image: "imgngon/a5836118f301129e2492fc1db1c359b0.jpg",
+    link: "ngontinh/ban-tinh-ca-binh-an.html",
+    type: "ngontinh",
+    desc: `Trở về từ chuyến trao đổi nước ngoài, bên cạnh thanh mai trúc mã đã có thêm một đóa bạch liên hoa.
+
+Cô ta sẽ nhân lúc chúng tôi cãi nhau, rụt rè mà dũng cảm che chắn hắn phía sau: “Chị, chị quá không tôn trọng người khác, anh ấy đâu phải chó của chị!"
+
+Tôi ngạo nghễ hất cằm về phía trúc mã: "Hửm?"
+
+Trúc mã mặt không cảm xúc đẩy cô ta ra, ánh mắt sâu thẳm nhìn tôi: "Gâu."`
+  },{
+    id: 384,
+    title: "Tổng Tài Giả Nghèo Thử Lòng",
+    image: "imgdam/837259958ba2566772581b48bc57440c.jpg",
+    link: "dammy/tong-tai-gia-ngheo-thu-long.html",
+    type: "dammy",
+    desc: `Để giải tỏa nhu cầu sinh lý, tôi đến một câu lạc bộ đêm để tìm một nam sinh.
+
+Ở bên nhau suốt nửa năm trời, tôi lại lỡ va phải lưới tình và thích cậu ta quá mức.
+
+Tôi đành cắn răng rút sạch số tiền tiết kiệm định dùng để đặt cọc mua nhà, quyết tâm muốn cùng cậu ấy vun vén cuộc sống cho thật tốt.
+
+Kết quả là hạnh phúc chưa đầy ba tháng, tôi bất ngờ phát hiện ra cậu ta vốn là một thiếu gia tài phiệt con nhà siêu giàu.
+
+Hóa ra khoảng thời gian ở bên cạnh một gã thợ sửa xe cơ bắp như tôi chỉ là một trò chơi thử thách trải nghiệm của giới thượng lưu mà thôi.
+
+Nhưng tôi không hề nổi trận lôi đình, cũng chẳng thèm khóc lóc cãi vã làm gì cho mệt người.
+
+Tôi chỉ túm chặt lấy tóc cậu ta rồi gầm lên:
+
+“Thằng ranh con, trả lại năm trăm nghìn nhân dân tệ tiền mồ hôi nước mắt của ông đây!”`
+  },{
+    id: 385,
+    title: "Hải Đường Diễm Sắc",
+    image: "imgco/49a1d94ebc5589bb8ffcf9ea05abb69b.jpg",
+    link: "cotrang/hai-duong-diem-sac.html",
+    type: "cotrang",
+    desc: `Ta là cô nhi đến nương tựa Trầm gia.
+
+Gia chủ Trầm gia lạnh lùng như tiên nhân trên núi tuyết, là người có danh vọng cao quý trong gia tộc, cũng là đóa hoa cao quý trên đỉnh núi mà ta chẳng thể chạm tới.
+
+Ta từ trước đến nay luôn ngoan ngoãn nghe lời, kính cẩn giữ lễ, chưa từng dám vượt qua khoảng cách với hắn.
+
+Những món trang sức quý giá hắn tặng, ta đều không dám đeo lên người.
+
+Nơi nào có bóng dáng của hắn, ta đều né tránh, tuyệt đối chưa bao giờ lui tới.
+
+Mỗi khi tình cờ gặp các cô nương khuê các tỏ tình với hắn, ta liền chạy thật xa để tránh hiềm nghi.
+
+Cứ ngỡ bản thân có thể thuận lợi bình an chờ đến ngày xuất giá.
+
+Ai ngờ vào đêm trước khi ta đính hôn, Trầm Ký Bạch lại nhẫn tâm giam cầm ta trong mật phòng.
+
+Hắn ép ta vào góc giường lạnh lẽo, bên tai vang lên giọng nói trầm thấp đầy sự kìm nén của hắn:
+
+“A Đường, nàng muốn gả cho ai?”
+
+“Nghe lời, gọi ta là phu quân.”
+`
   },
 
 
