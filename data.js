@@ -8028,6 +8028,166 @@ Nàng ta lấy ra ngọc bội bên người của Thái tử, thách thức nó
 Vị trí này nàng ta không thể ngồi.
 
 `
+  },{
+    id: 388,
+    title: "Đạo Cô Xuống Núi",
+    image: "imgngon/d7c0d4084dfd9047036d1c5d0554fc97.jpg",
+    link: "ngontinh/dao-co-xuong-nui.html",
+    type: "ngontinh",
+    desc: `Làm thế nào để một người đàn ông chịu chi cho bạn hẳn năm triệu tệ chỉ bằng một câu nói?
+
+“Thí chủ, nhìn mặt ngài có điềm xấu.”
+
+Người đàn ông đó liền khinh thường nhìn tôi bằng nửa con mắt.
+
+Một giây sau, chiếc xe Rolls-Royce sang chảnh của hắn đang đậu bên đường bỗng bị một chiếc xe tải húc thẳng vào.
+
+Nó phát nổ ngay tại chỗ.`
+  },{
+    id: 389,
+    title: "Thư Ký Quạ Đen Và Tổng Tài Mặt Dày",
+    image: "imgdam/1c9792ecfc5a199e4ab9c7010cb11561.jpg",
+    link: "dammy/thu-ky-qua-den-va-tong-tai-mat-day.html",
+    type: "dammy",
+    desc: `Tôi là thư ký riêng của tổng tài.
+
+Trong lúc phát livestream, tôi có lỡ miệng than thở về vị tổng tài vừa khó tính vừa lạnh lùng như tảng băng trôi của mình.
+
+Ai mà ngờ được người hâm mộ đứng đầu bảng xếp hạng của phòng livestream lại chậm rãi gửi một hàng dấu hỏi chấm, sau đó giận dữ thoát khỏi phòng.
+
+Ngày hôm sau, gương mặt lạnh lùng ngàn năm của vị tổng tài ấy lại bỗng nhiên mỉm cười với tôi khiến tôi hết cả hồn.
+
+Tôi liền lên phòng livestream hỏi nhóm khán giả:
+“Anh ta không định sa thải tôi đấy chứ?”
+
+Mọi người cứ ấp úng trả lời tôi:
+“Sa thì có sa, nhưng mà cái từ sa này không phải là sa thải đâu.”
+
+Nghĩa là sao vậy chứ, làm tôi hoang mang dễ sợ.`
+  },{
+    id: 390,
+    title: "Tướng Quân Thâm Tình",
+    image: "imgco/ecfacb893c13133ad0e49bb5a78e1c47.jpg",
+    link: "cotrang/tuong-quan-tham-tinh.html",
+    type: "cotrang",
+    desc: `Ta là một đầu bếp nhỏ trong tửu lâu, ấy thế mà người đời lại đồn đại ta từng là vị hôn thê của Thái tử điện hạ.
+
+Bản thân ta chẳng nhớ nổi một số chuyện trong quá khứ, cũng không quen biết gì với Thái tử, chỉ biết chàng trai luôn lặng lẽ theo sau bảo vệ ta bấy lâu nay chính là Lăng tướng quân.
+
+Sau này, ta từng hỏi Lăng Vân, liệu có thể cùng hắn đi đến tận vùng biên thùy Tây Bắc xa xôi hay không.
+
+Hắn rõ ràng vô cùng vui mừng, nhưng cuối cùng lại khẽ lắc đầu từ chối:
+
+“Thẩm Như Khinh, ta không muốn lừa nàng.”
+
+“Chúng ta quen biết đã mười năm, tâm nàng mãi chỉ hướng về nam nhân khác, nếu một ngày nào đó nàng khôi phục lại trí nhớ...”
+
+Ta chủ động kiễng chân, bất ngờ đặt lên môi hắn một nụ hôn:
+
+“Ta không hối hận.”
+
+Ngày đại quân xuất phát rời khỏi kinh thành, Thái tử thúc ngựa đuổi theo ta hơn mười dặm đường, chặn đứng chiếc xe ngựa của ta lại.
+
+Đôi mắt hắn đỏ ngầu, tất cả phong độ hoàng gia thường ngày hoàn toàn biến mất:
+
+“Thẩm Như Khinh, nàng lại dám bỏ rơi ta!”`
+  },{
+    id: 391,
+    title: "Chiếc Cốc Trong Thùng Rác Và Cô Nàng Trà Xanh",
+    image: "imgngon/5d30cbb7742e074c6bd7991c3518611e.jpg",
+    link: "ngontinh/chiec-coc-trong-thung-rac-va-co-nang-tra-xanh.html",
+    type: "ngontinh",
+    desc: `Đàn em của chồng tôi nửa đêm gửi một đoạn video, cô ta diện một chiếc đai cạp thấp siêu mát mẻ, ngượng ngùng che ngực lại: “Đàn anh, vết thương của em hình như bị nhiễm trùng rồi, anh kiểm tra lại giúp em được không?"
+
+Từ "lại" này được dùng rất tuyệt.
+
+Tôi chưa kịp nói gì thì chồng tôi đã trực tiếp chuyển đoạn video đó vào nhóm bệnh viện, tag viện trưởng vào:
+
+[Thầy ơi, Trần Miêu Miêu nghi ngờ uy tín của thầy!]
+
+Tôi: "Đỉnh dữ!"`
+  },{
+    id: 392,
+    title: "Mùa Hè Định Mệnh Nơi Làng Quê Nghèo",
+    image: "imgdam/5cacbfa4bcae695ea6536924f00dc20f.jpg",
+    link: "dammy/mua-he-dinh-menh-noi-lang-que-ngheo.html",
+    type: "dammy",
+    desc: `Mùa hè sau khi kỳ thi đại học khép lại, ban ngày tôi ở nhà ôm việc phụ ông bán dưa hấu, tối đến thì nằm dài trên giường lướt mấy trang web đồng tính.
+
+Tôi bung xõa bản thân trên mạng xã hội, nói chuyện cực kỳ mặn nồng với một cậu trai.
+
+“Anh thuộc hệ mạnh mẽ đúng không? Nhìn vạm vỡ mlem thế này, cho em cắn thử ngực anh một cái được không?”
+
+Cậu ấy lập tức nhắn lại, bảo rằng tôi làm cậu ấy tột độ đến mức chảy cả máu mũi, ngày nào cũng vã đòi gặp mặt tôi cho bằng được.
+
+Nhưng ngặt nỗi đến lúc sắp khai giảng, tôi lại quay xe, đá cậu ấy một cách dứt khoát vô cùng.
+
+Lý do siêu cấp tào lao: tôi bị hết dung lượng dữ liệu di động.
+
+Ai mà có dè, cậu ấy lại chất chơi lái hẳn chiếc xe Land Rover đến tận cái làng hẻo lánh này để truy tìm tôi.
+
+Tối hôm đó, bà tôi liền phán một câu xanh rờn: “Làng mình điều kiện còn nghèo nàn, hai đứa con trai chịu khó ngủ chung một giường vậy.”
+`
+  },{
+    id: 393,
+    title: "Vở Kịch Tình Yêu Sai Lầm",
+    image: "imgco/98723ffffea06ac4cf496bf30e927500.jpg",
+    link: "cotrang/vo-kich-tinh-yeu-sai-lam.html",
+    type: "cotrang",
+    desc: `Phu quân của ta là một người thanh liêm chính trực, trong triều đình được biết đến là một vị chính nhân quân tử.
+
+Hắn không nạp thiếp, cũng không có thông phòng, thế gian đều nghĩ rằng hắn yêu thương và tôn trọng ta.
+
+Chỉ có ta biết rằng, người hắn thực sự yêu là hoàng hậu nương nương.
+
+Ban đầu, ta đã cam chịu số phận.
+
+Cho đến năm đó, khi phản quân đánh chiếm kinh thành, bắt giữ nhi nữ duy nhất của chúng ta, ép buộc hắn giao nộp hoàng hậu và thái tử.
+
+Trước hai bên quân đội, hắn bắn một mũi tên xuyên qua nhi nữ ta rồi nói: “Từ xưa đến nay, việc nhà và việc nước khó lòng mà vẹn cả đôi đường."
+
+Chỉ sau một đêm tóc ta đã bạc trắng, trong sự tuyệt vọng đã cùng hoàng hậu đồng quy vu tận.
+
+Khi mở mắt ra, ta trở về đêm tân hôn với hắn.
+
+Đối diện với gương mặt bình lặng như nước của hắn, ta mỉm cười dịu dàng.
+
+“Nếu đã yêu nhau đến vậy, hãy để chuyện tình của các người được truyền tụng khắp thiên hạ đi.”
+`
+  },{
+    id: 394,
+    title: "Bạn Cùng Phòng Là Tên Điên Giả Vờ Ngoan Ngoãn",
+    image: "imgdam/54ba2941e5a6ea988f454ba7aa3b04a4.jpg",
+    link: "dammy/ban-cung-phong-la-ten-dien-gia-vo-ngoan-ngoan.html",
+    type: "dammy",
+    desc: `Tôi sinh ra đã câm điếc, nên từ bé đến lớn thường xuyên rơi vào tầm ngắm của mấy đứa hay bắt nạt.
+
+Bạn cùng phòng mới chuyển đến lại đối xử tốt với tôi một cách vô tri, việc gì cũng đứng ra bênh vực, chăm sóc tôi từng chút một, thậm chí còn vì tôi mà cày cuốc học cả ngôn ngữ ký hiệu.
+
+Đang lúc tôi cảm động đến mức nước mắt chực trào thì đột nhiên thấy cậu ấy tháo máy trợ thính của tôi ra, rồi lầm bầm: “Bé cưng đáng yêu quá, muốn chọc khóc thử xem, không biết lúc động tình có kêu dễ nghe thế này không.”
+
+Tôi câm nín luôn.
+
+Không phải chứ, anh bạn à, anh có từng nghĩ đến việc tôi biết đọc máy môi chưa vậy?
+
+Sau này tôi mới biết, cái tên bạn cùng phòng nhìn qua thì ôn hòa, ấm áp này, thực chất trong xương cốt lại là một tên điên chính hiệu.
+`
+  },{
+    id: 395,
+    title: "Thần Trộm Nhập Cung",
+    image: "imgco/9b07447da39bf069cd1a19f364fbb652.jpg",
+    link: "cotrang/than-trom-nhap-cung.html",
+    type: "cotrang",
+    desc: `Ta có khuôn mặt giống hệt vị quý phi đã khuất.
+
+Hoàng thượng giam giữ ta trong cung, nhẹ nhàng nói lời an ủi: “Ngươi đừng nghĩ đến chuyện bỏ trốn, trốn một lần thì chặt tay, trốn lần thứ hai thì chặt chân.”
+
+“Còn nếu trốn lần thứ ba thì sao?”
+
+“Nếu trốn lần thứ ba, thì đến lúc đó ta sẽ lấy đầu ngươi.”
+
+Hắn dùng đầu ngón tay lạnh lẽo vuốt nhẹ qua cổ ta, khiến ta không khỏi rùng mình sợ hãi. 
+`
   },
 
 
