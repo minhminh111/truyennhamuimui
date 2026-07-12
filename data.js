@@ -8339,6 +8339,150 @@ Hắn sẽ phụ lòng ta, thê thiếp cả đám, hắn sẽ giam cầm ta mư
 Ta không dám mua hắn nữa, chỉ muốn sống yên ổn.
 
 Nhưng ta không ngờ tới, đêm hôm đó, trưởng thôn lại cười hì hì rồi gõ cửa phòng ta: “Oản Oản, cô có muốn tướng công không?”`
+  },{
+    id: 404,
+    title: "Hào Quang Của Kẻ Theo Đuôi",
+    image: "imgngon/0994e367d7a5783411fdb9d957b23505.jpg",
+    link: "ngontinh/hao-quang-cua-ke-theo-duoi.html",
+    type: "ngontinh",
+    desc: `Trong một buổi phát sóng trực tiếp, tôi đã bị người ta chơi khăm một vố vô cùng tàn nhẫn.
+
+Chẳng biết kẻ nào nhân lúc tôi đang lơ là mất cảnh giác, liền ném thẳng một con rắn ngô lên người tôi.
+
+Vì quá mức kinh hãi, tôi chỉ kịp ôm ngực rồi lăn đùng ra đất ngất xỉu nhân sự.
+
+Mọi chuyện diễn ra quá nhanh khiến hiện trường ngay lập tức rơi vào trạng thái hỗn loạn kinh hoàng.
+
+Thế nhưng, ngay khoảnh khắc hỗn loạn ấy, vị Ảnh đế vốn nổi tiếng lạnh lùng, luôn đứng ngoài mọi cuộc vui bỗng nhiên lao đến quỳ sụp xuống bên cạnh, ôm chặt lấy tôi mà gào khóc nức nở.
+
+Trời đất thiên địa ơi, xin anh hãy khoan đã, sao anh diễn còn sâu và nhập tâm hơn cả kẻ đang giả vờ ngất là tôi vậy?
+`
+  },{
+    id: 405,
+    title: "Chung Phòng Với Người Yêu Cũ",
+    image: "imgdam/5b9c5ee6b445495a7fa2df77c250a8b7.jpg",
+    link: "dammy/chung-phong-voi-nguoi-yeu-cu.html",
+    type: "dammy",
+    desc: `Không ai biết rằng trưởng phòng ký túc xá chính là người yêu cũ của tôi.
+
+Chúng tôi giả vờ như hai người xa lạ, cả ngày hầu như chẳng nói với nhau câu nào.
+
+Cho đến một hôm, cậu bạn đang có mối quan hệ mập mờ với tôi tổ chức sinh nhật cho tôi, tôi đi chơi đến tận nửa đêm muộn mới thèm mò về ký túc xá.
+
+Nửa đêm, anh ta đột ngột trèo lên giường của tôi, cất giọng lạnh lùng:
+
+“Chúng ta vừa chia tay chưa được bao lâu, em đã vội vàng tìm người mới rồi à?”
+
+“Em thực sự chưa bao giờ thích tôi sao?”`
+  },{
+    id: 406,
+    title: "Màn Kịch Hoán Đổi Kiệu Hoa",
+    image: "imgco/df4eef9bbb9acf961b4459178d1eaa1e.jpg",
+    link: "cotrang/man-kich-hoan-doi-kieu-hoa.html",
+    type: "cotrang",
+    desc: `Ta và tỷ tỷ xuất giá cùng một ngày.
+
+Nhưng người cởi khăn trùm cô dâu, lại là tỷ phu của ta.
+
+Lúc này ta mới biết, tỷ tỷ và người trong lòng của ta đã có tình ý với nhau từ lâu, nên đã tráo đổi kiệu hoa.
+
+Tỷ phu là một người mù, lại yếu đuối, tính tình mềm mại, hắn nhẹ nhàng ôn nhu nói với ta:
+
+"Nàng đừng sợ, sống không được bao lâu nữa đâu, nàng hãy nhịn thêm chút nữa đi."
+
+Về sau ta mới biết được, “sống không được lâu đâu” trong lời hắn, là tỷ tỷ và người trong lòng kia.
+`
+  },{
+    id: 407,
+    title: "Cô Vợ Bắt Ma Của Ảnh Đế",
+    image: "imgngon/f16da17d93d7582098da05c256f03717.jpg",
+    link: "ngontinh/co-vo-bat-ma-cua-anh-de.html",
+    type: "ngontinh",
+    desc: `Ảnh ảnh đế Tống Linh bị người hâm mộ cuồng nhiệt trộm mất điện thoại.
+
+Kẻ cuồng nhiệt này còn làm loạn trên mạng xã hội chỉ vì một bức ảnh nằm trong ốp điện thoại của anh.
+
+[Tống Linh, tôi thực sự rất thất vọng về anh. Tôi chẳng muốn hỏi gì nhiều, giờ chỉ muốn biết người phụ nữ trong ảnh này rốt cuộc là ai? Tôi hy vọng anh có thể cho chúng tôi một lời giải thích thỏa đáng.]
+
+Tống Linh liền phá lệ điên cuồng đáp trả lại cô ta:
+
+[Sao cô không đi chết đi?]
+
+Câu nói đanh đá này ngay lập tức làm bùng nổ dư luận, khiến cõi mạng dậy sóng.
+
+Nhưng trớ trêu thay, chẳng một ai biết rõ sự thật.
+
+Người con gái xuất hiện trong bức ảnh định mệnh đó.
+
+Là tôi `
+  },{
+    id: 408,
+    title: "Trai Thẳng Là  Kẹo Cao Su Bám Người",
+    image: "imgdam/0babc5528f55f0e8ed5673fc5fb109f9.jpg",
+    link: "dammy/trai-thang-la-keo-cao-su-bam-nguoi.html",
+    type: "dammy",
+    desc: `Sau khi chia tay, Tần Dịch đã tự sát.
+
+Còn tôi, tôi trọng sinh trở về năm Tần Dịch vẫn còn là trai thẳng mới 19 tuổi.
+
+Cái kết của việc cùng nhau liều mình đối đầu với cả thế giới quá đau đớn.
+
+Vì vậy, được sống lại lần nữa, tôi quyết định tránh xa hắn.
+
+Thế nhưng Tần Dịch lại như một miếng kẹo cao su đã thành tinh, bám dai như đỉa, không thể hất ra, mắng không chịu đi, đánh không chịu chạy.
+
+Thậm chí, hắn còn tự học cách bẻ cong chính mình.
+
+Tôi tức đến run cả người.
+
+Còn hắn thì lại hưng phấn vô cùng: “Đừng run quá, tôi không chịu nổi đâu.”
+`
+  },{
+    id: 409,
+    title: "Cuộc Sống Tự Do Của Nữ Thương Nhân Sau Khi Hòa Ly",
+    image: "imgco/33e5b6a8766aba4d242e1ebb5b75a105.jpg",
+    link: "cotrang/cuoc-song-tu-do-cua-nu-thuong-nhan-sau-khi-hoa-ly.html",
+    type: "cotrang",
+    desc: `Dưới ánh đèn cổ Phật màu xanh mờ ảo, ta đã chôn vùi thanh xuân để chờ đợi Phí Thiệu suốt sáu năm dài đằng đẵng. Nay trời xui đất khiến, ta bỗng nhiên trọng sinh trở về đúng ngày Phí Thiệu dẫn theo Lâm Chi trở về phủ.
+
+Ta vốn là kế thất của Phí Thiệu, còn Lâm Chi lại là muội muội của nguyên phối thê tử đã khuất của hắn.
+
+Hắn mở miệng là bảo Lâm Chi cô đơn khốn khổ, cần chúng ta ra tay chăm sóc.
+
+Kiếp trước sau khi về phủ, Lâm Chi ngang nhiên chiếm đoạt tổ ấm của ta, khiến ta u uất mang trọng bệnh trong người. Nàng ta còn giam cầm ta trong cái viện hẻo lánh suốt sáu năm ròng rã mà Phí Thiệu chẳng hề đoái hoài tới.
+
+Kiếp này sống lại, ta quyết chí dứt bỏ bàn tay của Phí Thiệu.
+
+Ta lạnh lùng bảo hắn: “Ngươi tự mà lo liệu lấy, chúng ta hòa ly thôi!”`
+  },{
+    id: 410,
+    title: "Tôi Bị Nhân Vật Chính Ép Yêu",
+    image: "imgdam/9bb8a6e83010ff728481754708d4a356.jpg",
+    link: "dammy/toi-bi-nhan-vat-chinh-ep-yeu.html",
+    type: "dammy",
+    desc: `Tôi bị ràng buộc bởi hệ thống phát triển lành mạnh của nhân vật chính, xuyên vào trong một câu chuyện học đường quý tộc ABO, trở thành anh trai Beta hy sinh không đáng có của nhân vật chính omega.
+
+Nhân vật chính có số phận đầy gian truân, bị hai gã công tệ hại cưỡng đoạt.
+
+Nhiệm vụ của tôi là bảo vệ tốt nhân vật chính đơn thuần và yếu đuối này.
+
+Tôi không ngờ rằng, không lâu sau, người em trai mà tôi tưởng là đơn thuần ngây thơ lại phân hóa lần hai thành Alpha, ấn tôi xuống giường, giọng nói khàn khàn: “Hạ Ninh, Beta không thể bị đánh dấu, nhưng em có thể khiến anh luôn thấm mùi tin tức tố của em.”
+`
+  },{
+    id: 411,
+    title: "Bản Lĩnh Của Thái Tử Phi Giả Mù",
+    image: "imgco/243279fcc0195e43a1dad80343418061.jpg",
+    link: "cotrang/ban-linh-cua-thai-tu-phi-gia-mu.html",
+    type: "cotrang",
+    desc: `Ta và cô bạn thân thợ xăm đã xuyên không.
+
+Nàng ấy lừa đảo trong cung, ta lừa đảo ngoài cung.
+
+Cuối cùng có một ngày, khi ta giả mù xoa bóp cho vị Thái tử hung bạo, ta nhìn thấy hình xăm Peppa Pig trên eo hắn, ta liền cười phá lên như tiếng gà gáy.
+
+Tiếng cười này của ta, không chỉ khiến danh tiếng "mát-xa người mù chữa bách bệnh" mất đi.
+
+Mà có vẻ như tính mạng cũng khó giữ được.`
   },
 
 
