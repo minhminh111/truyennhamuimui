@@ -8483,6 +8483,161 @@ Cuối cùng có một ngày, khi ta giả mù xoa bóp cho vị Thái tử hung
 Tiếng cười này của ta, không chỉ khiến danh tiếng "mát-xa người mù chữa bách bệnh" mất đi.
 
 Mà có vẻ như tính mạng cũng khó giữ được.`
+  },{
+    id: 412,
+    title: "Hồi Kết Đau Thương Của Cô Bé Bán Diêm",
+    image: "imgngon/9e0590fecfe2df034321eaf3aeb7d985.jpg",
+    link: "ngontinh/hoi-ket-dau-thuong-cua-co-be-ban-diem.html",
+    type: "ngontinh",
+    desc: `Tôi là một người thực vật. Trước khi nhảy lầu, tôi có một danh xưng là "thiên kim giả".
+
+Ban đầu tôi được bao bọc như công chúa, nhưng khi thiên kim thật xuất hiện, tôi trở thành kẻ chiếm chỗ chim khách.
+
+Bố tôi lo tôi chiếm đoạt tài sản gia đình, mẹ tôi đuổi tôi ra ngoài, anh tôi nói tôi là kẻ trộm, và vị hôn phu của tôi thẳng thừng hủy hôn.
+
+Tôi mang tội lỗi sâu nặng, tội ác lớn lao, tôi chẳng còn gì để đền bù cho họ, ngoài một mạng sống duy nhất.
+
+Nhưng ngay cả việc nhảy lầu tôi cũng không làm xong, khiến mình trở thành người thực vật.
+
+Nằm trên giường bệnh sống không bằng chết, lúc còn tỉnh táo, tôi nghe thấy những người thân cũ của mình khóc lóc: "Tư Tư, con mau tỉnh lại, là chúng ta đã sai rồi..."
+
+Nhưng họ không biết rằng, tôi không thể tỉnh lại được.
+
+Một người đã từ bỏ ý chí sống, làm sao có thể tỉnh lại.`
+  },{
+    id: 413,
+    title: "Kế Hoạch Chiếm Đoạt Trái Tim",
+    image: "imgdam/55cdb94fff86cf87dcd4049ab281f2fa.jpg",
+    link: "dammy/ke-hoach-chiem-doat-trai-tim.html",
+    type: "dammy",
+    desc: `Sau khi quyết định liên hôn, kẻ thù không đội trời chung của tôi là Du Tông đã bay hẳn hai mươi tiếng đồng hồ, chỉ để tới tận mặt chế giễu tôi:
+
+“Không phải nói đời này tuyệt đối không kết hôn sao? Cuối cùng cũng chịu không nổi cô đơn rồi hả?”
+
+Ai cũng biết tôi và cậu ta đối đầu gay gắt, nước sông không phạm nước giếng, gặp nhau là chỉ có nước dẫm lên đuôi nhau mà nhảy dựng lên.
+
+Nhưng họ không biết rằng tôi và Du Tông đã từng âm thầm bên nhau ba năm trời trong bóng tối.
+
+Ngay cả Du Tông cũng không biết chuyện chúng tôi từng có một đứa con.
+`
+  },{
+    id: 414,
+    title: "Tuyệt Đường Sống Của Gian Phu Dâm Phụ",
+    image: "imgco/0f1f5cceac592179952a82b1dfd7a371.jpg",
+    link: "cotrang/tuyet-duong-song-cua-gian-phu-dam-phu.html",
+    type: "cotrang",
+    desc: `Ta vốn là chủ mẫu của Hầu phủ, một lòng dốc cạn tâm huyết nuôi dạy đứa con trai độc nhất, gửi gắm vào đó biết bao kỳ vọng cao vời.
+
+Nào ngờ đâu, ngay khi vừa đỗ đạt Trạng nguyên vinh hiển ngập tràn, nó lại khăng khăng đòi cưới nữ nhi của một gia tộc thương nhân hèn mọn.
+
+Từ thuở ấy, nó bỏ bê tiền đồ gấm vóc, tình nguyện lui về phía sau phụ tá cho nàng ta, một lòng chuyên tâm gầy dựng sự nghiệp kinh doanh buôn bán.
+
+Ta từng liều mạng lôi kéo nó trở lại chính lộ, vớt vát tôn nghiêm, thế nhưng chẳng thể ngờ được lại bị miệng đời điêu ngoa đồn thổi thành trò cười, cho rằng ta đang đố kỵ tranh sủng với chính con dâu của mình.
+
+Kết cục đắng cay, ta mang danh bà mẹ chồng độc ác nổi tiếng khắp chốn kinh kỳ, cuối cùng bị phu quân đang tâm ruồng bỏ, rơi vào bước đường cùng thảm hại đến mức phải chọn cách tự vẫn.
+
+Được ơn trời cho sống lại một đời, ta quyết định buông tay, mặc kệ cho ả con dâu khuynh đảo cả Hầu phủ, khiến vạn người mê muội tôn sùng nàng ta lên tận mây xanh.
+
+Để rồi sau đó, ta chỉ tay vào đứa con riêng của Hầu gia cùng ả nô tỳ hèn mọn, kẻ vốn là viên minh châu phủ bụi trần sẽ tỏa sáng rực rỡ mai sau mà nhẹ nhàng cất lời: “Hắn vừa gọi ta là mẫu thân đúng không? Trời ạ! Ta vừa nhìn đã nhận ra ngay, đây mới chính là đứa con trai ruột yêu quý của ta!”
+`
+  },{
+    id: 415,
+    title: "Tổng Tài Sa Sút Làm Người Mẫu Nam",
+    image: "imgngon/770cb7715d9d604419c494a9b623203a.jpg",
+    link: "ngontinh/tong-tai-sa-sut-lam-nguoi-mau-nam.html",
+    type: "ngontinh",
+    desc: `Tôi vô tình bước vào một nhà hàng thịt nướng người mẫu nam và phát hiện ra kim bài của cửa hàng thực chất là anh trai đứa bạn thân, người có tài sản lên tới hàng chục triệu.
+
+"Xin chào, anh bán như thế nào?"
+
+Đối phương trầm mặc hai giây, nói: "Tôi không bán."
+
+Tôi sặc trà: “À, tôi hỏi thịt bán thế nào.”
+
+Vành tai đối phương đỏ bừng: “Tôi bán nghệ, không bán thân."
+
+".."
+
+Đầu gỗ nhà anh, củi gạo dầu muối đều không ưa chứ gì!
+`
+  },{
+    id: 416,
+    title: "Bùa Hộ Mệnh Của Đại Ca Xã Hội Đen",
+    image: "imgdam/930ab4312d9670be5ae032fd17ace1ff.jpg",
+    link: "dammy/bua-ho-menh-cua-dai-ca-xa-hoi-den.html",
+    type: "dammy",
+    desc: `Tôi vốn là một thằng lưu manh chính hiệu, trong một lần đi dạo thì vô tình cứu được một đứa nhóc rồi tự tay nuôi nó khôn lớn.
+
+Cái thằng bé này càng lớn càng thông minh, khéo léo, đi học lúc nào cũng giật top một của trường, về nhà lại còn biết giặt giũ quần áo, nấu cơm nước, dọn dẹp nhà cửa ngăn nắp cho tôi.
+
+Đời đang yên đang lành tự nhiên cho đến một ngày, tôi bắt quả tang nó đang vừa giặt đồ vừa lén lút ngửi cái quần lót của tôi.
+
+Tôi đứng hình mất ba giây rồi nhảy vào chất vấn, ai dè nó liều lĩnh tới mức dám kéo phăng cái quần của tôi xuống luôn.
+
+“Anh, anh không nhìn ra sao? Em coi anh là vợ để nuôi đấy!”
+
+Ủa alo, rốt cuộc là ai nuôi ai vậy trời!
+`
+  },{
+    id: 417,
+    title: "Chiến Thần Mèo Nhỏ Của Thượng Thần",
+    image: "imgco/af47c684df4d6dccae1ab24881f688c9.jpg",
+    link: "cotrang/chien-than-meo-nho-cua-thuong-than.html",
+    type: "cotrang",
+    desc: `Làm việc cho Thiên Đế ròng rã một ngàn năm, ta quyết định nộp đơn xin từ chức để tìm lối đi riêng.
+
+May mắn thay, Thiên Đế đã phê duyệt cho ta từ chức, chính thức giải thoát cho kiếp làm công ăn lương đầy khổ ải.
+
+Vì để tận hưởng cuộc sống tự do tự tại, ta đã dùng bí thuật giả chết, biến thành một con mèo trắng nhỏ nhắn rồi lẻn vào cung Tinh Hà của Huyền Thanh Thượng thần để bắt đầu chuỗi ngày làm kẻ ăn bám chuyên nghiệp.
+
+Hắn ta vừa có vẻ ngoài đẹp trai ngời ngời, lại vừa nổi tiếng lười biếng, chính là chiếc mỏ vàng vững chắc mà ta đã cẩn thận lựa chọn để nương tựa.
+
+Kết quả là, sau khi ta trải qua hai năm ăn không ngồi rồi vô cùng mỹ mãn, Huyền Thanh bỗng nhiên lại bật chế độ cuồng công việc một cách bất thường.
+
+Hắn liên tục chạy khắp nơi chinh chiến bạt mạng, mang về vô số linh đan diệu dược cực phẩm, thế nhưng tất cả đều được hắn đem đút hết cho ta ăn.
+
+Hắn vừa nhìn ta vừa dịu dàng bảo: “A Âm mau ăn đi, mau chóng hóa hình cho bổn tọa xem nào.”
+
+Khoan đã, có gì đó sai sai ở đây.
+
+Mẹ kiếp, ta thà làm mèo chứ chẳng thèm làm thần tiên cũng chỉ vì muốn lười biếng, vậy mà bây giờ hắn lại bảo ta mau chóng hóa hình là thế nào?
+
+Thế là ta quyết định chuồn êm ngay trong đêm tối, lên kế hoạch đổi sang một chiếc mỏ vàng khác để nương tựa.
+`
+  },{
+    id: 418,
+    title: "Trùm Trường Phân Hóa Thành Omega",
+    image: "imgdam/f374bffc53f1103de543087c9408c5ad.jpg",
+    link: "dammy/trum-truong-phan-hoa-thanh-omega.html",
+    type: "dammy",
+    desc: `Đột nhiên biến thành Omega thì phải làm sao?
+
+Tất nhiên là để anh em bạn bè giúp đỡ rồi.
+
+Nhưng khi thực sự bị Tề Tu ghì chặt vào lòng, nghe hắn thì thào bảo thơm quá, tôi lại không nhịn được mà khóc thét:
+
+"Tề Tu, cậu dám đụng vào tôi thử xem, chúng ta tuyệt giao ngay lập tức!"
+`
+  },{
+    id: 419,
+    title: "Tiểu Thư Đỏng Đảnh Của Uy Vũ Đại Tướng Quân",
+    image: "imgco/b10d0676f37060a557e258394d52e22e.jpg",
+    link: "cotrang/tieu-thu-dong-danh-cua-uy-vu-dai-tuong-quan.html",
+    type: "cotrang",
+    desc: `Ta là tiểu thư đỏng đảnh nổi tiếng nhất Định Kinh, vậy mà lại bị một tờ giấy ban hôn gả cho Uy Vũ Đại Tướng quân đương triều.
+
+Chỉ cần nghe đến cái tên này thôi, ta đã khóc ướt hết ba cái gối, đêm tân hôn thậm chí còn chẳng dám mở mắt, sợ người đối diện một ngụm nuốt chửng ta mất.
+
+Sau đó, Tướng quân lại ghì ta xuống giường, nắm lấy cằm ta, hôn đến mức khóe mắt ta ướt nhòe, thế mà vẫn chưa chịu buông tha, còn cố tình trêu chọc ta.
+
+"Giao Giao mềm mại quá, thơm quá."
+
+Ta vừa xấu hổ vừa tức giận, đánh anh thì sợ tay ta đau, hôn trả hắn thì lại sợ hắn thích chí.
+
+Khốn kiếp, người này sao lại thô lỗ như vậy chứ!
+
+Muốn khóc, hức hức hức... 
+`
   },
 
 
