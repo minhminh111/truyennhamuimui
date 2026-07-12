@@ -31,34 +31,63 @@
 <script>
 const list = document.getElementById("list");
 const search = document.getElementById("search");
-
-function render(data){
-
-  list.innerHTML = "";
-
-  // nếu có id thì mới sort
-  const sorted = [...data].sort((a, b) => (b.id || 0) - (a.id || 0));
-
-  sorted.forEach(item => {
-
-    list.innerHTML += `
-<a class="book" href="detail.html?id=${item.id}">        <img src="${item.image}" alt="">
-        <h2>${item.title}</h2>
-      </a>
-    `;
-  });
+function normalizeText(str) {
+  return str
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .replace(/đ/g, "d")
+    .replace(/Đ/g, "D")
+    .toLowerCase();
 }
+stories.forEach(item => {
+  if (item) {
+    item.searchTitle = normalizeText(item.title);
+  }
+});
+function render(data) {
 
+    list.innerHTML = "";
+
+    const sorted = data.filter(item => {
+        if (!item) {
+            console.log("Có item undefined");
+            return false;
+        }
+        return true;
+    }).sort((a, b) => b.id - a.id);
+
+    sorted.forEach((item, index) => {
+
+        if (!item) {
+            console.log("Lỗi ở:", index);
+            return;
+        }
+
+        list.innerHTML += `
+        <a class="book" href="detail.html?id=${item.id}">
+            <img src="${item.image}" alt="">
+            <h2>${item.title}</h2>
+        </a>
+        `;
+    });
+}
+console.log("Số truyện:", stories.length);
+
+stories.forEach((item, index) => {
+    if (!item) {
+        console.log("Phần tử rỗng ở vị trí:", index);
+    }
+});
 // load
 render(stories);
 
 // search
 search.addEventListener("input", function(){
 
-  const value = this.value.toLowerCase();
+  const value = normalizeText(this.value);
 
   const filtered = stories.filter(item =>
-    item.title.toLowerCase().includes(value)
+    item && item.searchTitle.includes(value)
   );
 
   render(filtered);
