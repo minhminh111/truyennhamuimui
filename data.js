@@ -8638,6 +8638,155 @@ Khốn kiếp, người này sao lại thô lỗ như vậy chứ!
 
 Muốn khóc, hức hức hức... 
 `
+  },{
+    id: 420,
+    title: "Xuyên Về Quá Khứ Thay Đổi Số Phận",
+    image: "imgngon/44fdc14a6c453ac2131d15048df63f7f.jpg",
+    link: "ngontinh/xuyen-ve-qua-khu-thay-doi-so-phan.html",
+    type: "ngontinh",
+    desc: `Cậu học sinh mới chuyển đến trường tôi được bầu chọn là nam thần thế hệ mới của cả trường.
+
+Đại ca trường nhìn ngứa mắt không phục, liền thẳng tay đánh cậu ấy một trận ra bã.
+
+Nam thần khóc lóc thảm thiết chạy đến tìm tôi cầu cứu:
+"Mẹ ơi, mẹ quản bố giúp con với! Ông ấy bạo hành gia đình con kìa!"
+
+Tôi đứng hình mất năm giây, bối rối nhìn về phía đại ca trường đang đứng ngay sau lưng cậu ấy.
+
+Cậu thiếu niên kia nghe xong thì vừa tức giận vừa ngượng ngùng quay đầu đi chỗ khác, vành tai đã đỏ bừng lên vì xấu hổ.
+`
+  },{
+    id: 421,
+    title: "Chim Hoàng Yến Thức Tỉnh",
+    image: "imgdam/0b9f070c3392cada368f953bf64c0ddf.jpg",
+    link: "dammy/chim-hoang-yen-thuc-tinh.html",
+    type: "dammy",
+    desc: `Trở thành chim hoàng yến hệ nam của Cố Nhị Gia vừa vặn tròn ba năm, tôi bỗng nhiên giác ngộ và thức tỉnh.
+
+Để thoát khỏi số phận hẩm hiu của một nam phụ đáng thương, người có cái kết đăng xuất khỏi trái đất mà thân xác không còn nguyên vẹn, tôi quyết định làm một cú giả chết để bỏ trốn.
+
+Sau này, anh ta ôm theo hộp sữa bột mà tôi dùng để thay thế cho tro cốt của mình, với ánh mắt đầy sự cuồng si khó hiểu, chặn cứng tôi lại ngay trước cửa câu lạc bộ rồi nghiến răng hỏi:
+
+"Tại sao lại chạy trốn?"
+
+Tôi chỉ biết cúi đầu, khẽ xoa khéo cái bụng đã hơi nhô lên của mình:
+
+"Sợ rằng việc đàn ông sinh con sẽ khiến anh sợ đến mức bất lực."
+`
+  },{
+    id: 422,
+    title: "Thân Phận Bảo Gia Tiên",
+    image: "imgco/d466e421ef06436a57cb571628e4677c.jpg",
+    link: "cotrang/than-phan-bao-gia-tien.html",
+    type: "cotrang",
+    desc: `Ta là Bảo Gia Tiên của nhà họ Tống.
+
+Khi nhà họ Tống lâm vào cảnh nghèo khó nhất, ta hóa thành hình người, trở thành con dâu nuôi từ bé của họ.
+
+Sau khi Tống Thanh Thư đỗ cử nhân, nhà họ Tống muốn cưới tiểu thư nhà phú hộ, liền bán ta cho một tú tài què trong làng làm vợ.
+
+Ta nắm chặt cửa, nước mắt rơi như mưa.
+
+"Thật sự các người muốn đuổi ta đi sao?"
+
+Ánh mắt Tống Thanh Thư lộ vẻ không nỡ, nhưng cuối cùng vẫn kiên định đẩy ta ra khỏi cửa.
+
+"Tiên nhi, sau này khi ta làm quan, tự khắc sẽ chăm sóc nàng."
+
+Ta nhìn cánh cửa đóng chặt, toàn thân run rẩy.
+
+Lão nương bị kẹt lại nhà họ Tống ba trăm năm, cuối cùng cũng được tự do rồi!
+`
+  },{
+    id: 423,
+    title: "Tìm Lại Hào Quang Của Bố",
+    image: "imgngon/4964b7c5a4fbeb896ef64f6bf5bb2810.jpg",
+    link: "ngontinh/tim-lai-hao-quang-cua-bo.html",
+    type: "ngontinh",
+    desc: `Mẹ tôi vì muốn độc chiếm bố tôi, nên bà chọc mù mắt ông, còn hại chết bà nội tôi.
+
+Vào ngày tôi thi đại học, mẹ tôi muốn mang tôi đi bán.
+
+Bố tôi quyết định đồng quy vu tận với bà ta.
+
+Mười năm sau, tôi xuyên về năm bố tôi mười tám tuổi.
+`
+  },{
+    id: 424,
+    title: "Cưới Trước Yêu Sau Với Lão Già Khó Tính",
+    image: "imgdam/8910ce988053673aadd8543006700172.jpg",
+    link: "dammy/cuoi-truoc-yeu-sau-voi-lao-gia-kho-tinh.html",
+    type: "dammy",
+    desc: `Bị thúc ép kết hôn, tôi tức giận nói bừa mình là gay để chống đối.
+
+“Gay thì sao! Gay cũng phải kết hôn!”
+
+Thế là tôi bị ép gả cho một ông già. Nghe đồn lão vừa xấu vừa già lại còn bị thọt chân.
+
+Mãi sau này, tôi nhìn người đàn ông tứ chi lành lặn, đẹp trai đến mức phát sáng đang đứng trước mặt, chỉ biết nuốt nước bọt ực một cái.
+
+Rồi tôi lập tức lấy tay giữ chặt quần mình.
+
+“Tôi là trai thẳng!” Vừa nói xong, mông tôi đã ăn trọn một cái tát đau điếng.
+
+“Cấm nói bậy.”
+
+Tôi: “?”`
+  },{
+    id: 425,
+    title: "Huyết Nhuộm Phượng Bào Hoàng Hậu Trở Về",
+    image: "imgco/811493a471b625357e50f27f97044eb2.jpg",
+    link: "cotrang/huyet-nhuom-phuong-bao-hoang-hau-tro-ve.html",
+    type: "cotrang",
+    desc: `Năm thứ bảy từ khi ta cùng với khuê mật xuyên vào trong sách.
+
+Nàng mang đến cho ta một tin tức tốt: chỉ cần thân xác này chết đi, chúng ta có thể trở về thế giới cũ.
+
+Nói xong, nàng liền từ trên cao nhảy xuống.
+
+Máu tươi văng tung tóe, thấm ướt tay áo phu quân của nàng.
+
+Người nam nhân giây trước còn đang trách nàng giả vờ giả vịt, giờ đây đôi mắt đã đỏ ngầu, đau đớn khôn cùng.
+
+Còn ta chỉ lướt qua hắn, đưa mắt nhìn về phía xa, nơi một nam nhân khác đang nhẹ nhàng ôm lấy bạch nguyệt quang của hắn mà dịu dàng an ủi.
+
+Nam nhân đó chính là phu quân của ta, là vị đế vương của thiên hạ này.
+
+Ta nghĩ, có lẽ đã đến lúc ta nên trở về nhà rồi.
+`
+  },{
+    id: 426,
+    title: "Khi Phản Diện Ác Độc Hóa Liếm Cẩu",
+    image: "imgdam/70cbf763724c8310e5c97d6d6607baa6.jpg",
+    link: "dammy/khi-phan-dien-ac-doc-hoa-liem-cau.html",
+    type: "dammy",
+    desc: `Tôi xuyên thành nhân vật phản diện ác độc trong một bộ truyện đam mỹ nhiều công một thụ.
+
+Biết được nhân vật chính thụ là một mỹ nhân tuyệt sắc, tôi quyết định sẽ làm kẻ ác đến cùng cho đúng bài bản.
+
+Khi nhân vật chính thụ chặn số của tôi, tôi liền cho người bắt cậu ta về nhà rồi lên giọng đạo lý: “Cậu đang chơi trò lạt mềm buộc chặt với tôi đấy à?”
+
+Thấy nhân vật chính thụ phải đi làm việc ở quán bar kiếm sống, tôi lại ra oai quấy rối: “Muốn tiền không? Thiếu gia đây sẽ nhét đầy tiền vào chiếc túi nhỏ của cậu.”
+
+Mọi chuyện cứ thế trôi qua cho đến một ngày tôi phải ôm lấy cái mông đau đớn của mình bước ra từ nhà của nhân vật chính thụ.
+
+Mẹ nó chứ, rõ ràng cậu ta là thụ cơ mà?`
+  },{
+    id: 427,
+    title: "Bí Mật Dưới Gốc Cây Lê",
+    image: "imgco/abc21a9a50424bc664b89744796536a2.jpg",
+    link: "cotrang/bi-mat-duoi-goc-cay-le.html",
+    type: "cotrang",
+    desc: `Tỷ tỷ song sinh của ta đem lòng yêu thương phu quân ta, cùng người nhà liên hợp sát hại ta.
+
+Nàng ta giả dạng ta, e thẹn ngồi trên giường chờ phu quân ta đến ngủ chung.
+
+Cha mẹ ta cũng mong nàng ta và phu quân ta hòa thuận, con cháu đầy nhà.
+
+Phu quân ta đẩy cửa bước vào, tỷ tỷ đỏ mặt tiến lên cởi áo cho hắn.
+
+Nàng ta nào biết, nam nhân trước mắt so với nàng ta nghĩ còn đáng sợ hơn nhiều.
+`
   },
 
 
