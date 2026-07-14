@@ -8787,6 +8787,204 @@ Phu quân ta đẩy cửa bước vào, tỷ tỷ đỏ mặt tiến lên cởi 
 
 Nàng ta nào biết, nam nhân trước mắt so với nàng ta nghĩ còn đáng sợ hơn nhiều.
 `
+  },{
+    id: 428,
+    title: "Kiều Nữ Mang Thai Đại Chiến Sếp Tồi",
+    image: "imgngon/272af4ff3214cf83468c215f423cc191.jpg",
+    link: "ngontinh/kieu-nu-mang-thai-dai-chien-sep-toi.html",
+    type: "ngontinh",
+    desc: `Sau khi biết tôi mang thai, vị nữ lãnh đạo mới nhậm chức đã bày đặt mời tôi vào phòng làm việc với danh nghĩa một buổi họp kín vô cùng tình cảm, để rồi sau đó giở bài văn mẫu nhằm thuyết phục tôi tự nguyện nộp đơn xin nghỉ việc.
+
+"Tình hình công ty dạo này đang gặp chút khó khăn, cô lại là nhân viên kỳ cựu gắn bó lâu năm, chắc chắn là sẽ biết thông cảm và chia sẻ với công ty đúng không?"
+
+Tôi liền gật đầu, nở một nụ cười không thể vui vẻ hơn: “Được chứ.”
+
+Ngay sau đó, tôi quay về bàn thu dọn toàn bộ đồ đạc cá nhân rồi cất bước rời đi một cách vô cùng gọn gàng và dứt khoát.
+
+Tôi chỉ chưa thèm ngửa bài với cô ta rằng suốt bao nhiêu năm cày cuốc ở đây, tệp khách hàng nuôi sống cái công ty này vốn dĩ chỉ biết đến một mình tôi mà thôi.
+`
+  },{
+    id: 429,
+    title: "Chiêu Trò Khổ Nhục Kế Của Sếp Tổng",
+    image: "imgdam/0e338e8f07f5cf80a35b7056c7b94988.jpg",
+    link: "dammy/chieu-tro-kho-nhuc-ke-cua-sep-tong.html",
+    type: "dammy",
+    desc: `Tôi là thư ký riêng của tổng tài.
+
+Trong lúc phát livestream, tôi than thở về vị tổng tài vừa khó tính vừa lạnh như băng.
+
+Người hâm mộ top một của phòng livestream chậm rãi gửi một hàng dấu hỏi, sau đó giận dữ thoát khỏi phòng.
+
+Ngày hôm sau, gương mặt lạnh lùng ngàn năm của tổng tài ấy lại mỉm cười với tôi?!
+
+Tôi hỏi nhóm khán giả trong phòng:
+
+“Anh ta không định sa thải tôi đấy chứ?”
+
+Mọi người ấp úng trả lời:
+
+“Sa thì có sa, nhưng mà sa này không phải sa kia đâu.”
+
+Nghĩa là sao vậy?!
+`
+  },{
+    id: 430,
+    title: "Ta Không Làm Chiếc Bóng Trong Tranh Của Ai Cả",
+    image: "imgco/77c121621b1b3d47e8c8e4aa448b041a.jpg",
+    link: "cotrang/ta-khong-lam-chiec-bong-trong-tranh-cua-ai-ca.html",
+    type: "cotrang",
+    desc: `Phu quân của ta, Ninh Khuyết, là một kiếm sĩ thiên tài vang danh thiên hạ, vì ơn cứu mạng nên bất đắc dĩ phải cưới con gái của một vị quan nhỏ là ta làm vợ.
+
+Hắn đối xử với ta vô cùng lạnh lùng, tầm mắt chẳng bao giờ nhìn thẳng vào ta.
+
+Ta không oán trách chi cả, chỉ nghĩ cần bản thân hết lòng chăm sóc, làm một người nội trợ hiền đức, thì một ngày nào đó sẽ có thể sưởi ấm trái tim băng giá của hắn.
+
+Cho đến ngày hôm đó, một vị nữ kiếm khách bôn ba ngàn dặm tìm đến, hai người cách trở trùng phùng, trong mắt chỉ còn đối phương.
+
+Một lúc lâu sau, vị nữ kiếm khách chĩa kiếm về phía ta và hỏi: “Nàng ta là ai?”
+
+Ninh Khuyết bình thản đáp: “Đối với ta và nàng, nàng ta chỉ là một người không liên quan.”
+
+Thấm thoắt trôi qua mấy năm, hắn gặp lại ta ở một thị trấn nhỏ cách xa ngàn dặm.
+
+Hắn đứng bên sạp mì hoành thánh, mặc bộ quần áo màu trắng nhàu nát, nghẹn ngào nói: “Mấy năm nay ta tìm nàng rất lâu, có thể cho ta một cơ hội…”
+
+Lời còn chưa nói hết, phu quân hiện tại của ta đã ngóc đầu lên khỏi ống bễ.
+
+Hắn nắm tay ta hỏi: “Nương tử, hắn là ai thế?”
+
+Ta lắc đầu, mỉm cười đáp: “Không biết, chắc là một người không liên quan.”
+`
+  },{
+    id: 431,
+    title: "Mẹ Con Siêu Sao Đại Chiến Trà Xanh",
+    image: "imgngon/e13a448c97d1d40d55087b3fba8d51c1.jpg",
+    link: "ngontinh/me-con-sieu-sao-dai-chien-tra-xanh.html",
+    type: "ngontinh",
+    desc: `Bố tôi là đại gia, mẹ tôi là minh tinh hàng đầu, còn tôi là nữ côn đồ bị mắng chửi lên top tìm kiếm vì tội đánh nhau.
+
+Sau đó mẹ tôi nhận một chương trình truyền hình thực tế về gia đình, một thời gian sau, tôi lại chễm chệ trên top tìm kiếm vì vừa xinh đẹp vừa ngầu.
+
+Cả mạng đều quay xe khen tôi đánh hay lắm.
+`
+  },{
+    id: 432,
+    title: "Kế Hoạch Thuần Hóa Ác Long Của Hoàng Tử Xảo Quyệt",
+    image: "imgdam/d2da346a92386d0de99a40c706cbef36.jpg",
+    link: "dammy/ke-hoach-thuan-hoa-ac-long-cua-hoang-tu-xao-quyet.html",
+    type: "dammy",
+    desc: `Vào ngày chị gái thứ bảy của ta, một công chúa chính hiệu, được gả đi xa, một con rồng khổng lồ từ đâu bay đến bắt cóc ta luôn.
+
+Nó bảo đôi mắt ta lấp lánh nhìn giống mấy viên đá quý cao cấp.
+
+Nhưng điều kinh khủng nhất chính là, mùa động dục của cái con rồng này sắp sửa tới rồi.
+
+[Nhắc nhở thân thiện: Xin đừng từ chối lời cầu hoan của một con rồng, nếu không muốn chết trên giường!]
+`
+  },{
+    id: 433,
+    title: "Lòng Tham Của Kẻ Si Tình",
+    image: "imgco/0401aa92c499ddb12d917479397cd3d8.jpg",
+    link: "cotrang/long-tham-cua-ke-si-tinh.html",
+    type: "cotrang",
+    desc: `Năm ấy, Từ Quan dẫn về một nữ nhân lạ mặt.
+
+Hắn lạnh lùng đòi hủy bỏ hôn ước giữa hai bên.
+
+Hắn nói: “Mật Nhi ôn nhu hiền thục, dung mạo tú lệ, từ khi gặp nàng ấy ta mới thấu hiểu thế nào là nét kiều diễm lay động lòng người của nữ tử.”
+
+Hắn lại nói thêm: “Nể tình phụ thân ta trước lúc lâm chung từng gửi gắm, cũng là để tránh miệng đời dị nghị ta là kẻ phụ bạc tráo trở, nơi đây có năm nghìn lượng ngân phiếu, xem như dùng để đoạn tuyệt đoạn duyên phận này.”
+
+Hắn chốt lại: “Từ nay về sau, ngươi và ta đường ai nấy đi, chuyện hôn nhân đại sự tự mình định đoạt, không còn bất kỳ hệ lụy nào nữa.”
+
+Mãi về sau ta mới tường tận, nữ tử kia tên gọi Thạch Mật, chính là thiên kim của Đô thống Tả doanh Duyện Châu.
+
+Từ Quan chê ta tính tình quá đỗi nhu hòa, chẳng chút phong vị thú vị như Thạch Mật; lại hiềm gia thế ta bình phàm đơn bạc, không thể trợ lực cho tiền đồ hoạn lộ của hắn như vị Đô thống phương kia.
+
+Thế nhưng rõ ràng năm ấy, người từng lén lút trèo tường, tự tay gieo trồng cả một khoảnh hải đường rực rỡ nơi sân nhà ta lại chính là hắn.
+
+Người từng chỉ tay lên trời cao thề thốt son sắt, hẹn ngày hoa hải đường nở rộ sẽ quay về nghênh cưới ta, cũng chẳng phải ai khác ngoài hắn.
+
+Lòng người quả nhiên là thứ dễ đổi thay trong chớp mắt, khiến cựu nhân hóa thành người xa lạ đến vô tình.
+
+Ngày hội ngộ Từ Quan, ta đã kết tóc se duyên cùng Tạ Quân tròn năm năm trời.
+
+Gia đình êm ấm thuận hòa, phu thê tình thâm, nhi tử ngoan ngoãn.
+
+Hắn đứng đó, đôi mắt đỏ hoe ngân ngấn nước, nghẹn ngào hỏi: “Quân Quân, năm năm qua nàng đã lưu lạc nơi đâu? Ta đã điên cuồng tìm kiếm nàng suốt bấy nhiêu năm.”
+`
+  },{
+    id: 434,
+    title: "Ảnh Đế Nhõng Nhẽo Chẳng Thể Rời Xa",
+    image: "imgngon/95e6eb2049fcffb21e376557d6423686.jpg",
+    link: "ngontinh/anh-de-nhong-nheo-chang-the-roi-xa.html",
+    type: "ngontinh",
+    desc: `Ông chồng ẩn hôn của tôi vừa bị khui ra vụ bao nuôi một em sinh viên đại học da trắng dáng xinh, nhìn mướt mắt vô cùng. Chính vì cái sừng siêu to khổng lồ này, tôi quyết định không thèm làm vợ hiền dâu thảo nữa, đêm nào cũng lên đồ đi bay lắc ở quán bar, thậm chí còn ép một cậu nam sinh viên làm thêm ở đó phải uống rượu với mình.
+
+Cậu chàng sợ hãi thanh minh: “Chị ơi, tôi không phải phục vụ nam đâu.”
+
+Ai mà có dè đâu cái cảnh tượng tột cùng hoang đàng này lại bị chính ông chồng ảnh đế của tôi bắt gặp ngay tại trận.
+
+Lúc hai bên đang cự cãi quyết liệt nảy lửa, tôi liền kéo tay cậu nam sinh viên ra sau lưng để che chở bảo vệ, sau đó không thèm nói một lời, giơ tay tát thẳng một phát cháy má vào mặt người đàn ông của mình.
+
+Xong xuôi, tôi hiên ngang đệ đơn ly hôn thẳng tay mà không hề có một chút sợ hãi nào.
+
+Ngay giữa đêm hôm đó, ảnh đế đỉnh lưu giới giải trí vùi đầu vào giữa hai cánh tay, bật khóc nức nở không thành tiếng ngay trên buổi phát sóng trực tiếp:
+
+“Vợ tôi bị nam trà xanh quyến rũ dụ dỗ đi mất rồi, giờ tôi phải biết làm sao đây?”
+
+“Tôi vừa già vừa không trẻ trung bằng người ta, tôi lo lắng đến mức muốn chết đi sống lại đây này.”
+
+“Giờ cô ấy đi ngủ cũng không thèm sờ cơ bụng của tôi nữa, tôi đã hoàn toàn mất đi sức hấp dẫn đối với cô ấy rồi.”
+
+“Người ta cứ bảo con gái mà đánh con trai thì cả đời này sẽ không thể phát tài giàu có nổi, nhưng mà thật lòng tôi không hi vọng sau này cô ấy phải lâm vào cảnh không có tiền tiêu đâu.”
+
+Giọng nói của anh khàn đặc lại và đầy chua chát, những tiếng nức nở bị kìm nén càng nghe càng thấy ấm ức, đáng thương vô cùng.
+
+Ngay giây tiếp theo, hàng loạt từ khóa hotsearch bạo đỏ thẫm mạng xã hội.
+
+Khi ảnh đế nổi tiếng Thương Thời Tự kết hôn bí mật.
+
+Chị dâu ôm ôm anh Tự chút đi, anh ấy sắp tan nát vỡ vụn đến nơi rồi.
+
+Thương Thời Tự chính thức được chẩn đoán là vì tình yêu mà biến thành cún con.
+
+Con gái mà đánh con trai, cả đời này không phát tài.
+
+Bước ra khỏi nhà, nhường lại vị trí.
+`
+  },{
+    id: 435,
+    title: "Thư Tình Đưa Sai Người",
+    image: "imgdam/13bd80461a68cd87d7e0b12077495039.jpg",
+    link: "dammy/thu-tinh-dua-sai-nguoi.html",
+    type: "dammy",
+    desc: `Tôi vốn định tỏ tình với nam thần của trường.
+
+Nhưng số trời đưa đẩy thế nào tôi lại nhận nhầm người, tự tay dâng hiến bức thư tình cho anh trai song sinh của người ta, chính là cái tên trùm trường khét tiếng.
+
+Tên trùm trường đó ra vẻ cực kỳ khinh thường.
+
+Trước mặt toàn trường, hắn cố tình đọc to nội dung bức thư của tôi tận ba lần.
+
+Cuối cùng hắn cười lạnh một tiếng:
+
+“Ông đây không đời nào thích cậu.”
+`
+  },{
+    id: 436,
+    title: "Thuật Đọc Tâm Cứu Cả Gia Tộc",
+    image: "imgco/4fbd5566254e86b9f1f92930aa9ca5a5.jpg",
+    link: "cotrang/thuat-doc-tam-cuu-ca-gia-toc.html",
+    type: "cotrang",
+    desc: `Khi hoàng đế định đưa ta vào lãnh cung, ta nghe thấy tiếng lòng của hắn:
+
+【Phiền quá đi mất! Tối nay không thể ôm hoàng hậu ngủ rồi.】
+
+【Sao hoàng hậu không cầu xin trẫm nhỉ, mau cầu xin trẫm đi, trẫm sẽ lập tức thu hồi lệnh này.】
+
+【Trẫm có thể chuyển vào lãnh cung ở luôn được không?】
+`
   },
 
 
