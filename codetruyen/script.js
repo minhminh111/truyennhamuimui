@@ -1,5 +1,21 @@
 window.addEventListener("DOMContentLoaded", function () {
+  const facebookRead = document.getElementById("facebook-read");
 
+  if(facebookRead){
+
+      let ref = document.referrer.toLowerCase();
+
+      if(
+          ref.includes("facebook.com") ||
+          ref.includes("m.facebook.com") ||
+          ref.includes("l.facebook.com")
+      ){
+
+          facebookRead.style.display="block";
+
+      }
+
+  }
   const modal = document.getElementById("modal");
   const story = document.getElementById("story");
   const unlockBtn = document.getElementById("unlockBtn");
@@ -9,10 +25,10 @@ window.addEventListener("DOMContentLoaded", function () {
   /* ===== LINK QUẢNG CÁO ===== */
 
   const links = [
-    "https://s.shopee.vn/903aBvtF0O",
-    "https://spf.shopee.vn/9fJGzCKDDC",
-    "https://vt.tiktok.com/ZS9Mp1QQMCHky-UKt03/",
-    "https://s.lazada.vn/s.nm6oA?c=q&t=p-iEdAcBU-s23mU7E3"
+    "https://s.shopee.vn/5fnCrd45W0",
+    "https://spf.shopee.vn/5VTmfNL2aW",
+    "https://vt.tiktok.com/ZS9MKTCuDLMjp-APqdd/",
+    "https://s.lazada.vn/s.nL1hz?c=t&t=p-iuZyNd-s2X6cwV"
   ];
 
   /* ===== KEY ===== */
@@ -106,5 +122,6 @@ window.addEventListener("DOMContentLoaded", function () {
       }
     }
   });
+  
 
 });

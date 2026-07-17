@@ -8985,6 +8985,92 @@ Cuối cùng hắn cười lạnh một tiếng:
 
 【Trẫm có thể chuyển vào lãnh cung ở luôn được không?】
 `
+  },{
+    id: 437,
+    title: "Sự Thật Phơi Bày Sau Hai Hộp Thuốc",
+    image: "imgngon/575737524b85c508adda1344f7c576d2.jpg",
+    link: "ngontinh/su-that-phoi-bay-sau-hai-hop-thuoc.html",
+    type: "ngontinh",
+    desc: `Tôi bị dương tính, sốt cao đến 39,6 độ.
+
+Chạy khắp thành phố cũng không mua được thuốc hạ sốt.
+
+Vậy nhưng chồng sắp cưới của tôi lại đưa 2 hộp thuốc Ibuprofen còn lại cho đồng nghiệp nữ của anh ta.
+
+Nữ đồng nghiệp đó đăng ở trên vòng bạn bè hai bức ảnh, một bức chụp túi đồ ăn lớn, bức còn lại là hai hộp thuốc kia kèm dòng trạng thái:
+
+[Có người đồng nghiệp như vậy thật là hạnh phúc, nửa đầu năm nay đưa đồ ăn cho tôi, còn bây giờ thì đưa thuốc hạ sốt.]
+
+Thế giới của tôi chính thức sụp đổ.
+`
+  },{
+    id: 440,
+    title: "Lối Thoát Của Kẻ Thế Thân",
+    image: "imgngon/f3b6f171401e38b83e4f5f8049966cc6.jpg",
+    link: "ngontinh/loi-thoat-cua-ke-the-than.html",
+    type: "ngontinh",
+    desc: `Tôi là thế thân cho bạch nguyệt quang của ba đại lão.
+
+Tôi vốn là một cô nhi, nhờ được họ giúp đỡ nên tôi mới có thể đi học.
+
+Sau khi bạch nguyệt quang quay về, câu chuyện đã khác.
+
+Lương Xích Tinh là một tên tâm lý không ổn định và vô cùng tàn nhẫn, vì lỡ làm bẩn quần áo bạch nguyệt quang của hắn mà hắn nhẫn tâm bẻ gãy ngón tay của tôi.
+
+Lục Tây Đồng thì chơi bời phóng túng, đã sỉ nhục tôi trước công chúng chỉ để mua vui.
+
+Còn Lương Trường Kiều là một kẻ lạnh lùng và luôn bình tĩnh trong mọi trường hợp, khi xảy ra hỏa hoạn, anh ta đã cõng bạch nguyệt quang của mình rời đi, không hề quay lại nhìn tôi một lần.
+
+Nhưng không sao hết, dù gì thì tôi cũng đã bệnh sắp chết rồi.
+
+Ban đầu là đau đầu, sau đó dần dần tôi không thể nhìn thấy được nữa.
+
+Khi tôi bị mù, tôi nghe thấy tiếng họ nức nở, nghe thấy tiếng bạt tai vang lên trên mặt.
+
+Và tiếng xin lỗi không ngừng suốt đêm khi họ nắm chặt tay tôi.
+
+Nhưng tôi đã gần như không còn nghe thấy gì nữa.
+`
+  },{
+    id: 438,
+    title: "Đừng Tưởng Tôi Không Biết Cậu Thích Tôi",
+    image: "imgdam/782fb19520b9c575d793629eb30b5719.jpg",
+    link: "dammy/dung-tuong-toi-khong-biet-cau-thich-toi.html",
+    type: "dammy",
+    desc: `Phòng nước ký túc xá nam mất điện tối om. Tôi đang yên đang lành thì bị người ta lao vào cưỡng hôn suốt mười phút đồng hồ.
+
+Đến khi kết thúc buổi "hành sự", kẻ thù không đội trời chung của tôi lại thản nhiên buông một câu xanh rờn:
+
+“Tôi hôn nhầm người rồi.”
+
+Ủa chứ cái gì vậy trời? Đây chẳng phải chính là cái chiêu hiến kế độc lạ do tôi giả làm bạn mạng để dạy cậu ta gài bẫy crush hay sao?
+
+Thế cuối cùng mục đích của cậu ta là hôn tôi làm cái gì?
+`
+  },{
+    id: 439,
+    title: "Thâm Cung Bạc Tình",
+    image: "imgco/d663a537f0f1d45bca87d8ad8b79e73d.jpg",
+    link: "cotrang/dung-tuong-toi-khong-biet-cau-thich-toi.html",
+    type: "cotrang",
+    desc: `Nàng xuyên không đến đây, nhưng lại từ chối danh phận cao quý mà phụ vương định ban cho nàng.
+
+Nàng bảo rằng nàng không giống mẫu phi, chẳng muốn bị giam cầm nơi hậu viện lạnh lẽo.
+
+Hơn nữa, nàng còn nghĩ rằng chỉ cần làm một nha hoàn hầu hạ bên cạnh phụ vương thì sẽ giúp nàng luôn được ở gần người.
+
+Ta nghe xong mà thật sự kinh ngạc khôn nguôi.
+
+Mẫu phi của ta hiện đang mang thai, lại vừa được thăng vị phân.
+
+Nàng ta biết chuyện liền mỉa mai mẫu phi: “Ngươi chẳng qua cũng chỉ là một cỗ máy sinh con mà thôi!”
+
+Về sau, phụ vương lật đổ thế cục trở thành Hoàng đế, và mẫu phi của ta được sắc phong làm Hoàng hậu.
+
+Ca ca của ta cũng danh chính ngôn thuận được phong làm Thái tử.
+
+Nàng ta vẫn giữ cái giọng điệu mỉa mai mẫu phi như cũ: “Hắn chỉ giả vờ tôn trọng ngươi vì lo sợ binh quyền của ca ca ngươi mà thôi!”
+`
   },
 
 
