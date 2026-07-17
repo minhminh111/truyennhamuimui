@@ -9051,7 +9051,7 @@ Thế cuối cùng mục đích của cậu ta là hôn tôi làm cái gì?
     id: 439,
     title: "Thâm Cung Bạc Tình",
     image: "imgco/d663a537f0f1d45bca87d8ad8b79e73d.jpg",
-    link: "cotrang/dung-tuong-toi-khong-biet-cau-thich-toi.html",
+    link: "cotrang/tham-cung-bac-tinh.html",
     type: "cotrang",
     desc: `Nàng xuyên không đến đây, nhưng lại từ chối danh phận cao quý mà phụ vương định ban cho nàng.
 
@@ -9070,6 +9070,98 @@ Về sau, phụ vương lật đổ thế cục trở thành Hoàng đế, và m
 Ca ca của ta cũng danh chính ngôn thuận được phong làm Thái tử.
 
 Nàng ta vẫn giữ cái giọng điệu mỉa mai mẫu phi như cũ: “Hắn chỉ giả vờ tôn trọng ngươi vì lo sợ binh quyền của ca ca ngươi mà thôi!”
+`
+  },{
+    id: 441,
+    title: "Sống Lại Để Độc Chiếm Anh Trai Nuôi Khẩu Thị Tâm Phi",
+    image: "imgdam/51f32749be19508eded0207004bcc675.jpg",
+    link: "dammy/song-lai-de-doc-chiem-anh-trai-nuoi-khau-thi-tam-phi.html",
+    type: "dammy",
+    desc: `Vào đúng cái ngày tôi chính thức trở thành người lớn.
+
+Anh trai tôi bỗng nhiên bốc hơi một cách đầy bí ẩn trên đường đến chúc mừng sinh nhật tôi, hoàn toàn bặt vô âm tín, khiến cả gia đình được một phen nháo nhào.
+
+Bố mẹ tôi lo lắng đến mức phát điên, cuống cuồng lật tung cả thế giới lên chỉ để tìm kiếm tung tích của anh.
+
+Trong khi đó, đứa con trai ngoan hiền của họ, chính là tôi, lại đang ung dung trốn trong một căn phòng bí mật để tự tay bóc món quà sinh nhật đặc biệt của mình.
+
+“Đứa nào bạo gan dám thắt chiếc nơ bướm màu hồng này lên người anh trai tôi thế nhỉ? Nhìn lẳng lơ hết chỗ nói.”
+
+Nhưng đến khi tay tôi chạm vào chiếc thắt lưng của anh, hơi thở tôi chợt nghẹn lại vì sốc, ôi thôi xong, tại sao ở bên dưới lại còn giấu thêm một chiếc nơ bướm nữa thế này?
+
+Hứa Dục lúc này đang bị tôi bịt chặt miệng, uất ức không thể thốt lên lời nào, chỉ biết trừng mắt nhìn tôi đầy giận dữ.
+
+Tôi khẽ mỉm cười xoa đầu anh đầy âu yếm: “Anh trai ngoan của em, mau gọi một tiếng ‘chồng’ cho em nghe xem nào.”
+`
+  },{
+    id: 442,
+    title: "Đoạt Lại Khí Vận",
+    image: "imgco/4caf9f46f072a519f03843f1eeaed03d.jpg",
+    link: "cotrang/doat-lai-khi-van.html",
+    type: "cotrang",
+    desc: `Tiểu sư muội suýt chút nữa đã hại chết ta, nhưng ta vẫn xuất sắc sống sót trở về, vạch trần bộ mặt thật và âm mưu của nàng.
+
+Khi nàng sắp bị trục xuất khỏi môn phái, mọi người bỗng dưng nghe thấy tiếng lòng của tiểu sư muội vang lên:
+
+【Sư tỷ đang gài bẫy vu oan ta.】
+
+【Ta quả thực đã đẩy sư tỷ, nhưng ta biết tỷ ấy chắc chắn không chết được, thậm chí còn mong sư tỷ có thêm trải nghiệm thực tế. Ai mà ngờ tỷ ấy lại lấy chuyện này làm cớ để đuổi ta khỏi môn phái.】
+
+【Ta làm tất cả điều này, chẳng phải vì mọi người luôn thiên vị sư tỷ, không thích ta sao...】
+
+Nghe đến đó, mọi người tự dưng mủi lòng, lập tức tỏ ra đại nhân đại lượng mà tha thứ cho tiểu sư muội.
+
+Tiểu sư muội lại một lần nữa trở thành đóa hoa nhỏ được cả tông môn yêu mến, đắc ý ngạo nghễ vô cùng.
+
+Nhưng nàng làm sao biết được, cái gọi là năng lực nghe tiếng lòng kia, vốn dĩ là do ta cố ý để lại cho nàng.
+
+Bởi vì, mục tiêu cuối cùng của ta là đoạt lấy mệnh cách của nàng!
+`
+  },{
+    id: 443,
+    title: "Tổng Tài Bá Đạo Cũng Thích Đồ Ngọt",
+    image: "imgngon/f666f89502add93149a77c3f104031d2.jpg",
+    link: "ngontinh/tong-tai-ba-dao-cung-thich-do-ngot.html",
+    type: "ngontinh",
+    desc: `Lo lắng rằng tổng giám đốc sẽ đi tu, mẹ của anh ấy thuê tôi tiếp cận anh.
+
+“Nắm tay năm trăm nghìn tệ, ôm một triệu tệ, hôn năm triệu tệ.”
+
+Tôi trợn tròn mắt.
+
+“Nếu ngủ với anh ấy thì sao?”
+
+“Mẹ sẽ cho cô năm mươi triệu tệ.”
+`
+  },{
+    id: 444,
+    title: "Cả Đời Không Buông Tay",
+    image: "imgdam/06dc9cf83b8993879d59cccf85ada864.jpg",
+    link: "dammy/ca-doi-khong-buong-tay.html",
+    type: "dammy",
+    desc: `Tôi là một sát thủ, bỗng dưng một ngày đẹp trời lại bị trói chằng chịt, thắt thêm cái nơ bướm điệu đà rồi bị tống thẳng lên giường của mục tiêu ám sát.
+
+Tôi với hắn đã choảng nhau một trận nảy lửa ngay trên chiếc giường đó, sau đó tôi nhanh trí nhảy cửa sổ chuồn đi mất dạng.
+
+Ngay ngày hôm sau, trên mạng ngầm bỗng xuất hiện lệnh truy nã tôi với giá treo thưởng trên trời kèm nội dung: “Tên sở khanh này ăn xong quất ngựa truy phong, treo thưởng 100 triệu tệ, yêu cầu bắt sống. Phiền các vị ân nhân gửi hắn đến địa chỉ này.”
+
+Bên dưới còn có người bình luận ké: [Lần đầu tiên được gọi là ân nhân, nghe lạ tai quá đi mất.]
+`
+  },{
+    id: 445,
+    title: "Nương Tử Phúc Tinh",
+    image: "imgco/496b355795a648094f4db8b341b33768.jpg",
+    link: "cotrang/nuong-tu-phuc-tinh.html",
+    type: "cotrang",
+    desc: `Ta sinh ra đã mang tướng đoạn chưởng.
+
+Phụ mẫu lấy đó làm cớ, hằng ngày cay nghiệt với ta, nhưng lại cưng chiều trưởng tỷ, nuôi dưỡng tỷ như ngọc ngà, chẳng để vướng bận hạt bụi hồng trần.
+
+Trưởng tỷ được huyện lệnh để mắt, nạp làm thiếp. Cả nhà ta từ đó dọn lên trấn hưởng phúc, nhưng lại cho rằng ta là mối phiền, gả bừa cho một thư sinh tàn tật ở thôn bên.
+
+Người người đều bảo số ta bạc phận.
+
+Nhưng kỳ thực, ta mang mệnh phúc duyên, ai đối tốt với ta, phúc lộc càng đầy.
 `
   },
 
