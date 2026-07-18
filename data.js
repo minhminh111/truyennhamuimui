@@ -9344,6 +9344,197 @@ Trong tiệc xuân, Thám Hoa Lang Cố Yến Chi làm thơ tặng cho ta, nhắ
 
 Thế nhưng ta lại bị vị thư sinh mặt ngọc kia chặn lại ở trong phòng, chàng ôm ta đặt lên bàn, đôi mắt đỏ ngầu chất vấn: “Nàng đã ngủ với trẫm nhiều đêm như thế, vẫn chưa chịu cho trẫm một danh phận? Hả?”
 `
+  },{
+    id: 455,
+    title: "Hành Trình Tìm Lại Ánh Sáng",
+    image: "imgngon/c221e7aaf21acb1347f4c9714baee25f.jpg",
+    link: "ngontinh/hanh-trinh-tim-lai-anh-sang.html",
+    type: "ngontinh",
+    desc: `Tôi nắm tay em gái và băng qua đường. Cảnh sát chặn tôi lại và hỏi: “Cô đang nắm tay ai à?”
+
+Tôi nhìn khoảng trống phía sau và cười.
+
+Từ lúc quyết định trở thành tội phạm, tôi chưa bao giờ nghĩ đến chuyện cười.
+`
+  },{
+    id: 456,
+    title: "Cậu Nhóc Được Tôi Bao Nuôi Chính Là Tình Đầu",
+    image: "imgdam/85f07209cf67fd3e27919c343f9296f3.jpg",
+    link: "dammy/cau-nhoc-duoc-toi-bao-nuoi-chinh-la-tinh-dau.html",
+    type: "dammy",
+    desc: `Tôi bỗng dưng nảy sinh tình cảm, rồi lại đi bao nuôi một nam sinh nghèo.
+
+Cậu ta vừa cắn lấy lưỡi tôi vừa thề thốt:
+
+“Em có nghề nghiệp, có nguyên tắc, sẽ không bao giờ yêu người bao nuôi mình.”
+
+Tôi đẩy mặt cậu ta ra:
+
+“Được thôi, nếu thích tôi thì cậu chính là chó.”
+
+Sau này, cậu ta biết mình rất giống mối tình đầu của tôi.
+
+Đôi mắt đỏ hoe, vùi vào ngực tôi mà hỏi:
+
+“Chó con không được cắn chỗ này sao? Chỉ thích mình em thôi được không? Đừng nhắc đến người đó nữa, em thật sự chịu không nổi.”
+`
+  },{
+    id: 457,
+    title: "Hồng Nhan Gánh Vác Sơn Hà",
+    image: "imgco/596636ed8a75a805891060a6e5b1a345.jpg",
+    link: "cotrang/hong-nhan-ganh-vac-son-ha.html",
+    type: "cotrang",
+    desc: `Vị hôn phu của ta ở thành Dương Châu vừa gây ra một vụ bê bối phong lưu chấn động.
+
+Cô gái liên quan trong câu chuyện thị phi đó là một kỹ nữ có tên Lý Bồng Bồng, nàng ta vốn là hoa khôi nổi danh nhất thành Dương Châu.
+
+Nàng ta tự bỏ tiền túi chuộc thân, lặng lẽ đứng chờ trước cửa nhà họ Tạ suốt một tháng trời mà không oán trách một lời nào, cuối cùng cũng thành công gặp được lão phu nhân nhà họ Tạ.
+
+Sau cuộc gặp gỡ đó, nàng ta được đưa lên kiệu hoa rước về căn nhà ở ngõ Tứ Tỉnh.
+
+Khi ta vừa tiến vào kinh đô, tai liền vặn nghe được tin đồn nàng ta cùng Tạ Thời Cảnh đang long trọng tổ chức tiệc rượu, linh đình cùng vui, vô cùng vẻ vang.
+
+Dù danh phận của Lý Bồng Bồng chỉ là một ngoại thất, nhưng nàng ta lại ngang nhiên hưởng thụ mọi đãi ngộ xa hoa như chính thất phu nhân thực thụ.
+
+Cả kinh thành đều đang mỏi mắt đợi xem trò cười của ta, đôi khi có vài kẻ bất bình lên tiếng thanh minh liền bị những lời đàm tiếu khác dập tắt ngay lập tức.
+
+Thậm chí còn có kẻ hiếu sự mở sòng cá cược, đặt cược xem ta có thể nhẫn nhịn chịu đựng chuyện này đến bao giờ.
+
+Dẫu sao thì nhà họ Tống ở Lạc Xuyên của chúng ta nay đã không còn hiển hách như xưa, trong khi nhà họ Tạ lại đang là trụ cột vững chắc của triều đình.
+
+Vào ngày sòng cá cược mở cửa náo nhiệt, ta cũng giống như Lý Bồng Bồng khi xưa, một mình đi đến nhà chính của họ Tạ.
+
+Ta đến đây không phải để đòi lại công bằng, mà chỉ đơn giản là để từ hôn.
+
+Tạ Thời Cảnh, kẻ phong lưu như hắn, quả thực không xứng đáng làm phu quân của ta.
+`
+  },{
+    id: 458,
+    title: "Kế Hoạch Yêu Lại Từ Đầu",
+    image: "imgngon/0564d2d30e7eb5e4679d072bb3dae25b.jpg",
+    link: "ngontinh/ke-hoach-yeu-lai-tu-dau.html",
+    type: "ngontinh",
+    desc: `Trong chương trình truyền hình trực tiếp, tôi tiến hành phỏng vấn Thái tử gia Bắc Kinh, đặt câu hỏi về chuyện điên rồ nhất mà anh từng làm trong đời.
+
+Thái tử gia khẽ cười:
+“Năm thứ ba sau khi đường ai nấy đi, cô ấy đột nhiên bảo nhớ tôi, thế là ngay trong đêm, tôi bao trọn một chiếc máy bay lao thẳng đến bên cạnh cô ấy.”
+
+Tôi gặng hỏi thêm:
+“Vậy hiện tại hai người chắc chắn là đang vô cùng hạnh phúc đúng không?”
+
+Thái tử gia lại thở dài thườn thượt:
+“Ngày tôi đáp máy bay xuống nơi đó, vừa vặn lại đúng vào hôn lễ của cô ấy, chính mắt tôi đã chứng kiến cô ấy lên xe hoa gả cho đứa em trai trên danh nghĩa của tôi.”
+
+Tim tôi đập loạn cào cào, chiếc micro đang cầm trên tay cũng vì thế mà rơi thẳng xuống đất.
+
+Sau khi chương trình đóng máy, tôi lủi thủi đi về nhà, chân vừa bước qua cửa đã bị người ta lao đến đè chặt lên tường.
+
+Thái tử gia ôm ghì lấy tôi, vừa hít hà mùi hương quen thuộc vừa điên cuồng hôn:
+“Anh nghe thiên hạ đồn hôm nay tỷ lệ người xem chương trình của em bùng nổ lắm.”
+
+“Vậy thì phải đa tạ lòng tốt của anh rồi, anh trai ạ.”
+`
+  },{
+    id: 459,
+    title: "Thân Phận Bí Ẩn Của Đứa Con Hoang",
+    image: "imgdam/ebfda0737a647f8f574063ad2a77fb72.jpg",
+    link: "dammy/than-phan-bi-an-cua-dua-con-hoang.html",
+    type: "dammy",
+    desc: `Một lần ngoài ý muốn sau khi uống rượu, tôi lỡ mang thai.
+
+Không có tiền để phá, cũng chẳng có tiền để sinh.
+
+Cái bụng ngày càng nhô lên, không thể giấu nổi nữa.
+
+Tôi đành phải đi vay tiền của bạn cùng phòng có dính líu xã hội đen.
+
+Hắn vừa nghịch con dao trong tay, vừa nở nụ cười âm u:
+
+“Con hoang thì tôi nuôi được, nhưng cậu phải nói cho tôi biết, thằng khốn kia là ai.”
+
+Ờm…
+
+Biết phải nói thế nào đây, khi thằng khốn đó… chính là hắn?
+`
+  },{
+    id: 460,
+    title: "Hoán Đổi Kiệu Hoa",
+    image: "imgco/c43cef4846abb64c297a09f938653972.jpg",
+    link: "cotrang/hoan-doi-kieu-hoa.html",
+    type: "cotrang",
+    desc: `Ta là thứ nữ trong nhà, từ nhỏ đã luôn được đích tỷ chăm sóc chu đáo.
+
+Kiếp trước, đích tỷ gả cho Nhiếp Chính Vương, người đàn ông không thể làm tròn bổn phận phu quân.
+
+Ngày ngày, nàng dùng nước mắt để rửa mặt, ưu phiền chất chứa mà bạc mệnh ra đi.
+
+Còn ta lại gả cho Trạng nguyên xuất thân bần hàn.
+
+Hắn chê ta quê mùa, ta mắng hắn thối nát, bảo thủ.
+
+Ngày qua ngày, cuộc sống chẳng khác nào gà bay chó chạy.
+
+Kiếp này, cả ta và đích tỷ đều đã trọng sinh.
+
+Đích tỷ hỏi: “Đổi thử không?”
+
+Ta không ngần ngại đáp: “Đổi thì đổi!”
+`
+  },{
+    id: 461,
+    title: "Oan Gia Ngõ Hẹp Bước Đến Lễ Đường",
+    image: "imgngon/69394e32c8b38c9afeb039c8aaf0fe6e.jpg",
+    link: "ngontinh/oan-gia-ngo-hep-buoc-den-le-duong.html",
+    type: "ngontinh",
+    desc: `Thấy sắp trễ giờ làm, tôi chỉ đành đặt xe công nghệ chuyên dụng.
+
+Cuối cùng người đến đón lại là lão sếp của tôi.
+
+Dưới bầu trời đầy sao trong chiếc siêu xe, hai chúng tôi ngơ ngác nhìn nhau đầy sượng trân.
+
+Cậu ấy nhướng mày, hỏi: “Có phải cậu sắp trễ giờ làm không?"
+
+Tôi câm nín không nói được lời nào.
+
+Sau đấy, cậu ấy trừ lương tôi không trượt phát nào.
+
+Còn tôi cũng không vừa, tặng ngay cho cậu ấy một đánh giá một sao.
+`
+  },{
+    id: 462,
+    title: "Con Trai Đến Hiếu Kính Đây",
+    image: "imgdam/4d6c829f5f54ec33203b637b433c2586.jpg",
+    link: "dammy/con-trai-den-hieu-kinh-day.html",
+    type: "dammy",
+    desc: `Bộ phim tôi đầu tư mời được ảnh đế Triệu Phúc. Khi truyền thông hỏi vì sao nhận cái phim rác này, Triệu Phúc chỉ cười: “Vì nhà tài trợ là cha nuôi tôi.”
+
+Tối qua, Triệu Phúc hôn tôi run bần bật, thì thầm bên tai:
+“Cha nuôi, con trai đến hiếu kính đây.”
+`
+  },{
+    id: 463,
+    title: "Thái Tử Muốn Làm Mẫu Thân Của Ta",
+    image: "imgco/aa1a023aff97a01f72273c3f5a743a8a.jpg",
+    link: "cotrang/thai-tu-muon-lam-mau-than-cua-ta.html",
+    type: "cotrang",
+    desc: `Mẫu thân là đệ nhất mỹ nhân trong thiên hạ, Hoàng đế nhìn thấy mà bắt cung phi.
+
+Ta suốt ngày sầu khổ, nước mắt chảy thành dòng.
+
+Hoàng đế không nhẫn tâm, phất tay một cái, lệnh cho Thái tử đến an ủi ta.
+
+Thái tử, kẻ vốn nổi tiếng tàn nhẫn, dỗ dành ta suốt ba ngày mà vẫn không nguôi ngoai, cuối cùng đành tuyệt vọng mà hỏi:
+
+"Ta của cải dồi dào, nàng muốn gì, đều có thể ban cho."
+
+Ta nghẹn ngào đáp: "Ta nhớ mẫu thân."
+
+Thái tử nghiến răng nghiến lợi: "Được, từ hôm nay, ta sẽ là mẫu thân của nàng!"
+
+Một tháng sau, ta giật mình tỉnh giấc trong tẩm cung của Thái tử, chợt nghe tiếng Thái tử ném tấu chương xuống đất, giận dữ quát tháo vang đến:
+
+"Ngươi tới làm gì! Ta khó khăn lắm mới dỗ được nàng ngủ!"
+`
   },
 
 
