@@ -9955,6 +9955,188 @@ Ngày đầu tiên gả cho Thái tử, Bùi Cảnh hỏi ta: "Phụ thân nàng
 
 Đây là muốn giết phụ thân ta sao? Cảm thấy phụ thân ta, một Kiểm thảo thất phẩm, chướng mắt sao?
 `
+  },{
+    id: 482,
+    title: "Nhật Ký Sống Sót Giữa Bầy Sói Hắc Hóa",
+    image: "imgngon/e588bcaa9c21a82c75269339dcb90cc0.jpg",
+    link: "ngontinh/nhat-ky-song-sot-giua-bay-soi-hac-hoa.html",
+    type: "ngontinh",
+    desc: `Sau khi chết, tôi phải điên cuồng làm việc cày cuốc trong cái thế giới xuyên nhanh suốt ba năm trời.
+
+Cuối cùng thì tôi cũng có cơ hội được tái sinh.
+
+Thế nhưng mới tái sinh về thế giới cũ được mấy ngày, hệ thống đã thông báo với tôi một tin động trời muốn sang chấn tâm lý.
+
+Các đối tượng công lược trước đây của tôi đều đã hắc hóa biến chất ngay sau khi tôi rời đi.
+
+Quan trọng hơn là đến cả chủ thần cũng bất lực, đành phải đưa toàn bộ bọn họ đến đúng cái thế giới mà tôi đang sống.
+
+Nhiệm vụ của tôi lúc này là không được để họ phát hiện ra danh tính thật sự của mình trong vòng một tháng.
+
+Tổ tông ơi, có phải đang trêu đùa tôi đấy không?
+
+Cái số của tôi là từng đi công lược hàng trăm đối tượng lận đó.
+
+Hàng tá con người hắc hóa đáng sợ như thế, chẳng lẽ chỉ kéo đến để vây bắt mỗi mình tôi thôi sao?
+`
+  },{
+    id: 483,
+    title: "Vết Xích Dưới Làn Da",
+    image: "imgdam/60ed923ad25b09db353526efd6446107.jpg",
+    link: "dammy/vet-xich-duoi-lan-da.html",
+    type: "dammy",
+    desc: `Tôi là trai thẳng, nhưng số mệnh thì cực kỳ vượng phu.
+
+Mười tuổi, tôi bị bán vào nhà họ Thẩm, trở thành con chó của thiếu gia yếu ớt Thẩm Chí.
+
+Lần đầu gặp nhau, Thẩm Chí bịt mũi, ngồi xổm trước mặt tôi, vẻ mặt chán ghét, dùng cây gậy chọc chọc vào mặt tôi:
+“Thối quá, cậu là chó con hả?”
+
+Về sau cũng là cậu ta, bóp chặt eo tôi, thân mật liếm sạch nước mắt trên mặt:
+“Khóc cái gì?”
+
+“Không dùng sức thì sinh chó con cho tôi kiểu gì?”
+`
+  },{
+    id: 484,
+    title: "Hành Trình Nữ Đại Phu Trở Thành Sát Thủ Máu Lạnh",
+    image: "imgco/ceca2a0b7eb3982dc3f6f09405d16b72.jpg",
+    link: "cotrang/hanh-trinh-nu-dai-phu-tro-thanh-sat-thu-mau-lanh.html",
+    type: "cotrang",
+    desc: `Tỷ tỷ của ta mở một tiệm đậu phụ ở thành tây.
+
+Tỷ tỷ dung mạo cực kỳ xinh đẹp, được người đời xưng tụng là Tây Thi Đậu Phụ.
+
+Chỉ vì Thế tử gia buông lời khen ngợi một câu "mắt đẹp long lanh", tỷ tỷ đã bị Công chúa móc mắt, lột da mặt, chịu hết thảy tra tấn rồi chết đi trong đau đớn.
+
+Người đời chỉ đồn rằng Công chúa yêu thương Thế tử sâu đậm, Thế tử nay đã hoàn lương, hai người cuối cùng trở thành phu thê mặn nồng.
+
+Chẳng còn ai nhớ đến nàng Tây Thi Đậu Phụ chết oan uổng kia nữa.
+
+Sau này, Công chúa mãi không thể hoài thai, ta, người vốn được dân chúng kính trọng gọi là Tống Tử Nương Nương, đã được nàng ta mời đến phủ.
+`
+  },{
+    id: 485,
+    title: "Ngọt Ngào Chuyện Tình Yêu Quân Nhân",
+    image: "imgngon/9fea5c690454aba554b69e760b2d2f36.jpg",
+    link: "ngontinh/ngot-ngao-chuyen-tinh-yeu-quan-nhan.html",
+    type: "ngontinh",
+    desc: `Tôi sau khi uống say ngồi trên tàu cao tốc thì gặp được một nhóm quân nhân, không hiểu bằng thế lực nào tôi lại có thể lao đến ôm chầm lấy tay lãnh đạo của họ mà khóc lóc: "Tổ quốc bao giờ mới cấp cho tôi một anh người yêu đây hả!"
+
+Vị lãnh đạo tiện tay chỉ: "Trần Hoài, ra đây!"
+
+"Tổ chức ra lệnh cho cậu, hãy hẹn hò với cô ấy, cậu có đồng ý không?"
+
+Tôi: ???
+
+"Báo cáo chính ủy, tôi đồng ý!"
+
+???
+
+Ủa, vậy là tôi đã có bạn trai rồi sao?
+`
+  },{
+    id: 486,
+    title: "Món Nợ Tình Cảm Của Đại Gia ",
+    image: "imgdam/52da6967d5b580591a638a18ebb347c1.jpg",
+    link: "dammy/mon-no-tinh-cam-cua-dai-gia.html",
+    type: "dammy",
+    desc: `Khi kênh livestream game của tôi cán mốc một triệu người theo dõi, tôi bốc trúng hình phạt là phải giả gái mặc nữ trang trong vòng một tiếng.
+
+Tôi cắn răng chịu nhục, khoác lên mình bộ đồ Lolita hồng xanh, đội thêm cả tóc giả cho đúng bài.
+
+Lúc chuẩn bị kết thúc buổi livestream, đại gia top một đột nhiên lên tiếng:
+
+“Đổi sang đồ hầu gái đi, tôi tặng cậu năm trăm cái pháo hoa liên tiếp.”
+
+Tôi bật cười, gõ phím đáp:
+
+“Thôi anh em ơi, cảm ơn thiện ý của anh nhé, khỏi cần đâu ạ.”
+
+Nhưng đời không như mơ, khi màn hình bị pháo hoa nổ liên tục, đẩy tôi thẳng lên vị trí top một, tôi biết mình thua thật rồi.
+
+Tôi nhắn tin riêng cho đại gia:
+
+“Anh zai ơi, tối nay tôi mặc riêng cho anh xem.”
+
+Đại gia trả lời ngắn gọn:
+
+“Không cần. Mở cửa đi, tôi đến xem trực tiếp đây.”
+
+Và thế là, đại gia xem tôi mặc đồ hầu gái liền năm tiếng đồng hồ.
+`
+  },{
+    id: 487,
+    title: "Mối Tình Đầu Của Đế Vương Đầy Mưu Kế",
+    image: "imgco/c43cef4846abb64c297a09f938653972.jpg",
+    link: "cotrang/moi-tinh-dau-cua-de-vuong-day-muu-ke.html",
+    type: "cotrang",
+    desc: `Năm ta tiến cung, ta vừa tròn mười bốn tuổi.
+
+Mọi người đều nghĩ rằng ta bị đích mẫu tính kế, bị ép tiến cung để giúp đích tỷ củng cố sủng ái. Nhưng chỉ có mình ta rõ, đây là kế hoạch mà ta đã dày công mưu tính từ lâu.
+
+Ta muốn vào cung, trở thành vị phi tần được sủng ái nhất, lật đổ Phó gia để báo thù cho mẫu thân của ta.
+`
+  },{
+    id: 488,
+    title: "Trò Cười Của Giới Thượng Lưu",
+    image: "imgngon/a8862b8dad00e6391650f194c959a7ab.jpg",
+    link: "ngontinh/tro-cuoi-cua-gioi-thuong-luu.html",
+    type: "ngontinh",
+    desc: `Trúc mã môn đăng hộ đối của Kinh Vãn Mặc yêu tiểu bạch hoa sống ở khu ổ chuột.
+
+Để cưới cô gái kia, Trì Nghiễn Châu chịu áp lực của tất cả mọi người trong gia tộc giải trừ hôn ước với Kinh Vãn Mặc.
+
+Quá đau lòng nên Kinh Vãn Mặc sang nước ngoài đào tạo chuyên sâu.
+
+Khi trở về nước, Trì Nghiễn Châu và Lâm Yên Tri đã kết hôn được gần hai năm.
+
+Còn Kinh Vãn Mặc cũng đã sớm buông bỏ tất cả chuyện cũ.
+
+Trong bữa tiệc chào đón Kinh Vãn Mặc, Trì Nghiễn Châu, người năm đó vì muốn ở bên Lâm Yên Tri mà sẵn sàng phản kháng cả thế giới, lại mang thần sắc lạnh lùng, ánh mắt chán ghét nhìn người con gái mình từng vất vả khổ sở mới cưới về, giọng điệu lạnh lùng: “Không phải bảo em ở nhà đợi sao? Tại sao lại chạy ra ngoài để mất mặt hổ thẹn chứ?”
+`
+  },{
+    id: 489,
+    title: "Tổng Giám Đốc Phải Ngủ Với Tôi Đêm Nay",
+    image: "imgdam/6bd2fc1ed2dc91720f0716a4b294d07e.jpg",
+    link: "dammy/tong-giam-doc-phai-ngu-voi-toi-dem-nay.html",
+    type: "dammy",
+    desc: `Tôi nằm bất động trên giường, ánh mắt đờ đẫn, lần thứ n đưa bàn tay run rẩy gõ dòng chữ lên công cụ tìm kiếm.
+
+“Vô tình hôn người ở quán bar gay, xong rồi phát hiện đó là sếp mới, tôi phải làm sao?”
+
+Phía dưới vẫn là những câu trả lời đều tăm tắp.
+
+“Ông anh ơi, nghe tôi khuyên này, đổi hành tinh khác sống đi, nghỉ việc đi.”
+
+Nghỉ việc.
+
+Nghỉ.
+
+Tôi bĩu môi, cái công cụ tìm kiếm này không đáng tin thật, sao lại có người đi khinh thường đồng tiền chứ.
+
+Dân làm thuê sống chết vì công việc, chỉ là một cuộc tình lãng mạn không hoàn hảo thôi mà, chẳng gì ngăn nổi tinh thần đi làm bất chấp mưa gió của tôi cả.
+`
+  },{
+    id: 490,
+    title: "Hoàng Thượng Nghe Được Tiếng Lòng Của Hậu Cung",
+    image: "imgco/de58b6886f0c0d666d301b1b7ad11dc9.jpg",
+    link: "cotrang/hoang-thuong-nghe-duoc-tieng-long-cua-hau-cung.html",
+    type: "cotrang",
+    desc: `Ta là hoàng đế của Nam Tường Quốc.
+
+Một ngày nọ, khi tỉnh dậy, ta phát hiện mình có thể nghe thấy tiếng lòng của các phi tần trong hậu cung.
+
+Phi tần yên tĩnh, ngoan ngoãn là Tĩnh phi thì thầm: 【Nước linh tuyền trong không gian thật tuyệt, nhân sâm trăm năm cứ thế mà lớn nhanh.】
+
+Phi tần xinh đẹp, quyến rũ là Lệ phi lại nghĩ: 【Mặt trời mọc ở đằng đông, lặn ở đằng tây, cha nào con nấy.】
+
+Phi tần kín đáo, trầm mặc là Ninh phi tự nhủ: 【Lâu như vậy mà độ chinh phục hoàng hậu mới chỉ là 1?】
+
+Hoàng hậu danh gia vọng tộc đầy ưu tư: 【Kiếp trước, cả nhà ta chết thảm, kiếp này…】
+
+Ai có thể giải thích cho trẫm, những điều quỷ quái gì đang xảy ra ở đây!?
+`
   },
 
 
