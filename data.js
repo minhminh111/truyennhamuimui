@@ -10137,6 +10137,220 @@ Hoàng hậu danh gia vọng tộc đầy ưu tư: 【Kiếp trước, cả nhà
 
 Ai có thể giải thích cho trẫm, những điều quỷ quái gì đang xảy ra ở đây!?
 `
+  },{
+    id: 491,
+    title: "Diễn Viên Lồng Tiếng Trở Thành Ảnh Hậu",
+    image: "imgngon/98256f8d826ed590baa7011d89a948a7.jpg",
+    link: "ngontinh/dien-vien-long-tieng-tro-thanh-anh-hau.html",
+    type: "ngontinh",
+    desc: `Bộ phim truyền hình của tiểu hoa đán mới nổi đã trở nên rất hot.
+
+Là người lồng tiếng chính cho cô ta, tôi đã cứu cô ta khỏi kỹ năng diễn xuất tệ hại, thế nhưng lại bị fan của cô ta chế giễu, sỉ nhục là đen và xấu, còn nói tôi ăn theo sự nổi tiếng của cô ta.
+
+Ồ, nếu đã như vậy, thì tôi bỏ cuộc luôn cho xong.
+
+Phim mới của tiểu hoa cần lồng tiếng sao?
+
+Không lồng, giọng tôi hỏng rồi.
+
+Phim cũ của tiểu hoa cần lồng tiếng để quảng bá?
+
+Xin lỗi, cái này tôi tính giá khác.
+
+Tiểu hoa tham gia show tạp kỹ cần người lồng tiếng đồng hành?
+
+Vậy sao? Tôi quá xấu, không gặp người được, xin lỗi nhé.
+
+Thế là, tiểu hoa với giọng khàn như vịt và kỹ năng đọc thoại siêu đơ đã sập phòng, fan của cô ta lại quay sang cầu xin tôi quay lại.
+
+Tôi không phải là bò, không ăn cái loại cỏ hối hận đó đâu nhé.
+
+Tôi lột xác, trở thành ngôi sao đỉnh cao được vạn người chú ý.
+`
+  },{
+    id: 492,
+    title: "Nắng Hạ Bên Anh",
+    image: "imgdam/5e36389031488244caa8cc2a07a0f21a.jpg",
+    link: "dammy/nang-ha-ben-anh.html",
+    type: "dammy",
+    desc: `Tất đen, tất trắng, kiểu xuyên thấu.
+
+Dưới sự đe dọa của chị gái, Chúc Thần Tinh trở thành người mẫu phần chân chuyên nghiệp cho cửa hàng bán tất online của chị.
+
+Ban ngày, Chúc Thần Tinh là sinh viên xuất sắc khoa Y trường A. Ban đêm, Chúc Thần Tinh khoác lên đôi chân những đôi tất mỏng manh làm người mẫu cho shop thời trang nữ có hàng triệu khách hàng.
+
+Sau khi bị bạn cùng phòng bắt gặp lúc đang thử đồ, cậu bạn lạnh lùng ấy ép Chúc Thần Tinh vào bàn học, ánh mắt tối tăm khó hiểu.
+
+Đầu ngón tay cậu lướt qua vùng nguy hiểm nơi Chúc Thần Tinh mang tất đen dài:
+
+Cố Tri Viễn: "Chúc Thần Tinh, cậu đang cố quyến rũ ai vậy?"
+`
+  },{
+    id: 493,
+    title: "Kế Hoạch Tái Hôn Của Nàng Dâu Hầu Phủ",
+    image: "imgco/801001b5c5813828327677c01a970c76.jpg",
+    link: "cotrang/ke-hoach-tai-hon-cua-nang-dau-hau-phu.html",
+    type: "cotrang",
+    desc: `Khi ta được gả vào nhà họ Mạnh làm kế thất, ta đã sớm biết rõ Mạnh Thiên Hành vô cùng thâm tình với người vợ đã khuất họ Cố.
+
+Hắn không chỉ nạp thứ muội của nàng ta làm quý thiếp, mà còn lập đứa con trai trưởng của Cố thị làm thế tử.
+
+"Muốn giữ được thân phận chủ mẫu, hãy uống bát này."
+
+Đêm động phòng, Mạnh Thiên Hành đứng bên cửa sổ, quay lưng về phía ta, trên bàn là một bát canh tuyệt tử đã nguội lạnh.
+
+Ta ngửa cổ uống cạn, không một chút do dự.
+
+Mạnh Thiên Hành ngạc nhiên ngoảnh lại.
+
+Không ngoài dự đoán, trong chốn nội viện này, bất kể được sủng ái nhiều hay ít, chỉ có con cái mới là quân bài để phụ nữ dựa vào.
+
+Mạnh Thiên Hành không tin, ta cũng chẳng màng.
+
+Nhưng ta gả đến đây, chưa từng hy vọng sẽ cùng hắn thiên trường địa cửu, quân bài này có hay không cũng chẳng quan trọng.
+`
+  },{
+    id: 494,
+    title: "Kẻ Thao Túng Phía Sau Hào Quang",
+    image: "imgngon/02fa0d17e21d2f9673418a3fd48fe3a9.jpg",
+    link: "ngontinh/ke-thao-tung-phia-sau-hao-quang.html",
+    type: "ngontinh",
+    desc: `Trong bữa tiệc sinh nhật, Lương Lễ, người chồng sắp cưới cũng là bạn thuở nhỏ của Lục Dao, mang theo một cô gái lạ mặt xuất hiện.
+
+Anh ta quả quyết rằng cô gái đó mang tâm hồn mạnh mẽ, kiên cường, trong sáng và toả nắng, rằng cô ấy chính là định mệnh thực sự của cuộc đời anh ta.
+
+Còn một cô gái trẻ đầy kiêu hãnh như Lục Dao sẽ không bao giờ trở thành vợ tương lai của Lương Lễ.
+
+Sự xuất hiện của cô gái đó đã trực tiếp phá hỏng bữa tiệc sinh nhật của Lục Dao.
+
+Lục Dao bàng hoàng phát hiện: cô gái đó chính là em gái ruột của chàng trai từng là bạn học của Lương Lễ mà Lương Lễ đã bắt nạt dẫn đến tàn phế.
+`
+  },{
+    id: 495,
+    title: "Thế Thân Của Thiếu Gia Nhà Giàu",
+    image: "imgdam/069617fef35d12823c149a2e9d829d83.jpg",
+    link: "dammy/the-than-cua-thieu-gia-nha-giau.html",
+    type: "dammy",
+    desc: `Vì tiền, tôi chấp nhận thay người khác đi liên hôn.
+
+Đối tượng liên hôn là một Alpha đỉnh cao với cái tính cách không thể nào tệ hơn.
+
+Đêm tân hôn, hắn lạnh lùng cảnh cáo tôi:
+
+"Cách xa tôi ra một chút, tôi không có hứng thú với loại người yếu ớt như cậu. Tôi chỉ thích beta mà thôi."
+
+Thế nhưng tôi lại ngây người, cứ đứng chôn chân nhìn chằm chằm vào gương mặt hắn.
+
+Bởi vì trước đó, khi tôi còn đeo mặt nạ và giả làm một beta…
+
+Chính hắn đã gọi tôi tới, còn cùng tôi lăn lộn cả đêm.
+`
+  },{
+    id: 496,
+    title: "Phu Quân Muốn Ta Nuôi Dưỡng Tình Nhân",
+    image: "imgco/d466e421ef06436a57cb571628e4677c.jpg",
+    link: "cotrang/phu-quan-muon-ta-nuoi-duong-tinh-nhan.html",
+    type: "cotrang",
+    desc: `Khắp kinh thành không ai là không biết, thầy dạy học cho Thái tử, Thái phó Thẩm Hoài An có một nữ tử được hắn trân quý như ngọc.
+
+Nàng tên là Tô Mạn Thù.
+
+Chỉ cần một ánh mắt, một nụ cười của nàng cũng đủ khiến hắn say mê đến mức nguyện hiến dâng cả sinh mệnh.
+
+Nhưng Hoàng thượng đã ban hôn, và ta lại trở thành thê tử của hắn.
+
+Ngày thành thân, nàng khoác trên mình bộ hồng y lộng lẫy, tự tin bước vào đại sảnh.
+
+"Thẩm lang thương ta nhất!"
+
+"Chàng từng nói rằng không thể cưới ta là điều tiếc nuối lớn nhất đời của chàng, giờ ta cũng xem như đã gả cho chàng rồi."
+
+Nét mặt nàng ngập tràn kiêu hãnh.
+
+Ta chỉ bình thản vén khăn voan, khẽ gật đầu về phía người đứng dưới sảnh.
+
+Trong thoáng chốc, hai nhóm thị vệ lập tức xông vào, chia làm hai đội.
+
+Chúng nhanh chóng bắt giữ cả hai người, khóa chặt tay. Kéo hai người lại gần nhau, ấn đầu xuống.
+
+Cử hành nghi lễ bái đường.
+
+Nếu đã tiếc nuối đến vậy thì ta sẽ giúp các ngươi viên mãn.
+`
+  },{
+    id: 497,
+    title: "Bạn Gái Cũ Của Em Trai",
+    image: "imgngon/66ca468e961c2a29ccd817c588c601aa.jpg",
+    link: "ngontinh/ban-gai-cu-cua-em-trai.html",
+    type: "ngontinh",
+    desc: `Trong chương trình trực tiếp, tôi phỏng vấn Thái tử gia Bắc Kinh, hỏi chuyện điên rồ nhất mà anh ấy từng làm.
+
+Thái tử gia cười:
+
+“Năm thứ ba sau khi chia tay, cô ấy nói nhớ tôi, trong đêm, tôi liền mua một chiếc máy bay, bay thẳng qua gặp cô ấy.”
+
+Tôi truy hỏi:
+
+“Vậy hai người hiện tại nhất định rất hạnh phúc đúng không?”
+
+Thái tử gia lại thở dài:
+
+“Ngày mà tôi bay qua đó, vừa vặn là hôn lễ của cô ấy, tôi tận mắt nhìn thấy cô ấy gả cho em trai trên danh nghĩa của tôi.”
+
+Tim tôi đập thình thịch, chiếc micro trong tay rơi xuống đất.
+
+Sau khi chương trình kết thúc, tôi về đến nhà, vừa vào cửa đã bị người ta đè lên tường.
+
+Thái tử gia ôm chặt lấy tôi, vừa hít hà vừa hôn:
+
+“Anh nghe nói hôm nay tỷ lệ người xem của chương trình bùng nổ.”
+
+“Vậy phải cảm ơn anh, anh trai.”
+`
+  },{
+    id: 498,
+    title: "Đêm Dài Bồi Thường Cho Em ",
+    image: "imgdam/391ee6a992b5f11a61e71ab1ed47549a.jpg",
+    link: "dammy/dem-dai-boi-thuong-cho-em.html",
+    type: "dammy",
+    desc: `Dì ghẻ mang theo đứa em trai có vẻ không thẳng cho lắm.
+
+Cậu ta mặc đồ của tôi, chui vào chăn tôi, còn lẻn hôn môi tôi.
+
+Thế nhưng vì tính cách quá giống nhau, cậu ta cứ lần lữa không chịu xác định quan hệ với tôi.
+
+Mãi cho đến một lần, tôi ôm một anh chàng đẹp trai về nhà ăn cơm.
+
+Ôn Doãn túm lấy tôi, ép tôi vào góc cầu thang rồi hôn điên cuồng.
+
+Như thể đã quyết tâm làm điều gì đó, cậu ta mở đôi môi mỏng:
+
+“Anh yêu, anh đuổi tên tiểu trà xanh kia đi được không?”
+`
+  },{
+    id: 499,
+    title: "Gấu Trúc Nhỏ Làm Nũng Hồ Ly Chín Đuôi",
+    image: "imgco/d3919c97840e6724cd359be945c3787a.jpg",
+    link: "cotrang/gau-truc-nho-lam-nung-ho-ly-chin-duoi.html",
+    type: "cotrang",
+    desc: `Ta đã theo chân một con cáo có bộ lông loang lổ từ lúc nó còn vô danh tiểu tốt cho đến ngày nó lên làm Vua của muôn thú.
+
+Giờ đây, nó lại quay đầu mang về một con Cửu Vĩ Hồ có bộ lông trắng như tuyết.
+
+Trọng Nam lên tiếng: "Phán Đức, bổn vương đã chịu đựng quầng thâm mắt của ngươi đủ lâu rồi."
+
+"Ngày ngày gặm nhấm đống trúc vô vị, chẳng có gì ngon lành trong mấy khúc tre khô đó cả."
+
+"Chỉ có Cảnh Nhuận, một kẻ ăn thịt đầy quyền uy mới đủ tư cách sánh vai với bổn vương!"
+
+"Từ giờ trở đi, Cảnh Nhuận sẽ là Vương hậu của bổn vương. Còn ngươi, chỉ đáng nâng giày cho nàng mà thôi!"
+
+Ta nghiêng đầu nhìn qua, đôi mắt bỗng sáng rực.
+
+Cửu Vĩ Hồ nổi danh với khả năng mê hoặc lòng người, thứ con cáo lông loang lổ kia mang về rõ ràng là một con hồ ly đực cấp cao, có hẳn chín cái đuôi, đúng là dòng dõi quý tộc của loài hồ ly!
+
+Nếu hắn hóa thành hình người cưỡi lên người ta thì đúng là nhất cử lưỡng tiện.
+`
   },
 
 
