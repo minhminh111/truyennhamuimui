@@ -10351,6 +10351,168 @@ Cửu Vĩ Hồ nổi danh với khả năng mê hoặc lòng người, thứ con
 
 Nếu hắn hóa thành hình người cưỡi lên người ta thì đúng là nhất cử lưỡng tiện.
 `
+  },{
+    id: 500,
+    title: "Người Cứu Chuộc Của Thiên Tài Bệnh Hoạn",
+    image: "imgngon/bc03361f982b2e61090202977f4672b8.jpg",
+    link: "ngontinh/nguoi-cuu-chuoc-cua-thien-tai-benh-hoan.html",
+    type: "ngontinh",
+    desc: `Sau khi kết hôn với Trì Ngôn Triệt, tôi mới biết anh ấy thực ra là thầy của giáo viên tôi, giáo sư vật lý trẻ nhất cả nước.
+
+"Thầy ơi, em có lỗi với thầy. Em thực sự không thể dạy vật lý cho sư mẫu được!"
+
+Trong bữa tiệc tri ân thầy cô, thầy tôi đã ôm lấy Trì Ngôn Triệt và thú nhận trong nước mắt.
+`
+  },{
+    id: 501,
+    title: "Vệ Sĩ Của Tôi Đã Phá Vỡ Quy Tắc",
+    image: "imgdam/71c5f5f7ba61dfcf47cda0ebcddb4554.jpg",
+    link: "dammy/ve-si-cua-toi-da-pha-vo-quy-tac.html",
+    type: "dammy",
+    desc: `Vệ sĩ của tôi từng là lính đánh thuê, một kẻ lạnh lùng, tàn nhẫn và luôn tuân thủ nguyên tắc.
+
+Đúng là một con chó ngoan ngoãn.
+
+Cũng chính vì lý do đó mà tôi, một Omega, mới dám để một Alpha như hắn ở bên cạnh mình.
+
+Tôi chỉ đưa ra một yêu cầu duy nhất:
+
+“Canh giữ tôi, không rời nửa bước.”
+
+Thế nhưng đêm đó, con chó ngoan ấy đã quật ngã chủ nhân.
+
+Vòng ngăn cắn bị hắn giật đứt.
+`
+  },{
+    id: 502,
+    title: "Ngoảnh Lại Khôn Nguôi Kiếp Này Đoạn Tuyệt",
+    image: "imgco/b75f96e3e89c741aa4ffdef0aab818e3.jpg",
+    link: "cotrang/ngoanh-lai-khon-nguoi-kiep-nay-doan-tuyet.html",
+    type: "cotrang",
+    desc: `10 năm công lược Hạ Tuân, ngoài ta ra, thiên hạ này còn ai xứng đáng trở thành Hoàng Hậu của y.
+
+Thế nhưng, y lại phong cho người khác làm Hoàng Hậu.
+
+Tân Hoàng Hậu dựa sát bên cạnh y, chỉ tay về phía ta, ngạo mạn nói một cách tuỳ ý:
+
+【“Thần thiếp chán ghét thấy ả, Hoàng Thượng đày ả vào lãnh cung được không?”】
+
+Hạ Tuân chỉ liếc mắt nhìn ta một cái, thản nhiên buông lời:
+
+【“Đều theo ý nàng.”】
+
+Ta quỳ sụp xuống, cung kính tạ Thánh ân.
+
+Y bỗng cau mày hỏi: 【“Ngươi tại sao không tranh?”】
+
+Y đâu biết rằng, hệ thống phán định nhiệm vụ công lược của ta đã thất bại, vạt áo thời gian của ta chẳng còn lại bao nhiêu ngày.
+
+Một người sắp chết như ta, còn có cái gì để tranh giành chứ?
+`
+  },{
+    id: 503,
+    title: "Cuốn Sổ Bí Ẩn Kết Nối Hai Thời Không",
+    image: "imgngon/40ae25bebc1bd58ae07c87ba5cbfa4c2.jpg",
+    link: "ngontinh/cuon-so-bi-an-ket-noi-hai-thoi-khong.html",
+    type: "ngontinh",
+    desc: `Trên đường về nhà sau khi bị làm nhục, tôi nhặt được một cuốn sổ tay không có tên.
+
+Tôi coi nó như là nhật ký và viết xuống những nỗi ấm ức mà tôi phải chịu đựng.
+
+Đột nhiên, cuốn sổ tự mình viết ra một dòng chữ.
+
+【Hãy đến trường Trung học Lĩnh Nam, tìm Lưu Hạ, anh ấy sẽ giúp bạn.】
+`
+  },{
+    id: 504,
+    title: "Hoàng Trưởng Tử Dụ Dỗ Thẩm Phán Quyền Lực",
+    image: "imgdam/ee94338a85b56f616e89a037e4a237f7.jpg",
+    link: "dammy/hoang-truong-tu-du-do-tham-phan-quyen-luc.html",
+    type: "dammy",
+    desc: `Tôi là Đại hoàng tử Omega của Đế quốc.
+
+Vì bị kẻ gian bỏ thuốc vào rượu, tôi bất ngờ lăn giường với một người lạ mặt.
+
+Sau đêm đó tôi mất trí nhớ, rồi lại rơi vào tay người của Liên minh.
+
+Vị đại lão từng bị tôi hại khổ sở cầm roi da quất xuống, giọng đầy hằn học: "Che làm gì?"
+
+"Trong ngực giấu bảo bối gì thế, đưa tôi xem."
+
+Hắn cúi đầu nhìn thấy bụng tôi hơi nhô lên, ánh mắt thoáng ngừng rồi ngẩng lên đầy hoài nghi: "Ừm, chỗ này của em sao lại sưng to thế?"
+`
+  },{
+    id: 505,
+    title: "Sát Thủ Xuyên Không Muốn Nghỉ Việc",
+    image: "imgco/a5bf5f967ea8ad48d24bc77c297273ea.jpg",
+    link: "cotrang/sat-thu-xuyen-khong-muon-nghi-viec.html",
+    type: "cotrang",
+    desc: `Nếu kẻ đọc tiểu thuyết cổ trang, ắt hẳn chẳng còn xa lạ chi với tình tiết này.
+
+Sát thủ rút đao nhắm thẳng về phía nam chính, trong lúc ngàn cân treo sợi tóc, nữ chính lao lên chắn một nhát kiếm thay cho người thương, nàng ngã vào lòng nam chính, còn nam chính nôn nóng gọi tên nàng trong tuyệt vọng.
+
+Khi ta xuyên không đến thế giới này, kịch bản cũ kỹ đó đang diễn ra ngay trước mắt.
+
+Ngươi nghĩ ta là nữ chính sao?
+
+Không, ta không phải.
+
+Ta tất nhiên cũng chẳng phải nam chính.
+
+Ta chính là kẻ sát thủ kia.
+`
+  },{
+    id: 506,
+    title: "Anh Trai Thái Tử Gia Vả Mặt Trà Xanh",
+    image: "imgngon/36530acc84d4e6c7af197486db7ad14c.jpg",
+    link: "ngontinh/anh-trai-thai-tu-gia-va-mat-tra-xanh.html",
+    type: "ngontinh",
+    desc: `Anh tôi là nam chính trong tiểu thuyết, còn tôi là nữ phụ độc ác.
+
+Nữ chính xuyên không yêu kiều xinh đẹp, anh tôi sẽ bất chấp tình thân vì cô ta, giết tôi, khiến bố mẹ tôi tức chết.
+
+Cô gái xuyên không đắc ý: “Mọi thứ của cô đều là của tôi.”
+
+Ngay giây sau, anh tôi đẩy cửa vào.
+
+“Cái gì cũng là của cô hả, thể diện của cô to thế cơ à? Đồ mặt trơ trán bóng, không biết xấu hổ!”
+
+Ngốc hả, cốt truyện không thể ràng buộc được chó hoang tuột xích như anh tôi.
+`
+  },{
+    id: 507,
+    title: "Ép Hôn Với Alpha Tôi Thấy Được Bình Luận Tương Lai",
+    image: "imgdam/fcf115225b305f63adf52a6cd46f4e04.jpg",
+    link: "dammy/ep-hon-voi-alpha-toi-thay-duoc-binh-luan-tuong-lai.html",
+    type: "dammy",
+    desc: `Đang ép Thẩm Trị lên tường mà hôn lấy hôn để, trước mắt tôi đột nhiên hiện ra một loạt bình luận:
+
+【Pheromone của Omega này chắc làm Thẩm Trị muốn nôn quá rồi.】
+
+【Chả trách sau khi nổi tiếng, việc đầu tiên cậu ấy làm là trả thù hắn ta. Đúng là đáng đời!】
+
+“?”
+
+Hình như đang nói tôi… Tôi lập tức buông Thẩm Trị ra ngay.
+
+Nhiều năm sau gặp lại, tôi bị trói chặt hai tay vào chiếc ghế trong phòng thẩm vấn.
+`
+  },{
+    id: 508,
+    title: "Tỷ Tỷ Cứu Đế Vương Lưu Lạc",
+    image: "imgco/6d32932afc9f8d7a6c174780db340e23.jpg",
+    link: "cotrang/ty-ty-cuu-de-vuong-luu-lac.html",
+    type: "cotrang",
+    desc: `Ta vốn là thứ nữ trong phủ Tể tướng, lúc quốc nạn xảy ra, ta chia chút lương khô ít ỏi cho một kẻ ăn mày bên đường.
+
+Trong khi đó, tỷ tỷ thân sinh của ta dẫn theo gia đình đầu quân cho vị tướng quân.
+
+Về sau, kẻ ăn mày ấy nổi dậy, cướp lấy ngôi vị, phong ta làm Hoàng hậu, mẫu nghi thiên hạ.
+
+Còn tỷ tỷ ta bị ép làm quân kỹ, mỗi ngày phải tiếp đón hàng trăm người, sống chẳng bằng chết.
+
+Kiếp này sống lại, ta lại thấy tỷ tỷ một lần nữa vươn tay, đánh rơi bánh bao của ta, rồi đưa bánh ngọt tinh xảo cho kẻ ăn mày: "Ăn đi, nếu chưa đủ, ở đây còn."
+`
   },
 
 
