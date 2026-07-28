@@ -10513,6 +10513,188 @@ Còn tỷ tỷ ta bị ép làm quân kỹ, mỗi ngày phải tiếp đón hàn
 
 Kiếp này sống lại, ta lại thấy tỷ tỷ một lần nữa vươn tay, đánh rơi bánh bao của ta, rồi đưa bánh ngọt tinh xảo cho kẻ ăn mày: "Ăn đi, nếu chưa đủ, ở đây còn."
 `
+  },{
+    id: 509,
+    title: "Đỉnh Cao Danh Vọng Của Nữ Nhà Văn",
+    image: "imgngon/e84cdf06152a8f37f9b8240086796141.jpg",
+    link: "ngontinh/dinh-cao-danh-vong-cua-nu-nha-van.html",
+    type: "ngontinh",
+    desc: `Chị gái sinh đôi của Khương Huỳnh là một thiên tài, còn Khương Huỳnh thì tư chất bình thường.
+
+Khi Khương Huỳnh còn đang thức khuya học bài để thi đậu trường đại học 211, chị gái Khương Nguyệt đã được tuyển thẳng vào Đại học Thanh Hoa.
+
+Ba Khương Huỳnh còn lén nói sau lưng Khương Huỳnh:
+
+"Sinh cùng một ngày mà sao khác biệt lớn thế, khi nào ba ôm nhầm con không?"
+
+Họ hàng không thích thì mỉa mai:
+
+"Đứa nhỏ này không có thiên phú, có cố gắng thế nào cũng không bằng chị nó."
+
+Sau đó, thậm chí ngay cả bạn trai Chu Hoài cũng bắt đầu quay lưng về phía Khương Nguyệt.
+
+Chu Hoài nói:
+
+"Cả chị ruột của mình mà em cũng ghen tị, em thật đáng sợ."
+
+Khương Nguyệt thì nhạo báng:
+
+"Em mãi mãi không thể thắng được chị."
+
+"Chấp nhận số phận đi, em gái."
+
+Thế nhưng, Khương Huỳnh không chấp nhận số phận.
+`
+  },{
+    id: 510,
+    title: "Cậu Bạn Cùng Bàn Đáng Ghét Thích Cắn Tôi",
+    image: "imgdam/57ecbdb92d62534061c8a4df715691ef.jpg",
+    link: "dammy/cau-ban-cung-ban-dang-ghet-thich-can-toi.html",
+    type: "dammy",
+    desc: `Tôi có thói quen cắn đầu bút.
+
+Cậu bạn cùng bàn lạnh lùng luôn giật bút khỏi tay tôi: “Đừng cắn.”
+
+Tôi bực mình: “Có phải bút của cậu đâu.”
+
+Lý Minh Tiêu nói: “Vậy thì cắn bút của tôi đi.”
+
+Tôi sững người một giây, suýt nữa lật tung cả bàn học của cậu ta.
+
+Biến thái, biến thái, đúng là đồ biến thái.
+
+Sau này, tôi bị ba đuổi ra khỏi nhà, Lý Minh Tiêu nhặt tôi về, bộ mặt thật lộ ra: “Cậu đối xử với tôi như thế, vậy mà tôi vẫn thu nhận cậu, chẳng lẽ cậu không phải trả giá gì sao?”
+
+Người ở dưới mái hiên, không thể không cúi đầu.
+
+Tôi nhục nhã hỏi: “Cậu muốn thế nào?”
+
+Cậu ta ghé sát tai tôi: “Cậu chẳng phải rất thích cắn đồ sao?”
+`
+  },{
+    id: 511,
+    title: "Nợ Một Đời Bình An",
+    image: "imgco/d05963ac59850cad1f312c06b489ebd2.jpg",
+    link: "cotrang/no-mot-doi-binh-an.html",
+    type: "cotrang",
+    desc: `Ta và tỷ tỷ từ nhỏ đã tranh đấu không ngừng.
+
+Tỷ tỷ từng cứu ta một lần, ta cũng phải giúp tỷ ấy một lần; tỷ tỷ chinh chiến sa trường, ta liền trị quốc an bang; tỷ tỷ phú giáp thiên hạ, ta liền nắm quyền thế ngập trời.
+
+Muốn thắng ta sao? Nào, cùng nhau so tài nào!
+`
+  },{
+    id: 512,
+    title: "Công Lược Thất Bại Nam Chính Bị Xóa Bỏ",
+    image: "imgngon/13083e16df800985f0929fae2bae8089.jpg",
+    link: "ngontinh/cong-luoc-that-bai-nam-chinh-bi-xoa-bo.html",
+    type: "ngontinh",
+    desc: `Công lược Chu Hành hai mươi lăm năm, cuối cùng tôi cũng khiến anh cầu hôn.
+
+Ngày diễn ra hôn lễ, bạch nguyệt quang của Chu Hành đến cướp hôn.
+
+“Chu Hành, em đánh cuộc thắng rồi! Em và Quý Vi ly hôn đi, đừng kết hôn nữa!”
+
+Tôi cầu xin Chu Hành đừng nghe cô ta, nhưng anh vẫn gật đầu.
+
+“Công lược thất bại, nam chính sẽ bị xóa bỏ.”
+
+Một giây sau, Chu Hành chết trong lòng bạch nguyệt quang.
+`
+  },{
+    id: 513,
+    title: "Giam Cầm Trái Tim Cậu Thiếu Gia Điên Loạn",
+    image: "imgdam/3ced9d2b8727a85770a5628dedaf7cf7.jpg",
+    link: "dammy/giam-cam-trai-tim-cau-thieu-gia-dien-loan.html",
+    type: "dammy",
+    desc: `Vì tiền thuốc men chữa bệnh cho mẹ, tôi quyết định đến chăm sóc cậu thiếu gia tính khí thất thường, bệnh hoạn đó.
+
+Cậu ta trời sinh đã mang bản chất xấu xa, ném chuột vào tôi, bỏ đá vào cơm tôi ăn.
+
+Năm mười tám tuổi, tôi trở thành món quà sinh nhật của cậu ta, và từ đó trở thành bạn tình trên giường của cậu ta.
+
+Sau này, mẹ tôi khỏi bệnh, tôi lập tức xin nghỉ việc, bỏ trốn khỏi thành phố ấy.
+
+Thế nhưng, khi mở cửa căn nhà mới, tôi thấy Phó Tuần đang ngồi ngay ngắn trên ghế sofa.
+`
+  },{
+    id: 514,
+    title: "Bánh Trôi Rượu Nếp Ngày Đông",
+    image: "imgco/515fd175e3bbb762f053f58ba165ae78.jpg",
+    link: "cotrang/banh-troi-ruou-nep-ngay-dong.html",
+    type: "cotrang",
+    desc: `Sau khi chuộc thân khỏi Tống gia, ta mở một tiệm bánh ngọt nhỏ ở thành Tây.
+
+Hàng ngày, công việc của ta chỉ xoay quanh việc nhào bột, hấp bánh, đón khách và giao hàng. Cuộc sống cứ thế trôi qua trong bình yên và an nhàn.
+
+Thế nhưng, vào một đêm giông bão, con trai cả của chủ cũ đột nhiên gõ cửa nhà ta.
+
+Hắn còn ôm trong ngực một bé gái ba tuổi.
+
+“An Ý cô nương, gia đình ta gặp biến cố lớn, tình cảnh nguy cấp, không có ai trông nom, liệu cô nương có thể tạm thời chăm sóc con bé một thời gian được không?”
+
+Ta chỉ do dự một lát rồi đáp: “Được.”
+
+Dẫu sao Tống gia cũng có ơn tái tạo với ta, ta không thể để lương tâm cắn rứt.
+
+Mười năm trôi qua, ta trông coi tiệm bánh ngọt, nhìn bé gái khi xưa lớn lên thành thiếu nữ xinh xắn, đợi ngày Tống gia khôi phục dáng vẻ thuở ban đầu.
+
+Ta nghĩ mình đã đền đáp xong ân tình, đến lúc nên cân nhắc chuyện cả đời của bản thân.
+
+Nào ngờ vào ngày xem mắt, con trai cả của Tống gia mặc bộ quan phục màu đỏ thẫm, đứng thẳng tắp trong viện nhà ta.
+
+Ánh mắt sắc bén của hắn quét qua, dọa ta sợ hãi như đứng trên bàn chông, hắn cất lời: “Ta đến kiểm tra vị hôn phu của ngươi.”
+`
+  },{
+    id: 515,
+    title: "Sói Tuyết Lạnh Lùng Và Cuộc Tình Mới Của Cô Chủ Nhỏ",
+    image: "imgngon/f64fa3006599a077fdfd4bee40be8b3c.jpg",
+    link: "ngontinh/soi-tuyet-lanh-lung-va-cuoc-tinh-moi-cua-co-chu-nho.html",
+    type: "ngontinh",
+    desc: `Tôi vẫn luôn cho rằng bản tính của nhân thú trời sinh vốn dĩ lãnh đạm, cho nên Liễu Vũ mới thích chạm vào Lạc Bắc.
+
+Sau này mới nhận ra, hóa ra là oán hận.
+
+Oán hận vì nhận nuôi sai lầm.
+
+Hóa ra cặp sinh đôi sói lang ngã trên nền tuyết dày chỉ còn hơi thở tàn lại yêu chị họ ngay từ cái nhìn đầu tiên.
+
+Liễu Vũ chưa bao giờ là sự cứu rỗi của họ cả.
+`
+  },{
+    id: 516,
+    title: "Ngày Tháng Dưỡng Thành",
+    image: "imgdam/6f107b8d022a9066849f74c58890048d.jpg",
+    link: "dammy/ngay-thang-duong-thanh.html",
+    type: "dammy",
+    desc: `Khi bị đứa trẻ ta nhặt về từ bé đè trên giường, ta đã khuyên nhủ hắn bằng cả tấm lòng.
+
+"Ta lớn hơn ngươi nhiều tuổi, sự quan tâm của ngươi bây giờ chỉ là do ơn nghĩa nuôi dưỡng. Ngươi chưa phân biệt được ân tình với tình yêu, hiện tại chỉ là đang lệ thuộc vào ta thôi."
+
+Hắn gật đầu ngoan ngoãn, chẳng biết nghe hiểu được bao nhiêu.
+
+Ta thở phào nhẹ nhõm: "Vậy bây giờ, ngươi có thể đừng cởi quần của ta được không?"
+`
+  },{
+    id: 517,
+    title: "Kiếp Này Nguyện Làm Minh Châu Của Người",
+    image: "imgco/95b23e2851d95174d49b2079d2f93993.jpg",
+    link: "cotrang/kiep-nay-nguyen-lam-minh-chau-cua-nguoi.html",
+    type: "cotrang",
+    desc: `Ta là đứa con gái nghịch tử của đại gian thần, lúc này đây đang hạ quyết tâm cưỡng ép chiếm đoạt vị vương gia kia.
+
+Vì muốn có được chàng, ta đã lén hạ dược để gạo nấu thành cơm với chàng.
+
+Ai ngờ vừa mới chui vào trong chăn, vô số người đã ùa vào phòng hô hào bắt gian tại trận.
+
+“Danh tiết của ta đã mất hết rồi, nàng phải chịu trách nhiệm với ta.” Người nằm bên cạnh ôm chầm lấy ta với vẻ mặt vô cùng đáng thương.
+
+Quy trình bắt gian thì đúng là như vậy, nhưng sao giọng nói này lại nghe lạ thế nhỉ?
+
+Ta ngẩng đầu lên, đối diện ngay với ánh mắt đầy vẻ rưng rưng của vị vương gia đang đứng ở ngoài cửa: “Người nằm trên giường kia đáng lẽ ra phải là ta mới đúng.”
+
+Khoan đã, vậy thì kẻ đang nằm trong chăn của ta là ai thế này?
+`
   },
 
 
