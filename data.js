@@ -10695,6 +10695,180 @@ Ta ngẩng đầu lên, đối diện ngay với ánh mắt đầy vẻ rưng r�
 
 Khoan đã, vậy thì kẻ đang nằm trong chăn của ta là ai thế này?
 `
+  },{
+    id: 518,
+    title: "Nợ Thanh Xuân Trả Bằng Tội Ác",
+    image: "imgngon/1c454e3b6307e7743342fe1d94de4e34.jpg",
+    link: "ngontinh/no-thanh-xuan-tra-bang-toi-ac.html",
+    type: "ngontinh",
+    desc: `Tôi đang đắm chìm trong hạnh phúc khi sắp cùng bạn trai gắn bó bốn năm chuẩn bị kết hôn thì mối tình đầu của Chu Nguyên Khải dắt một bé gái đến gõ cửa nhà.
+
+Lúc đó tôi mới nhận ra bản chất con người Chu Nguyên Khải thật kinh khủng.
+`
+  },{
+    id: 519,
+    title: "Đại Cao Thủ Trong Game Lại Là Bạn Cùng Phòng Của Tôi ",
+    image: "imgdam/33361086ff150bdac82e7401414dfd68.jpg",
+    link: "dammy/dai-cao-thu-trong-game-lai-la-ban-cung-phong-cua-toi.html",
+    type: "dammy",
+    desc: `Vì muốn leo rank trong trò chơi PUBG, tôi đã bắt đầu một mối quan hệ qua mạng với một sinh viên đại học.
+
+Trong game, tôi dùng bộ biến giọng để giả giọng nữ, liên tục nói chuyện ngọt ngào và tán tỉnh.
+
+"Anh ơi, em muốn cây AWM."
+
+"Em bị mất máu rồi, đau quá, anh bảo vệ em nhé."
+
+Tôi khiến Chu Kỳ đỏ mặt và không thể tập trung.
+
+Cho đến khi người bạn cùng phòng, mà tôi chưa bao giờ gặp mặt, chuyển về phòng ký túc xá, tôi mới phát hiện ra đối tượng hẹn hò qua mạng của mình thực ra là nam thần của trường, Chu Kỳ.
+
+Đêm khuya, khi chơi game đôi với Chu Kỳ, tôi chỉ dám nhắn tin, không dám nói gì.
+
+Ngay lúc đó, giọng nói lạnh lùng từ giường bên cạnh cũng xuất hiện trong tai nghe: "Em yêu, em bị câm rồi sao?"
+
+Tôi: "..."
+
+Sau đó, Chu Kỳ ép tôi nằm trên giường, giọng nói của tôi trở nên đứt quãng và yếu ớt: "Gọi một tiếng ông xã nữa, hửm?"
+`
+  },{
+    id: 520,
+    title: "Phượng Hoàng Trong Lửa Đỏ",
+    image: "imgco/5cbcde98abe948008a92944391acefe1.jpg",
+    link: "cotrang/phuong-hoang-trong-lua-do.html",
+    type: "cotrang",
+    desc: `Ngày Dịch phu nhân của phủ Tướng quân hạ sinh con gái, bầu trời khắp kinh thành ngập tràn những áng mây hồng, kim quang chiếu rọi khắp căn phòng.
+
+Một đạo sĩ vân du đi ngang qua, nhìn thấy cảnh tượng ấy liền lớn tiếng hô to: "Đây là điềm đại cát, tựa như có hình bóng của Phượng Hoàng giáng thế."
+
+Tuy nhiên, vị đạo sĩ ấy lại không ngờ được, bào thai của nhà họ Dịch thực chất là một đôi song sinh. Chúng nhân nghe vậy đều cười giễu cợt: "Phượng Hoàng cao quý sao có thể xuất hiện hai con cùng một lúc?"
+
+Thế là, kẻ bị coi là lừa đảo ấy bị đuổi ra khỏi kinh thành một cách đầy phũ phàng.
+
+Chỉ có ta mới biết rằng, những lời hắn nói đều là sự thật hiển nhiên.
+`
+  },{
+    id: 521,
+    title: "Đừng Coi Thường Nạn Nhân Sau Bi Kịch",
+    image: "imgngon/19eb964e17a4ae1ccd4e8f8f8bc5f318.jpg",
+    link: "ngontinh/dung-coi-thuong-nan-nhan-sau-bi-kich.html",
+    type: "ngontinh",
+    desc: `Sau khi gặp chuyện, Cố Trạch Xuyên khóa chiếc xe đua, nhuộm tóc đen và bỏ thuốc lá.
+
+Từ một thiếu gia ngang tàng của nhà họ Cố, Cố Trạch Xuyên trở thành một Cố tổng trưởng thành và chu đáo.
+
+Cố Trạch Xuyên dành toàn bộ tâm trí và sức lực để ở bên cạnh và chăm sóc Lâm Lộ Thu.
+
+Mọi người đều cho rằng Cố Trạch Xuyên yêu Lâm Lộ Thu đến tận xương tủy.
+
+Cho đến khi trong lễ cưới của chúng tôi, một cô gái lao lên sân khấu nhục mạ Lâm Lộ Thu bằng những lời lẽ phỉ báng.
+
+"Đừng tưởng cô ta trong sạch, khi cô ta bị bắt cóc, cô ta liệu còn trong sạch không, cô ta còn mặt mũi để kết hôn?"
+
+"Cô ta tự gặp xui xẻo thì thôi, tại sao lại ép buộc một người đàn ông tốt chứ?"
+
+Cô gái đó chính là trợ lý nhỏ mà Cố Trạch Xuyên từng đuổi việc ngay trước mặt Lâm Lộ Thu.
+`
+  },{
+    id: 522,
+    title: "Rắn Nhỏ Ngốc Nghếch Của Ảnh Đế",
+    image: "imgdam/42f792edff0037591008cc476f059f87.jpg",
+    link: "dammy/ran-nho-ngoc-nghech-cua-anh-de.html",
+    type: "dammy",
+    desc: `Tôi là một con rắn, để vượt qua mùa đông, tôi đã giả làm rắn cái và dựa vào một con rắn đực để sưởi ấm.
+
+Mùa xuân đã đến, tôi hân hoan chuẩn bị rời đi: "Thật ra tôi cũng là rắn đực, không thể làm vợ của Lục Huyền được, tôi đi đây."
+
+Nhưng Lục Huyền lại quấn chặt tôi.
+
+"Đã dính vào rồi, giờ mới nói với tôi là rắn đực à? Muộn rồi, rắn đực cũng phải làm vợ của tôi!"
+`
+  },{
+    id: 523,
+    title: "Đời Này Kiếp Này Chỉ Có Người",
+    image: "imgco/e84e0d0343ffef849f7d977d6d8c1fd6.jpg",
+    link: "cotrang/doi-nay-kiep-nay-chi-co-nguoi.html",
+    type: "cotrang",
+    desc: `Mẹ và cha đem ta đi cầm cố, đây là lần thứ ba mẹ và cha cho kẻ khác thuê ta.
+
+Cha cầm năm lượng bạc trong tay, túm lấy tóc ta rồi gầm lên, bảo mẹ nhất định phải sinh được con trai cho người thuê.
+
+Ngày hôm ấy, khi cha rời đi, vì tức giận chuyện mẹ lén uống thêm một bát cháo, ông đã tát mạnh một cái khiến mẹ chết ngay tại chỗ.
+
+Ông tiện tay vứt xác mẹ xuống mương nước hôi thối bên đường, rồi cười cợt với một gã đàn ông ngang qua:
+
+"Con bé này bảy tuổi, nuôi thêm ba năm nữa là có thể sinh con cho ngươi được rồi."
+
+Ta hoảng loạn bỏ chạy, đâm sầm vào kiệu của huyện thái gia, bắt chước như trong vở tuồng thường xem mà quỳ rạp xuống trước kiệu:
+
+"Xin đại lão gia minh xét mà cứu mạng con."
+
+Cái quỳ đó, ta định sẵn cả đời này sẽ làm trâu làm ngựa theo lão gia.
+`
+  },{
+    id: 524,
+    title: "Nơi Chữa Lành Cho Nô Lệ Tư Bản",
+    image: "imgngon/ada80f61a7daca3a60e58e3c552dda86.jpg",
+    link: "ngontinh/ve-chua-lam-cong-cho-duc-phat.html",
+    type: "ngontinh",
+    desc: `Tôi tìm được việc ở chùa: Lương tháng 15 triệu, nghỉ cuối tuần, bảo hiểm 7 loại và quỹ nhà ở, bao ăn ở, KPI tùy duyên.
+
+Tôi tràn đầy nhiệt huyết.
+
+Ngày nào tôi cũng làm thêm giờ, quyết tâm xây dựng và phát triển ngôi chùa.
+
+Nhưng rồi, trụ trì của chùa, từng là một lập trình viên 28 tuổi, chạm vào cái đầu bóng loáng của mình và khuyên tôi:
+
+"Tại chùa Phàm Duyên, kiên quyết phản đối văn hóa làm việc đến kiệt sức!"
+`
+  },{
+    id: 525,
+    title: "Thiếu Gia Giả Đòi Cướp Tôi Làm Của Riêng",
+    image: "imgdam/9260b976d48e765e27028fec87a34408.jpg",
+    link: "dammy/thieu-gia-gia-doi-cuop-toi-lam-cua-rieng.html",
+    type: "dammy",
+    desc: `Sống đến mười tám tuổi tôi mới biết mình là con trai của một tỷ phú.
+
+Ngày đầu tiên trở về nhà, tôi hung hăng cảnh cáo tên thiếu gia giả:
+
+“Đừng có mơ tưởng giành bố mẹ và gia sản với tôi.”
+
+Sau đó, tôi ôm mông chửi hắn:
+
+“Ngay cả tôi mà anh cũng muốn giành à.”
+`
+  },{
+    id: 526,
+    title: "Hoàng Hậu Giả Vờ Mất Trí Nhớ Để Trị Hoàng Thượng",
+    image: "imgco/ec3fc97dd005e79fb0228a7887dbcb50.jpg",
+    link: "cotrang/hoang-hau-gia-vo-mat-tri-nho-de-tri-hoang-thuong.html",
+    type: "cotrang",
+    desc: `Đêm Hoàng thượng cưới tiểu thư nhà Thừa tướng, thế nhân đều đồn đại Hoàng hậu đã phát điên.
+
+Các cung nữ tụ tập dưới gốc cây bồ đề trăm tuổi ở điện Đoan Dương, ai nấy đều hoảng hốt không thôi.
+
+"Hoàng hậu nương nương, người mau xuống đi, trên đó quá nguy hiểm!"
+
+"Hoàng hậu nương nương, chắc chắn Hoàng thượng có nỗi khổ tâm, người hãy nghe ngài ấy giải thích mà!"
+
+Ta nghe thấy những tiếng gọi ríu rít, đầy vẻ lo lắng của các cung nữ dưới kia, trong lòng chỉ cảm thấy ồn ào, khó chịu.
+
+Ta liền đưa tay ngoáy tai, dõng dạc nói lớn:
+
+"Hoàng thượng thấy người mới lại nới người cũ, vứt bỏ vợ con, hôm nay bổn cung sẽ nhảy xuống đây, đập đầu vào đất, sau đó mất trí nhớ, quên luôn tên phản phu bạc nghĩa kia!"
+
+"Hoàng hậu nương nương, người hãy suy nghĩ lại đi!"
+
+"Hoàng hậu nương nương, trong truyện chỉ là hư cấu thôi, người chỉ bị gãy tay gãy chân chứ không mất trí nhớ đâu!"
+
+Nghe vậy, ta bắt đầu do dự, dù sao thì gãy tay gãy chân cũng chẳng phải chuyện hay ho gì.
+
+Đương lúc ta còn đang do dự, thái giám chợt hét lên một tiếng: "Hoàng thượng giá đáo", làm ta giật mình trượt chân, ngã xuống.
+
+Một loạt âm thanh hỗn loạn ập vào tai ta, chất lỏng ấm nóng chảy xuống trán, ta chỉ kịp cảm thấy mình đã được ai đó ôm lấy, mơ màng nghe thấy một câu: "Đốt hết tất cả sách truyện trong cung cho trẫm!"
+
+Ý thức dần mơ hồ, ta gục đầu vào cổ người đó rồi chìm vào giấc ngủ sâu.
+`
   },
 
 
