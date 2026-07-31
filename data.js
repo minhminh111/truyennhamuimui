@@ -10869,6 +10869,201 @@ Một loạt âm thanh hỗn loạn ập vào tai ta, chất lỏng ấm nóng c
 
 Ý thức dần mơ hồ, ta gục đầu vào cổ người đó rồi chìm vào giấc ngủ sâu.
 `
+  },{
+    id: 527,
+    title: "Xuyên Không Trở Thành Người Giúp Việc Của Tổng Tài Hắc Hóa",
+    image: "imgngon/1ec191f4daff0b602dcd468b6c221a42.jpg",
+    link: "ngontinh/xuyen-khong-tro-thanh-nguoi-giup-viec-cua-tong-tai-hac-hoa.html",
+    type: "ngontinh",
+    desc: `Tôi xuyên sách rồi. Điều khiến tôi sốc tận óc chính là việc mình xuyên thẳng lên giường trùm phản diện.
+
+Lúc này, tôi đang nằm đè lên người Cố Trần mà không dám nhúc nhích. Nhưng dù sao thì trọng lượng của một người trưởng thành cũng không phải là chuyện đùa.
+
+Thiếu niên sở hữu dung mạo tuấn lãng khẽ động cánh tay, sau đó hàng mi dài như lông vũ của hắn khẽ run lên.
+
+Bốn mắt nhìn nhau, tôi lúng túng chào hỏi:
+"Xin chào."
+
+Cố Trần dụi dụi mắt, sững sờ.
+
+Tôi cũng sững sờ không kém.
+
+Một là vì nhan sắc đẹp đến mức kinh thiên động địa của Cố Trần, hai là vì trong nguyên tác miêu tả Cố Trần là một kẻ cố chấp và tàn nhẫn vô cùng.
+
+Tôi cứ thế bất ngờ xuất hiện trên giường hắn.
+
+Ai hiểu cho nỗi lòng của tôi lúc này không cơ chứ.
+
+Tôi thật sự sợ giây tiếp theo sẽ bị hắn bóp chết.
+
+Thế nhưng hình như tôi đã suy nghĩ quá nhiều rồi. Đôi mắt Cố Trần bỗng sáng rực lên. Hắn đỡ vai tôi, kích động nói:
+"Wow, ông tơ hồng linh nghiệm thật, tôi vừa ước nguyện trong mơ, tiểu tiên nữ đã rơi xuống rồi."
+
+Ừm.
+
+Nói hay lắm, mà vẻ lạnh lùng đâu rồi, sự tàn nhẫn đi đâu mất tiêu rồi.
+`
+  },{
+    id: 528,
+    title: "Tình Yêu Cố Chấp Của Đứa Em Trai Giả",
+    image: "imgdam/426407c2b420e650857a6f19060185a5.jpg",
+    link: "dammy/tinh-yeu-co-chap-cua-dua-em-trai-gia.html",
+    type: "dammy",
+    desc: `Từ nhỏ tôi đã ghét cay ghét đắng thằng em trai, vậy mà hóa ra nó là giả.
+
+Tôi cười chết mất, lập tức bay từ nước ngoài về để xem náo nhiệt.
+
+Nhìn nó bị bắt nạt, bị đuổi ra khỏi nhà.
+
+Lẽ ra tôi phải vui mới đúng.
+
+Nhưng đôi mắt ướt át của nó nhìn tôi, vành mắt đỏ lên, tôi lại không nhịn được mà thấy buồn.
+
+Ngày xưa nó kiêu ngạo, cao quý biết bao.
+
+Tôi đưa tay ra với nó.
+
+“Anh cần em, anh sẽ cho em một mái nhà.”
+
+Đến khi phát hiện nó lừa tôi, thì cả thân tâm tôi đã bị nó chiếm đoạt.
+
+Nó vẫn đáng thương cầu xin tôi yêu nó.
+
+Tôi có thể làm gì đây.
+
+Hận chưa kịp nảy mầm, tình yêu đã nở hoa.
+
+`
+  },{
+    id: 529,
+    title: "Cung Nữ Mang Mệnh Sát Tinh",
+    image: "imgco/fa79ad9571ef07096ed22091915d27f6.jpg",
+    link: "cotrang/cung-nu-mang-menh-sat-tinh.html",
+    type: "cotrang",
+    desc: `Là một cung nữ, ta mang tiếng xấu khắp hậu cung. Kẻ nào được ta hầu hạ, cuối cùng đều kết thúc cuộc đời trong thảm cảnh, chẳng rõ nơi chôn thây.
+
+Ta từng hầu hạ một vị tài nhân, chẳng bao lâu sau, nàng chết một cách bí ẩn. Ta lại hầu hạ thái phi, thái phi cũng vì con trai bà mưu đồ tạo phản mà buộc phải tự vẫn.
+
+Chỉ trong một thời gian ngắn, cả hậu cung đều truyền tai nhau rằng ta là điềm gở, là chổi mang đến tai ương.
+
+Vì mang danh khắc chết quá nhiều người, hoàng thượng ban ta cho Lâm đại tướng quân, kẻ mà công cao lấn chủ.
+`
+  },{
+    id: 530,
+    title: "Hạnh Phúc Không Máu Mủ",
+    image: "imgngon/2359726e002d3c159b56323df8f11291.jpg",
+    link: "ngontinh/hanh-phuc-khong-mau-mu.html",
+    type: "ngontinh",
+    desc: `Mẹ tôi vì muốn dỗ dành con nuôi là Tống Miểu Miểu đã trượt đại học vui vẻ, đã tự ý xé túi hồ sơ của tôi.
+
+Tôi uất ức phản kháng lại, bị Tống Miểu Miểu quay video đăng lên mạng xã hội.
+
+"Túi hồ sơ của chị gái vô tình bị mẹ xé mất, phải làm sao bây giờ?"
+
+Tống Miểu Miểu miêu tả tôi là một người chị gái thô lỗ, ngang ngược, còn Tống Miểu Miểu thì luôn đóng vai người em gái ngoan hiền, biết quan tâm đến mẹ.
+
+Nhờ đoạn video đó, Tống Miểu Miểu đã tăng thêm mấy chục vạn người theo dõi, nổi tiếng khắp mạng xã hội.
+
+Còn tôi thì không những không được học đại học, còn bị mẹ đuổi ra khỏi nhà, cuối cùng u uất mà chết.
+
+Tưởng chừng như mọi chuyện đã kết thúc, nhưng không ngờ ông trời lại cho tôi được sống lại một lần nữa, sống lại vào đúng ngày hôm đó, cái ngày mà túi hồ sơ của tôi bị xé nát.
+
+Ngay lúc mẹ định xé túi hồ sơ của tôi.
+
+Tôi quay người, lấy túi hồ sơ của Tống Miểu Miểu ra.
+
+"Chị cũng tò mò, không biết giáo viên đã nhận xét gì về em trong này nhỉ."
+`
+  },{
+    id: 531,
+    title: "Thực Tập Sinh Bá Đạo Chấn Chỉnh Cấp Trên",
+    image: "imgdam/b09172c983ab58434b39a6a09b45cc9d.jpg",
+    link: "dammy/thuc-tap-sinh-ba-dao-chan-chinh-cap-tren.html",
+    type: "dammy",
+    desc: `Người ta đều nói giới trẻ đang chấn chỉnh chốn công sở, nhưng chuyện đó chẳng liên quan gì đến tôi.
+
+Tôi đến đây là để chấn chỉnh cấp trên của mình.
+
+“Vừa nãy Thẩm Trác tức giận xông vào phòng làm việc, họ đánh nhau trong đó rồi à?”
+
+“Tôi vào đưa tài liệu, phát hiện tổng giám đốc Phó khóc đỏ cả mắt!”
+
+“Tổng Phó thật thảm, có cấp dưới như Thẩm Trác, đúng là chịu hết nổi.”
+
+Tôi mới không nỡ đánh anh ấy.
+`
+  },{
+    id: 532,
+    title: "Tiếng Lòng Khó Đỡ Của Hoàng Thượng",
+    image: "imgco/cb5e0df98c0b7dfa686c22e9f1b28db5.jpg",
+    link: "cotrang/tieng-long-kho-do-cua-hoang-thuong.html",
+    type: "cotrang",
+    desc: `Ta vô tình có thể nghe được tiếng lòng của Hoàng thượng.
+
+Khi người khác tâng bốc nhau, ngài ấy nghĩ: “Lũ ngu xuẩn, sừng mọc trên đầu rồi mà còn xưng huynh gọi đệ với hắn.”
+
+Khi phê duyệt tấu chương, ngài ấy nghĩ: “Thật bó tay, vị Đề đốc này có bình thường không, ngày nào cũng hỏi trẫm có ăn xoài không, trẫm không ăn xoài, trẫm bị dị ứng xoài.”
+
+Trên long sàng, ngài ấy nghĩ: “Hôm nay trẫm cố ý mặc trung y thêu hình rồng nhỏ, lát nữa cởi ra Hoàng hậu nhất định sẽ rất thích.”
+
+Ta nghĩ: “Ngài đừng quá lố lăng như vậy.”
+`
+  },{
+    id: 533,
+    title: "Vạch Trần Chiêu Trò Con Dâu Tham Lam",
+    image: "imgngon/5c08d8338ecd16130555ac06843a4cfc.jpg",
+    link: "ngontinh/vach-tran-chieu-tro-con-dau-tham-lam.html",
+    type: "ngontinh",
+    desc: `Con dâu tương lai của tôi bận rộn với công việc nên nhờ tôi mua giúp bộ năm món vàng cho đám cưới.
+
+Tôi hứa với con dâu tương lai rằng chi phí ước tính là 100,000 tệ và bảo con dâu tương lai chọn một kiểu trong đó, tôi sẽ chạy việc giúp cho con dâu tương lai.
+
+Con dâu tương lai chọn một bộ giá 131,400 tệ, nói rằng nó rất ý nghĩa.
+
+Tôi mua nó cho con dâu tương lai, từ một thương hiệu nổi tiếng, với hóa đơn, chữ ký, video, và điểm thưởng chuyển vào tài khoản của con dâu tương lai.
+`
+  },{
+    id: 534,
+    title: "Vòng Lặp Cứu Rỗi",
+    image: "imgdam/6795af19929f966c4c6c0d8554e1f77a.jpg",
+    link: "dammy/vong-lap-cuu-roi.html",
+    type: "dammy",
+    desc: `Sau khi biết Tống Diễn Đông thầm thích tôi, để ngăn cậu ấy tự sát, tôi chủ động tỏ tình, và thành công bắt đầu mối quan hệ với cậu.
+
+Cậu muốn nắm tay, tôi do dự một giây.
+
+Cậu nói: “Tôi lên sân thượng bình tĩnh một chút.”
+
+Cậu muốn hôn, tôi còn lưỡng lự.
+
+Cậu lại nói: “Tôi lên sân thượng bình tĩnh một chút.”
+
+Cho đến cuối cùng, cậu đè tôi xuống giường.
+
+“Lần này tôi phải ở trên…”
+
+Nằm trên giường, trong cơn mơ màng, tôi chợt nghĩ:
+
+Tên khốn này rõ ràng cố tình.
+`
+  },{
+    id: 535,
+    title: "Gia Phả Này Có Chút Bất Thường",
+    image: "imgco/82967b74c26e07ccc0bcecc55042d158.jpg",
+    link: "cotrang/gia-pha-nay-co-chut-bat-thuong.html",
+    type: "cotrang",
+    desc: `Ta là tỷ tỷ của Ma tôn. Thầy bói tiên đoán rằng, khí vận chi tử tương lai sẽ diệt sạch cửu tộc nhà ta.
+
+Để bảo toàn tính mạng, ta đành cưng chiều nam chính như bảo bối, cuối cùng cũng đồng ý ghi tên hắn vào gia phả.
+
+Đã là người một nhà yêu thương nhau, chắc chắn sẽ không thể giết hại lẫn nhau.
+
+Khi ghi tên vào gia phả, nam chính đỏ mặt cầm bút, chỉ vào mục quan hệ rồi hỏi: "Quan hệ của chúng ta là gì?"
+
+Ta hiền từ đáp: "Đệ tự xem đi, tất nhiên là tỷ đệ rồi."
+
+Nam chính: ?
+`
   },
 
 
