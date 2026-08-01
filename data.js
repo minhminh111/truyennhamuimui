@@ -11064,6 +11064,208 @@ Ta hiền từ đáp: "Đệ tự xem đi, tất nhiên là tỷ đệ rồi."
 
 Nam chính: ?
 `
+  },{
+    id: 536,
+    title: "Tội Ác Trong Xiềng Xích",
+    image: "imgngon/e7b030e761e86e1ee97e4f63d8d1050c.jpg",
+    link: "ngontinh/toi-ac-trong-xieng-xich.html",
+    type: "ngontinh",
+    desc: `Tôi nắm tay em gái và băng qua đường. Cảnh sát chặn tôi lại và hỏi: “Cô đang nắm tay ai?"
+
+Tôi liếc nhìn khoảng trống phía sau và mỉm cười.
+
+Từ lúc quyết định trở thành tội phạm, tôi chưa bao giờ nghĩ đến chuyện hối hận.
+`
+  },{
+    id: 537,
+    title: "Mèo Con Hay Ghen",
+    image: "imgdam/0215313e3ed4f7d2d4da92cbe8c39b31.jpg",
+    link: "dammy/meo-con-hay-ghen.html",
+    type: "dammy",
+    desc: `Một giấc mơ kỳ lạ đưa tôi trở thành con mèo của người tôi thầm thương trộm nhớ là Giang Thước.
+
+Tôi điên cuồng lăn lộn trên tám múi bụng của Giang Thước.
+
+Buổi tối hôm đó, tôi thấy Giang Thước đối diện bức ảnh và làm chuyện đó.
+
+Chờ đã.
+
+Nhân vật chính trong bức ảnh đó lại chính là tôi.
+
+Sao lại thế được.
+`
+  },{
+    id: 538,
+    title: "Hoàng Hậu Chỉ Muốn Lười Biếng Mà Thôi",
+    image: "imgco/e7b934d07f97693dd478137e8ec59552.jpg",
+    link: "cotrang/hoang-hau-chi-muon-luoi-bieng-ma-thoi.html",
+    type: "cotrang",
+    desc: `Ta là công chúa nổi tiếng ăn hại của Đại Ân, văn võ song toàn thì chẳng thấy đâu, chỉ được mỗi cái mã ngoài đẹp đẽ.
+
+Bởi vậy, phụ hoàng anh minh của ta phất tay một cái, gả ta cho hoàng đế Đại Tề.
+
+Nghe nói vị thánh thượng này của Tề quốc tính tình thất thường, quái gở, đặc biệt thích giết mỹ nhân, giết đến mức hậu cung trống rỗng, chẳng còn một bóng người.
+
+Tề Nghiên cho ta xem cây quạt làm bằng xương mỹ nhân của hắn, một tay nhẹ nhàng xoa đầu ta, cười như không cười: "Sợ rồi sao? Nếu sợ thì bây giờ chạy về Ân quốc của các ngươi còn kịp đấy."
+
+Tay ta nắm lấy tay áo hắn khẽ run, nghe vậy lại vẫn lắc đầu: "Không, không về đâu."
+
+Tề Nghiên đặt tay lên đỉnh đầu ta ấn xuống: "Ồ? Vì sao?"
+
+Ta nhìn vào đôi mắt híp lại của hắn, nói rõ từng chữ: "Lười chạy."
+
+Tề Nghiên: "..."
+
+Đùa thôi, chạy từ Tề quốc về Ân quốc mệt lắm được không.
+`
+  },{
+    id: 539,
+    title: "Ảnh Đế Muốn Làm Bố Vì Nhầm Lẫn",
+    image: "imgngon/759a4ebc330cf98892bef14582928070.jpg",
+    link: "ngontinh/anh-de-muon-lam-bo-vi-nham-lan.html",
+    type: "ngontinh",
+    desc: `Tôi là nữ minh tinh thích câu cá nhất showbiz.
+
+Câu được cá lớn, tôi đăng tin khoe khoang:
+[22:37, 28 tháng 10 năm 2023, 8 cân 2 lạng.]
+
+Tối hôm đó, Tống Thời Yến là bạn trai cũ và là ảnh đế của tôi như phát điên nhắn tin cho tôi. Tống Thời Yến lái xe suốt đêm đến trước mặt tôi, khoé mắt đỏ hoe:
+“Đứa bé là con của ai?”
+
+“Anh có thể chịu trách nhiệm. Để đứa bé lấy họ của anh đi.”
+
+Tôi ôm con cá 8 cân 2 lạng: “?”
+`
+  },{
+    id: 540,
+    title: "Bẫy Ngọt Ngào",
+    image: "imgdam/d16325afcbd0a9513d5df68af7e90897.jpg",
+    link: "dammy/bay-ngot-ngao.html",
+    type: "dammy",
+    desc: `Khi tôi bị bắt nạt, chỉ có con trai riêng của bố dượng là người bảo vệ tôi.
+
+Tôi coi Lục An là cứu tinh của mình, nhưng rồi tôi lại bắt gặp Lục An đang khoác vai, cười cợt với những kẻ bắt nạt, thờ ơ nói: "Đánh mạnh vào, nhìn cái mặt nó là tao thấy ghê tởm rồi."
+
+Tôi cười lạnh thành tiếng, Lục An quay đầu lại, nụ cười trên môi lập tức đông cứng.
+
+Sau này, Lục An lại quỳ trên mảnh kính vỡ, đâm con dao vào ngực mình, vừa ti tiện vừa điên loạn: "Anh, giết em đi, nhưng đừng vứt bỏ em."
+
+Đã vậy, thì Lục An đi chết đi!
+`
+  },{
+    id: 541,
+    title: "Hạnh Phúc Bên Chàng",
+    image: "imgco/11daf8b18476407ea27e4a85f9a988d6.jpg",
+    link: "cotrang/hanh-phuc-ben-chang.html",
+    type: "cotrang",
+    desc: `Ta gả cho một công tử mà ta yêu.
+
+Ngồi trong tân phòng, chẳng có chút vui mừng của một tân nương.
+
+Ta vốn tưởng rằng bản thân sẽ gả cho Nhị công tử nhà họ Diệp, một thiếu niên phong lưu tuấn tú, văn tài trác tuyệt.
+
+Chẳng ngờ, kẻ ta gả lại là Đại công tử câm của nhà họ Diệp.
+
+Khi nhà họ Diệp đến dạm hỏi, đích mẫu lén dẫn ta đi xem.
+
+Bà chỉ vào công tử đang đứng dưới gốc cây trò chuyện cùng tiểu đồng, bảo rằng đó là nhị công tử nhà họ Diệp đến cầu hôn, hỏi ta ý tứ chăng.
+
+Ta nhìn qua, thấy thiếu niên mười sáu mười bảy tuổi, mày kiếm mắt sáng, vẻ mặt rạng rỡ như sương mai và lôi vũ mùa xuân.
+
+Ta thẹn thùng gật đầu.
+
+Nói là thích thì không hẳn, vì đây là lần đầu ta thấy chàng, chỉ qua lời biểu ca kể.
+
+Biểu ca bảo rằng Nhị công tử nhà họ Diệp là tài danh nhất học viện, được mọi người yêu quý, dung mạo đường hoàng, học vấn cao, tính tình ôn hoà.
+
+Gả cho một lang quân như thế, lòng ta đương nhiên vui sướng.
+
+Ta an tâm đợi ngày xuất giá, cho đến khi nhà trai đến dạm hỏi chính thức, ta vén tấm bình phong, nhìn thấy người hành lễ trước mặt là một kẻ xa lạ.
+
+Khi ấy, ta mới nhận ra điều chẳng đúng.
+
+Hoá ra, vì phụ thân của Đại công tử là Thị lang Bộ Công, cấp trên của cha ta, nên hôn sự này phụ mẫu chẳng thể từ chối.
+
+Họ sợ ta không đồng ý, nên cố tình lừa dối, khiến ta ngỡ rằng ta sẽ gả cho Nhị công tử.
+
+Thật buồn cười!
+
+Thực ra, dù biết sự thật, ta cũng chẳng thể từ chối, lệnh phụ mẫu, lời mai mối, ta nào thể trái ý?
+
+Huống chi, Đại công tử cũng không phải lựa chọn tồi.
+
+Ngay cả khi họ đã lừa ta, có lẽ ta vẫn sẽ thuận theo mà gả.
+
+Chỉ là họ lại dùng cách lừa dối, chẳng chân thành với ta.
+`
+  },{
+    id: 542,
+    title: "Chuyện Tình Thanh Mai Trúc Mã Của Tôi",
+    image: "imgngon/3d21db44fcc176d761b74925f32a974a.jpg",
+    link: "ngontinh/chuyen-tinh-thanh-mai-truc-ma-cua-toi.html",
+    type: "ngontinh",
+    desc: `Thấy sắp trễ giờ làm, tôi chỉ đành đặt xe taxi chuyên dụng.
+
+Cuối cùng người đến đón tôi lại chính là lão sếp khó ưa.
+
+Dưới bầu trời đầy sao, trong chiếc Rolls-Royce sang chảnh, hai chúng tôi ngơ ngác nhìn nhau.
+
+Giang Tri Tất nhướng mày, hỏi: “Có phải cậu sắp trễ giờ làm không?”
+
+Tôi câm nín hoàn toàn.
+
+Sau đấy, cậu ấy trừ lương tôi thật.
+
+Tôi đánh giá cậu ấy 1 sao trên ứng dụng.
+`
+  },{
+    id: 543,
+    title: "Trọng Sinh Làm Trâu Làm Ngựa Cho Tư Bản",
+    image: "imgdam/ce228b07881cbbb703521a4f438205e6.jpg",
+    link: "dammy/trong-sinh-lam-trau-lam-ngua-cho-tu-ban.html",
+    type: "dammy",
+    desc: `Tôi cùng với Thừa tướng đã cúc cung tận tụy làm trâu làm ngựa cho vị vua hôn quân suốt hai mươi năm, chưa từng được nghỉ một ngày phép nào.
+
+Chúng tôi đột tử xong thì cùng nhau xuyên đến hiện đại.
+
+Anh ấy lên show sống chậm ở nông thôn, cùng thái tử ca ca tình chàng ý thiếp, sống như thần tiên.
+
+Tôi thì bị nhét vào show tuyển dụng livestream, tiếp tục làm trâu làm ngựa.
+
+Tôi nhấc laptop định đập cho bõ tức, nghĩ lại bồi thường không nổi nên thôi.
+
+Trên show tôi bất đắc dĩ tỏa sáng chói lọi, cuối cùng nhận được ngàn cái offer.
+
+Tôi vốn định từ chối hết, nhưng nhìn thấy lời mời của ông trùm công nghệ mới nổi là Giang Cường thì mắt sáng rực.
+
+Chỉ nhận lương.
+
+Không làm việc.
+
+Tôi lập tức xách vali, hớn hở đi làm.
+
+Sau này tôi vừa xoa eo vừa đá ông chồng chết sớm kiếp trước của mình xuống giường, định đi kiếm việc làm.
+
+Anh ấy lại đè tôi xuống dưới, cắn tai tôi, giọng mê hoặc:
+
+“Thượng thư đại nhân, tan làm rồi, để vi thần hầu hạ ngài nhé?”
+
+Tôi tức điên, tát cho một phát:
+
+“Cút đi làm việc cho tôi!”
+`
+  },{
+    id: 544,
+    title: "Đợi Ngày Phu Quân Tỉnh Giấc",
+    image: "imgco/whwjkwsnajkewkwn3jsns.jpg",
+    link: "cotrang/doi-ngay-phu-quan-tinh-giac.html",
+    type: "cotrang",
+    desc: `Ta vốn là một mỹ nhân thân thể mỏng manh, lại thêm tính tình yếu ớt, quanh năm suốt tháng chỉ biết bầu bạn với thuốc thang.
+
+Phu quân đã hết mực cẩn thận chăm sóc ta suốt ba năm trời, thế nhưng cuối cùng ta vẫn không thoát khỏi kiếp nạn mà qua đời.
+
+Bảy năm sau ngày ta rời bỏ nhân thế, phu quân dẫn về nhà một cô nương có dung mạo y hệt như ta.
+`
   },
 
 
