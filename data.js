@@ -11442,6 +11442,270 @@ Bà ấy tinh nghịch kéo tay ta lại: "Hôm kia ta thấy Bùi tướng côn
 
 Nhưng khi nhìn thấy bông phượng tiên trên đầu ta, mẹ của Xuân Hương lập tức ngẩn người.
 `
+  },{
+    id: 554,
+    title: "Âm Thanh Tình Yêu Muộn Màng",
+    image: "imgngon/10c76fffdb20c2774ecc0a1c0d05d8d5.jpg",
+    link: "ngontinh/am-thanh-tinh-yeu-muon-mang.html",
+    type: "ngontinh",
+    desc: `Bạn gái cũ của bạn trai tôi bị mất trí nhớ, và ký ức của cô ấy dừng lại ở năm họ yêu nhau nhất.
+
+Để giúp cô ấy khôi phục trí nhớ, họ đã nấu ăn, chơi đùa, hôn nhau trong nhà cưới của tôi, và thậm chí còn quay video đăng lên Douyin, nổi tiếng chỉ sau một đêm.
+
+Đêm khuya, cô gái livestream khóc lóc, "Mọi người đều đã tiến về phía trước, tại sao chỉ có mình tôi bị mắc kẹt trong tình yêu?"
+
+Vô số cư dân mạng xúc động đến rơi nước mắt và yêu cầu tôi trả lại bạn trai cho người yêu cũ.
+
+Tôi bị bạo lực mạng đến mức thai nhi không ổn định, khóc lóc gọi điện cho bạn trai.
+
+Anh ấy lại thiếu kiên nhẫn cúp máy, "Đường Nhiên, chỉ một tháng thôi, cô ấy khôi phục trí nhớ sẽ rời đi, em không có chút độ lượng nào sao?"
+
+Độ lượng?
+
+Ngày hôm sau, tôi đến bệnh viện làm phẫu thuật, bỏ đứa con đi và đóng gói gửi cho anh ta.
+
+Ồ, nghe nói anh ta phát điên rồi.
+`
+  },{
+    id: 555,
+    title: "Bí Mật Của Người Chồng Hoàn Hảo",
+    image: "imgdam/786f9823a082665fcd40321d815161a1.jpg",
+    link: "dammy/bi-mat-cua-nguoi-chong-hoan-hao.html",
+    type: "dammy",
+    desc: `Sau vụ tai nạn, tôi mất đi sáu năm ký ức và chết lặng khi biết mình đã kết hôn.
+
+Tôi hoàn toàn không chắc người kết hôn với mình là ai.
+
+Trong trí nhớ duy nhất còn sót lại của sáu năm trước, người tôi theo đuổi suốt một thời gian dài là Hàn Minh Huân vừa mới đồng ý làm bạn trai tôi.
+
+Anh ấy là alpha, còn tôi chỉ là một beta bình thường; theo đuổi được anh ấy đúng là chuyện khó tin.
+
+Trong phòng bệnh, khi thấy anh ấy xuất hiện, tôi gần như theo bản năng gọi một tiếng: “Chồng à.”
+
+Không ngờ lời vừa thốt ra, một alpha khác cao lớn, điển trai lại từ ngoài cửa bước vào.
+
+Khuôn mặt anh lạnh lùng, giọng nói còn buốt lạnh hơn: “Em đang gọi ai là chồng?”
+
+“Khúc Tích Văn, anh mới là bạn đời hợp pháp của em.”
+
+Tôi chết lặng.
+
+Không phải chứ? Người này chẳng phải là chú nhỏ của Hàn Minh Huân sao?
+`
+  },{
+    id: 556,
+    title: "Xuyên Không Làm Vợ Phu Quân Ngốc",
+    image: "imgco/80b4e43bf73d53e7032da6b2a6a05b96.jpg",
+    link: "cotrang/xuyen-khong-lam-vo-phu-quan-ngoc.html",
+    type: "cotrang",
+    desc: `Xuyên không tới thế gian này lại được ban tặng thêm một phu quân.
+
+Đẹp đẽ thì quả thực rất đẹp đẽ, ngặt nỗi tâm trí lại có phần khờ khạo.
+
+Thôi thì đành xem như mỗi ngày đều phải tẩy rửa tâm can cho hắn vậy.
+
+Ta liền ngồi ngay ngắn, cất giọng nghiêm nghị mà hỏi rằng: "Mỗi ngày tỉnh giấc việc đầu tiên cần phải làm là gì?"
+
+A Thọ nét mặt nghiêm trang, vô cùng thành thực đáp lời: "Chính là tìm nương tử."
+
+Ta vẫn giữ nguyên vẻ điềm tĩnh, tiếp tục gặng hỏi: "Ngoài nương tử ra..."
+
+A Thọ vô cùng trôi chảy trả lời: "Những kẻ khác thảy đều là gian nhân lừa đảo."
+
+Ta lại hỏi: "Hôm nay nếu không tuân lời nương tử..."
+
+A Thọ đáp ngay: "Sau này cả đời chỉ được ăn mướp đắng."
+
+Ta tiếp lời: "Ngày nào cũng ăn mướp đắng..."
+
+A Thọ liền thưa: "Thì năm tháng trôi qua ắt sẽ đắng cay."
+
+Ta phán một câu: "Hãy tổng kết lại đi."
+
+A Thọ liền kính cẩn thưa: "Yêu thương nương tử, trọn đời này, kiếp sau, cho đến cả những kiếp sau nữa."
+
+Cuối cùng là: "Đoạn trường dùng cơm."
+
+Hắn cung kính nhắm chặt hai mắt lại, chắp đôi tay trước ngực rồi thì thầm: "Amen."
+
+Nghi lễ trước bữa ăn đến đây là hoàn tất.
+`
+  },{
+    id: 557,
+    title: "Báo Ân Kiểu Này Hơi Lạ Lùng",
+    image: "imgngon/da36298bec4d5914184be77e155a9592.jpg",
+    link: "ngontinh/bao-an-kieu-nay-hoi-la-lung.html",
+    type: "ngontinh",
+    desc: `Đến năm thứ ba yêu đương trong bóng tối với Chu Gia Thuật, anh ta đột ngột tuyên bố kết hôn.
+
+Cô dâu không phải là tôi.
+
+Có người biết chuyện bênh vực tôi, Chu Gia Thuật cười lạnh lùng: "Nếu đau lòng cô ta, thì cưới luôn người sa cơ thất thế ấy đi?"
+
+Sau này, ông nội ốm nặng, công ty lâm nguy, tôi buộc phải công khai có thai, kế thừa gia nghiệp.
+
+"Xin hỏi Hứa tiểu thư, có phải đứa bé là của Chu thiếu gia không?"
+
+Tôi tươi cười đĩnh đạc trước mặt phóng viên: "Đứa bé không liên quan đến Chu thiếu gia."
+
+Nghe nói hôm đó Chu Gia Thuật nhìn thấy tôi trên tivi với cái bụng lớn, tức giận đến độ đập tan tành đồ đạc trong nhà.
+
+Rồi sau đó, có người chụp được cảnh vị tổ tông quyền lực và bí ẩn nhất Bắc Kinh đang nhẹ giọng dỗ dành một người phụ nữ nơi phố đông người qua lại.
+
+"Nhan Nhan, con sắp một tuổi rồi, sắp gọi ba rồi đấy, em còn không cho anh một danh phận nữa sao?"
+`
+  },{
+    id: 558,
+    title: "Hủy Hợp Đồng Thế Thân Tổng Tài Bá Đạo Hối Hận Rồi",
+    image: "imgdam/af92ed20ce47790dc46188c64eeafa6f.jpg",
+    link: "dammy/huy-hop-dong-the-than-tong-tai-ba-dao-hoi-han-roi.html",
+    type: "dammy",
+    desc: `Tôi vốn dĩ là kẻ thế thân, còn chính chủ lại là một đóa trà xanh chính hiệu với thân hình bệnh nhược yếu ớt.
+
+Ngày đầu tiên cậu ta về nước đã bày đặt ngất xỉu ngay tại sân bay.
+
+Phó Thanh Thời lập tức vứt bỏ tôi để chạy đi đón người trong mộng.
+
+Tôi cũng chẳng lấy làm buồn, trái lại còn mừng rỡ vì được thong thả, quay người định bụng ghé Hội quán tìm mấy em trai trẻ đẹp vui vẻ một phen.
+
+Nào ngờ vừa mới bước chân vào phòng bao, cánh cửa đã bị một cú đá văng ra đầy thô bạo.
+
+Phó Thanh Thời với đôi mắt đỏ ngầu giận dữ, ném thẳng đóa trà xanh kia ra ngoài cửa, rồi hung hăng bóp chặt lấy cổ tay tôi, gằn giọng: "Đây chính là cái cơ thể không khỏe mà em nói đấy à? Tôi thấy em còn tinh thần phấn chấn lắm, đêm nay chúng ta phải tính sổ cho thật kỹ mới được!"
+`
+  },{
+    id: 559,
+    title: "Kế Hoạch Từ Hôn Của Tướng Quân",
+    image: "imgco/1c3a935336d3fc98525bfa9b95832926.jpg",
+    link: "cotrang/ke-hoach-tu-hon-cua-tuong-quan.html",
+    type: "cotrang",
+    desc: `Vào ngày sinh thần của ta, tuyết rơi dày đặc, Tô Dật Thần đến từ hôn.
+
+Ta đứng ở cửa lớn, đôi mắt sáng ngời, gương mặt trắng trẻo, thần sắc lạnh lùng.
+
+Ta bước trở vào trong, lấy một cây dù, che lên đầu Tô Dật Thần.
+
+Thần sắc Tô Dật Thần lạnh lùng, đẩy tay ta ra, ta lảo đảo, đứng không vững, ngã nhào xuống nền tuyết.
+
+Tuyết rơi trên chiếc áo choàng da hồ đen của Tô Dật Thần, ánh mắt Tô Dật Thần thoáng động, nhưng cuối cùng vẫn đưa tay định với ta.
+
+Ta chẳng thèm nắm lấy tay Tô Dật Thần, chỉ ôm lấy cổ chân Tô Dật Thần: "A, chân ta đau quá đứng không nổi nữa rồi. Hôm nay không đưa ra năm trăm lượng bạc thì đừng hòng rời khỏi đây."
+
+Hắn hừ lạnh một tiếng, quăng lại một câu: "Vậy nàng cứ ngồi trong tuyết đi." rồi xoay người định bỏ đi.
+
+Ta lập tức ôm chặt lấy chân Tô Dật Thần, lớn tiếng kêu lên: "Tô tướng quân đánh người kìa! Tô tướng quân bắt nạt dân nữ!"
+
+Hắn vội vã bịt miệng ta lại, ghé sát tai ta, giọng hậm hực: "Nàng mau đứng dậy mau!"
+
+Ta chớp chớp mắt nhìn Tô Dật Thần: "Phải bế kiểu công chúa mới chịu đứng dậy cơ."
+
+Hắn chẳng còn cách nào, thở dài bất lực: "Rốt cuộc nàng muốn thế nào mới đồng ý từ hôn đây?"
+
+"Đưa hết tất cả đầu bếp trong Tô phủ của chàng đến phủ ta, mỗi người nấu ba ngày, coi như là quà sinh thần."
+
+"Thật là ngang ngược."
+
+"Hừ, keo kiệt thật. Vậy chàng tặng viên dạ minh châu mà Hoàng thượng ban cho chàng trong lễ trưởng thành cho ta đi."
+
+"... Đầu bếp của ta có cần mang theo nguyên liệu và dụng cụ không?"
+`
+  },{
+    id: 560,
+    title: "Kẻ Phản Bội Nhận Trái Đắng",
+    image: "imgngon/f2c656f1067ba9d73e05d0db33eeb505.jpg",
+    link: "ngontinh/ke-phan-boi-nhan-trai-dang.html",
+    type: "ngontinh",
+    desc: `Sau khi hoàn thành cốt truyện cứu rỗi, tôi đã ở bên nam phụ bi thương.
+
+Năm thứ ba sau khi kết hôn, trước mặt tôi Chu Dịch ngày càng ít nói.
+
+Thời gian về nhà cũng ngày càng muộn.
+
+Tôi biết Chu Dịch đã thay lòng đổi dạ.
+
+Chu Dịch đã thích cô thư ký trẻ trung đáng yêu luôn bám lấy mình và muốn cho cô ấy một bến đỗ.
+
+Về việc này, tôi không khóc lóc.
+
+Tôi chỉ yêu cầu Chu Dịch cho tôi thêm một tháng.
+
+Tôi muốn thu hồi từng ký ức giữa chúng tôi.
+
+Trong một tháng Chu Dịch để mặc tôi tự chữa lành vết thương.
+
+Tôi đã nhanh chóng chỉnh đốn công ty, chia tài sản và chuyển tài nguyên.
+
+Cuối cùng, trong ánh mắt kinh ngạc của Chu Dịch, tôi lịch sự đuổi Chu Dịch ra khỏi công ty và nhà.
+
+Buồn cười thật, tôi là nữ chính trong câu chuyện cứu rỗi.
+
+Có khả năng cứu người, sao có thể để chính mình rơi vào vũng bùn.
+`
+  },{
+    id: 561,
+    title: "Streamer Game Nổi Tiếng Là Bạn Cùng Phòng Của Tôi",
+    image: "imgdam/f72668d5f90e5608e7469fe7d4f7a7ac.jpg",
+    link: "dammy/streamer-game-noi-tieng-la-ban-cung-phong-cua-toi.html",
+    type: "dammy",
+    desc: `Phòng live của streamer game Giang Thần gần đây xuất hiện thêm một bóng người.
+
+Đó là một người mà trong miệng cậu ấy gọi là Tiểu Tổ Tông cùng phòng.
+
+Tiểu Tổ Tông có chứng sạch sẽ nặng, mỗi lần lên hình đều đeo khẩu trang kín mít.
+
+Tiểu Tổ Tông kén ăn kinh khủng, Giang Thần phải ngọt nhạt dỗ dành, lừa lọc đủ kiểu mới đút nổi một miếng cơm.
+
+Tiểu Tổ Tông lười nói chuyện, thế là Giang Thần một mình gánh cả phòng live.
+
+Khán giả từ ngày đầu còn troll Giang Thần.
+
+Đến giờ đã thành câu hỏi rằng Giang Thần hôm nay vẫn chưa cưa đổ được Tiểu Tổ Tông à.
+
+Cho đến một hôm, Giang Thần đang đánh game hăng máu, mắt đỏ ngầu, không để ý Tiểu Tổ Tông đã lặng lẽ tiến lại gần.
+
+Người kia tháo khẩu trang, kề sát vào má cậu ấy rồi hôn một phát nhẹ.
+
+Giang Thần lập tức hóa đá, mặt đỏ lựng như đèn giao thông.
+
+Màn bình luận nổ tung.
+
+[Á Á TIỂU TỔ TÔNG HÔN RỒI HÔN THẬT RỒI]
+
+[Giang Thần mày đứng hình cái gì Hôn lại ngay và luôn cho tao]
+
+[Đệt mợ sao giống hệt đoạn đồng nhân tao vừa đọc tối qua thế này]
+
+Nhìn cả màn hình chấm hỏi với chấm than, tôi bình tĩnh kéo lại khẩu trang.
+
+Thực hành theo truyện đồng nhân chút thôi mà.
+
+Lý thuyết thì tôi rành lắm.
+
+Dù sao cuối cùng người mặt đỏ tim đập cũng đâu phải tôi.
+`
+  },{
+    id: 562,
+    title: "Vãn Vãn Khờ Khạo Trốn Chạy Phu Quân",
+    image: "imgco/87bf5ed0d1248e47d1ecc82ef4d85766.jpg",
+    link: "cotrang/van-van-kho-khao-tron-chay-phu-quan.html",
+    type: "cotrang",
+    desc: `Thuở nhỏ, ta từng mắc bệnh khiến đầu óc trở nên ngớ ngẩn, vì thế tỷ tỷ chẳng an lòng về ta, khi xuất giá liền đem ta giao cho tiểu thúc chăm nom.
+
+Phu quân của ta vốn là kẻ ăn chơi lêu lổng, chẳng làm việc gì, suốt ngày chỉ lo chuyện tầm thường.
+
+Còn tỷ phu của ta lại là kẻ cẩn trọng, ôn nhu, ngặt nỗi một nữ tử yếu đuối vướng lấy, dây dưa không dứt, cho đến khi nàng ta mang thai.
+
+Tỷ tỷ ta đau lòng khôn xiết, bỗng thấy phu quân ta tay xách lồng chim, nghênh ngang bước qua, nhắm mắt than dài: "Cả nhà ngươi và ta, chẳng lẽ cứ uổng phí thanh xuân ở nơi đây sao? Muội đi không?"
+
+Ta sờ đầu phu quân khờ khạo của ta, liền kiên quyết gật đầu: "Đi."
+
+Tỷ tỷ gật đầu, ta liền theo đó.
+
+Ngay khi chúng ta chuẩn bị bỏ trốn, ta phát hiện phu quân của ta đang kề dao lên cổ đại ca, nheo mắt, lạnh lùng nói: "Đi nào, quỳ xuống xin lỗi đại tẩu mà xin lỗi, giải quyết ả nữ tử kia nữa."
+
+Hắn nghiến răng: "Nếu không, cả nương tử của ngươi cũng sẽ bỏ trốn theo mất."
+
+Rồi hắn quay về phía ta đang run rẩy trong góc, vẻ mặt tủi thân: "Vãn Vãn, chẳng lẽ nàng không cần ta nữa sao?"
+`
   },
 
 
