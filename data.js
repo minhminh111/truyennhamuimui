@@ -11324,6 +11324,124 @@ Trưởng tử của ta là tướng quân, thứ tử là trạng nguyên, ti�
 
 Ta là thương nhân giàu có Giang Nam, làm thiếp, hắn cũng xứng sao?
 `
+  },{
+    id: 548,
+    title: "Sếp Hồ Ly Bám Theo Đòi Báo Ân",
+    image: "imgngon/15b1c1fd80c641fa218540c4aec3bca2.jpg",
+    link: "ngontinh/sep-ho-ly-bam-theo-doi-bao-an.html",
+    type: "ngontinh",
+    desc: `Nhà đột nhiên xuất hiện một con hồ ly trắng.
+
+Mỗi đêm nó đều biến lớn để ấm giường cho tôi.
+
+Cho đến mùa xuân.
+
+Tôi bắt đầu cảm thấy có gì đó không đúng, có chút sợ hãi.
+
+Hắn dường như vẫn còn thuộc tính động vật.
+
+Cả ngày cứ yên lặng, luôn muốn gần gũi, ôm ấp tôi mỗi đêm.
+`
+  },{
+    id: 549,
+    title: "Người Tình Của Boss Hệ Thống",
+    image: "imgdam/3b2135ef247a7148b46f9ea2630d3ec1.jpg",
+    link: "dammy/nguoi-tinh-cua-boss-he-thong.html",
+    type: "dammy",
+    desc: `Tôi là nam chính trong tiểu thuyết, giỏi nhất khoản biến mọi thứ thành màu vàng.
+
+Ngày đầu tiên xuyên vào trò chơi kinh dị, Boss ra lệnh cho mọi người chọn một cách chết.
+
+Tôi mở miệng nói ngay:
+
+“Tôi chọn chết vì thở gấp, hai chân mềm nhũn, đồng tử mất tiêu cự, tim đập thình thịch rồi chết.”
+
+Boss: “???”
+`
+  },{
+    id: 550,
+    title: "Bạc Đầu Giai Lão Trọn Vẹn Bên Chàng",
+    image: "imgco/b7fcce7816a7ac91de972b5fc8f62bb9.jpg",
+    link: "cotrang/bac-dau-giai-lao-tron-ven-ben-chang.html",
+    type: "cotrang",
+    desc: `Kiếp trước, ta gả cho một kẻ bội bạc dẫn đến kết cục bị chết thảm.
+
+Nhưng Tiêu Dũ nhà bên lại lén trèo tường, đào trộm mộ của ta.
+
+Chàng là quyền thần hàng đầu, nhưng suốt đời không lấy vợ.
+
+Đến cuối đời bệnh nặng, chàng chỉ cầu được chôn cùng ta.
+
+Hóa ra, ánh trăng sáng trong lòng chàng lại chính là ta.
+
+Mà giờ đây, ta đã sống lại.
+`
+  },{
+    id: 551,
+    title: "Bẫy Ngọt Của Thái Tử Gia",
+    image: "imgngon/47d67d399aeeb6ad29f8f0c8c77b6f81.jpg",
+    link: "ngontinh/bay-ngot-cua-thai-tu-gia.html",
+    type: "ngontinh",
+    desc: `Sau khi giúp chị gái cho Thái Tử Gia Bắc Kinh uống thuốc xong, chị ấy chạy mất dạng, còn tôi thì không chạy kịp, bị Thái tử gia một phát ôm chặt cứng.
+
+Hắn cắn vành tai tôi, ngữ khí đầy uy hiếp: "Bảo bối, chắc bé cũng không muốn nhà mình phá sản đâu nhỉ?"
+
+Ngày hôm sau, tôi nhịn cơn đau nhức toàn thân, lén lút đi gặp đối tượng xem mắt.
+
+Kết quả Thái tử gia ngang nhiên xuất hiện, cười lạnh nhìn tôi: "Hỏa tốc chạy trối chết như vậy, thì ra là vội vàng đi xem mắt với em trai tôi."
+
+Tôi áy náy không dám ngẩng đầu, lại một lần nữa muốn chạy trốn.
+
+Hắn ta xông vào phòng tôi, đặt tôi lên đùi, trên tay lắc lư một chiếc lông vũ.
+
+"Muốn tôi làm anh rể của em thì cũng thôi đi, vậy mà còn muốn làm em dâu tôi."
+
+"Em nói xem, nên phạt em như thế nào?"
+`
+  },{
+    id: 552,
+    title: "Kẻ Thù Không Đội Trời Chung Bỗng Nhiên Muốn Cưới Tôi",
+    image: "imgdam/a0725ecc01736585e736697dc1b6cfed.jpg",
+    link: "dammy/ke-thu-khong-doi-troi-chung-bong-nhien-muon-cuoi-toi.html",
+    type: "dammy",
+    desc: `Tôi và kẻ thù không đội trời chung đã tiến đến bước bàn chuyện cưới xin, thì đột nhiên hắn mất trí nhớ.
+
+Sáng hôm sau, hắn vừa tỉnh dậy đã tung một cú đạp tôi văng xuống giường.
+
+"Dư Viên, cậu muốn chết à?"
+
+Nhìn thấy ánh mắt ghét bỏ quen thuộc đó, trong lòng tôi thầm hô một tiếng.
+
+Tôi giả vờ vô tình khẽ rung vai làm chiếc áo choàng ngủ trượt xuống, để lộ đầy những dấu vết trên người.
+
+Nhìn khuôn mặt Hà Tích Di lúc thì đỏ lên, lúc thì xanh lét, rồi lại tối sầm lại như than, tôi thấy sướng cả người.
+`
+  },{
+    id: 553,
+    title: "Bỏ Lỡ Một Đời Hoa Nở",
+    image: "imgco/b170cc7d459042f0a4de1a6cb2dbab1f.jpg",
+    link: "cotrang/bo-lo-mot-doi-hoa-no.html",
+    type: "cotrang",
+    desc: `Ngày ta quyết định hòa ly với Bùi Thanh Thư, cũng chỉ là một ngày bình thường như bao ngày khác.
+
+Thực ra, đêm hôm trước hắn còn hứa với ta rằng, ngày mai sẽ đưa Liễu cô nương về rồi cùng ta đón sinh nhật thật vui vẻ.
+
+Cuộc sống dường như sắp trở nên tốt đẹp hơn.
+
+Trong lòng ta vui sướng, buổi sáng ta dậy sớm mở hộp đựng đồ trang điểm ra, ngồi trước gương đồng tỉ mỉ kẻ lại chân mày.
+
+Sau đó ta lục lọi dưới đáy chiếc rương bằng gỗ long não, lấy ra một chiếc váy màu thạch lựu đã cũ.
+
+Thành hôn đã được bảy năm, ta chưa có lấy một món trang sức nào ra hồn.
+
+Nhìn đôi tai trống trơn, ta lại hái một bông phượng tiên cài sau búi tóc.
+
+Khi ra ngoài mua đồ, ta tình cờ gặp được mẹ của Xuân Hương.
+
+Bà ấy tinh nghịch kéo tay ta lại: "Hôm kia ta thấy Bùi tướng công mua hai cây trâm, một cây bằng vàng, một cây bằng ngọc. Ta muốn xem xem rốt cuộc cháu sẽ cài cây nào."
+
+Nhưng khi nhìn thấy bông phượng tiên trên đầu ta, mẹ của Xuân Hương lập tức ngẩn người.
+`
   },
 
 
