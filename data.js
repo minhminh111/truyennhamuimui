@@ -11266,6 +11266,64 @@ Phu quân đã hết mực cẩn thận chăm sóc ta suốt ba năm trời, th�
 
 Bảy năm sau ngày ta rời bỏ nhân thế, phu quân dẫn về nhà một cô nương có dung mạo y hệt như ta.
 `
+  },{
+    id: 545,
+    title: "Vợ Hợp Pháp Của Ảnh Đế",
+    image: "imgngon/87507c8374fd0e1a7f075e6647bbd42d.jpg",
+    link: "ngontinh/vo-hop-phap-cua-anh-de.html",
+    type: "ngontinh",
+    desc: `Trước ngày cưới, người yêu cũ của Chu Việt thông báo mắc bệnh nan y, chỉ còn sống được 3 tháng. Chu Việt tổ chức cho cô ta một đám cưới hoành tráng để cô ta rời đi mà không còn gì tiếc nuối. Tống Thời Sênh hỏi: “Vậy còn em thì sao? Ba tháng sau thì sao?”
+
+Chu Việt thế mà lên án: “Em thật sự mong cô ấy chết sao? Không ngờ em độc ác như vậy, Tống Thời Sênh, anh quá thất vọng về em.”
+
+Cho đến khi tin tức Tống Thời Sênh hẹn hò với người đàn ông khác tràn lan trên mạng, Chu Việt mới đến tìm cô. Dưới cơn mưa lớn, Chu Việt đến tìm Tống Thời Sênh, nhìn thấy dấu hôn trên cổ cô liền giận dữ chất vấn.
+
+“Tống Thời Sênh, rốt cuộc em có nhớ mình là vợ của ai không?”
+
+“Cám ơn anh đã nhắc nhở, cô ấy bây giờ là vợ anh, hợp pháp và được Nhà nước công nhận. Không phải vợ anh đâu.”
+`
+  },{
+    id: 546,
+    title: "Gả Cho Phản Diện Mỹ Cường Thảm",
+    image: "imgdam/c117e57d7cc9268206d91f0085c12303.jpg",
+    link: "dammy/ga-cho-phan-dien-my-cuong-tham.html",
+    type: "dammy",
+    desc: `Hình mẫu lý tưởng của tôi chính là mỹ cường thảm.
+
+Trùng hợp thay, trong cuốn sách này, phản diện Tần Kim Tiêu lại được xây dựng đúng chuẩn hình tượng mỹ cường thảm.
+
+Ngày tôi vừa xuyên vào, em trai Omega khóc lóc ầm ĩ, nói không muốn gả cho Tần Kim Tiêu.
+
+Cậu ta bảo hắn tính tình âm u, thủ đoạn tàn nhẫn.
+
+Nhưng thực ra không phải vậy.
+
+Tính tình âm u chỉ là lớp vỏ ngụy trang vì hắn chưa từng được yêu thương.
+
+Thủ đoạn tàn nhẫn là bởi xung quanh hắn toàn những kẻ mang tâm tư bất chính.
+
+Tần Kim Tiêu rốt cuộc có lỗi gì chứ.
+
+Một nhân vật như vậy, chẳng phải quá tuyệt sao.
+
+Tôi lập tức giơ tay:
+
+“Em trai không muốn gả, vậy để tôi đi.”
+`
+  },{
+    id: 547,
+    title: "Mang Hưu Thư Đến Cửa Phủ",
+    image: "imgco/451159b1de518a578fd98ce1e9826be2.jpg",
+    link: "cotrang/mang-huu-thu-den-cua-phu.html",
+    type: "cotrang",
+    desc: `Ta bán đậu hủ mười tám năm, nuôi lớn ba đứa con, phu quân lại muốn tiếp ta đến kinh thành làm thiếp.
+
+Ta ném lại một tờ hưu thư.
+
+Trưởng tử của ta là tướng quân, thứ tử là trạng nguyên, tiểu nữ nhi là quận chúa.
+
+Ta là thương nhân giàu có Giang Nam, làm thiếp, hắn cũng xứng sao?
+`
   },
 
 
