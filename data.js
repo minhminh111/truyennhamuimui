@@ -11706,6 +11706,213 @@ Hắn nghiến răng: "Nếu không, cả nương tử của ngươi cũng sẽ 
 
 Rồi hắn quay về phía ta đang run rẩy trong góc, vẻ mặt tủi thân: "Vãn Vãn, chẳng lẽ nàng không cần ta nữa sao?"
 `
+  },{
+    id: 563,
+    title: "Bí Quyết Thuần Hóa Thiếu Gia Kiêu Ngạo",
+    image: "imgngon/10b38328718cb195abff4c90c442c107.jpg",
+    link: "ngontinh/bi-quyet-thuan-hoa-thieu-gia-kieu-ngao.html",
+    type: "ngontinh",
+    desc: `Đã ba năm kể từ khi tôi trở thành trợ lý cho Đàm Diễm Tây, con trai của chủ tịch.
+
+Tính tình Đàm Diễm Tây hầu như đã hoàn toàn thay đổi.
+
+Từ một người vừa cao ngạo vừa không biết nghe lời, giờ đây Đàm Diễm Tây đã trở nên ngoan ngoãn và rất tuân thủ quy tắc.
+
+Trong công việc, Đàm Diễm Tây cũng đã đạt được một số thành tựu nhỏ, đặc biệt là tất cả mọi người trong công ty đều nói rằng tôi đã đóng góp không nhỏ vào sự thay đổi này.
+
+Tôi thầm vui mừng, nghĩ rằng nếu mọi chuyện cứ tiếp tục diễn ra thuận lợi thế này, không lâu nữa tôi có thể nhận tiền và rời đi.
+
+Cho đến khi chủ tịch gọi tôi đến, ném một xấp ảnh lên bàn.
+
+Tôi cúi đầu nhìn xuống những bức ảnh, trong ảnh là Đàm Diễm Tây ăn mặc xộc xệch bước ra từ phòng của tôi.
+
+Thời gian những tấm ảnh đó được chụp là bảy giờ sáng.
+`
+  },{
+    id: 564,
+    title: "Bẫy Ngọt Ngào Của Thiếu Gia Kiêu Ngạo",
+    image: "imgdam/ce5444b7d999bdd0aa73ee1607a36224.jpg",
+    link: "dammy/bay-ngot-ngao-cua-thieu-gia-kieu-ngao.html",
+    type: "dammy",
+    desc: `Thiếu gia ác liệt nhà giàu bị gửi đi tham gia show cải tạo biến hình, phải đến ở nhà tôi.
+
+Tôi ngoan ngoãn làm không khí, tuyệt đối không trêu chọc hắn.
+
+Thiếu gia lại bảo tôi cứ đi quyến rũ hắn, phải trừng phạt tôi thật tốt.
+
+Tôi chạy kiểu gì cũng không thoát được.
+
+Sau này, hắn phát hiện tôi là song tính.
+
+Ánh mắt cười càng sâu.
+
+“Bảo bối, đang giấu món đồ chơi gì tốt thế, để chồng ngắm một chút nào?”
+`
+  },{
+    id: 565,
+    title: "Duyên Lỡ Cố Nhân",
+    image: "imgco/15d32379242ce813248cedb9ad552628.jpg",
+    link: "cotrang/duyen-lo-co-nhan.html",
+    type: "cotrang",
+    desc: `Sau khi ta xuất giá, cuộc sống bỗng trở nên vô cùng gian khó.
+
+Nhà chồng nhẫn tâm đem ta bán cho một gia đình khác chỉ để sinh con nối dõi tông đường.
+
+Khi mang thai được bốn tháng, bỗng có một đám người đông đúc kéo đến trước cửa, khăng khăng muốn dẫn ta đi bằng được.
+
+Họ lớn tiếng nói rằng ta chính là thiên kim thất lạc từ nhiều năm của phủ Thừa tướng cao sang.
+`
+  },{
+    id: 566,
+    title: "Nữ Thần Trả Thù Kẻ Lừa Tình Cặn Bã",
+    image: "imgngon/cb52361b4885c9b07c551e36e96ed996.jpg",
+    link: "ngontinh/nu-than-tra-thu-ke-lua-tinh-can-ba.html",
+    type: "ngontinh",
+    desc: `Nửa đêm, diễn đàn trường đăng bài, thấy bạn trai dùng tài khoản phụ đăng bài xin giúp đỡ.
+
+[Anh em, năm nay tốt nghiệp, nhưng gia đình bạn gái làm nông, không thể giúp gì cho tương lai, nên chia tay đúng không?]
+
+Bên dưới đều là lời khuyên chia tay.
+
+Thật ra, công ty mà anh ta mơ cũng không tới thuộc về gia đình tôi.
+
+Suất tuyển thẳng viện nghiên cứu mà anh ta giành được nhờ trèo cao, chỉ cần vài câu nói của tôi là bay màu trong gang tấc.
+`
+  },{
+    id: 567,
+    title: "Vướng Vào Bẫy Ngọt Ngào Của Tình Địch",
+    image: "imgdam/e75ef002e5d41c5dce1b7f0b00939563.jpg",
+    link: "dammy/vuong-vao-bay-ngot-ngao-cua-tinh-dich.html",
+    type: "dammy",
+    desc: `Vừa mới lăn xuống khỏi giường của kẻ thù không đội trời chung, tôi đã nhận được cuộc gọi từ bạn thân từ nhỏ.
+
+Nó như bị kích thích cực độ, giọng điệu kích động gần như cầu xin tôi.
+
+“Giúp tao một việc, đi bẻ cong tình địch của tao đi!”
+
+Tôi theo bản năng bật lớn giọng: “Ai? Mày nói bẻ cong ai?”
+
+Thằng bạn nghiến răng nghiến lợi lặp lại tên người đó một lần nữa.
+
+Sau khi xác nhận mình không nghe nhầm, tôi cứng đờ quay người lại, nhìn chằm chằm vào người đàn ông vẫn còn đang ngủ say trên giường với vẻ mặt đầy suy tư.
+
+Rất muốn nói với nó:
+
+Tin tốt: Không cần mày phải phí công nữa đâu, tình địch của mày đã cong đến mức không thể cong hơn được nữa rồi!
+
+Tin xấu: Bạn thân nhất của mày là tao đã bị hắn ngủ mất rồi!
+`
+  },{
+    id: 568,
+    title: "Trở Thành Nam Chiếu Quận Chúa",
+    image: "imgco/1ef079115a2f3bc496e241edb27a94ae.jpg",
+    link: "cotrang/tro-thanh-nam-chieu-quan-chua.html",
+    type: "cotrang",
+    desc: `Ta bước tới trước cửa phủ Đường Quốc Công, khẽ giọng tự giới thiệu:
+
+"Ta là nhị tiểu thư của Thẩm gia, Thẩm Vận."
+
+Tiểu đồng bên trong nghe xong vào thông báo, rồi quay ra xua đuổi:
+
+"Ngươi là thôn phụ từ đâu tới, dám giả mạo tiểu thư, còn không mau cút đi?"
+
+Không lâu sau, một cỗ xe ngựa từ trong phủ chạy ra.
+
+Đường Quốc Công phu nhân, Thế tử gia và một nữ tử khác cùng ngồi trên xe.
+
+"Thưa cô mẫu, đó là nương tử tương lai của huynh ấy sao?" Nữ tử kia hỏi.
+
+"Cái gì mà nương tử tương lai, nhị tiểu thư Thẩm gia hiện đang dưỡng bệnh ở nơi xa. Có lẽ đã chết rồi, đó chỉ là kẻ mạo danh mà thôi."
+
+Giọng Thế tử uể oải, chậm rãi:
+
+"Mẫu thân, chúng ta nhanh vào cung thôi, Thái tử đã tìm được một vị vu y đến chữa bệnh cho Hoàng hậu nương nương."
+
+"Vu y là một nữ nhân, xuất thân từ nơi hẻo lánh, chưa từng tiếp xúc thế gian. Nếu nàng ta thật sự chữa khỏi cho Hoàng hậu nương nương, chúng ta phải nhanh chóng thu phục nàng ta về phe mình."
+
+Ta đứng trong góc, lặng nhìn cỗ xe ngựa xa dần rồi quay người rời đi.
+
+Cuối con đường, một chiếc xe ngựa đen tuyền, bình thường đến mức không ai để ý. Màn xe nhẹ nhàng vén lên, lộ ra một nam tử anh tuấn, phong thái cao quý, hắn khẽ gật đầu với ta:
+
+"Thần y, mời lên xe."`
+  },{
+    id: 569,
+    title: "Thiên Kim Thật Mang Theo Hệ Thống Ăn Dưa",
+    image: "imgngon/ec87fab7436753d936977dd3072dbf60.jpg",
+    link: "ngontinh/thien-kim-that-mang-theo-he-thong-an-dua.html",
+    type: "ngontinh",
+    desc: `Tôi là thiên kim thật, nhưng xui xẻo lại bị trói buộc với hệ thống ăn dưa.
+
+Ngày đầu tiên trở về hào môn, tôi đã bị cả nhà đọc được suy nghĩ của mình.
+
+[Mẹ biết chăm chút bản thân thật, hèn gì sau khi ly hôn với ba vẫn có thể làm streamer khiêu dâm.]
+
+Mẹ ruột vốn định lập quy củ cho tôi, nháy mắt tái xanh mặt mày.
+
+Tôi nhìn lướt qua thiên kim giả đang khóc thút thít.
+
+[Mang thai sao, là của anh hai hay là của anh ba đây?]
+
+Hai anh em liếc nhìn nhau với vẻ mặt kỳ lạ.
+
+Đúng lúc đó ba ruột của tôi thong thả bước vào.
+
+Tôi chặc một tiếng.
+
+[Thì ra là của ba.]
+`
+  },{
+    id: 570,
+    title: "Đem Tiền Đi Bao Nuôi Ai Ngờ Trúng Ngay Tổng Giám Đốc",
+    image: "imgdam/20e8d3c7cca3afde01f410dd2ec609ca.jpg",
+    link: "dammy/dem-tien-di-bao-nuoi-ai-ngo-trung-ngay-tong-giam-doc.html",
+    type: "dammy",
+    desc: `Tôi là một nam Beta, nhưng lại thầm thích một Alpha đỉnh cấp.
+
+Tình cờ biết Alpha đỉnh cấp đó bị phá sản, tôi vội vã chạy đến trước mặt anh.
+
+“Chào anh, tôi có tiền.”
+
+Alpha đỉnh cấp nhướng mày, nhìn vào màn hình điện thoại của tôi, số dư đầy đủ từng đồng.
+
+Tôi tưởng anh sẽ từ chối, định kéo dài thêm vài câu.
+
+Ai ngờ, anh lại đồng ý.
+
+“Vậy sau này, có nên gọi cậu là chủ nhân không?”
+
+Cho đến khi tôi đến tòa nhà Tập đoàn Kỳ Thị, thấy Alpha đỉnh cấp là người lẽ ra đang ở nhà mặc tạp dề đứng ở đó.
+
+Tôi quay đầu chạy, nhưng vừa đi nửa đường thì bị một bàn tay giữ lại, ép vào trong xe.
+
+“Sao thế? Ăn no uống đủ rồi chán à, không muốn nữa sao?”
+`
+  },{
+    id: 571,
+    title: "Nữ Nhân Tự Lập Làm Giàu",
+    image: "imgco/867efe60f2407161d4deeae876aaaa13.jpg",
+    link: "cotrang/nu-nhan-tu-lap-lam-giau.html",
+    type: "cotrang",
+    desc: `Trong kinh thành ai nấy đều tường tận, Thái phó Thẩm Hoài An của Thái tử giấu một nữ tử ở trong lòng, tên là Tô Mạn Xu.
+
+Một cái nhăn mày một nụ cười của nàng đều có thể khiến Thẩm Hoài An hiến dâng cả sinh mạng của mình.
+
+Bệ hạ ban hôn, để ta trở thành thê tử của hắn.
+
+Ngày thành hôn, nữ tử đó mặc hỉ phục đỏ xuất hiện ở trước cửa cao đường.
+
+"Thẩm lang thương ta nhất! Chàng không thể cưới ta là điều tiếc nuối trong cuộc đời này, hiện giờ ta cũng xem như là gả cho chàng."
+
+Vẻ mặt nàng tràn đầy đắc ý.
+
+Ta bình tĩnh vén khăn voan lên, hướng về phía trước cao đường gật gật đầu.
+
+Ngay lập tức, đám chân tay chia làm hai đội, mỗi đội kéo một người, đưa họ đến gần nhau, ấn đầu xuống.
+
+"Bái đường."
+
+Nếu tiếc nuối như thế, ta sẽ tới giúp các ngươi một tay.
+`
   },
 
 
