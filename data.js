@@ -11913,6 +11913,198 @@ Ngay lập tức, đám chân tay chia làm hai đội, mỗi đội kéo một 
 
 Nếu tiếc nuối như thế, ta sẽ tới giúp các ngươi một tay.
 `
+  },{
+    id: 572,
+    title: "Gặp Lại Cố Nhân Giữa Thời Đại Mới",
+    image: "imgngon/31ee36a1e277209504f140ad581b7c35.jpg",
+    link: "ngontinh/gap-lai-co-nhan-giua-thoi-dai-moi.html",
+    type: "ngontinh",
+    desc: `Tôi tỉnh lại, bọn họ nói tôi là con gái ruột bị trao nhầm của nhà họ Tần.
+
+Thế nhưng trong nhà đã có một vị thiên kim giả được nuôi dưỡng hơn mười năm.
+
+Người nhà chờ mong tôi tự ti, đố kỵ, căm hận sự bất công của số phận, trong nỗi u oán vô tận mà trầm luân vực sâu.
+
+Nhưng tôi nhìn thời đại hoàn toàn mới này, không có chiến tranh và đói khát, không có nỗi sợ hãi cái chết.
+
+Đối với tôi mà nói, đây chính là thời đại tốt đẹp nhất.
+`
+  },{
+    id: 573,
+    title: "Bảo Bối Của Tôi Là Thiếu Gia Giả",
+    image: "imgdam/97299c838bc8a656afe8644605dfb263.jpg",
+    link: "dammy/bao-boi-cua-toi-la-thieu-gia-gia.html",
+    type: "dammy",
+    desc: `Sau khi em trai ruột được nhận về nhà, Mạnh Chiêu liền nói rằng cậu sẽ hắc hóa trở thành phản diện.
+
+Tôi bất lực gõ cửa.
+
+“Tổ tông, tại sao lại muốn hắc hóa vậy?”
+
+Cậu ta vừa khóc vừa gào lên.
+
+“Bởi vì tôi là giả, các người sẽ không còn yêu tôi nữa!”
+
+Tôi bưng khay đồ ăn trong tay.
+
+“Ăn xong rồi hãy hắc hóa được không? Mẹ hầm canh cho em, ba trộn salad, em trai mới thì mua cho em món ngọt.”
+
+Cánh cửa hé ra một khe nhỏ, lộ ra gương mặt khóc đỏ bừng.
+
+“Thế còn anh? Anh định làm gì?”
+
+Tôi nhân cơ hội chen vào phòng, cúi đầu hôn nhẹ lên khóe mắt đỏ hoe ấy.
+
+“Anh thì.
+
+Em không biết anh đã nhẫn nhịn bao lâu rồi đâu, em trai.”
+`
+  },{
+    id: 574,
+    title: "Bồ Đề Trói Buộc Duyên Trần",
+    image: "imgco/4daedf0db8ce85a47c80b7d945925309.jpg",
+    link: "cotrang/bo-de-troi-buoc-duyen-tran.html",
+    type: "cotrang",
+    desc: `Ta chết vào ngày đại hôn của vị hôn phu.
+
+Trong ngôi miếu đổ nát ngoại ô thành, ta thất khiếu chảy máu, nằm sấp trên bồ đoàn, lệ rơi lã chã nhìn tượng Quan Âm phủ đầy bụi bặm.
+
+Kiếp này tín nữ sống trên đời không thẹn với trời đất, nhưng tại sao lại rơi vào cảnh chúng bạn xa lánh, người thân phản bội?
+
+Quan Âm không nói, chỉ nhìn ta bằng ánh mắt thương xót.
+
+Ngoài cửa vang lên tiếng vó ngựa dồn dập, là ai mang theo hàn khí khắp người đang bước về phía ta?
+
+Hai mắt ta đã không còn nhìn thấy gì nữa, chỉ có thể vô vọng nhìn về phía hắn, khàn giọng cầu xin:
+
+"Dù ngươi là ai đi chăng nữa, xin hãy nhặt xác cho ta. Kiếp sau, ta nhất định sẽ báo đáp ngươi."
+
+Hắn run rẩy ôm ta vào lòng, một giọt nước mắt nóng hổi rơi xuống mi tâm của ta.
+
+Đêm tuyết đầu mùa, trời giá rét.
+
+Tiểu thư khuê các được Trung Dũng Hầu yêu thương như trân bảo, chết nơi hoang dã năm mươi sáu tuổi.
+`
+  },{
+    id: 575,
+    title: "Giáo Trình Đào Mỏ Hào Môn",
+    image: "imgngon/e179d941e412d028ca17b9e7b2f99024.jpg",
+    link: "ngontinh/giao-trinh-dao-mo-hao-mon.html",
+    type: "ngontinh",
+    desc: `Tôi và Giang Mộ là cặp tình nhân hào môn được cư dân mạng chú ý.
+
+Trong bữa tiệc sinh nhật của mình, Giang Mộ bị thu hút bởi một cô gái khác.
+
+Anh cho rằng cô gái đó cực kỳ phù hợp với sở thích của mình, ngay cả những chiêu trò nhỏ của cô cũng khiến anh cảm thấy đáng yêu.
+
+Anh quyết định huỷ bỏ hôn ước với tôi vì cô gái đó.
+
+Giới truyền thông hỏi về bạn gái cũ là tôi, Giang Mộ thản nhiên nói: “Diệp Chiêu Chiêu là một cô gái tốt, nhưng không vì cô ấy mà sống một đời.”
+
+Sau đó, anh hối hận vì đã cưới cô gái đó.
+`
+  },{
+    id: 576,
+    title: "Bao Nuôi Nhầm Thái Tử Gia",
+    image: "imgdam/45419f37b4a86aa7ed9c23db739a0106.jpg",
+    link: "dammy/bao-nuoi-nham-thai-tu-gia.html",
+    type: "dammy",
+    desc: `Tôi đến trường thăm em trai, đi nhầm ký túc xá.
+
+Thấy một anh chàng cao lạnh với tám múi bụng, tôi tưởng cậu ta là bạn cùng phòng khốn khó của em trai, liền đề nghị bao nuôi cậu ta.
+
+Đêm đó tôi chuốc cậu ta uống rất nhiều rượu, kết quả là chính tôi van xin cả đêm:
+
+“Anh trai lớn tuổi rồi, chịu không nổi, thật sự chịu không nổi.”
+
+Tôi vốn là đại mãnh công.
+
+Bị ép làm số không đã đành, hóa ra đối phương là thái tử gia kinh đô, một lần làm số không cả đời làm số không.
+
+Hối hận không kịp nữa rồi.
+`
+  },{
+    id: 577,
+    title: "Quay Về Báo Thù Hoàng Đế Hèn Nhát",
+    image: "imgco/efcda01893ef4b378ab8f6dd53f383dc.jpg",
+    link: "cotrang/quay-ve-bao-thu-hoang-de-hen-nhat.html",
+    type: "cotrang",
+    desc: `Khi ta xuyên không về quá khứ, nữ chính đã qua đời được mười năm.
+
+Ta như một linh hồn lơ lửng trên không trung, nhìn nam chính Hoàng đế ngồi giữa hậu cung ba ngàn giai nhân, lại đau đáu nhớ mãi không quên nữ chính.
+
+Si tình đến thế cơ mà, vậy thì ta sẽ cho hắn được thỏa ước mong.
+
+Ta nhập vào thi thể đã thối rữa của nữ chính, đội mồ sống dậy.
+
+Nào ngờ, nam chính thấy ta lại sợ té đái chạy mất.
+`
+  },{
+    id: 578,
+    title: "Mèo Cưng Thành Tinh Lại Đòi Làm Bạn Trai Tôi",
+    image: "imgngon/46b53cc91a525d73f4c97038f3b746c7.jpg",
+    link: "ngontinh/meo-cung-thanh-tinh-lai-doi-lam-ban-trai-toi.html",
+    type: "ngontinh",
+    desc: `Đêm khuya thanh vắng, Tiểu Tiểu, mèo cưng của tôi, tới báo mộng.
+
+"Sau khi tắm xong, đừng có mà trần truồng đi ra ngoài như vậy."
+
+"Tôi là mèo đực, tôi sẽ ngại ngùng."
+
+Tôi nửa tin nửa ngờ.
+
+Ngày hôm sau tắm rửa xong, tôi vẫn để nguyên thân thể trần trụi đi ra.
+
+Thấy tôi đi về phía nó, đồng tử của nó đột nhiên phóng to, đầu nghiêng sang một bên, cả khuôn mặt hướng lên trần nhà.
+
+Không biết có phải ảo giác của tôi hay không, khuôn mặt đen nhẻm của nó dường như ửng đỏ.
+
+Điều khiến tôi không ngờ là, không lâu sau, Tiểu Tiểu lại hóa thành hình người, leo lên giường tôi.
+
+Nó cắn nhẹ dái tai tôi, giọng nói trầm thấp:
+
+"Thích không mặc quần áo hả?"
+`
+  },{
+    id: 579,
+    title: "Tổng Tài Mặt Dày Đòi Danh Phận",
+    image: "imgdam/b20b4acfdbe5300c1746c2c5a3bf4c4e.jpg",
+    link: "dammy/tong-tai-mat-day-doi-danh-phan.html",
+    type: "dammy",
+    desc: `Giữ mình sạch sẽ hơn hai mươi năm, tôi lại vừa gặp đã yêu vợ nhà người ta trong một buổi tiệc.
+
+Theo chuẩn mực đạo đức của một alpha đỉnh cấp như tôi, vốn không nên động lòng, càng không nên giở thủ đoạn.
+
+Nhưng vợ người ta phong hoa tuyệt đại, còn tên tra nam kia lại khinh cậu ấy chỉ là một beta, công khai đi theo đuổi omega khác.
+
+Trong lòng tôi thì hoa nở rộ, ngoài mặt vẫn làm bộ nghiêm túc, đi đến trước mặt vị vợ người ta xinh đẹp kia:
+
+“Chào vợ… à không, ý tôi là, cậu có muốn đổi chồng không?”
+`
+  },{
+    id: 580,
+    title: "Hoàng Thượng Lại Ghen Rồi",
+    image: "imgco/adbcc5b463b8e7076a5933213ee1ac4e.jpg",
+    link: "cotrang/hoang-thuong-lai-ghen-roi.html",
+    type: "cotrang",
+    desc: `Ta là thiếp thất của Thái tử, nhưng lòng ta đã hướng về người khác.
+
+Ta đã phải lòng chàng sát thủ trẻ tuổi luôn tìm cách ám sát Thái tử.
+
+"Dịch ca ca, huynh lại đến ám sát tên Thái tử ngu ngốc đó sao? Chờ hắn chết đi, chúng ta cùng nhau bỏ trốn đến nơi xa thật xa nhé."
+
+Hắn khẽ cong môi cười: "Hửm? Thái tử ngu ngốc?"
+
+Rồi Hoàng đế băng hà, Thái tử lên ngôi.
+
+Ta thu dọn hành lý, chuẩn bị cùng Dịch ca ca cao chạy xa bay.
+
+Nhưng rồi, ta tận mắt chứng kiến một đám thái giám quỳ trước mặt hắn, đồng thanh hô vang "Vạn tuế! Vạn tuế! Vạn vạn tuế!"
+
+Ha ha ha!
+
+Ta cười như điên như dại rồi ngất lịm đi.
+`
   },
 
 
