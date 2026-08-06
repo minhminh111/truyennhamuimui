@@ -12105,6 +12105,178 @@ Ha ha ha!
 
 Ta cười như điên như dại rồi ngất lịm đi.
 `
+  },{
+    id: 581,
+    title: "Xé Nát Âm Mưu Của Kẻ Phản Bội",
+    image: "imgngon/4c40038aa0a6061c7e04e8dec115b653.jpg",
+    link: "ngontinh/xe-nat-am-muu-cua-ke-phan-boi.html",
+    type: "ngontinh",
+    desc: `Vị hôn phu và anh trai chính là những kẻ hận cô suốt mười năm. Họ tin rằng cô luôn bắt nạt "bông hoa trắng nhỏ" mà họ yêu thích. Và trong chính buổi tiệc đính hôn của cô, họ đã vạch trần tội ác của cô ngay trước mặt mọi người.
+
+"Cô ta chính là kẻ bắt nạt bạn học!"
+
+Trong video phát trực tiếp khắp mạng xã hội, "bông hoa trắng nhỏ" mỉm cười trong nước mắt: "Chị ấy còn trách cô ta nữa chứ."
+
+"Quay đầu nhìn lại, thuyền nhẹ đã vượt ngàn núi non."
+
+Cô ta nổi tiếng chỉ sau một đêm.
+
+Dưới sự chỉ trích, bị fan cực đoan tạt axit, trong tuyệt vọng cô và cô bạn cùng chết chung.
+
+Khi mở mắt ra một lần nữa, cô đã trở về năm học lớp mười hai.
+
+"Bông hoa trắng nhỏ" đổ nước lên đầu cô rồi hỏi nhỏ: "Cô nghĩ xong cách xin lỗi chưa?"
+
+Lục Tâm Hỷ lập tức phát điên. Cô nắm tóc kéo đối phương vào nhà vệ sinh, ấn thẳng xuống bồn cầu: "Tôi sẽ dạy cô, thế nào mới là bắt nạt thật sự."
+
+"Miệng bẩn như vậy, lúc đi mách lẻo nhớ rửa sạch chút nhé."
+`
+  },{
+    id: 582,
+    title: "Hẹn Hò Bí Mật Cùng Sếp Lạnh Lùng",
+    image: "imgdam/73f3b9ea46da19398ee07127c8198958.jpg",
+    link: "dammy/hen-ho-bi-mat-cung-sep-lanh-lung.html",
+    type: "dammy",
+    desc: `Trước thang máy, tôi than phiền với người đứng cạnh:
+
+"Lần sau anh có thể dịu dàng hơn được không? Tôi thật sự không chịu nổi cái kiểu hành hạ người ta đến chết của anh."
+
+Lời còn chưa dứt, giọng nói lạnh lùng của sếp tôi, Đường Tiêu Minh, đã vọng đến từ phía sau:
+
+"Trợ lý Diệp. Giữa chốn đông người mà nói mấy chuyện nhạy cảm này là sợ người khác không nghe thấy à?"
+
+Tôi ngơ ngác.
+
+Nghe thấy thì sao chứ, giờ nói chuyện tập gym cũng thành vấn đề riêng tư rồi sao?
+`
+  },{
+    id: 583,
+    title: "Đồng Lõa Sinh Tử",
+    image: "imgco/11ea197bd2bd947b3e4aee6dbe376916.jpg",
+    link: "cotrang/dong-loa-sinh-tu.html",
+    type: "cotrang",
+    desc: `Nữ nhân xuyên không chiếm lấy thân thể của ta.
+
+Ban đầu, nàng ta một mặt chán ghét: "Lần này sao ta lại phải công lược một tên nam nhân đã có thê thất chứ."
+
+Chờ đến khi nàng ta phát hiện phu quân của ta là Thủ phụ đương triều, dung mạo tuấn mỹ vô song, liền trở nên vô cùng vừa lòng:
+
+"Chỉ có nam nhân ưu tú như vậy mới xứng với ta. Cổ nhân ngu xuẩn, ta chỉ cần học thuộc lòng mấy câu thơ, lại lấy ra một ít công thức thuốc súng, xà phòng gì đó, nhất định có thể dễ dàng thu phục được hắn ta."
+
+Nhưng nàng ta không biết, phu quân của ta thông minh gần như yêu nghiệt, là một kẻ điên cuồng tỉnh táo.
+`
+  },{
+    id: 584,
+    title: "Bí Mật Thầm Lặng Của Nam Thần Hàng Đầu",
+    image: "imgngon/2c0164b48df85c0215ab69eda73e7302.jpg",
+    link: "ngontinh/bi-mat-tham-lang-cua-nam-than-hang-dau.html",
+    type: "ngontinh",
+    desc: `Tôi đã bị hack tài khoản.
+
+Kẻ lừa đảo dùng ghi chú của tôi để mượn tiền từ từng người bạn.
+
+Nhưng tin nhắn được gửi cho Phương Yến Lương lại là: "Chồng ơi, anh có ở đó không?"
+
+Mối tình đơn phương kéo dài mười năm của tôi, trong khoảnh khắc này đã không còn biết phải giấu vào đâu nữa.
+`
+  },{
+    id: 585,
+    title: "Nước Mắt Nam Sủng",
+    image: "imgdam/49c268f94a50dfe46c89031f9150ce19.jpg",
+    link: "dammy/nuoc-mat-nam-sung.html",
+    type: "dammy",
+    desc: `Hoàng thượng ghét bỏ Tể tướng vì hắn không nghe lời, trong cơn tức giận, người đã gả ta cho hắn.
+
+Ý định của người là làm nhục Tể tướng, vì ta không chỉ là một nam nhân, mà còn là nam sủng của hoàng thượng.
+
+Ở trong hậu cung nhiều năm, ta đã âm thầm chuẩn bị sẵn dải lụa trắng, chỉ chờ bị từ chối rồi tự sát, nhưng Tể tướng lại không ghét bỏ ta, ngay trước đại điện, hắn đã đồng ý lấy ta.
+
+Ngày ta rời cung, tuyết rơi dày, đôi chân bị thương của ta đã lạnh đến mức không còn cảm giác.
+
+Tiểu Tể tướng có lẽ không chịu được việc ta đi quá chậm, cuối cùng cho người đưa ta lên kiệu.
+`
+  },{
+    id: 586,
+    title: "Năm Tháng Bình An Khi Gặp Lại Chàng",
+    image: "imgco/636409a3df680a022f684afe907cf6e3.jpg",
+    link: "cotrang/nam-thang-binh-an-khi-gap-lai-chang.html",
+    type: "cotrang",
+    desc: `Vào đêm bái đường thành hôn, phu quân mãi vẫn chẳng trở về.
+
+Ngược lại, thiên hạ đều truyền tai nhau rằng Thượng thư Hình bộ của triều đình cùng với nữ bổ khoái giang hồ vừa mới phá thành công một vụ án lớn.
+
+Hai vị anh hùng hiệp nữ sóng đôi bên nhau, trở thành câu chuyện truyền kỳ trong dân gian.
+
+Khiến cho hôn lễ của tôi và vị phu quân đường đường chính chính cưới hỏi, trở nên vô cùng thừa thãi.
+
+Giới quý tộc Thái Nguyên không ngừng cười nhạo, bảo rằng bao năm theo đuổi và quan tâm chăm sóc Triệu Ngọc mà vẫn chẳng bằng hai tháng sóng vai của Lục bổ khoái.
+
+Nghe nói họ từng kề vai sát cánh, khi Triệu Ngọc liều mình chắn tên vì nữ bổ khoái đó, hắn đã một mình băng qua con đường đầy tuyết phủ lên những đống than nóng rực và thành công lấy được tờ hôn thư.
+
+Triệu Ngọc vẫn tin rằng tôi chỉ đang giận dỗi, chờ xem khi nào tôi sẽ tự tìm cách quay về.
+
+Cho đến khi dịch đậu mùa lan tràn khắp thành, Lục An Nhiên đề nghị thử thuốc cứu người.
+
+Hắn cảm động vô cùng, tưởng rằng cuối cùng nữ tử này đã kìm nén mà lo lắng cho mình.
+
+Nào ngờ Lục An Nhiên lại lướt thẳng qua vòng tay mở rộng của Triệu Ngọc, lao thẳng vào lòng một tên ám vệ trẻ tuổi đang đứng phía sau, nghẹn ngào nói rằng: "Thật đáng sợ quá, Thẩm Yến, may mà có chàng!"
+`
+  },{
+    id: 587,
+    title: "Trả Giá Cho Sự Đố Kỵ",
+    image: "imgngon/3b9c0eda9bc2b6f2c445bd44fdfb9e2e.jpg",
+    link: "ngontinh/tra-gia-cho-su-do-ky.html",
+    type: "ngontinh",
+    desc: `Cô em họ nhỏ hơn ba ngày tuổi tạm thời chuyển đến ở nhờ nhà tôi.
+
+Kể từ ngày đó, nó luôn nhìn chằm chằm mọi thứ của tôi, từ đồ chơi cho đến bạn bè, những thứ tôi thích và cả những thứ ta thích, nó nghĩ tất cả đều là của nó nhất định phải chiếm đoạt cho bằng được.
+
+Hai vị phụ huynh sĩ diện nhà tôi chỉ trích tôi không hiểu chuyện, bảo tôi phải biết ra dáng một người chị.
+
+Được thôi, tất nhiên tôi nên nhường nhịn vì tôi thực sự là một người chị tốt.
+
+Và bây giờ, cô em họ, cuộc hôn nhân kiệt quệ đến ly hôn, lê cái chân què quặt của nó tới đây để chất vấn tôi.
+
+Tôi vô tội mà.
+
+Tôi làm gì sai chứ? Chẳng qua khi còn trẻ, mắt mù quen nhầm với vài kẻ cặn bã thôi mà.
+`
+  },{
+    id: 588,
+    title: "Cá Mập Nhỏ Ở Ký Túc Xá",
+    image: "imgdam/32b6646693a401e1852d635eaf7080d6.jpg",
+    link: "dammy/ca-map-nho-o-ky-tuc-xa.html",
+    type: "dammy",
+    desc: `Tôi nuôi một con cá mập, phần bụng của nó có hai cục trắng nhô lên nhiều hơn so với những con cá mập khác.
+
+Mỗi khi tôi chạm vào, nó lại xấu hổ.
+
+Khi nó hóa thành người, tôi mới biết.
+
+Hóa ra nó là giống đực.
+
+Đó là bộ phận của nó.
+
+Sau này, khi trở thành bạn cùng phòng của tôi, nó ép tôi vào tường và cắn bằng những chiếc răng sắc nhọn.
+
+"Chủ nhân, sao không chạm vào nữa?"
+`
+  },{
+    id: 589,
+    title: "Công Chúa Phải Lòng Thị Lang Đại Nhân",
+    image: "imgco/1c837f8dc43d3ec5209a10302aad689f.jpg",
+    link: "cotrang/cong-chua-phai-long-thi-lang-dai-nhan.html",
+    type: "cotrang",
+    desc: `Sau khi thành thân với Cố thị lang cao ngạo của dòng dõi thế gia, chúng ta trở thành đôi phu thê danh nghĩa.
+
+Đêm tân hôn, Cố Lân thản nhiên nói: “Hiện nay lòng thần chỉ mang thiên hạ, nào cách nào nghĩ đến chuyện gia thất.”
+
+Ta đáp: “Còn Bản Công chúa chỉ thích thưởng rượu ngắm hoa, không muốn bó buộc trong phủ.”
+
+Vì thế, chúng ta lập tức đồng thuận, mỗi người tự lo chuyện của mình.
+
+Thế nhưng, sắc đẹp kia, ta thèm thuồng từ lâu.
+`
   },
 
 
