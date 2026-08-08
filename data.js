@@ -12277,6 +12277,242 @@ Vì thế, chúng ta lập tức đồng thuận, mỗi người tự lo chuyệ
 
 Thế nhưng, sắc đẹp kia, ta thèm thuồng từ lâu.
 `
+  },{
+    id: 590,
+    title: "Đối Thủ Không Đội Trời Chung Lại Cưng Chiều Tôi Đến Tận Trời",
+    image: "imgngon/9f7ab5967838af55bfef131195d4c19e.jpg",
+    link: "ngontinh/doi-thu-khong-doi-troi-chung-lai-cung-chieu-toi-den-tan-troi.html",
+    type: "ngontinh",
+    desc: `Dùng điện thoại của Thẩm Thụ, tôi phát hiện ra lịch sử tìm kiếm của anh.
+“Đàn ông hai mươi lăm tuổi có tâm không có lực làm sao bây giờ?”
+
+“Đàn ông không được có bị vợ bỏ rơi không?”
+
+“Làm thế nào để tăng cường sinh lực?”
+
+Tôi ngay lập tức chụp ảnh màn hình lại.
+
+Sau đó tôi dùng nó để đe dọa Thẩm Thụ.
+“Giao dự án đó cho tôi đi.”
+“Chắc anh không muốn mấy cái lịch sử tìm kiếm này bị nhân viên công ty nhìn thấy chứ?”
+
+Thẩm Thụ nhìn tôi đăm đăm rồi cười khẽ.
+“Được.”
+
+Hôm sau tôi say rượu nên vô tình vào nhầm phòng Thẩm Thụ.
+
+Một đêm cuồng nhiệt diễn ra.
+
+Tỉnh dậy tôi liền tát cho người bên cạnh một cái.
+“Hu hu hu anh yếu sinh lý chỗ nào?”
+“Mệt chết tôi rồi.”
+“Anh không bị gì sao lại tìm mấy thứ đó chứ?”
+
+Thẩm Thụ hôn lên chóp mũi tôi.
+“Bảo bối còn muốn nữa không?”
+`
+  },{
+    id: 591,
+    title: "Giam Cầm Dịu Dàng Của Ôn Tiên Sinh",
+    image: "imgdam/16bff85d23fdbf4240e3f218c5d3d31a.jpg",
+    link: "dammy/giam-cam-diu-dang-cua-on-tien-sinh.html",
+    type: "dammy",
+    desc: `Tôi là bạn đọc của thiếu gia, người khác khen tôi tuổi còn nhỏ đã có tương lai kiếm được bộn tiền.
+
+Mặt tôi đỏ bừng vì xấu hổ, cũng không dám nói mình là bạn đọc ba ấm của thiếu gia, ấm giường, ấm lưỡi, ấm thân thể.
+
+Vào năm thiếu gia yêu tôi nhất, tôi cầm tiền bỏ chạy, thiếu gia vốn lý trí dịu dàng lập tức mất khống chế mà phát điên.
+
+Hắn hôn tôi, cắn tôi, quấn lấy tôi.
+
+Tôi đầu váng mắt hoa cầu xin, giọng nói thiếu gia trầm khàn: "Nhìn vào gương đi, tôi đang làm gì? Đứng không vững nữa rồi sao bé cưng, để tôi bế lên nhé?"
+`
+  },{
+    id: 592,
+    title: "Hủy Hôn Kế Bất Thành",
+    image: "imgco/bff1dd347ef270ac1f5128e9375bdd09.jpg",
+    link: "cotrang/huy-hon-ke-bat-thanh.html",
+    type: "cotrang",
+    desc: `Vị hôn phu của ta mất trí nhớ rồi.
+
+Trước khi mất trí nhớ, hắn đẹp trai và quyến rũ, là người tình trong mộng của tất cả các thiếu nữ ở kinh thành.
+
+Hắn từng nói với ta rằng nàng sẽ là nữ tử duy nhất tồn tại trong giấc mơ của ta.
+
+Sau khi mất trí nhớ, hắn vẫn đẹp trai và vẫn quyến rũ, vẫn là người tình trong mộng của tất cả các thiếu nữ ở kinh thành.
+
+Nhưng giờ đây hắn chỉ vào ta rồi nói người phụ nữ đanh đá này là ai vậy và mau đuổi nàng ta ra khỏi phủ Thái tử đi.
+
+Quản gia do dự nói Điện hạ ngài có muốn đợi thêm chút nữa không.
+
+Hắn đáp đợi cái gì mà đợi và nhanh lên.
+
+Mặt quản gia không chút biểu cảm đáp đợi xe ngựa của lò hỏa táng chắc sắp đến rồi đó.
+`
+  },{
+    id: 593,
+    title: "Nữ Tổng Tài Trị Tra Nam Tận Gốc",
+    image: "imgngon/31d13a23898ddc30994a9b3f1e4935a0.jpg",
+    link: "ngontinh/nu-tong-tai-tri-tra-nam-tan-goc.html",
+    type: "ngontinh",
+    desc: `Ở bên nhau năm thứ tám, Tống Nghị An thể hiện rõ sự chán ghét tôi ra mặt.
+
+Hôm đó, Tống Nghị An ăn vận bảnh bao, vừa rời khỏi phim trường đã vội vàng đưa nữ diễn viên mới vào khách sạn.
+
+Trước mặt người mới, Tống Nghị An không kiêng dè mà bày tỏ sự chán ghét đối với tôi.
+
+"Trước đây là tôi nợ cô ta rất nhiều, sau này tôi sẽ trả."
+
+"Tôi chỉ là một người bình thường, thích người trẻ đẹp chứ không phải một người phụ nữ hơn tôi sáu tuổi."
+
+"Nếu cô ta thực sự yêu tôi, thì nên buông tha cho tôi, thành toàn cho tôi và người khác."
+
+Tôi không nói gì, vẫn dốc sức hỗ trợ tài nguyên cho Tống Nghị An.
+
+Người bạn nhiều năm bất bình thay cho tôi.
+
+"Tống Nghị An coi tất cả mọi người là kẻ ngốc, tự mãn, còn tưởng mình thông minh lắm."
+
+"Trước đây, nể mặt tôi nên không so đo với Tống Nghị An, sau này dù tôi có làm gì Tống Nghị An, cậu cũng đừng mềm lòng nữa."
+
+Tôi lắc đầu.
+
+"Cậu đừng giúp tôi trả thù Tống Nghị An."
+
+Chuyện này tôi sẽ tự mình giải quyết.
+
+Đã từng nâng Tống Nghị An lên bằng cách nào thì sẽ tự tay kéo Tống Nghị An xuống bằng cách đó.
+`
+  },{
+    id: 594,
+    title: "Âm Thanh Của Em Chỉ Riêng Mình Anh Nghe Thấy",
+    image: "imgdam/439659053e70a794e7522b84bcc25d9b.jpg",
+    link: "dammy/am-thanh-cua-em-chi-rieng-minh-anh-nghe-thay.html",
+    type: "dammy",
+    desc: `Tôi là mỹ nam đệ nhất được công nhận của tộc người cá.
+
+Tiếc là ông trời cho tôi gương mặt thiên thần, nhưng lại kèm theo giọng hát đến từ địa ngục.
+
+Chỉ cần tôi cất giọng, cá tôm trong vòng mười dặm đều lật bụng ngửa lên.
+
+Cho đến khi tôi gặp người đàn ông đến bãi biển vẽ tranh ấy.
+
+Anh ta không nghe thấy.
+
+Dù giọng tôi có chấn động đến mức nào, anh cũng chỉ dịu dàng nhìn tôi.
+
+Tôi đã rung động, lần đầu tiên có người không bị giọng hát của tôi dọa cho bỏ chạy.
+
+Chúng tôi dùng ký hiệu và tranh vẽ để giao tiếp, ngọt ngào và yên bình.
+
+Cho đến một ngày, một đám trẻ con chạy đến hét lên với anh:
+
+“Chú điếc ơi, lại đến gặp hoàng tử người cá của chú nữa à?”
+
+Anh chỉ cười không nói gì, nhưng sau khi bọn trẻ chạy đi, anh bất giác ngân nga một giai điệu tôi từng hát.
+
+Chuẩn từng từ, từng nốt, không lệch một ly.
+
+Đệt.
+
+Tên điếc này, là giả vờ?
+`
+  },{
+    id: 595,
+    title: "Phá Bỏ Xiềng Xích Truyện Ngược",
+    image: "imgco/56b5ec42efee9408d7369a4df2b0ab74.jpg",
+    link: "cotrang/pha-bo-xieng-xich-truyen-nguoc.html",
+    type: "cotrang",
+    desc: `Mẫu thân ta điên rồ cả đời.
+
+Trước khi chết, bà để lại cho ta gia sản kếch xù cùng một mảnh giấy nhỏ.
+
+Trên mảnh giấy viết:
+
+【Luật sinh tồn trong truyện ngược】
+
+Một, cấm nhặt nam nhân ven đường, đặc biệt là nam nhân bị mất trí nhớ.
+
+Nếu đã lỡ nhặt, hãy nhanh chóng phủi sạch quan hệ.
+
+Nếu không tự gánh lấy hậu quả.
+
+Hai, phải nhớ, con người có một bộ phận gọi là miệng.
+
+Miệng ngoài ăn cơm, còn có thể dùng để nói chuyện.
+
+Nếu hắn hiểu lầm con, hãy lập tức sử dụng miệng để làm rõ.
+
+Ba, chú ý, báo ân có rất nhiều cách.
+
+Nhưng tuyệt đối không bao gồm việc cưỡng ép cưới về rồi cố ý lạnh nhạt, chèn ép, ngược đãi.
+
+Nếu gặp phải tình huống như vậy, hãy nhanh chóng chạy trốn.
+`
+  },{
+    id: 596,
+    title: "Nữ Chính Hư Hỏng Xuyên Vào Thế Giới Thanh Thuỷ Văn",
+    image: "imgngon/47e55d215c0ce19b01eb0a6ee79516f7.jpg",
+    link: "ngontinh/nu-chinh-hu-hong-xuyen-vao-the-gioi-thanh-thuy-van.html",
+    type: "ngontinh",
+    desc: `Ta là nữ chính trong truyện pỏn, không biết vận may shit chó thế nào lại xuyên thành em gái nuôi của nam chính trong truyện Thanh Thủy Văn.
+
+Oắt con này luôn giữ mình trong sạch, vì thế cũng cưỡng chế ta đây cũng như vậy.
+
+Hắn không cho phép ta đi chơi riêng với con trai, không cho ta có bất kỳ tiếp xúc thân thiết nào với bạn học nam, thậm chí quá đáng hơn là không cho ta nhìn người khác giới quá một giây.
+
+Thân là bà chúa của truyện pỏn, khi xuyên vào giới Thanh Thủy Văn hai năm trời, một miếng thịt cũng chưa được ăn cái nào.
+
+Cho đến một ngày đẹp trời vô tình nhìn thấy oắt con kia tắm, bây giờ lão tài xế ta mới biết được, hắn không đơn giản như vậy.
+
+Ta hoảng loạn bỏ chạy.
+
+Sau đó, hắn dùng tay vuốt tóc ta, ép ta vào đầu giường, cười ôn nhu dịu dàng: "Tang Tang, chuyện này không thỏa đáng chút nào. Ban đầu là anh dạy em thế nào là yêu, cho nên những trò mèo này, dùng lên người anh là đủ."
+`
+  },{
+    id: 597,
+    title: "Độ Hóa Tình Kiếp Đuôi Rắn Của Hắn",
+    image: "imgdam/908fa7425ab3d71d69f2aab6b5b63ca6.jpg",
+    link: "dammy/do-hoa-tinh-kiep-duoi-ran-cua-han.html",
+    type: "dammy",
+    desc: `Chúc Vưu vòng tay ôm lấy ta từ phía sau, giọng lạnh băng: "Linh Diệu Tiên Quân, ngươi thật sự muốn độ hóa ta sao?"
+
+Tám vạn năm công đức của ta chỉ thiếu mỗi việc cuối cùng này.
+
+Thần thú khắp thiên địa đều đã được ta độ hóa, Bắc Phương Thất Túc chỉ còn thiếu tộc Đằng Xà là viên mãn.
+
+"Ta từng nhận ngươi làm đồ đệ, ngươi nên gọi ta một tiếng Sư Tôn."
+
+Hắn cười nhạt như châm chọc: "Ngươi thật sự muốn nghe ta gọi ngươi Sư Tôn?"
+
+"Phải."
+
+"Vậy Sư Tôn nên hiểu. Mỗi lần ta gọi ngươi như thế, trong đầu ta đều nghĩ những gì không? Người chịu nổi hai cây chứ?"
+
+"..."
+
+Ta đương nhiên biết. Tên khốn này đã ngửi thấy mùi xà quả, biết rõ ta vì cớ gì tới đây, vậy mà còn giả vờ làm bộ.
+
+Thật đáng ghét.
+
+"Sư Tôn, cổ của người đỏ rồi."
+`
+  },{
+    id: 598,
+    title: "Ngày Thái Tử Nạp Phi Ta Cùng Thủ Phụ Lật Đổ Giang Sơn",
+    image: "imgco/59fe9d4fe88c35e8825a35944754d0ce.jpg",
+    link: "cotrang/ngay-thai-tu-nap-phi-ta-cung-thu-phu-lat-do-giang-son.html",
+    type: "cotrang",
+    desc: `Trong yến tiệc kết duyên của Thái tử và Thái tử phi, ta bị hạ dược, vô tình mây mưa cả đêm với vị Thủ phụ thanh lãnh trong thiên điện của Đông cung.
+
+Ngày hôm sau, lời đồn lan truyền khắp nơi.
+
+Thái tử vốn thường không để lộ cảm xúc trên gương mặt, giờ đây cầm kiếm chém giết đến đỏ cả mắt.
+
+Trước đó, Kỳ Tu Trác đã cảnh cáo ta vô số lần, đừng có ý đồ không đúng mực với hắn ta.
+
+Giờ thì tốt rồi, ta cũng chẳng còn cách nào để có những ý nghĩ không đúng mực với Kỳ Tu Trác nữa.
+`
   },
 
 
