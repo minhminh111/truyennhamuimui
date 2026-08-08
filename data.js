@@ -12513,6 +12513,196 @@ Trước đó, Kỳ Tu Trác đã cảnh cáo ta vô số lần, đừng có ý 
 
 Giờ thì tốt rồi, ta cũng chẳng còn cách nào để có những ý nghĩ không đúng mực với Kỳ Tu Trác nữa.
 `
+  },{
+    id: 599,
+    title: "Bạn Trai Yêu Kẻ Bắt Nạt",
+    image: "imgngon/781a3063724e8c03ed2d9566830df972.jpg",
+    link: "ngontinh/ban-trai-yeu-ke-bat-nat.html",
+    type: "ngontinh",
+    desc: `Tôi đã cứu Tống Tùy khi Tống Tùy bị một nữ sinh bắt nạt đến mức suýt mất mạng. Kẻ bắt nạt bị kết án tù, sau khi ra tù lại bị người khác trả thù và hủy dung. Tống Tùy biết chuyện nhưng khuôn mặt hoàn toàn không chút biểu cảm. Về sau, Tống Tùy vươn lên trở thành ngôi sao nổi tiếng rần rần, được vạn người hâm mộ cuồng nhiệt, thậm chí trong một buổi hòa nhạc còn công khai cầu hôn tôi đầy tình cảm.
+
+Đêm định mệnh đó, một fan cuồng của Tống Tùy đã manh động dùng dao đâm tôi. Tống Tùy chỉ đứng ngay bên cạnh, điềm nhiên ngậm điếu thuốc, lạnh lùng đứng nhìn mọi chuyện xảy ra.
+
+Tôi liều mạng cầu xin Tống Tùy cứu tôi. Tống Tùy cúi người xuống, nhẫn tâm dí đầu thuốc lá nóng bỏng lên mí mắt tôi, nở nụ cười nhẹ nhàng đến rợn người:
+
+“Ai bảo ngày xưa cô thích lo chuyện bao đồng xen vào chuyện của tôi?”
+
+“Cô ấy là người yếu đuối như vậy, khi bị hủy dung chắc hẳn rất đau đớn?”
+
+Lúc đó tôi mới bàng hoàng ngộ ra, hóa ra Tống Tùy đã ôm ấp tình cảm với kẻ bắt nạt đó suốt bao nhiêu năm nay. Vừa mở mắt ra, tôi nhận ra mình đã xuyên không quay về đúng ngày đầu tiên chuyển trường. Tống Tùy toàn thân bê bết đầy máu, đôi môi mấp máy yếu ớt cầu xin tôi cứu giúp.
+`
+  },{
+    id: 600,
+    title: "Bẫy Học Trưởng Ngoài Lạnh Trong Nóng Về Làm Vợ",
+    image: "imgdam/26b8d01afc8df735d01618ec1b546196.jpg",
+    link: "dammy/bay-hoc-truong-ngoai-lanh-trong-nong-ve-lam-vo.html",
+    type: "dammy",
+    desc: `Tôi giả vờ là một cô nàng ngọt ngào, rồi yêu luôn anh chàng đi rừng trong game người đã hạ tôi đến hai mươi lần.
+
+Khi cậu ấy đề nghị gặp ngoài đời, tôi chỉ lạnh lùng cười, tắt bộ biến giọng:
+
+“Tôi là con trai, cậu thử so xem lớn hơn ai nhé.”
+
+Rồi tôi block cậu ấy luôn.
+
+Đến ngày khai giảng, nghe nói hotboy trường bị lừa qua mạng.
+
+Sau đó, cậu ấy chặn tôi:
+
+“Học trưởng, giọng cậu nghe quen quen…”
+
+“…tiện cho tôi xem to đến mức nào?”
+
+Tôi: “?”
+`
+  },{
+    id: 601,
+    title: "Gánh Hoành Thánh Nuôi Tam Lang",
+    image: "imgco/3a78d977337fc783440c50d32845b745.jpg",
+    link: "cotrang/ganh-hoanh-thanh-nuoi-tam-lang.html",
+    type: "cotrang",
+    desc: `Ta nhặt được một vị quý phụ rơi vào cảnh lầm than dưới chân Hoàng Thành.
+
+Từng bát hoành thánh một, ta nuôi sống nàng, cứu nàng qua cơn nguy khốn.
+
+Sau đó, nàng đột nhiên biến mất.
+
+Mùa thu đến, có một vị thái giám xuất hiện trước quán hoành thánh của ta.
+
+Ông ta nói, Hoàng Hậu đã nhập cung, muốn triệu ta vào cung làm đồng học cho Thái Tử.
+
+Ta ngập ngừng đáp: “Ta chẳng biết làm gì cả, ta chỉ biết gói hoành thánh mà thôi.”
+
+Lão thái giám nheo mắt suy nghĩ một lúc.
+
+“Ồ, vậy dạy Thái Tử gói hoành thánh cũng được.”
+`
+  },{
+    id: 602,
+    title: "Anh Trai Xã Hội Đen Đòi Nợ Thuê Và Cục Nợ Của Anh",
+    image: "imgngon/2c499f239a9fb9946806335470dce997.jpg",
+    link: "ngontinh/anh-trai-xa-hoi-den-doi-no-thue-va-cuc-no-cua-anh.html",
+    type: "ngontinh",
+    desc: `Bố vì để trả nợ nên đem bán tôi cho băng đảng xã hội đen.
+
+Ngày kiểm tra hàng, đại ca nhìn thấy tôi, nhíu mày: "Đệch, gầy quá, còn phải bồi bổ thêm nữa."
+
+Tôi sợ đến mứcòa lên, nắm chặt tay anh, cầu xin: "Em không ngon đâu, anh có thể đừng ăn em không?"
+
+Sau đó bố tôi mang tiền đến chuộc tôi về.
+
+Đại ca xoa đầu tôi: "Tiền thì tao cần nữa, mày là của tao."
+`
+  },{
+    id: 603,
+    title: "Pháo Hôi Kiếm Cơm Bị Nam Chính Đeo Bám",
+    image: "imgdam/3a6bfdaf51ac186564ca9532c6babe3a.jpg",
+    link: "dammy/phao-hoi-kiem-com-bi-nam-chinh-deo-bam.html",
+    type: "dammy",
+    desc: `Xuyên thành học sinh nghèo pháo hôi trong truyện đam mỹ, tôi lén lút bày trò với đám tư bản.
+
+Trống.
+
+Đám công chính cá cược xem ai có thể ngủ được với thụ chính trước.
+
+Tôi vừa bán tin tức cho thụ chính, vừa bán hành tung của thụ chính cho các công chính.
+
+Cuối cùng còn kéo hội chị em mê xem kịch đến đặt cược cho hạt giống mình thích, còn tôi thì ung dung thu tiền hoa hồng.
+
+Đến khi sự việc bại lộ, tôi bị ba công chính vây chặt.
+
+Thụ chính đứng một bên khoanh tay xem náo nhiệt.
+
+Tôi chỉ còn biết ép ra hai giọt nước mắt, ho khan đáng thương:
+
+“Bác sĩ bảo tôi thiếu vitamin, nhưng tôi không có tiền mua.”
+
+Ừm, đúng là thiếu chút vitamin nhân dân tệ.
+`
+  },{
+    id: 604,
+    title: "Sương Mờ Cố Quốc Đọng Lại Tình Ai",
+    image: "imgco/c7db23d0399ecd992f61908ef787a425.jpg",
+    link: "cotrang/suong-mo-co-quoc-dong-lai-tinh-ai.html",
+    type: "cotrang",
+    desc: `Thái tử đem lòng yêu một cô gái câm đã cứu mình, nhất quyết đòi hủy hôn với ta.
+
+Ta lòng tốt khuyên can rằng nữ tử câm kia thân cô thế cô và lai lịch lại không rõ, chi bằng trước tiên cứ nạp nàng ta làm thiếp.
+
+Nào ngờ, nữ tử ấy cảm thấy bị sỉ nhục, xấu hổ và phẫn uất mà tự vẫn.
+
+Mười năm sau, việc đầu tiên khi Thái tử lên ngôi Hoàng đế là phế bỏ ngôi vị Hoàng hậu của ta và diệt cả tộc ta.
+
+Tỉnh lại một lần nữa, ta trở về buổi tiệc mừng sinh thần mười sáu tuổi của mình.
+
+Hoàng đế hỏi ta có điều gì mong muốn.
+
+Ta cung kính cúi mình.
+
+"Chỉ nguyện Thái tử điện hạ và Liễu cô nương bạch đầu giai lão vĩnh kết đồng tâm."
+
+"Xin bệ hạ ban hôn cho hai người."
+`
+  },{
+    id: 605,
+    title: "Kiếp Này Quyết Không Cứu Kẻ Vô Ân",
+    image: "imgngon/464bcaa539dfa7c3eabf9852c126d599.jpg",
+    link: "ngontinh/kiep-nay-quyet-khong-cuu-ke-vo-an.html",
+    type: "ngontinh",
+    desc: `Tôi đã hy sinh tính mạng của mình để cứu một cô gái bị đuối nước.
+
+Nhưng cô gái đó lại nói rằng tôi đã chạm vào vùng kín của cô ta và muốn kiện tôi vì tội quấy rối tình dục.
+
+Gia đình cô gái còn nói tôi chết thảm như vậy là rất xứng đáng.
+
+Bố mẹ tôi bị chọc tức đến mức ngất đi, trong lúc tinh thần hoảng hốt đã bỏ mạng trong một vụ tai nạn giao thông.
+
+Nhìn bộ mặt trơ trẽn của cả nhà cô gái kia, tôi thực sự muốn lao lên dìm chết bọn họ.
+
+Mở mắt ra lần nữa, tôi đã được sống lại vào ngày cô gái kia rơi xuống sông.
+
+Nhìn cô ta vùng vẫy trong nước, tôi bình tĩnh lấy điện thoại ra quay video.
+`
+  },{
+    id: 606,
+    title: "Thế Thân Vệ Úy Sa Lưới Vương Tôn",
+    image: "imgdam/9b11ba9c5b7b83d5814c49894648a624.jpg",
+    link: "dammy/the-than-ve-uy-sa-luoi-vuong-ton.html",
+    type: "dammy",
+    desc: `Ta cải trang thành tiểu quan, trà trộn vào Nam Phong Lâu để mật tra trọng án.
+
+Chẳng ngờ vừa mới chạm mặt, ta đã lọt vào mắt xanh của một tên vương tôn công tử trác táng, hắn vung tiền chuộc thân rồi đưa thẳng ta về phủ.
+
+Hắn bảo ta trông rất giống tình lang trong mộng của hắn, muốn ta làm kẻ thế thân.
+
+Ta nén giận bồi hắn diễn kịch suốt hai ngày trời, cho đến khi hắn lôi ra một sợi dây thừng, bảo ta hãy trói hắn lại.
+
+Hắn còn nói, đây là sở thích của người tình trong mộng kia.
+
+Ta khuyên hắn: "Kẻ có cái chứng nghiện này thì sao có thể là người đoan chính được, quay đầu là bờ đi công tử."
+
+Hắn không phục: "Ngươi thì biết cái gì? Tống Túy thân là Vệ Úy, thích cái trò này mới gọi là xứng đôi vừa lứa!"
+
+Nhưng ta chính là Tống Túy, và đúng là ta đang làm Vệ Úy.
+`
+  },{
+    id: 607,
+    title: "Bẫy Được Phu Quân Cẩm Y Vệ",
+    image: "imgco/eb975b8be91dc48f1dd4fa5eff072889.jpg",
+    link: "cotrang/bay-duoc-phu-quan-cam-y-ve.html",
+    type: "cotrang",
+    desc: `Ta là một nữ tử chốn sơn lâm, vốn mang thân phận thổ phỉ.
+
+Gần đây, ta cướp được một nam nhân dung mạo như ngọc về làm phu quân.
+
+Phu quân của ta tên là Triệu Tri Nghị, vốn là kẻ văn nhã ôn hòa, chỉ tiếc thân thể lại yếu ớt vô cùng.
+
+Vì lẽ đó, ta luôn dè dặt, lo lắng mỏi mòn, chỉ sợ phu quân chịu chút thiệt thòi.
+
+Cho đến một ngày nọ, khi ta vừa đùa giỡn mấy tên tiểu ca ca xong, liền thấy Triệu Tri Nghị mặt mày xanh xao, cõng thẳng ta về nhà.
+
+Ta ngạc nhiên hỏi: "?"
+`
   },
 
 
