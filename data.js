@@ -12703,6 +12703,204 @@ Cho đến một ngày nọ, khi ta vừa đùa giỡn mấy tên tiểu ca ca x
 
 Ta ngạc nhiên hỏi: "?"
 `
+  },{
+    id: 608,
+    title: "Mẹ Tôi Đã Trở Thành Ánh Trăng Sáng Rực Rỡ Nhất",
+    image: "imgngon/e48c9ff690bf3c7f84fe2473091a79ea.jpg",
+    link: "ngontinh/me-toi-da-tro-thanh-anh-trang-sang-ruc-ro-nhat.html",
+    type: "ngontinh",
+    desc: `Bố mẹ ly hôn, tôi sống chết đòi đi theo mẹ.
+
+Kết quả bố nhanh chóng kết hôn với ánh trăng sáng của ông ta, gia đình mới êm ấm.
+
+Để nuôi tôi, mẹ liều mạng làm một lúc mấy công việc, vì quá lao lực nên đột ngột qua đời.
+
+Trước mộ bà ấy, ánh trăng sáng muốn tặng hoa lại bị tôi hất ra.
+
+Nhưng một giây sau tôi bị bố tát sưng mặt: “Nếu muốn về lại nhà thì cũng đừng giống mẹ mày, không biết phải trái!”
+
+Tôi không còn nơi nào để về, đành phải hèn mọn nhận lỗi giống như một con chó rồi trở về nhà bố.
+
+Con gái của ánh trăng sáng ngoài mặt đáng yêu lanh lợi, nói sẽ chăm sóc tôi thật tốt, nhưng sau lưng lại cùng bạn học tung tin đồn nhảm bắt nạt tôi.
+
+“Con gái Cố gia, có mình tao là đủ rồi.”
+
+Vừa nói cô ta vừa đẩy tôi ngã xuống tầng.
+
+Mở mắt ra lần nữa, tôi trở về thời điểm bố mẹ ly hôn.
+
+Thẩm phán nhẹ giọng hỏi: “Con bằng lòng đi theo bố hay theo mẹ?”
+
+Lần này tôi không do dự trả lời: “Đi theo bố ạ!”
+`
+  },{
+    id: 609,
+    title: "Gặp Lại Cậu Bạn Cùng Bàn Tám Năm",
+    image: "imgdam/2c77561ab84f079ca58e99ccd8fac0e6.jpg",
+    link: "dammy/gap-lai-cau-ban-cung-ban-tam-nam.html",
+    type: "dammy",
+    desc: `Ông chủ chê tôi chưa đủ sự “phóng túng” cần thiết, liền quăng tôi sang cho đứa cháu trai của ông ta chơi đùa.
+
+Cánh cửa mở ra, đập vào mắt tôi là bóng hình vô cùng quen thuộc với bờ vai rộng rãi cùng vòng eo thon gọn.
+
+Đó chính là cậu bạn cùng bàn mà tôi đã thầm thương trộm nhớ suốt tám năm trời.
+
+Cậu mặc chiếc áo choàng tắm, cất giọng vấn hỏi cùng ánh mắt lạnh như băng giá:
+
+“Không phải cậu từng bảo đã về quê lập gia đình rồi sao?”
+`
+  },{
+    id: 610,
+    title: "Tro Tàn Cũ Ngờ Đâu Cành Vàng Ngọn Gió Xuân Đưa Lối",
+    image: "imgco/95fd76ca0d65ceca85befaaf29eef5b3.jpg",
+    link: "cotrang/tro-tan-cu-ngo-dau-canh-vang-ngon-gio-xuan-dua-loi.html",
+    type: "cotrang",
+    desc: `Trước lúc từ giã cõi đời, ta đã thiêu chết phu quân.
+
+Nhưng không ngờ, chúng ta cùng tái sinh.
+
+Gặp lại nhau, Hàn Chu liền đối xử lạnh lùng với ta, lập tức bám lấy người khác.
+
+Hắn nói: “Không có ngươi, đời này ta sẽ sống tốt hơn, leo cao hơn.”
+
+Nhưng sau đó, hắn lại quay về van xin ta, nói rằng không thể thiếu ta.
+`
+  },{
+    id: 611,
+    title: "Đại Tiểu Thư Thất Thế Và Tổng Giám Đốc Cải Trang",
+    image: "imgngon/63363b03cacd7add9da9ed42a9f75099.jpg",
+    link: "ngontinh/dai-tieu-thu-that-the-va-tong-giam-doc-cai-trang.html",
+    type: "ngontinh",
+    desc: `Năm thứ ba hẹn hò âm thầm với Chu Gia Thuật, Chu Gia Thuật bất ngờ tuyên bố kết hôn.
+
+Cô dâu lại là Tống Duy.
+
+Có người nhiều chuyện, cảm thấy bất bình thay cho tôi, Chu Gia Thuật liền cười nhạt: “Nếu thấy thương xót, chi bằng cưới kẻ sa cơ thất thế như cô ấy về.”
+
+Sau đó, ông nội bệnh nặng, công ty gặp khủng hoảng, tôi buộc phải công bố mang thai, tiếp quản gia nghiệp.
+
+“Xin hỏi Hứa tiểu thư, đứa trẻ là con của Chu tổng sao?”
+
+Tôi đối diện với phóng viên, điềm tĩnh đáp: “Đứa trẻ không có quan hệ gì với Chu gia.”
+
+Nghe xong, ngày hôm đó Chu Gia Thuật tức giận đến mức đập nát hết đồ đạc trong nhà khi nhìn thấy chiếc bụng phình to của tôi trên TV.
+
+Sau đó, người ta chụp được ảnh vị tổ tông thần bí, kín tiếng nhất Bắc Kinh, giữa phố thị tới lui, nhỏ tiếng dỗ dành một nữ nhân.
+
+“Nhan Nhan, con cũng sắp tròn một tuổi rồi, em còn không cho anh một cái danh phận sao?”
+`
+  },{
+    id: 612,
+    title: "Dấu Ấn Đêm Say",
+    image: "imgdam/7249a88a830f8ec47b44415894431e67.jpg",
+    link: "dammy/dau-an-dem-say.html",
+    type: "dammy",
+    desc: `Trong lúc đang ngâm mình dưới làn nước ấm, tôi vô tình nhấn nhầm nút gửi bản báo cáo công việc cho cấp trên dưới dạng một cuộc gọi video.
+
+Đến sáng thứ Hai đầu tuần, tôi nín thở tìm gặp sếp để thăm dò xem anh ấy đã nỡ nhìn thấy những gì.
+
+Vị sếp lớn vẫn giữ nguyên gương mặt thản nhiên như không có gì xảy ra, chậm rãi cất giọng: "Từ cổ trở lên."
+
+Tôi trút được gánh nặng trong lòng, thầm nghĩ chắc anh chỉ thấy được khuôn mặt mình thôi, thế thì vẫn còn may mắn chán.
+
+Nào ngờ ngay giây tiếp theo, anh lại thông thả bồi thêm một câu: "Và cả từ mắt cá chân trở lên nữa."
+`
+  },{
+    id: 613,
+    title: "Trả Thù Phò Mã Bội Bạc",
+    image: "imgco/6f459da9350628e3c723715f8b8a8c3c.jpg",
+    link: "cotrang/tra-thu-pho-ma-boi-bac.html",
+    type: "cotrang",
+    desc: `Sau ngày thành hôn với phò mã, ngay sáng hôm sau, hắn đã đưa Dương Chiêu Quận chúa, nữ nhi duy nhất còn lại của dòng họ trung liệt Dương gia, vào phủ.
+
+Hắn yêu cầu thú nàng làm bình thê, như một cái tát giáng vào ta.
+
+Trong cơn tức giận, ta dồn hết căm hờn lên Dương Chiêu, hai chúng ta ngày ngày đấu đá nhau đến chết đi sống lại.
+
+Rồi Dương Chiêu qua đời, ta bị người đời lên án, mắng nhiếc không tiếc lời.
+
+Bách tính ép phụ hoàng phải xử tử ta, phò mã liền nhân cơ hội tiên hạ thủ vi cường, siết cổ ta đến chết ngay trong phủ.
+
+Phụ hoàng sau khi biết tin ta qua đời liền phẫn uất, đổ bệnh mà nằm liệt giường.
+
+Hoàng thúc thừa cơ đoạt ngôi, ép mẫu hậu của ta chịu nhục.
+
+Mẫu hậu không thể chịu nổi nhục nhã, đành tự vẫn bằng cách treo cổ.
+
+Sau đó, hoàng thúc khen ngợi phò mã là trung nghĩa, còn đem nữ nhi của mình gả cho hắn, phong hắn làm dị tính vương.
+
+Lúc ấy, ta mới hiểu ra rằng ta và Dương Chiêu đều chỉ là quân cờ để hoàng thúc và phò mã tranh quyền đoạt vị.
+
+Hóa ra từ đầu đến cuối, kẻ mà phò mã thực lòng yêu lại chính là đường muội của ta.
+
+Khi mở mắt lần nữa, ta quay trở lại ngày Dương Chiêu nhập phủ.
+`
+  },{
+    id: 614,
+    title: "Cố Tình Giả Say Để Yêu Em",
+    image: "imgngon/1318869d42435ed150df5ee6cced576b.jpg",
+    link: "ngontinh/co-tinh-gia-say-de-yeu-em.html",
+    type: "ngontinh",
+    desc: `Tân lang của ta vốn nổi danh là bậc quân tử cấm dục, khí xép lạnh lẽo như băng sương… Ấy thế mà, ngày nọ ta vô tình đẩy cửa phòng ngủ, lại bắt gặp một cảnh tượng ngỡ ngàng.
+
+"Đứng ngây ra đó làm gì? Muốn tới giúp ta sao?"
+
+Người đàn ông tựa lưng vào đầu giường, ánh mắt đong đầy ý trêu đùa. Vì mang tật "câm", ta chỉ đành vội vã khua tay ra hiệu: "Thật thứ lỗi, ta quên mất không gõ cửa."
+
+Ngay khoảnh khắc sau, thân hình ta đã bị ôm ngang hông, đè chặt xuống đệm gấm.
+
+"Ta hiểu rồi, vậy nàng mau tới giúp ta đi."
+
+Cái gì cơ?
+
+Không phải như vậy!
+
+Chàng rốt cuộc là hiểu cái gì chứ?
+`
+  },{
+    id: 615,
+    title: "Bỏ Trốn Cùng Cún Con Hào Môn",
+    image: "imgdam/0dc4ca0d9891c6ae3dcd4fa98107301f.jpg",
+    link: "dammy/bo-tron-cung-cun-con-hao-mon.html",
+    type: "dammy",
+    desc: `Tôi là một Beta nghèo, học vấn chẳng có bao nhiêu.
+
+Có một anh Alpha ngốc nghếch nhưng trông cũng được mắt, lại là bạn đời của tôi.
+
+Anh ngốc ấy không biết kiếm tiền, ăn thì cực kỳ nhiều, tất cả đều dựa vào tôi nuôi.
+
+Sau khi tôi mang thai.
+
+Anh ta lại tình cờ khôi phục trí nhớ và trí lực, trở thành cậu chủ nhà giàu.
+
+Chú cún con ngoan ngoãn từng quấn lấy tôi, bỗng biến thành kẻ lạnh lùng kiêu ngạo.
+
+Anh ta coi việc đã từng ở cùng một Beta nghèo như tôi là nỗi nhục, đá tôi một cước văng đi.
+
+Chiếc Maybach phóng đi không buồn ngoái lại.
+
+Tôi nhìn theo cái đuôi xe, “phì!” một tiếng nhổ nước bọt.
+
+“Cút! Càng xa càng tốt! Làm như tôi còn thiết tha với anh lắm ấy!”
+
+Quay người rời đi.
+
+Gió từ cánh đồng lúa thổi tới, mắt tôi lại hơi cay cay.
+`
+  },{
+    id: 616,
+    title: "Gà Trụi Lông Của Ma Quân",
+    image: "imgco/a1594c99019433bf9f897b7ee549a6bf.jpg",
+    link: "cotrang/ga-trui-long-cua-ma-quan.html",
+    type: "cotrang",
+    desc: `Ta là con chim quý của Ma Quân, cứ tưởng bản thân là một chú gà trống.
+
+Cho đến cái ngày chúng ta cùng tắm, thân hình ấy liền biến đổi ngay trong bồn nước.
+
+Thèm chết mất thôi.
+
+Ta chảy nước miếng, hớn hở tiến đến gần và cất tiếng: “Lại đây nào, mau sung sướng nào.”
+`
   },
 
 
