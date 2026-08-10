@@ -12901,7 +12901,203 @@ Thèm chết mất thôi.
 
 Ta chảy nước miếng, hớn hở tiến đến gần và cất tiếng: “Lại đây nào, mau sung sướng nào.”
 `
+  },{
+    id: 617,
+    title: "Đứa Con Của Ác Nữ Tổng Tài",
+    image: "imgngon/484ab15a90d6222613298f26d77e5751.jpg",
+    link: "ngontinh/dua-con-cua-ac-nu-tong-tai.html",
+    type: "ngontinh",
+    desc: `Số phận thực sự biết trêu ngươi khi ném tôi vào kịch bản xuyên không, trở thành con gái của nam chính tổng tài bá đạo.
+
+Bạn tưởng tôi sẽ được người cha giàu có này cưng chiều như công chúa, muốn gì có nấy ư?
+
+Thực tế lại phũ phàng vô cùng. Tôi ngước mắt nhìn người đàn ông đang đứng rủ mắt nhìn xuống mình, trong đồng tử của ông ta chỉ toàn sự lạnh lẽo và coi thường.
+
+Nếu tôi sinh ra từ bụng của nữ chính thì may ra mới có kịch bản màu hồng đó.
+
+Thế nhưng, tôi lại xui xẻo đầu thai làm con của nữ phụ độc ác. Mẹ tôi trong nguyên tác từng gài bẫy hạ thuốc nam chính, vô số lần lên kế hoạch hãm hại nữ chính.
+
+Cơn giận tích tụ lâu ngày khiến nam chính thẳng tay tống bà ta vào bệnh viện tâm thần. Sau khi hóa dại, bà ta gieo mình từ tầng cao xuống tự tử, bỏ lại tôi bơ vơ khi mới vừa tròn 5 tuổi.
+`
+  },{
+    id: 618,
+    title: "Ta Chỉ Muốn Đào Tạo Hoàng Tử Thành Minh Quân",
+    image: "imgdam/cfd307ca556f6eb38a339bce33b5be32.jpg",
+    link: "dammy/ta-chi-muon-dao-tao-hoang-tu-thanh-minh-quan.html",
+    type: "dammy",
+    desc: `Nhiệm vụ của tôi là uốn nắn vị hoàng tử mang vẻ u uất, lạnh lùng ấy trở thành một vị minh quân trị quốc. Bằng tất cả tâm huyết, tôi luôn rèn giũa hắn phải dốc lòng vì việc triều chính, tuyệt đối không được sa đọa vào chốn tửu sắc.
+
+Cuối cùng, ngày hắn bước lên ngôi cao đế vương cũng đã tới. Vui mừng đến mức không thể kềm chế, tôi liền vội vàng triệu hồi hệ thống: “Thế nào rồi? Hắn sẽ chẳng còn cơ hội biến thành kẻ mê muội vì sắc dục nữa đâu, nhiệm vụ của tôi coi như đã đại công cáo thành rồi đúng không?”
+
+Chưa kịp ăn mừng, trong đầu tôi đã vang lên tiếng chuông cảnh báo thất thanh từ hệ thống:
+
+“Hỏng rồi! Tại sao chỉ số háo sắc của nam chính lại đột ngột bùng nổ đến mức này?”
+
+“Mà nguy hiểm hơn nữa, mục tiêu của hắn lại chính là ngươi đó!”
+
+Tôi hoàn toàn ngỡ ngàng. Mới ngày hôm qua, hắn vẫn còn gọi tôi một tiếng tướng phụ đầy kính cẩn. Theo lẽ thường, một vị thừa tướng kiêm ân sư đã tận tụy cứu giúp và dạy dỗ hắn từ thuở nhỏ phải được hắn tôn kính như cha ruột mới phải. Rốt cuộc chuyện gì đang xảy ra thế này?
+`
+  },{
+    id: 619,
+    title: "Trượng Phu Yếu Mềm Dựa Dẫm Vào Thê Tử",
+    image: "imgco/a698dcf59a592b65c5d61c2400fd04b2.jpg",
+    link: "cotrang/truong-phu-yeu-mem-dua-dam-vao-the-tu.html",
+    type: "cotrang",
+    desc: ``
+  },{
+    id: 620,
+    title: "Sau Khi Thức Tỉnh Chim Hoàng Yến Mang Thai Bỏ Trốn",
+    image: "imgngon/c39c2310beb7fb5059019862ab787a6e.jpg",
+    link: "ngontinh/sau-khi-thuc-tinh-chim-hoang-yen-mang-thai-bo-tron.html",
+    type: "ngontinh",
+    desc: `Sau bốn năm sống kiếp chim hoàng yến bên cạnh thái tử gia vùng đất thủ đô, ta phát hiện bản thân đã mang thai.
+
+Trái tim dâng lên một nhịp hoảng hốt, ta ngập ngừng ướm hỏi liệu chàng có thích trẻ nhỏ hay không, đáp lại sự kỳ vọng ấy chỉ là ánh mắt hờ hững cùng câu trả lời tuyệt tình:
+
+"Không, ta vốn dĩ rất ghét."
+
+Thế nhưng, xoay người một cái, chàng lại chuẩn bị xe kiệu đón người trong lòng đang mang long phụng thai về phủ tận tụy chăm sóc.
+
+Tâm can ta như tro tàn nguội lạnh, chẳng còn chút thiết tha. Ta quyết định dựng lên một màn giả chết rồi âm thầm đem theo đứa trẻ chạy trốn khỏi chốn hoàng thành.
+
+Nào ngờ việc nuôi dưỡng một đứa trẻ lại tốn kém vô cùng. Vì kế sinh nhai, ta đành phải làm một người mẹ trẻ chia sẻ sinh hoạt hằng ngày trên mạng xã hội, chẳng may trong một lần sơ suất lại vô tình để lộ dung mạo.
+
+Ngay đêm hôm ấy, xung quanh khu trọ của ta bị hàng loạt nam nhân vận hắc phục vây kín đến mức con kiến cũng khó lòng chui thoát.
+
+Thái tử gia bước ra từ bóng tối, chặn đứng đường lui của ta, giọng nói đè nén cơn giận ngút trời:
+
+"Đồng Mạt, nàng còn dám ở trên mạng tự nhận mình là góa phụ phu quân đã tạ thế sao?"
+
+Đứa con gái bé nhỏ chưa từng nhìn thấy phụ thân từ đằng sau cánh cửa ghé đầu ra, tò mò cất tiếng:
+
+"Thúc thúc ơi, phụ thân của con vẫn chưa chết đâu, ông ấy chỉ là một kẻ cặn bã vô trách nhiệm mà thôi nha"
+
+Ta: "..."
+
+Xin con đấy, tiểu tổ tông của ta ơi, mau im miệng giùm cái!
+`
+  },{
+    id: 621,
+    title: "Chìm Đắm Trong Sự Chiều Chuộng",
+    image: "imgdam/f421398096c8c0fe348c33bb6b9e9c72.jpg",
+    link: "dammy/chim-dam-trong-su-chieu-chuong.html",
+    type: "dammy",
+    desc: `Anh bạn cùng phòng của anh trai tôi Kỷ Lẫm đúng là tên hai mặt.
+
+Dù có cuồng sạch sẽ đến mức nào, cái ghế mà người khác không được phép chạm vào, anh lại nhường riêng cho ta ngồi.
+
+Có lần ta bị sốt nhẹ, anh liền đổi cho ta chiếc chăn ấm hơn.
+
+"Giường anh cậu bẩn, sang giường tôi mà ngủ."
+
+Anh trai ta từng nhận xét: "Cái thằng đó chắc mắc hội chứng cuồng em trai rồi."
+
+Ờ... nhưng ta nào phải em ruột của anh ấy đâu.
+
+Sau này, trong một lần chơi trò "nói thật", Kỷ Lẫm thừa nhận anh không hề thích con gái.
+
+Mấy lời đó làm nổi hết cả gai gốc, khiến ta sợ tới mức chẳng dám bén mảng đến phòng ký túc xá của anh trai nữa.
+
+Thế nhưng cuối cùng, ta vẫn bị Kỷ Lẫm chặn lại giữa đường.
+
+Đôi mắt anh đỏ ngầu: "Lạc Khả, đừng trốn anh nữa..."
+`
+  },{
+    id: 622,
+    title: "Ta Không Làm Ngụy Hầu Phu Nhân Nữa",
+    image: "imgco/cb8d343d9b2b17da5e3fff898474fc9d.jpg",
+    link: "cotrang/ta-khong-lam-nguy-hau-phu-nhan-nua.html",
+    type: "cotrang",
+    desc: `Tỷ tỷ dòng chính Tiết thị Kim Lăng có hôn ước với Ngụy Hầu.
+
+Nàng chê Ngụy Đô địa thế âm hàn, quanh năm buốt giá, liền vội vàng đẩy đứa con gái chi thứ như ta gả thay.
+
+Đêm thành hôn, Ngụy Hầu rút kiếm xuyên qua khăn voan của ta, gằn từng chữ: "Ngươi không phải thê tử ta muốn cưới."
+
+Nhiều năm sau đó, ta cần mẫn chăm ruộng chăm nương, tận tụy phụng dưỡng mẹ chồng, được cả Ngụy Đô khen ngợi.
+
+Thế nhưng, tất cả vẫn chẳng thể đổi lấy một nụ cười của Ngụy Hầu.
+
+Sau này Nghiệp Thành náo loạn, ta bị quân địch bắt làm tù binh, sống chết mịt mờ.
+
+Nào ngờ, giữa lúc ấy lại nhận được tin Ngụy Hầu rộn ràng thành thân với tỷ tỷ, kèm theo một bao thạch tín do sứ thần của hắn mang tới.
+
+Hắn nhắn rằng: "A Uẩn, là ta có lỗi với nàng, kiếp sau ta sẽ đền bù."
+
+Nhưng Ngụy Hầu à, sống lại một đời, ta không còn muốn làm Ngụy Tiết thị nữa.
+
+Ta chỉ muốn làm A Uẩn của riêng mình mà thôi.
+`
+  },{
+    id: 623,
+    title: "Nuôi Nhầm Sói Bệnh Kiều",
+    image: "imgngon/48a246c179cba12ca05ce2e2adadbd18.jpg",
+    link: "ngontinh/nuoi-nham-soi-benh-kieu.html",
+    type: "ngontinh",
+    desc: `Biết bản thân chỉ là nữ phụ ác độc, tôi lập tức dàn xếp một màn lừa dối, rủ thủ đem nam chính ra làm trò tiêu khiển rồi bảo hắn chính là mối lương duyên tiền định của mình.
+
+Thiếu niên ngây thơ nghe xong liền đỏ bừng mặt, lúng túng chống chế: “Nhưng em là mẹ kế của tôi mà.”
+
+Tôi xoay xoay chiếc roi da trên tay, nở nụ cười cợt nhả: “Như thế chẳng phải càng kích thích sao?”
+
+Cho đến khi nữ chính bằng xương bằng thịt xuất hiện, tôi mới bắt đầu biết sợ, vội vã cuốn gói bỏ chạy ngay trong đêm.
+
+Thế nhưng, nam chính vốn dĩ luôn ngoan ngoãn vâng lời tôi bỗng dưng biến thành một con người hoàn toàn khác.
+
+Hắn thong thả dùng roi da trói chặt tôi lại, trong mắt đong đầy thứ tình yêu bệnh hoạn:
+
+“Tôi đã cố công giả bộ ngoan ngoãn đến thế, sao em còn dám bỏ chạy?”
+
+“Mẹ kế?”
+`
+  },{
+    id: 624,
+    title: "Tráo Dâu Bỏ Trốn",
+    image: "imgdam/886f39fa2371f710f8b2eecc7d74f420.jpg",
+    link: "dammy/trao-dau-bo-tron.html",
+    type: "dammy",
+    desc: `Trước ngày cử hành đại hôn, chú rể đột ngột bỏ trốn, khiến tôi rơi vào thế bí và bị ép buộc phải thay thế anh ta, gả cho người em trai.
+
+Đứng ở ngoài hiên, tôi nghe rõ mùng một một câu nói đầy tức giận của hắn dội qua cánh cửa:
+
+“Hủy hôn ngay đi! Cái người mà anh trai con không thèm nhận, cớ sao lại bắt con phải hốt?”
+
+Cha Hoắc tận tụy khuyên nhủ:
+
+“Con cũng phải mở mắt ra mà nhìn xem thế nào chứ? Thẩm Thúc là mỹ nhân nổi tiếng bậc nhất trong khắp cõi Liên Minh này đấy!”
+
+Hoắc Cẩn hất hàm khinh thường:
+
+“Cho dù y có đẹp đẽ như tiên nữ giáng thế thì cũng chẳng để làm gì! Con đây đâu phải loại người hám sắc!”
+
+Tôi thầm gật đầu, nghĩ bụng mọi chuyện thế là xong, liền thu dọn ý định rồi cất bước cáo từ.
+
+Thế nhưng, vừa quay người mở cửa ra, tôi lại chạm xông thẳng vào ánh mắt tròn xoe, ngơ ngác của hắn.
+
+Hắn khẽ hắng giọng một tiếng, dáng vẻ có chút ngượng ngùng ra mặt:
+
+“Lệnh cha mẹ đã định, lời mai mối đã thành, con… con đồng ý cưới!”
+`
+  },{
+    id: 625,
+    title: "Nữ Phụ Ma Pháp Ở Thế Giới Tu Chân",
+    image: "imgco/862ef2e2001c2a3733437c2954efca7c.jpg",
+    link: "cotrang/nu-phu-ma-phap-o-the-gioi-tu-chan.html",
+    type: "cotrang",
+    desc: `Ta và muội muội cùng ngày sinh.
+
+Ngày hôm đó, Tu chân giới trăm chim hót vang, Thiên đạo để lại lời tiên tri, gia tộc ta sẽ xuất hiện một vị Chân Tiên.
+
+Về phần muội muội, thiên phú dị bẩm, mới đến tuổi cập kê đã đột phá Kim Đan.
+
+Còn ta là kẻ phế vật ngay cả Linh căn cũng không có.
+
+Ngày ta bị đuổi khỏi nhà, ta nhận được một bức thư từ phương xa.
+
+【Giấy báo trúng tuyển Hogwarts.】
+`
   },
+
 
 
 
