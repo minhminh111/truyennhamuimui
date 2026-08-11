@@ -13099,7 +13099,7 @@ Ngày ta bị đuổi khỏi nhà, ta nhận được một bức thư từ phư
   },{
     id: 626,
     title: "Số Phận Đứa Con Bị Bỏ Rơi",
-    image: "imgngon/0e8d4feb98e7c3c0fb5a6f4a58a72cfe.jpg",
+    image: "imgngon/3dd7576a0386109a51bdcee75639aa28.jpg",
     link: "ngontinh/so-phan-dua-con-bi-bo-roi.html",
     type: "ngontinh",
     desc: `Từ nhỏ, ba đã không hề thích tôi.
@@ -13139,7 +13139,7 @@ Tôi ôm chặt lấy người đang run rẩy trong lòng, lạnh lùng nói:
   },{
     id: 628,
     title: "Mộ Cũ Hoa Tàn",
-    image: "imgco/6f4dd2d0998b5af3295e569a26ef8164.jpg",
+    image: "imgco/b1fb5a543cc7e78f9d4d4f138a56d3b1.jpg",
     link: "cotrang/mo-cu-hoa-tan.html",
     type: "cotrang",
     desc: `Ta là một huyết yêu, tình cờ nhặt được một cái đầu người đẹp trong rừng nên đã gắn nó lên đầu mình.
@@ -13161,7 +13161,7 @@ Bọn họ lại không biết phu nhân có mệnh cách đặc thù, có thể
   },{
     id: 629,
     title: "Trọng Sinh Đòi Nợ Máu Cầm Thú Mơ Ước Nội Tạng Con Gái",
-    image: "imgngon/3dd7576a0386109a51bdcee75639aa28.jpg",
+    image: "imgngon/0e8d4feb98e7c3c0fb5a6f4a58a72cfe.jpg",
     link: "ngontinh/trong-sinh-doi-no-mau-cam-thu-mo-uoc-noi-tang-con-gai.html",
     type: "ngontinh",
     desc: `Sau khi nhà trẻ tổ chức khám sức khỏe, con gái tôi đột ngột qua đời.
@@ -13181,7 +13181,7 @@ Thế nhưng trên con đường đi tìm bọn họ đòi lại công lý, tôi
   },{
     id: 630,
     title: "Nhặt Đứa Trẻ Bị Bỏ Rơi Về Chăm",
-    image: "imgdam/2fbada92dfe20426530a5ac774b2ca34.jpg",
+    image: "imgdam/f5cd63398421562f7706f673d7a44e56.jpg",
     link: "dammy/nhat-dua-tre-bi-bo-roi-ve-cham.html",
     type: "dammy",
     desc: `Là một kẻ lăn lộn ở xóm liều, tôi từng tiện tay cứu rồi nuôi lớn một đứa em trai.
@@ -13231,7 +13231,7 @@ Khắp nơi xôn xao, thiên hạ tìm kiếm ngài đến điên đảo.
   },{
     id: 633,
     title: "Người Tình Của Boss Hệ Thống",
-    image: "imgdam/f5cd63398421562f7706f673d7a44e56.jpg",
+    image: "imgdam/2fbada92dfe20426530a5ac774b2ca34.jpg",
     link: "dammy/nguoi-tinh-cua-boss-he-thong.html",
     type: "dammy",
     desc: `Tôi là nam chính trong một cuốn truyện sắc.
@@ -13249,7 +13249,7 @@ Ban ngày, tôi trêu ghẹo Boss:
   },{
     id: 634,
     title: "Hoàng Hậu Đanh Đá Trị Cả Triều Đình",
-    image: "imgco/b1fb5a543cc7e78f9d4d4f138a56d3b1.jpg",
+    image: "imgco/6f4dd2d0998b5af3295e569a26ef8164.jpg",
     link: "cotrang/hoang-hau-danh-da-tri-ca-trieu-dinh.html",
     type: "cotrang",
     desc: `Ta không muốn vào cung.
