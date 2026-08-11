@@ -8414,7 +8414,7 @@ Người con gái xuất hiện trong bức ảnh định mệnh đó.
 Là tôi `
   },{
     id: 408,
-    title: "Trai Thẳng Là  Kẹo Cao Su Bám Người",
+    title: "Trai Thẳng Là Kẹo Cao Su Bám Người",
     image: "imgdam/0babc5528f55f0e8ed5673fc5fb109f9.jpg",
     link: "dammy/trai-thang-la-keo-cao-su-bam-nguoi.html",
     type: "dammy",
