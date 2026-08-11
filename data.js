@@ -13096,8 +13096,183 @@ Ngày ta bị đuổi khỏi nhà, ta nhận được một bức thư từ phư
 
 【Giấy báo trúng tuyển Hogwarts.】
 `
-  },
+  },{
+    id: 626,
+    title: "Số Phận Đứa Con Bị Bỏ Rơi",
+    image: "imgngon/0e8d4feb98e7c3c0fb5a6f4a58a72cfe.jpg",
+    link: "ngontinh/so-phan-dua-con-bi-bo-roi.html",
+    type: "ngontinh",
+    desc: `Từ nhỏ, ba đã không hề thích tôi.
 
+Lý do rất đơn giản: tôi không phải là đứa con trai mà ông hằng mong mỏi.
+
+Để cố gắng sinh bằng được một thằng con trai nối dỗi, ông thậm chí từng muốn đuổi tôi đi: "Con trai mới là gốc rễ, tao chẳng thiếu con gái."
+
+Chưa từng nhận được một chút yêu thương nào từ ông, tôi đã trải qua biết bao đau khổ và tủi thân.
+
+Ấy vậy mà nhiều năm sau, khi cần người chăm sóc lúc tuổi già, chính ông lại thở dài bảo: "Đúng là con trai chẳng đáng tin, rốt cuộc vẫn chỉ có con gái là chu đáo nhất."
+
+"Nhị Muội à, sau này ba già rồi, mọi chuyện đành trông cậy hết vào con thôi!"
+`
+  },{
+    id: 627,
+    title: "Độc Chiếm Ánh Sáng Của Em",
+    image: "imgdam/1ecbe4afd52e7fa2d5c5ec67765a7ad5.jpg",
+    link: "dammy/doc-chiem-anh-sang-cua-em.html",
+    type: "dammy",
+    desc: `Tôi là thiếu gia thật được gia đình hào môn tìm về.
+
+Còn cặp vợ chồng đã bắt cóc tôi, con trai của họ là một thằng ngốc đến mức đếm số cũng không xong.
+
+Tất cả mọi người đều nghĩ rằng tôi sẽ dẫm anh xuống bùn, bao gồm cả đôi bố mẹ ruột sắp phải vào tù của anh ấy.
+
+Nhưng khi anh ấy dùng đôi mắt sạch sẽ như hạt thủy tinh nhìn tôi, cẩn thận kéo tà áo tôi, tôi lập tức chuyển toàn bộ cổ phần dưới tên mình cho anh.
+
+Bố mẹ tôi hoảng hốt:
+
+"Con trai, ý con là sao?"
+
+Tôi ôm chặt lấy người đang run rẩy trong lòng, lạnh lùng nói:
+
+"Sau này con nuôi anh ấy."
+`
+  },{
+    id: 628,
+    title: "Mộ Cũ Hoa Tàn",
+    image: "imgco/6f4dd2d0998b5af3295e569a26ef8164.jpg",
+    link: "cotrang/mo-cu-hoa-tan.html",
+    type: "cotrang",
+    desc: `Ta là một huyết yêu, tình cờ nhặt được một cái đầu người đẹp trong rừng nên đã gắn nó lên đầu mình.
+
+Nhờ vào dung nhan này, ta thuận lợi trà trộn vào phủ Bình Viễn Hầu làm thiếp.
+
+Chính thất tuy thân phận tôn quý, lại còn sinh hạ được đích tử, nhưng tất cả đều vô dụng.
+
+Bởi cái đầu ta đang mang chính là đầu của Bạch Nguyệt Quang của Hầu gia, ngài ấy sủng ái ta đến mức si mê.
+
+Ngay cả Thế tử cũng chán ghét mẫu thân mình, chỉ thích đi theo ta ăn chơi hưởng lạc.
+
+Cuối cùng thì ngày phu nhân chính thất tâm tro ý lạnh, chuẩn bị hòa li cũng đã đến.
+
+Người vui mừng nhất chính là ta.
+
+Bọn họ lại không biết phu nhân có mệnh cách đặc thù, có thể trấn áp yêu ma.
+`
+  },{
+    id: 629,
+    title: "Trọng Sinh Đòi Nợ Máu Cầm Thú Mơ Ước Nội Tạng Con Gái",
+    image: "imgngon/3dd7576a0386109a51bdcee75639aa28.jpg",
+    link: "ngontinh/trong-sinh-doi-no-mau-cam-thu-mo-uoc-noi-tang-con-gai.html",
+    type: "ngontinh",
+    desc: `Sau khi nhà trẻ tổ chức khám sức khỏe, con gái tôi đột ngột qua đời.
+
+Ngoài phòng phẫu thuật, bà hiệu trưởng cầm sẵn giấy đồng ý hiến tạng, liên tục thuyết phục tôi ký tên.
+
+Nén đau thương đặt bút xong, chẳng bao lâu sau, cả hiệu trưởng lẫn cô giáo chủ nhiệm của con tôi đều đồng loạt xin nghỉ việc.
+
+Đến khi gặp lại, một người đã chễm chệ ngồi vào ghế quản lý cấp cao, người kia thì thong dong về quê tậu biệt thự.
+
+Tôi bàng hoàng phát hiện ra kẻ nhận trái tim của con gái mình lại chính là đứa cháu nội của vị đại gia giàu nhất thành phố!
+
+Thế nhưng trên con đường đi tìm bọn họ đòi lại công lý, tôi lại gặp tai nạn giao thông rồi bỏ mạng ngay tại chỗ.
+
+Đến khi mở mắt ra lần nữa, tôi nhận ra mình đã trở về đúng cái ngày con gái đến trường khám sức khỏe...
+`
+  },{
+    id: 630,
+    title: "Nhặt Đứa Trẻ Bị Bỏ Rơi Về Chăm",
+    image: "imgdam/2fbada92dfe20426530a5ac774b2ca34.jpg",
+    link: "dammy/nhat-dua-tre-bi-bo-roi-ve-cham.html",
+    type: "dammy",
+    desc: `Là một kẻ lăn lộn ở xóm liều, tôi từng tiện tay cứu rồi nuôi lớn một đứa em trai.
+
+Nó thông minh, lanh lợi, từ bé thành tích học tập đã luôn chễm chệ ở vị trí dẫn đầu. Chẳng những thế, nó còn biết đỡ đần tôi đủ việc nhà, từ giặt giũ, nấu nướng cho đến dọn dẹp nhà cửa.
+
+Chuyện sẽ chẳng có gì cho đến khi tôi bắt quả tang nó đang lén lút đưa đồ lót của tôi lên mũi ngửi trong lúc giặt đồ.
+
+Tôi đùng đùng tiến đến đối chất, ai ngờ nó chẳng hề bối rối mà còn lộ ra bộ mặt bất cần, ra tay kéo tụt quần tôi xuống.
+
+“Anh, anh không nhận ra sao? Em nuôi anh chẳng khác nào nuôi vợ cả!”
+
+Rốt cuộc là ai nuôi ai chứ!
+`
+  },{
+    id: 631,
+    title: "Bạo Quân Nghiện Internet",
+    image: "imgco/a61763973d26bff650d0e876f7773c9d.jpg",
+    link: "cotrang/bao-quan-nghien-internet.html",
+    type: "cotrang",
+    desc: `Tôi mang theo cả chiếc điện thoại xuyên không, lại còn có cả mạng internet nữa chứ.
+
+Nửa đêm, tôi bị đưa lên giường của tên bạo chúa.
+
+Nghe đồn hắn mỗi đêm đều giết một người phụ nữ, đám cung nữ nhìn tôi chẳng khác nào nhìn một người chết.
+
+Nhưng sáng hôm sau tôi vẫn sống nhăn răng.
+
+Bởi vì tôi đã kéo tên bạo chúa nằm trên giường cày video ngắn suốt cả đêm.
+`
+  },{
+    id: 632,
+    title: "Ảnh Đế Bước Ra Từ Bức Tranh Kỳ Diệu",
+    image: "imgngon/d2ceff8ceefe029dd7472130b50cf6c2.jpg",
+    link: "ngontinh/anh-de-buoc-ra-tu-buc-tranh-ky-dieu.html",
+    type: "ngontinh",
+    desc: `Tôi sở hữu một đồ họa bản layer vô cùng kỳ diệu trên phần mềm máy tính.
+
+Chỉ cần kéo thả hình ảnh vào đó, vật phẩm trong ảnh liền hóa thành hiện thực.
+
+Một ngày nọ, ta vô tình đưa bức họa của vị Ảnh đế danh tiếng vào khung hình.
+
+Nào ngờ ngay khoảnh khắc ấy, ngài ấy lập tức biến mất không dấu vết ngay giữa đại lễ trao giải hoành tráng.
+
+Khắp nơi xôn xao, thiên hạ tìm kiếm ngài đến điên đảo.
+`
+  },{
+    id: 633,
+    title: "Người Tình Của Boss Hệ Thống",
+    image: "imgdam/f5cd63398421562f7706f673d7a44e56.jpg",
+    link: "dammy/nguoi-tinh-cua-boss-he-thong.html",
+    type: "dammy",
+    desc: `Tôi là nam chính trong một cuốn truyện sắc.
+
+Sở trường của tôi là biến mọi thứ từ trong sáng thành “đen tối”.
+
+Thế rồi tôi xuyên vào một phó bản trường học kinh dị.
+
+Ban ngày, tôi trêu ghẹo Boss:
+
+“Thầy ơi, thầy có muốn kiểm tra ‘học lực’ của em không ạ?”
+
+Đến đêm, những chiếc xúc tu đen xì, thô to chui tọt vào bên trong…
+`
+  },{
+    id: 634,
+    title: "Hoàng Hậu Đanh Đá Trị Cả Triều Đình",
+    image: "imgco/b1fb5a543cc7e78f9d4d4f138a56d3b1.jpg",
+    link: "cotrang/hoang-hau-danh-da-tri-ca-trieu-dinh.html",
+    type: "cotrang",
+    desc: `Ta không muốn vào cung.
+
+Tất cả cũng chỉ vì ta trót hờn dỗi vị tiểu hoàng đế Giang Yến, lúc giận quá mất khôn liền ngoạm cho hắn một cú rõ đau ngay trên má.
+
+Đến ngày hôm sau, hắn ngạo nghễ mang theo vết răng bầm tím ấy lên triều. Quần thần thấy vậy thì khóc lóc om sòm, gào khóc xin xử tử kẻ nào dám gan trời mạo phạm long thể.
+
+Thế nhưng, vừa nghe Giang Yến thong thả đáp rằng vết cắn đó là do ta để lại, đám thần xơ rơ lập tức lau sạch nước mắt nước mũi, tắp lốc cúi đầu cung kính. Họ bảo đây là chuyện riêng trong nhà của Bệ hạ, phận làm tôi tớ không tiện xía vào.
+
+Năm ta sáu tuổi, Giang Yến tám tuổi. Hắn hứa hẹn sau này nhất định sẽ mang thứ tốt đẹp nhất thiên hạ về dâng tận tay ta.
+
+Năm ta tám tuổi, Giang Yến mười tuổi. Hắn lại hứa sẽ cùng ta ngao du khắp chốn chân trời góc bể, tuyệt đối không để ta phải chôn chân nơi thâm thâm viện sâu.
+
+Năm ta mười tuổi, Giang Yến kiên nhẫn dạy ta cưỡi ngựa bắn cung. Tên Thái tử vô xỉ nhạo báng ta là dã nha đầu, Giang Yến liền ra tay đánh hắn gãy nửa cái răng.
+
+Chính vì trận ẩu đả ấy, đúng vào sinh nhật mười ba tuổi của Giang Yến, Tiên đế đã phạt hắn một trận roi tàn nhẫn rồi lệnh cấm túc ở Dụ Hoa Điện. Ta phải nài nỉ Hoàng hậu cô mẫu dẫn vào cung để chúc mừng hắn.
+
+Khi bước chân vào Dụ Hoa Điện, ta bắt gặp Tiên đế đang trìu mến nắm lấy tay Giang Yến, tỉ mỉ đút từng thìa mì trường thọ cho hắn ăn. Ánh mắt Người lúc đó đong đầy tình phụ tử.
+
+Cô mẫu nhẹ nhàng xoa đầu ta đầy chua xát, lặng lẽ dắt ta rời khỏi nơi đó. Mãi đến ngày Giang Yến đường đường chính chính đăng cơ, ta mới thấu hiểu hết ý nghĩa trong ánh mắt năm nào của cô mẫu.
+`
+  },
 
 
 
