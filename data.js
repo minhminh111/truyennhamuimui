@@ -13272,6 +13272,202 @@ Khi bước chân vào Dụ Hoa Điện, ta bắt gặp Tiên đế đang trìu 
 
 Cô mẫu nhẹ nhàng xoa đầu ta đầy chua xát, lặng lẽ dắt ta rời khỏi nơi đó. Mãi đến ngày Giang Yến đường đường chính chính đăng cơ, ta mới thấu hiểu hết ý nghĩa trong ánh mắt năm nào của cô mẫu.
 `
+  },{
+    id: 635,
+    title: "Hành Trình Tái Sinh Tìm Lại Hạnh Phúc",
+    image: "imgngon/42b3c3ca5340c1098d3b13639bea8dca.jpg",
+    link: "ngontinh/hanh-trinh-tai-sinh-tim-lai-hanh-phuc.html",
+    type: "ngontinh",
+    desc: `Tôi bị nhốt như chim hoàng yến trong suốt mười năm.
+
+Cho đến khi tôi qua đời, anh ta vẫn chưa một lần trao cho tôi một danh phận, một đám cưới đúng nghĩa.
+
+Khi mở mắt ra lần nữa, tôi bàng hoàng nhận ra mình đã trở về thời điểm mười năm trước.
+
+Để không lặp lại bi kịch đời mình, ngay sau khi tái sinh, tôi lập tức đi tìm người sau này sẽ trở thành kẻ thù không đội trời chung của anh ta.
+
+Lúc này, hắn chỉ là một gã thợ sửa xe nghèo rớt mồng tơi.
+
+Tôi dắt tay hắn, dứt khoát đặt chiếc thẻ ngân hàng lên bàn rồi bảo: “Chúng ta kết hôn đi, sau này toàn bộ tiền lương của tôi đều thuộc về anh!”
+
+Hắn nghiến răng cười, ánh mắt ranh mãnh: “Lương tháng ba triệu, cô đồng ý thì chúng ta cưới.”
+`
+  },{
+    id: 636,
+    title: "Rời Xa Tình Yêu Bệnh Hoạn",
+    image: "imgdam/7d8e6965d2783967ed4735e79591a2f6.jpg",
+    link: "dammy/roi-xa-tinh-yeu-benh-hoan.html",
+    type: "dammy",
+    desc: `Là một thằng đàn ông, tôi lại bị Cố Bội Nam biến thành món đồ chơi riêng, bị hắn giam cầm suốt ba năm trời.
+
+Đêm hắn cử hành lễ đính hôn, tôi đã tự hủy hoại bản thân đến mức phải cấp cứu nhập viện.
+
+Hắn bỏ mặc vị hôn thê của mình, vội vã lao tới bệnh viện, gầm lên chất vấn rốt cuộc tôi đang giơ trò gì.
+
+Tôi chẳng buồn đáp lại, chỉ lặng lẽ nhìn hắn bằng ánh mắt ngơ ngác, xa lạ.
+
+Mãi đến khi người đàn ông mua hoa cho tôi quay trở lại phòng bệnh, tôi mới rụt rè trốn sau lưng anh ta.
+
+Tôi khẽ giọng hỏi: "Anh ơi, người này là ai vậy? Sao nói chuyện dữ tợn quá?"
+`
+  },{
+    id: 637,
+    title: "Thế Tử Phi Cố Chấp",
+    image: "imgco/73fa1b164204d5eb5afa17f6545361fc.jpg",
+    link: "cotrang/the-tu-phi-co-chap.html",
+    type: "cotrang",
+    desc: `Trọng sinh trở về đúng ngày xuất giá gả vào Hầu phủ.
+
+Khi ấy, biểu muội của phu quân tiến lên hành lễ với ta:
+
+"Trân Nhi bái kiến tẩu tẩu!"
+
+Ta vội vàng vươn tay đỡ nàng dậy, sẵn tiện bấm nhẹ ngón tay lên cổ tay bắt mạch cho nàng:
+
+"Đây chính là tiểu cô nương mà phu quân nuôi trong phủ sao? Quả nhiên là một thiếu nữ xinh đẹp tuyệt trần, mau mau đứng dậy nào!
+
+Đang mang thai thế này thì chớ để bản thân mệt mỏi quá!"
+
+Toàn thể khách khứa trong đại tiệc nghe xong liền ngơ ngác: "???"
+
+Phu quân vừa kinh ngạc vừa giận dữ tột cùng:
+
+"Nàng ăn nói bậy bạ gì thế? Biểu muội vẫn là thiếu nữ chốn khuê phòng, danh tiết trong sạch vô cùng, sao nàng có thể bịa đặt trắng trợn như vậy?"
+
+Biểu muội tỏ vẻ oan uất tủi hờn, rồi bỗng nhiên nghiêng đầu nôn khan một tiếng:
+
+"Ọe... ọe..."
+
+Ta tiếp lời: "Cái gì? Chàng vẫn không chịu thừa nhận sao? Chẳng lẽ là... chàng ép buộc nàng ấy?
+
+Biểu muội chớ sợ, nếu có điều gì oan khuất cứ việc nói với ta. Ta nhất định sẽ đòi lại công bằng, làm chủ cho muội!"
+`
+  },{
+    id: 638,
+    title: "Oan Gia Ngõ Hẹp Cuối Cùng Lại Thành Vợ Chồng",
+    image: "imgngon/d4b929257e432f3af495835ac60e8bed.jpg",
+    link: "ngontinh/oan-gia-ngo-hep-cuoi-cung-lai-thanh-vo-chong.html",
+    type: "ngontinh",
+    desc: `Kẻ thù không đội trời chung sau khi mất trí nhớ, bị tôi lừa về nhà làm chồng.
+
+Tôi nấu canh, đút cơm, và còn ủ ấm giường cho Lâm Tụng ngủ.
+
+Lâm Tụng tưởng rằng tôi rất yêu hắn.
+
+Thực tế là, sau lưng, tôi đã cướp sạch hết tất cả công việc kinh doanh của hắn.
+
+Khi tôi đang vui mừng, thì vô tình nghe được Lâm Tụng nói chuyện điện thoại trong phòng với giọng tức giận:
+
+"Cho thêm chút việc kinh doanh cho cô ta đi, tối qua cô ta còn không chịu ngủ với tôi!"
+`
+  },{
+    id: 639,
+    title: "Sư Tôn Là Nghề Có Tỉ Lệ Rủi Ro Cao",
+    image: "imgdam/d3a82ac5b3d7282ad40008e5ab9a565c.jpg",
+    link: "dammy/su-ton-la-nghe-co-ti-le-rui-ro-cao.html",
+    type: "dammy",
+    desc: `Thiên hạ đồn đại chẳng sai, sư tôn quả thực là cái nghề có tỉ lệ rủi ro cao ngất ngưởng.
+
+Là một người gánh trên lưng danh xưng sư tôn trong mấy cuốn tiểu thuyết hoa thị văn, ta đã vò đầu bứt tai suy tính suốt bao năm trời. Cuối cùng, ta mới hạ quyết tâm nhận một bé gái về làm đồ đệ duy nhất nhằm bảo đảm an toàn cho bản thân.
+
+Thế nhưng, đời nào có ai cảnh báo trước cho ta biết cái chuyện rắn yêu sau khi trưởng thành lại có khả năng tự lựa chọn giới tính đâu cơ chứ?
+
+Chỉ đến khi chiếc đuôi dài lành lạnh của đứa tiểu đồ đệ quấn chặt lấy eo ta, ta mới ngơ ngác giật mình nhận ra tình hình có gì đó sai sai.
+
+"Sư tôn."
+
+Tống Ngọc Hủy ghé cằm tựa nhẹ lên vai ta, từ phía sau ôm chặt lấy ta không buông. Trong đôi đồng tử dọc của hắn tràn ngập thứ dục vọng chiếm hữu mãnh liệt.
+
+"Người còn muốn chạy đằng nào nữa?"
+`
+  },{
+    id: 640,
+    title: "Bản Báo Cáo Hàng Năm Của Phi Tần Lười Biếng",
+    image: "imgco/3db4d14b5066cf1f11aee3e293780a14.jpg",
+    link: "cotrang/ban-bao-cao-hang-nam-cua-phi-tan-luoi-bieng.html",
+    type: "cotrang",
+    desc: `Là phi tần lười biếng nhất chốn hậu cung, ta sống những ngày tháng chẳng màng thế sự.
+
+Hoàng thượng lúc này đang xem xét bản tấu trình hàng năm ghi nhận những việc lười biếng của ta.
+
+"Năm nay, bài thẻ của nàng được lật 19 lần, trong đó bị kẻ khác cướp mất 13 lần. Thực tế thị tẩm 6 lần, nhưng có đến 3 lần hoàng thượng chẳng thể thực hiện."
+
+"Năm nay, quỳ hơn một nghìn lần, mắng Quý phi là tiện nhân hơn mười nghìn lần, nhưng thực sự chịu phạt lại là số 0."
+
+"Nàng còn nhớ yến hội Trung Thu năm đó chăng?"
+
+"Nàng biểu diễn tài nghệ bằng cách nâng mông cao đến mức đỡ được cả một bình rượu, vì thế mà bị trừ mất nửa tháng bổng lộc."
+
+"Năm nay, địa vị và bổng lộc của nàng chẳng có gì thay đổi so với năm ngoái, tình trạng này đã kéo dài suốt ba năm liền."
+
+"Từ khóa năm nay của nàng là 'lười biếng', sang năm hãy tiếp tục cố gắng phát huy nhé."
+
+Thôi xong, chẳng lẽ ta sắp sửa bị đày vào lãnh cung rồi sao?
+`
+  },{
+    id: 641,
+    title: "Tiếng Lòng Đảo Ngược Gia Môn",
+    image: "imgngon/b80174e89a94022281eba9ac69264760.jpg",
+    link: "ngontinh/tieng-long-dao-nguoc-gia-mon.html",
+    type: "ngontinh",
+    desc: `Thời điểm được đón trở về Tống gia, ta khẽ thu mình lại, cố tỏ ra hoảng sợ và rụt rè.
+
+【Muội muội từng bảo mẫu thân thích đánh đập con cái, chẳng lẽ vừa về tới nhà ta cũng sẽ bị ăn đòn sao?】
+
+Người mẫu thân đang ôm gối an ủi thiên kim giả khẽ sững người, bàn tay đang vỗ về bất giác cứng đờ.
+
+【Ánh mắt muội muội nhìn phụ thân thật đắm đuối, không biết có phải học từ mẫu thân không nhỉ?】
+
+Nữ nhân kia vừa nghe thấy vậy, nét mặt thoáng chốc biến sắc, kinh hoàng không thốt nên lời.
+
+【Muội muội còn bảo huynh trưởng chỉ được có một phút, rốt cuộc một phút ấy là có ý gì ta?】
+
+Vị huynh trưởng đứng gần đó lập tức sầm mặt, nước da tái mét vô cùng khó coi.
+
+Trong lòng ta liên tục suy ngẫm những điều ấy, khiến sắc mặt từng người có mặt tại gian phòng đổi thay chong chóng.
+
+Còn ta chỉ nhẹ nhàng nở một nụ cười ẩn ý.
+`
+  },{
+    id: 642,
+    title: "Alpha Của Tôi Là Liều Thuốc Độc Ngọt Ngào",
+    image: "imgdam/905d05c1de54cfc2725872d78f8bee45.jpg",
+    link: "dammy/alpha-cua-toi-la-lieu-thuoc-doc-ngot-ngao.html",
+    type: "dammy",
+    desc: `Tôi mắc phải một căn bệnh kỳ quặc, chỉ cần ngửi được mùi pheromone của người bạn thanh mai trúc mã là hai chân lập tức mất hết sức lực.
+
+Trong khi đó, cả hai chúng tôi đều là Alpha.
+
+Để giấu nhẹm chuyện này, tôi từng cố tình tránh mặt cậu ấy thật xa. Vậy mà trớ trêu thay, đến ngày nhập học đại học, hai đứa lại bị xếp chung một ký túc xá.
+
+Mùi rượu vang quen thuộc cứ thế lan khắp căn phòng. Suốt những đêm dài, tôi chỉ biết kéo kín rèm giường, cắn chặt lấy gối mà chịu đựng cho qua.
+
+Nhận ra cứ tiếp tục như vậy sớm muộn gì cũng lộ tẩy, tôi bịa ra chuyện đã tìm được một người omega để yêu, lấy cớ đó xin chuyển ra ngoài ở.
+
+Đêm tôi giả vờ "thoát ế", Tống Thời Dã lại lặng lẽ vuốt ve tuyến thể sau gáy tôi, cố tình tỏa pheromone ra thật đậm, ép kỳ phát tình của tôi bùng lên sớm hơn dự kiến.
+
+Giọng trầm thấp, mê hoặc vang lên sát bên tai:
+
+"Pheromone của omega có khiến cậu sướng hơn của tôi không?"
+`
+  },{
+    id: 643,
+    title: "Mong Ước Thiên Hạ Không Còn Nạn Đói",
+    image: "imgco/9586bd9adc9e0d1459d0d88b1c7e563d.jpg",
+    link: "cotrang/mong-uoc-thien-ha-khong-con-nan-doi.html",
+    type: "cotrang",
+    desc: `Vừa mở mắt ra, ta đã trở thành Vương phi.
+
+Thế nhưng, phúc phận chưa kịp hưởng thì đã bị Vương gia lôi đi chém đầu.
+
+"Lại thêm một kẻ dị giới, ban chết."
+
+Ta sợ đến mức gối mềm run rẩy, quỳ 'bịch' một tiếng xuống đất, dập đầu lia lịa:
+
+"Đại ca tha mạng! Ta học trường nông nghiệp, là tay cày cấy chính hiệu! Ngài giữ lại cái mạng chó này của ta bảo đảm không thiệt đâu!"
+
+Từ máy cày tay, cối xay nước cho đến phân bón... Chỉ cần đại ca khai ân rủ lòng thương, bất cứ việc gì ta cũng có thể làm tốt!
+`
   },
 
 
