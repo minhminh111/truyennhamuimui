@@ -13468,6 +13468,192 @@ Ta sợ đến mức gối mềm run rẩy, quỳ 'bịch' một tiếng xuống
 
 Từ máy cày tay, cối xay nước cho đến phân bón... Chỉ cần đại ca khai ân rủ lòng thương, bất cứ việc gì ta cũng có thể làm tốt!
 `
+  },{
+    id: 644,
+    title: "Bản Hợp Đồng Hôn Nhân Của Oan Gia Trúc Mã",
+    image: "imgngon/196af76853f28b43641982a4addee5f7.jpg",
+    link: "ngontinh/ban-hop-dong-hon-nhan-cua-oan-gia-truc-ma.html",
+    type: "ngontinh",
+    desc: `Một giây sau, anh liền túm lấy cổ áo tôi rồi hôn xuống môi tôi.
+
+Mặt tôi đỏ bừng, lắp bắp đẩy anh ra: "Em, em không thể vì tiền mà..."
+
+Anh trực tiếp đè tôi xuống ghế sofa, hôn tới tấp.
+
+Xong việc, tôi hài lòng cầm theo tờ chi phiếu vài triệu rời đi.
+
+Để lại tên oan gia quần áo xộc xệch, đầy dấu hôn, với vẻ mặt ngơ ngác.
+`
+  },{
+    id: 645,
+    title: "Cố Tình Hóa Trang Giả Gái Bị Hot Boy Bắt Cặp",
+    image: "imgdam/c61754a67b5e9159ae7df55ad4c36a2e.jpg",
+    link: "dammy/co-tinh-hoa-trang-gia-gai-bi-hot-boy-bat-cap.html",
+    type: "dammy",
+    desc: `Tôi là bậc thầy cosplay giả gái.
+
+Đợt đó, sau khi đăng tấm ảnh cosplay vào nhóm tân sinh viên, Tiêu thảo Huyết Lãnh lập tức gửi lời mời kết bạn cho tôi.
+
+Ngày nào cậu ta cũng nhắn tin thao thao bất tuyệt, trêu ghẹo đủ điều:
+
+‘Vợ yêu ơi, em có tin vào tình yêu sét đánh không?’
+
+Đến lúc phát hiện ra tôi là con trai, lại còn là bạn cùng phòng ký túc xá, niềm tin trong cậu ta hoàn toàn sụp đổ, chìm vào im lặng tuyệt đối.
+
+Bước vào học kỳ mới, tôi chủ động xin chuyển phòng để tránh gây phiền phức cho cả hai.
+
+Vậy mà cậu ta lại chặn đường, ép chặt tôi vào tường.
+
+“Gọi người ta là vợ suốt cả tháng trời, giờ định phủi tay chạy trốn sao? Muộn rồi, làm đàn ông thì cũng phải làm vợ tôi!”
+`
+  },{
+    id: 646,
+    title: "Ngôi Miếu Hoa Âm",
+    image: "imgco/eb975b8be91dc48f1dd4fa5eff072889.jpg",
+    link: "cotrang/ngoi-mieu-hoa-am.html",
+    type: "cotrang",
+    desc: `Ta vì chúng sinh mà hy sinh thân mình, mất trăm năm để khôi phục thần hồn rồi mới có thể trở lại Cửu trùng thiên. Thế nhưng khi trở về, ta lại phát hiện ra trên đời này đã xuất hiện một kẻ thế thân.
+
+Nàng ấy thay ta hưởng muôn vàn sự cúng bái của nhân gian, thay ta làm đứa con ngoan dưới gối mẫu thân, lại thay ta kết duyên cùng tiên lữ.
+
+Họ nói vì quá yêu ta nên mới tìm một kẻ thế thân để nguôi lòng thương nhớ. Nhưng đến khi ta trở về, để bảo vệ nàng ấy, họ lại chẳng hề ngần ngại mong muốn ta chết đi.
+
+Chỉ vỏn vẹn một trăm năm, thân nhân quay lưng, bạn bè xa lánh, đạo lữ lại nắm tay một người khác.
+
+Trong lòng ta dâng lên niềm phẫn hận sâu sắc.
+`
+  },{
+    id: 647,
+    title: "Khởi Đầu Trong Mùa Mưa",
+    image: "imgngon/2863ca3a61670dd4ad9f23739fda28fc.jpg",
+    link: "ngontinh/khoi-dau-trong-mua-mua.html",
+    type: "ngontinh",
+    desc: `Theo đuổi Chu Vân Sanh suốt bảy năm trời, tôi vì hắn mà làm chẳng ít chuyện ngông cuồng, điên rỡ.
+
+Đến khi cha qua đời, mẹ phát bệnh tâm thần, gia đình sa sút tột cùng, tôi mới từ ngai vàng rơi tịnh xuống bùn đen.
+
+Từ đó về sau, tôi không còn dám kiêu ngạo hay yêu đương phóng túng như trước nữa.
+
+Vào ngày Chu Vân Sanh đính hôn với người trong mộng, ai nấy trong giới đều lo lắng đề phòng tôi đến quấy rối.
+
+Thế nhưng mãi cho đến lúc trao đổi nhẫn cưới, tôi vẫn chẳng hề xuất hiện.
+
+Hắn đứng ngồi không yên, liên tục ngoái nhìn ra ngoài cửa.
+
+Hắn nào đâu hay biết, ngay vào đúng cái ngày hắn đính hôn, tôi đã bị một người đàn ông bắt chặp. Đó là người tôi từng sỉ nhục và từ chối, giờ đây tôi chỉ biết run rẩy cầu xin anh: "Tôi không đào đâu ra mười vạn đồng để bồi thường cho anh đâu, Triệu Tu Tề."
+
+Triệu Tu Tề nhướng mày, nhìn tôi thật sâu rồi khẽ đáp: "Không đào ra tiền... vậy lấy người gán nợ là được."
+`
+  },{
+    id: 648,
+    title: "Nhiệm vụ Cứu Rỗi Nam Chính U Ám",
+    image: "imgdam/8852362112e0593f175c6cfedf202d7b.jpg",
+    link: "dammy/nhiem-vu-cuu-roi-nam-chinh-u-am.html",
+    type: "dammy",
+    desc: `Hệ thống giao cho ta trọng trách phải cứu rỗi nam chính u ám. Nhiệm vụ là ngăn không cho hắn hắc hóa và bù đắp cho hắn một tuổi thơ thật hoàn mỹ.
+
+Ta suy nghĩ một chút, sau đó vẫy tay gọi cậu thiếu niên gầy gò, yếu ớt kia lại gần:
+
+"À, nhóc là đứa mất cha đúng không? Đừng sợ, cha mới của nhóc tới rồi đây. Nào nào, cún con ngoan, đừng vội hắc hóa, gọi một tiếng 'cha' nghe thử xem nào."
+
+Thiếu niên: "?"
+
+Hệ thống: "..."
+
+Sau này, vị gia chủ trẻ tuổi của gia tộc hào môn đỉnh cấp ép ta xuống bàn đàm phán. Hắn dùng một tư thế đầy ám muội, tách đôi chân ta ra, ghé sát môi hôn rồi cất giọng khàn khàn:
+
+"Cha, có thích không?"
+`
+  },{
+    id: 649,
+    title: "Trợ Giúp Phu Quân Cùng Hoàng Hậu Lưu Danh Vạn Cổ",
+    image: "imgco/a708154a9529665ef0a479e46b69e816.jpg",
+    link: "cotrang/tro-giup-phu-quan-cung-hoang-hau-luu-danh-van-co.html",
+    type: "cotrang",
+    desc: `Phu quân của ta là một bậc quân tử ngay thẳng chính trực, vang danh khắp chốn triều đình. Hắn không nạp thiếp, cũng chẳng hề có thị nữ thông phòng, thế nhân ai nấy đều ngợi khen hắn hết lòng yêu thương và kính trọng thê tử.
+
+Nào ngờ đâu, người nằm sâu trong tim hắn lại là Hoàng Hậu nương nương cao quý.
+
+Ban đầu, ta đành ngậm ngùi chấp nhận số phận nghiệt ngã ấy. Cho đến năm nọ, phản quân hãm thành, bắt đứa con gái duy nhất của chúng ta làm con tin nhằm ép hắn phải giao nộp Hoàng Hậu cùng Thái Tử. Giữa hai làn ranh quân sĩ, hắn không chút do dự mà giương cung bắn chết con gái ruột, rồi dõng dạc tuyên bố:
+
+“Từ cổ chí kim, gia đình và quốc gia vốn khó vẹn cả đôi đường.”
+
+Ta bạc trắng mái đầu chỉ sau một đêm, trong nỗi tuyệt vọng cay đắng đã chọn cách đồng quy vu tận với Hoàng Hậu.
+
+Thế nhưng khi mở mắt ra lần nữa, ta phát hiện mình đã trở về đúng đêm động phòng hoa chúc năm nào. Đối diện với gương mặt lạnh lùng của hắn, ta khẽ mỉm cười:
+
+“Nếu chàng đã yêu nàng ta thắm thiết đến vậy, chi bằng cứ để câu chuyện tình này truyền tụng khắp thiên hạ.”
+`
+  },{
+    id: 650,
+    title: "Sau Khi Kẻ Thù Phá Sản Tôi Vung Tiền Bao Nuôi Hắn",
+    image: "imgngon/66a7e551d161b5f216fb7ac7a9d73409.jpg",
+    link: "ngontinh/sau-khi-ke-thu-pha-san-toi-vung-tien-bao-nuoi-han.html",
+    type: "ngontinh",
+    desc: `Để đáp lại mối thâm thù đại hận với kẻ không đội trời chung vừa mới sa cơ thất thế, ta vung tiền bao nuôi hắn, ngang ngược bắt hắn phải ôm, phải hôn ta.
+
+Thậm chí, ta còn ngông cuồng giẫm bàn chân trần lên ngực hắn, vùi lấp đóa hoa tuyết cao ngạo kia vào chốn trần ai dung tục, trong lòng ngập tràn cảm giác đắc thắng.
+
+Cho đến một ngày, ta vô tình nghe thấy cuộc trò chuyện giữa hắn và tri kỷ:
+
+"Tầm huynh, Triệu An Nhiên kia ngày nào cũng lăng nhục huynh như vậy, sao huynh có thể nhẫn khuất chịu đựng? Hay là để đệ thay huynh dạy dỗ cô ta một trận?"
+
+Kẻ xưa nay luôn giữ vẻ nho nhã thanh cao nghe vậy lại cuống quým lên:
+
+"Nàng ấy hôn ta, âu âu âu ếm ếm với ta, đó mà gọi là lăng nhục sao? Rõ ràng là ân thưởng ban xuống, ta cảnh cáo ngươi đừng có mà sinh sự kiếm chuyện."
+
+Ta đứng ngẩn người: "..."
+
+Không phải chứ, hắn là đồ biến thái sao!?
+
+Đêm hôm đó, để kiểm chứng xem giới hạn "ân thưởng" của hắn tới đâu, ta ra lệnh cho hắn phải khoác lên người một chiếc áo lưới xích mỏng dính.
+
+Nào ngờ vừa dứt lời, mắt hắn liền sáng rực lên, động tác nhanh như chớp.
+
+Đến khi ta còn đang bần thần chưa hiểu chuyện gì, hắn đã thay xong y phục, còn kéo tay ta đặt lên bờ ngực rắn chắc của mình, giọng nói trầm đục đầy mê hoặc:
+
+"Rốt cuộc nàng cũng chịu thị寝 ta rồi sao? Ta đã đợi ngày này lâu lắm rồi."
+`
+  },{
+    id: 651,
+    title: "Nam Thần Bất Ngờ Tỏ Tình",
+    image: "imgdam/9695c38b18d104ce27b1e631de1d0081.jpg",
+    link: "dammy/nam-than-bat-ngo-to-tinh.html",
+    type: "dammy",
+    desc: `Người tôi thầm thích là một tên trai thẳng. Thế nhưng ngày nào hắn cũng ôm tôi rồi nũng nịu gọi “bé cưng”.
+
+Khuyên không nghe, uốn lại chẳng cong.
+
+Sợ hắn càng lúc càng đi lạc hướng, tôi đành chủ động giữ khoảng cách.
+
+Đến lần tiếp theo hắn lại dính lấy tôi, nũng nịu gọi “bé cưng” lần nữa, tôi lạnh giọng mở miệng:
+
+“Cậu đừng gọi tôi như thế nữa được không? Tôi không thích. Hơn nữa còn ảnh hưởng đến việc tôi đi tìm người yêu, biết không?”
+
+Hắn nghe xong liền giữ khoảng cách thật.
+
+Thế nhưng đến lúc tôi nhận lời mời của đàn em, hắn lại ép tôi vào tường:
+
+“Không thích tôi gọi cậu là bé cưng? Vậy gọi cậu là vợ thì sao?”
+`
+  },{
+    id: 652,
+    title: "Gặp Đồng Hương Xuyên Không Ở Hậu Cung Bạo Quân",
+    image: "imgco/4f6cfeef6d4cdc1ed7f138eb26a1f74e.jpg",
+    link: "cotrang/gap-dong-huong-xuyen-khong-o-hau-cung-bao-quan.html",
+    type: "cotrang",
+    desc: `Cha ta đem ta dâng cho bạo quân như một món quà. Nghe đồn, đám phi tần chốn hậu cung của hắn chẳng ai sống thọ quá ba tháng.
+
+Ta run rẩy tự chuẩn bị cho mình một bộ áo liệm cùng thật nhiều tiền giấy.
+
+Đợi đến lúc xuống suối vàng, nhất định phải hưởng thụ hương khói đầy đủ mới được!
+
+Thế mà một tháng trôi qua, ta chưa chết.
+
+Ba tháng trôi qua, ta vẫn sống nhăn.
+
+Nửa năm sau, ta chính thức phá vỡ kỷ lục sống sót lâu nhất ở cái hậu cung này.
+`
   },
 
 
