@@ -13654,6 +13654,184 @@ Ba tháng trôi qua, ta vẫn sống nhăn.
 
 Nửa năm sau, ta chính thức phá vỡ kỷ lục sống sót lâu nhất ở cái hậu cung này.
 `
+  },{
+    id: 653,
+    title: "Hợp Đồng Ly Hôn Năm Mươi Tỷ",
+    image: "imgngon/bd364c51e7fa19a4b6423d5797487b1db.jpg",
+    link: "ngontinh/hop-dong-ly-hon-nam-muoi-ty.html",
+    type: "ngontinh",
+    desc: `Năm thứ ba sống trong cuộc hôn nhân với Tống Từ, người trong mộng của anh bất ngờ trở về nước.
+
+Tôi kéo vạt áo anh, gào khóc thảm thiết, diễn trọn vai một người vợ thẫn thờ, đau đớn đến mức chẳng thể giữ nổi bước chân người ra đi.
+
+Ngay ngày hôm sau khi thủ tục ly hôn hoàn tất, tôi hồ hởi tìm đến mẹ chồng cũ:
+
+"Cảnh tượng bàng hoàng, đau đớn xen lẫn uất hận khi làm kẻ thế thân hôm qua khó diễn lắm đấy nhé! Mẹ phải thưởng thêm tiền công cho con!"
+
+Bà gật gù khen ngợi: "Mẹ thích nhất cái tính tham tiền công khai, rõ ràng này của con!"
+
+Rồi bà bỗng đổi giọng, vẻ mặt ngập ngừng: "Có điều... chồng cũ của con kìa, hình như nó không vui lắm đâu!"
+
+Tôi quay đầu lại, vừa vặn bắt gặp ánh mắt bàng hoàng xen lẫn giận dữ của Tống Từ ngay phía sau.
+`
+  },{
+    id: 654,
+    title: "Gặp Lại Người Cũ Trên Chuyến Tàu",
+    image: "imgdam/b318790f1d717877558f6a851afde732a.jpg",
+    link: "dammy/gap-lai-nguoi-cu-tren-chuyen-tau.html",
+    type: "dammy",
+    desc: `Trên chuyến tàu điện ngầm đông đúc, cơn hạ đường huyết đột ngột ập đến khiến đầu óc tôi quay mòng mòng. Thân thể chao đảo, tôi mất đà ngã nhào vào lòng một người đàn ông cao chừng một mét chín đang khoác chiếc áo dáng dài.
+
+Anh vô cùng thành thạo bóc vỏ một viên kẹo rồi đưa tận tới môi tôi. Tôi còn chưa kịp thốt lời cảm ơn thì anh đã nhẹ nhàng tháo khẩu trang xuống.
+
+Dưới lớp vải đen ấy là khuôn mặt thân quen đến nghẹt thở... của bạn trai cũ tôi.
+
+Khóe môi anh nhếch lên thành một nụ cười nửa miệng, đong đầy vẻ giễu cợt lạnh lùng:
+
+"Trò chơi không từ mà biệt... em thấy vui lắm sao?"
+`
+  },{
+    id: 655,
+    title: "Ta Vào Cung Tranh Sủng Chỉ Vì Đĩa Chân Giò",
+    image: "imgco/b447fa62f3c6d109512f91e6f7f2275fd.jpg",
+    link: "cotrang/ta-vao-cung-tranh-sung-chi-vi-dia-chan-gio.html",
+    type: "cotrang",
+    desc: `Lần đầu tiên ta diện kiến Hoàng hậu, ta đã vô tình làm hỏng cây trâm phượng của người.
+
+Hoàng hậu giận dữ trách mắng ta cậy sủng sinh kiêu, thậm chí còn muốn phạt trượng ta. Thế nhưng, Hoàng thượng lại đứng ra ngăn cản.
+
+"Thôi bỏ đi, đầu óc nàng ấy vốn không được minh mẫn cho lắm."
+
+Hoàng hậu nghe vậy liền nghiến răng cười nhạt, mắng chửi Hoàng thượng vì sắc đẹp mà mê muội tâm trí.
+
+Về sau, mãi cho đến tận cùng, Hoàng hậu mới thấu hiểu rằng đầu óc ta quả thực không hề bình thường.
+`
+  },{
+    id: 656,
+    title: "Mối Tình Ngọt Ngào Của Hai Thiên Kim",
+    image: "imgngon/b1cc005ba1b3c2e6fca6fe4da3a202b8a.jpg",
+    link: "ngontinh/moi-tinh-ngot-ngao-cua-hai-thien-kim.html",
+    type: "ngontinh",
+    desc: `Kiều Ngưng năm mười bảy tuổi bàng hoàng phát hiện ra bản thân chỉ là một thiên kim giả. Cô lặng lẽ thu dọn hành lý, chuẩn bị rời khỏi căn nhà rợp bóng cẩm tú cầu, nhưng bị Tống Nhứ ngăn lại ngay từ ngưỡng cửa.
+
+Tống Nhứ nhẹ nhàng nắm lấy cổ tay cô, giọng nói trầm ổn vang lên: "Kiều Kiều, đây là nhà của em."
+
+Kiều Ngưng điên cuồng lắc đầu, nước mắt chực trào: "Không, không phải, đây là nhà của chị!"
+
+Tống Nhứ đưa tay véo má cô, ánh mắt lạnh lùng ngày thường bỗng hóa dịu dàng, khóe môi khẽ cong lên thành một nụ cười nhạt.
+
+"Ngoan nào, nghe lời chị. Đợi sau này chúng ta kết hôn, nơi này cũng chính là nhà của em."
+
+Kiều Ngưng ngơ ngác chớp mắt: "Hả?"
+`
+  },{
+    id: 657,
+    title: "Phân Hóa Ngay Trước Mặt Kẻ Thù",
+    image: "imgdam/be3e12e35b17b576ea73a21f5a99e435f.jpg",
+    link: "dammy/phan-hoa-ngay-truoc-mat-ke-thu.html",
+    type: "dammy",
+    desc: `Khi phân hóa thành Omega ngay trước mặt kẻ thù không đội trời chung, đã vậy độ tương thích pheromone giữa hai đứa còn chạm mốc 100%, tôi có nên cắm đầu chạy trốn không?
+
+Trong bóng tối, tôi chịu hết nổi, giật phắt bàn tay đang được voi đòi tiên của Trần Cảnh:
+
+"Trần Cảnh, buông ra ngay không tôi giết cậu!"
+
+"Uất Trình, người đang cố sức cọ xát vào người tôi chính là cậu đấy."
+`
+  },{
+    id: 658,
+    title: "Ngã Xuống Vực Sâu Ta Từ Hôn Với Trúc Mã",
+    image: "imgco/bcda42f2e4d177980c0fc47dea6f911a7.jpg",
+    link: "cotrang/nga-xuong-vuc-sau-ta-tu-hon-voi-truc-ma.html",
+    type: "cotrang",
+    desc: `Kể từ ngày được cứu trở về sau tai nạn ngã xuống sườn núi, ta như biến thành một con người hoàn toàn khác.
+
+Ta đột nhiên buông bỏ hết thảy niệm tưởng si mê, không còn vấn vương hay quấn quýt lấy Tiết Vọng.
+
+Chẳng còn những ngày tháng miệt mài đuổi theo bóng hình y, hết mực ân cần hỏi hạn hay tìm cách lấy lòng chiều chuộng.
+
+Thay vào đó, ta khép cửa tự giam mình nơi Phật đường, ngày ngày thành kính gõ mõ niệm kinh.
+
+Ngay cả khi y chủ động tìm đến tận cửa để đề nghị hủy bỏ hôn ước, ta cũng chỉ khẽ gật đầu, thốt ra một chữ "Được" nhẹ hẫng.
+
+Sau đó, ta lại lặng lẽ xoay người, quỳ trước đài sen mà thành tâm khấn nguyện:
+
+"Bồ Tát phù hộ, Bồ Tát khai ân."
+
+"Đêm hôm ấy dưới vách núi sâu, con bị dược tính mê hoặc nên mới lỡ lời làm vấy bẩn vị công tử kia."
+
+"Chỉ duy nhất một đêm hỗn loạn ấy, con sẽ không mang thai, có đúng không?"
+
+"Người kia cũng sẽ chẳng thể nào tìm thấy con nữa, có đúng không?"
+`
+  },{
+    id: 659,
+    title: "Thịt Hầm Thi Khí",
+    image: "imgngon/b099083493e540f71e188310b54e20227.jpg",
+    link: "ngontinh/thit-ham-thi-khi.html",
+    type: "ngontinh",
+    desc: `Kế bên con phố nơi tôi mở hàng, đột nhiên mọc lên một quán thịt hầm xưng danh bách niên cổ truyền.
+
+Chẳng tới một tháng kể từ ngày khai trương, việc buôn bán của nhà tôi liền bị họ cướp sạch.
+
+Lang quân của ta vì quá uất hận, nhân lúc đêm đen gió cao đã lén xâm nhập vào gian bếp nhà người ta nhằm truy tìm bí phương, lại còn đoán chừng đối phương bỏ thêm ngải độc hay cấm chất.
+
+Huynh ấy vốn mới trải qua trận phẫu thuật gãy xương cách đó năm tháng, thân thể chưa hoàn toàn bình phục. Ta hết lời can ngăn nhưng huynh ấy nhất quyết chẳng chịu nghe lời.
+
+Sau đêm ấy, lang quân của ta liền mất tích không một vết dấu.
+
+Cho tới một tuần sau, ta bỗng thấy một con chó hoang đi ngang qua cửa, trên miệng ngoạm lấy một khúc xương lớn vẫn còn ghim đầy đinh thép.
+`
+  },{
+    id: 660,
+    title: "Sập Bẫy Antifan Đại Gia Thượng Hải",
+    image: "imgdam/b12f4a4a460f6273d92dd510c8310a298.jpg",
+    link: "dammy/sap-bay-antifan-dai-gia-thuong-hai.html",
+    type: "dammy",
+    desc: `Tôi là food blogger, chuyên làm mấy món kiểu ẩm thực cao cấp.
+
+Mỗi lần đăng video, kiểu gì cũng có một tên Đại gia Thượng Hải vào chê bai độc miệng: [Mấy cái lá rách này chó còn chẳng thèm ăn.]
+
+Tôi tức điên, trong đêm lập ngay nick phụ add hắn.
+
+Váy ngắn, ảnh khoe chân, giọng bánh bèo bật hết công suất.
+
+Hắn trả lời: [Cút đi đồ gà mái, bố mày là gay.]
+
+Tôi chưa chịu thua, lại đổi nick khác, gửi ảnh chân thon mang tất trắng, cuối cùng cũng câu được cá.
+
+Đến ngày hắn tỏ tình, tôi cười khẩy rep lại: [Ồ, vậy thì tôi ghét anh rồi đấy. Suốt ngày đi khắp nơi chê bai, không tôn trọng công sức lao động của người khác. Cút đi cho tôi nhờ!]
+
+Xả giận xong là block thẳng, quay về cuộc sống thường ngày.
+
+Ai ngờ đâu, video mới vừa đăng, Đại gia Thượng Hải đã nhảy vào comment trước: [Mấy lá rau rách chó còn khô...]
+
+[...NG ĂN! Chó không ăn thì tôi ăn! Tôi thích ăn! Cứ em bé nấu là ẩm thực đỉnh cao, tiên phong, siêu phẩm tuyệt thế!]
+`
+  },{
+    id: 661,
+    title: "Cửu Tộc Của Nữ Phản Tặc",
+    image: "imgco/be2c6b33bfed0c3edaa017b3aa3f0f007.jpg",
+    link: "cotrang/cuu-toc-cua-nu-phan-tac.html",
+    type: "cotrang",
+    desc: `Ta vốn là một nữ chiến thần lừng lẫy. Thế nhưng sau khi vụ tạo phản thất bại, tên Cẩu hoàng đế liền nổi giận đùng đùng, hạ lệnh tru di cửu tộc của ta để răn đe thiên hạ.
+
+Thấy vậy, ta liền thản nhiên bảo bản thân vốn là kẻ cô nhi, làm gì có cửu tộc mà diệt, cứ đem một mình ta ra chém tạm là được rồi.
+
+Cẩu hoàng đế nhất quyết không tin. Hắn hạ chỉ cho Nhiếp Chính Vương, dù có phải lật tung từng xó xỉnh trong thiên hạ cũng nhất định phải lột sạch cửu tộc của ta ra để diệt gọn.
+
+Nào ngờ, càng tra lại càng ra chuyện động trời. Kết quả phát hiện ta mới chính là đích nữ ruột thịt của Tiên đế, còn tên Hoàng đế đương nhiệm kia chỉ là một đứa trẻ bị bế nhầm về cung. Ngai vàng hắn đang ngồi, vốn dĩ phải thuộc về ta từ lâu.
+
+Nhiếp Chính Vương thấy vậy liền ngửa mặt than trời: "Ồ hô, đã bảo đừng tra nữa mà ngươi cứ nhất quyết phải tra cho bằng được!"
+
+Ta ung dung vung tay hạ lệnh: "Người đâu, mau phế tên Hoàng đế giả này xuống làm Quý phi cho trẫm!"
+
+Nhiếp Chính Vương nghe xong liền ngơ ngác: "???"
+
+Ta mỉm cười quay sang nhìn hắn rồi phất áo bào: "Trẫm thấy phong thái của Nhiếp Chính Vương vẫn còn rất phong nhã, vậy phong làm Hoàng hậu luôn đi!"
+
+Tên Cẩu hoàng đế đứng bên cạnh lập tức cười lớn: "Hahaha! Nàng ta cũng đâu có tha cho ngươi đâu chứ!"
+`
   },
 
 
