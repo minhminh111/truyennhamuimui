@@ -13832,7 +13832,157 @@ Ta mỉm cười quay sang nhìn hắn rồi phất áo bào: "Trẫm thấy pho
 
 Tên Cẩu hoàng đế đứng bên cạnh lập tức cười lớn: "Hahaha! Nàng ta cũng đâu có tha cho ngươi đâu chứ!"
 `
+  },{
+    id: 662,
+    title: "Ly Nước Đã Nguội",
+    image: "imgngon/76815adff32766954af13d8ee20ceac6.jpg",
+    link: "ngontinh/ly-nuoc-da-nguoi.html",
+    type: "ngontinh",
+    desc: `Một ngày nọ, tôi tình cờ phát hiện một đoạn trò chuyện trong điện thoại của Thịnh Cảnh.
+
+Anh gửi cho cô trợ lý nữ video ghi lại cảnh tôi đang gắt gỏng hướng dẫn con học bài, kèm theo dòng tin nhắn: "Đây là lý do tôi thà ở lại công ty tăng ca còn hơn về nhà."
+
+Cô trợ lý nhanh chóng đáp lại bằng một biểu tượng cảm xúc ôm ấp đầy thương xót: "Giám đốc Thịnh thật khổ sở, đi làm đã vất vả, về đến nhà lại càng kiệt sức hơn."
+`
+  },{
+    id: 663,
+    title: "Trân Châu Của Đại Ma Vương",
+    image: "imgdam/bafcc3b597bbef45adde03c8d9b98389d.jpg",
+    link: "dammy/tran-chau-cua-dai-ma-vuong.html",
+    type: "dammy",
+    desc: `Tôi nhặt được một con hắc xà đẹp tuyệt trần.
+
+Thỉnh thoảng, tôi lại đặt nó vào lòng bàn tay để vuốt ve. Cái đuôi rắn quấn quanh cánh tay, mang theo cảm giác lành lạnh và mượt mà khiến tôi mê mẩn.
+
+Thế nhưng đến nửa đêm, cái đuôi lạnh lẽo ấy lại quấn chặt lấy eo cùng đùi tôi, tạo nên một cảm giác hoàn toàn khác biệt.
+`
+  },{
+    id: 664,
+    title: "Đại Nha Hoàn Khương Phủ",
+    image: "imgco/b8fc5926ad371e63192c2496cd97e3fe6.jpg",
+    link: "cotrang/dai-nha-hoan-khuong-phu.html",
+    type: "cotrang",
+    desc: `Ta là a hoàn của đại tiểu thư nhà họ Khương. Sau khi nàng gả vào phủ tướng quân, ta cũng thuận thế trở thành a hoàn của phu nhân tướng quân.
+
+Làm a hoàn cho phu nhân tướng quân vốn dĩ rất nhàn hạ, cơm áo không lo, lại có kẻ hầu người hạ xung quanh.
+
+Chỉ là ngày ngày phải chứng kiến cảnh chủ nhân tình nồng ý mật, thật khiến kẻ khác cảm thấy phiền muộn không thôi.
+`
+  },{
+    id: 665,
+    title: "Người Chồng 75 Tuổi Rước Bạch Nguyệt Quang Về Nhà",
+    image: "imgngon/b8a3f583eb886eab58520ed836021e47b.jpg",
+    link: "ngontinh/nguoi-chong-75-tuoi-ruoc-bach-nguyet-quang-ve-nha.html",
+    type: "ngontinh",
+    desc: `Vừa qua một trận bạo bệnh, Trần Hạc Niên ở tuổi bảy mươi lăm lại một mực đòi đón người tình đầu tiên về sống chung.
+
+Ông phân bua rằng Thẩm Yên thân gái dặm trường, không con cái, chồng lại mất sớm nên vô cùng đáng thương.
+
+Đến cả máu mủ của tôi cũng buông lời khuyên lơn, bảo rằng cha chúng nó đã ở cái tuổi gần đất xa trời, nguyện vọng duy nhất lúc này chỉ là ở bên người thương, mong tôi hãy bao dung mà tác thành cho hai ông bà.
+
+Thế nhưng còn tôi thì sao? Năm mươi năm xuân thì cùng những hy sinh của tôi rốt cuộc là cái thá gì?
+`
+  },{
+    id: 666,
+    title: "Vị Trí Nào Cho Em Trong Trái Tim Anh",
+    image: "imgdam/b6cf79012e07bfefd64042a3e7f837718.jpg",
+    link: "dammy/vi-tri-nao-cho-em-trong-trai-tim-anh.html",
+    type: "dammy",
+    desc: `Ngày đầu tiên làm thế thân cho vị tổng tài bá đạo, tôi mới ngỡ ngàng nhận ra "bạch nguyệt quang" trong lòng hắn chẳng phải ai xa lạ, mà chính là bạn trai tôi.
+
+Đến khi người ấy trở về nước, lo sợ bí mật bị phơi bày, tôi liền ôm khoản tiền dành dụm tháo chạy ngay trong đêm.
+
+Thế nhưng đến lúc gặp lại, vị bạch nguyệt quang ấy lại ôm chặt lấy tôi trong lòng, giọng ngập tràn chiếm hữu:
+
+"Cục cưng, em nói cho hắn biết đi, ai mới là bạn trai hợp pháp duy nhất của em?"
+
+Trong khi đó, gã tổng tài kiêu ngạo ngày nào giờ lại hạ mình tranh giành, khổ sở van xin:
+
+"Bảo bối, cho tôi làm người đến sau cũng được, xin em đừng bỏ rơi tôi..."
+`
+  },{
+    id: 667,
+    title: "Đổi Phận Trả Duyên",
+    image: "imgco/b4a171d4de841fdc3c9c7c4e692d51789.jpg",
+    link: "cotrang/doi-phan-tra-duyen.html",
+    type: "cotrang",
+    desc: `Ta vốn là phận nữ phụ ác độc trong thiên hạ, nhưng lại chọn cách buông xuôi, chẳng buồn tranh giành với đời.
+
+Bởi lẽ chỉ còn vài ngày ngắn ngủi nữa thôi, vị hôn phu của ta sẽ dắt tay vị nữ chính thật sự về trình diện.
+
+Mà ta, hốt nhiên lại trở thành hòn đá ngáng đường to nhất trong thiên tình sử ngọt ngào của hai người họ.
+
+Sau khi mộng thấy toàn bộ diễn biến tương lai, ta quyết định khoanh tay đứng nhìn, mặc cho sự đời xoay chuyển. Cần gì phải nhọc lòng như thế? Nếu chẳng phải vì tấm lòng báo đáp ân sâu, kẻ làm hôn phu rẻ mạt như hắn, ta đã sớm chẳng thèm ngó ngàng.
+`
+  },{
+    id: 668,
+    title: "Ngoảnh Lại Thành Người Dưng",
+    image: "imgngon/b2785b2c0a2409b073ccb6e4274dc4d8a.jpg",
+    link: "ngontinh/ngoanh-lai-thanh-nguoi-dung.html",
+    type: "ngontinh",
+    desc: `Sau khi chia tay Thẩm Dục, tôi luôn ôm một niềm tin mơ hồ rằng rồi hai đứa sẽ tái hợp.
+
+Tôi đã kiên nhẫn chờ đợi, từ một tuần, một tháng, rồi đến ba tháng...
+
+Cho tới ngày tôi nhận ra anh đã có người mới.
+
+Hôm ấy, lần đầu tiên trong đời tôi khóc đến kiệt sức, dẹp bỏ hết tôn nghiêm và tự trọng chỉ để van nài anh quay lại nhìn tôi một lần.
+
+Nhưng anh chỉ thản nhiên đáp: “Nam Y, đừng làm vậy nữa, không đáng đâu.”
+
+Thời gian qua đi, anh và người mới chia tay chẳng rõ lý do, rồi anh lại chủ động quay về tìm tôi.
+
+Bất chấp mọi lời khuyên ngăn từ bạn bè, tôi gật đầu đồng ý.
+
+Tôi từng nghĩ khi tìm lại được điều tưởng như đã mất, tôi sẽ biết trân trọng và nhẫn nại hơn.
+
+Thế nhưng lúc thực sự ở bên nhau, tôi mới chợt nhận ra hình như tình cảm tôi dành cho Thẩm Dục chẳng còn nhiều như bản thân vẫn tưởng.
+`
+  },{
+    id: 669,
+    title: "Định Mệnh Của Công Chúa Alpha",
+    image: "imgdam/b8ca60b421ca45ae0b5e4d39ec9bcd1d0.jpg",
+    link: "dammy/dinh-menh-cua-cong-chua-alpha.html",
+    type: "dammy",
+    desc: `Đối tượng tôi thầm thương thích một omega có mùi pheromone ngọt ngào.
+
+Trái lại, pheromone trên người tôi lại nhạt nhẽo chẳng khác gì nước lọc.
+
+Sở hữu tâm lý dù không có được thì cũng phải nếm thử một lần, tôi đã nhốt Liên Dực Tinh lại rồi cưỡng chế hắn suốt một tháng trời.
+
+Anh chàng alpha vừa phẫn nộ vừa sốt ruột, gầm lên đầy đe dọa:
+
+“Cậu là beta đúng không? Đừng để tôi tóm được cậu, cậu cứ chờ đấy!”
+
+Tôi bĩu môi, chậm rãi nhấn người ngồi xuống sâu hơn.
+
+“Ông xã à, em đợi anh đến chơi chết em đây.”
+
+Đến việc tôi là beta hay omega mà hắn còn chẳng phân biệt nổi…
+
+Thì làm sao mà bắt được tôi chứ?`
+  },{
+    id: 670,
+    title: "Nữ Chính Không Đặt Cược",
+    image: "imgco/bc8e359b9f1603bdb20c0a5f247cd82b2.jpg",
+    link: "cotrang/nu-chinh-khong-dat-cuoc.html",
+    type: "cotrang",
+    desc: `Mẫu thân ta hóa điên suốt cả một đời. Giây phút chia ly nhân thế, bà không để lại điều gì ngoài khối gia tài kếch xù cùng một mảnh giấy đã sờn.
+
+Mảnh giấy ấy chép lại:
+
+[Quy tắc sinh tồn trong truyện ngược]
+
+Một, tuyệt đối cấm nhặt nam nhân bên đường, đặc biệt là kẻ mất trí nhớ. Nhỡ may lỡ tay nhặt về, phải lập tức phủi sạch quan hệ càng sớm càng tốt. Bằng không, tự chịu hậu quả.
+
+Hai, hãy ghi nhớ, con người sinh ra có một cơ quan gọi là "miệng". Cơ quan ấy ngoài việc ăn uống còn dùng để cất lời. Khi chịu nỗi oan khuất, xin hãy dùng "miệng" giải thích cho tỏ tường.
+
+Ba, cần nhớ kỹ, đáp đáp ân tình có muôn vàn cách, nhưng tuyệt nhiên không bao gồm việc ép buộc thành thân rồi cố tình ghẻ lạnh, đánh đập, hành hạ.
+
+Nếu rơi vào hoàn cảnh ấy, xin hãy vội vàng đào tẩu.
+`
   },
+
 
 
 
