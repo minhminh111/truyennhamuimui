@@ -13981,6 +13981,170 @@ Ba, cần nhớ kỹ, đáp đáp ân tình có muôn vàn cách, nhưng tuyệt
 
 Nếu rơi vào hoàn cảnh ấy, xin hãy vội vàng đào tẩu.
 `
+  },{
+    id: 671,
+    title: "Bi Kịch Sau Hủ Tục Náo Hôn",
+    image: "imgngon/0c7957ff62b9afa5283272a9be5cf6fc.jpg",
+    link: "ngontinh/bi-kich-sau-hu-tuc-nao-hon.html",
+    type: "ngontinh",
+    desc: `Được làm phù dâu trong đám cưới của cô bạn thân, tôi lại bị gã phù rể đè xuống giường.
+
+Chú rể oang oang cái miệng bảo chiếc nhẫn cưới đang giấu đâu đó trong váy tôi, thế là cả đám đàn ông nháo nhào đòi chui vào bên trong để tìm kiếm.
+
+Tôi liều mạng chống cự, cố ngoi lên thoát khỏi những bàn tay trần trụi. Nào ngờ, cô bạn thân lại đứng khoanh tay giương mắt nhìn, buông một câu ráo bảnh:
+
+“Đám cưới mà, phải náo nhiệt một chút mới vui chứ! Người ta có để mắt đến cậu thì mới sờ sờ chạm chạm như thế đấy.”
+`
+  },{
+    id: 672,
+    title: "Cạm Bẫy Đêm Đen",
+    image: "imgdam/51affdce4bc8a8265969e25d43e52926.jpg",
+    link: "dammy/cam-bay-dem-den.html",
+    type: "dammy",
+    desc: `Tôi là một kẻ lăn lộn trong thế giới ngầm.
+
+Vì thèm muốn người anh rể điển trai của đứa em gái đã bỏ trốn, tôi chấp nhận đeo mặt nạ suốt sáu năm trời, đóng giả làm một gã thợ sửa xe hiền lành, chất phác.
+
+Ban ngày tôi giữ khoảng cách đúng nghĩa anh em trong nhà, nhưng đến khi đêm xuống, tôi lại lén lút tìm kiếm sự thân mật theo một cách hoàn toàn khác.
+
+Cho đến một ngày không thể chịu đựng nổi nữa, tôi thẳng tay trói chặt anh rể trên giường ngay giữa ban ngày ban mặt, cất giọng khiêu khích:
+
+"Phó giáo sư, anh đã bao giờ thử làm chuyện đó với đàn ông chưa?"
+
+"Thử rồi."
+`
+  },{
+    id: 673,
+    title: "Đường Sống Nơi Hạn Hán",
+    image: "imgco/5e685625db2adeb8685f9f41834d14e0.jpg",
+    link: "cotrang/duong-song-noi-han-han.html",
+    type: "cotrang",
+    desc: `Vừa chớp mắt tỉnh lại, ta phát hiện mình đã xuyên thành mụ độc phụ trong một cuốn tiểu thuyết điền văn. Chưa kịp định thần, đứa con trai út đã nhảy chồm lên xúi giục ta đem bán cháu gái để lấy tiền trả nợ lô đề cho nó.
+
+Quá bất bình, ta giơ tay vung cho nó một cú tát cháy má: "Cút ngay! Đồ dại dột!"
+
+Nó mếu máo ôm chặt lấy ống quần ta than thở: "Mẹ ơi, bà Trương đã đưa mụ buôn người tới tận cửa rồi, mẹ không thể lật lọng lúc này được đâu!"
+
+Bà Trương đứng ngoài cổng ngó vào cất giọng: "Tống lão thái này, đứa cháu gái nhà bà mặt mũi sáng sủa thế kia, bán vào chốn lầu xanh ít nhất cũng được ba mươi lượng đấy!"
+
+Ta thản nhiên cất tiếng hỏi: "Thế con trai thì đáng giá bao nhiêu?"
+
+"Đàn ông con trai có sức vóc làm việc nặng, nếu đem bán vào cung làm thái giám thì được hẳn một trăm lượng!"
+
+Ta nghe xong liền "ồ" lên một tiếng, rồi thẳng chân đá văng đứa con út đến tận chân mụ: "Thế thì ta bán Chiêu Muội."
+
+Thằng bé ngơ ngác gào lên: "Mẹ ơi, Chiêu Muội là đứa nào, con là Diệu Tổ cơ mà!"
+`
+  },{
+    id: 674,
+    title: "Bức Tường Điều Ước Mười Năm",
+    image: "imgngon/422345c68e8693fd1d08de9d0a81abd6.jpg",
+    link: "ngontinh/buc-tuong-dieu-uoc-muoi-nam.html",
+    type: "ngontinh",
+    desc: `Vô tình bước vào một quán cà phê, tôi phát hiện trên bức tường điều ước viết đầy ắp tên mình.
+
+Vừa xé một tờ giấy ghi chú để xem kỹ hơn, tôi đột nhiên bị kéo trở về khoảng thời gian mười năm trước, khi còn là một nữ sinh trung học.
+
+Hóa ra, trong những năm tháng thời cấp ba đầy mệt mỏi ấy, giữa lúc tôi đang mải mê ngưỡng mộ tuổi trẻ của người khác, cũng có một chàng trai thầm lặng dành trọn tình cảm cho tôi.
+`
+  },{
+    id: 675,
+    title: "Nắng Trong Hẻm Vắng",
+    image: "imgdam/f31d0f5d47b8091ebfebe45a8a6ac135.jpg",
+    link: "dammy/nang-trong-hem-vang.html",
+    type: "dammy",
+    desc: `Tôi là một tên lưu manh.
+
+Năm mười tám tuổi, tôi ép Phương Niệm hôn mình, đúng lúc bị anh trai cậu ta bắt quả đâm.
+
+Anh trai cậu ta, Phương Hành, chặn tôi ngay trong con hẻm nhỏ. Hắn túm lấy tóc tôi, lạnh giọng hỏi:
+
+"Muốn hôn chỗ nào? Để tôi hôn với cậu."
+
+Tôi hưng phấn kéo cạp quần ra:
+
+"Lại đây!"
+`
+  },{
+    id: 676,
+    title: "Ma Tôn Mất Trí Nhớ Bị Ta Lừa Thành Vị Hôn Phu",
+    image: "imgco/42f5add4a531ffd467b920b8e18a2884.jpg",
+    link: "cotrang/ma-ton-mat-tri-nho-bi-ta-lua-thanh-vi-hon-phu.html",
+    type: "cotrang",
+    desc: `Hệ thống giục ta đi công lược Ma tôn, nhưng ta lập tức khước từ.
+
+"Ai rảnh đâu mà đi làm nô dịch cho kẻ tồi tệ cùng vầng trăng sáng của hắn chứ, ta chẳng có thú vui tự ngược đâu."
+
+Hệ thống buông lời đe dọa: "Nhiệm vụ thất bại, ngươi chỉ có nước bỏ mạng thôi."
+
+Mấy năm trôi qua, đúng vào thời điểm ta sắp lâm vào cảnh đường cùng, trong lúc túng thuẫn cần tiền cấp bách thì lại tình cờ nhặt được vị Ma tôn nọ ngay ven đường.
+
+Chàng thiếu niên tuấn tú ấy đã quên sạch quá khứ, ánh mắt ngơ ngác nhìn ta rồi cất giọng hỏi: "Ta là ai? Còn ngươi là ai?"
+
+Ta liền ghé sát bên tai hắn, cất lời thì thầm tựa quỷ dữ: "Ta là vị hôn thê của ngươi. Ngươi đang nợ ta một khoản tiền rất lớn, chẳng lẽ đã quên rồi sao?"
+`
+  },{
+    id: 677,
+    title: "Bí Kíp Tiết Kiệm Của Sao Nữ",
+    image: "imgngon/765c92a5cd035c40f2b51dc6bf175cd9.jpg",
+    link: "ngontinh/bi-kip-tiet-kiem-cua-sao-nu.html",
+    type: "ngontinh",
+    desc: `Tôi là nữ diễn viên tiết kiệm tiền giỏi nhất showbiz.
+
+Để tích tiền hiệu quả, tôi lập một tài khoản tiết kiệm và giả vờ như đang hẹn hò.
+
+Khi số tiền tích góp đã được một nửa, người yêu cũ là ảnh đế bắt đầu điên cuồng nhắn tin cho tôi.
+
+"Tên đàn ông đó thật bủn xỉn, lần nào cũng để em trả tiền. Em xem, có bao giờ anh xử sự như vậy đâu."
+
+"Hay là em xem xét lại anh chút nhé? Dù sao anh cũng giàu có và hào phóng hơn tên kia nhiều."
+
+"Thôi được rồi, nếu em thực sự thích hắn, anh chỉ cho em tiền tiêu vặt thôi được không? Nhưng em đừng để lộ ra ngoài nhé, nếu không anh sẽ mất mặt lắm."
+
+Cộng đồng mạng lập tức bùng nổ.
+`
+  },{
+    id: 678,
+    title: "Chàng Trai Hè Năm Mười Tám",
+    image: "imgdam/ee81b452c8d559b779437aef9bf65f99.jpg",
+    link: "dammy/chang-trai-he-nam-muoi-tam.html",
+    type: "dammy",
+    desc: `Ngày đầu tiên bước chân vào ngưỡng cửa đại học.
+
+Tôi vừa kéo chiếc vali qua ngưỡng cửa phòng ký túc xá thì đã trót làm một việc mà có lẽ bản thân sẽ phải hối hận suốt bốn năm tiếp theo.
+
+"Tôi là gay."
+
+Bầu không khí xung quanh lập tức lắng xuống, đóng băng mất nửa giây.
+
+Chai nước khoáng trên tay Cố Hành rơi "cộp" một tiếng xuống góc bàn: "Cậu... cậu bảo cậu là gay á?"
+
+"Đúng vậy." Tôi khẽ siết chặt quai ba lô trong tay.
+
+"Cậu..." Cậu ta há hốc miệng, nửa câu sau cứ thế nghẹn lại nơi cổ họng, không thốt ra lời.
+
+"Tôi thích con trai, nhưng tôi không phải kiểu người vơ bèo gạt tép đâu." Tôi vội vàng bồi thêm một câu.
+
+Cậu ta ồ lên một tiếng rồi ngập ngừng không hỏi thêm nữa.
+
+Hứa Trầm tiến lại gần, vỗ nhẹ lên vai tôi: "Khá lắm người anh em, rất thẳng thắn!"
+
+Trong khi đó, Thẩm Dư Khanh người từ đầu vẫn dán mắt vào màn hình điện thoại bên cửa sổ chậm rãi ngước mắt nhìn tôi: "Rồi sao nữa?"
+`
+  },{
+    id: 679,
+    title: "Tiếng Mõ Rao Đậu Vang Khắp Phố Huyện",
+    image: "imgco/97d25c372f7b74ddc1e8e1d353c05e5b.jpg",
+    link: "cotrang/tieng-mo-rao-dau-vang-khap-pho-huyen.html",
+    type: "cotrang",
+    desc: `Cha mẹ khuất núi, ta nhờ bán đậu hũ mà dành dụm được chút tiền lộ phí, khăn gói lên đường tìm tỷ tỷ năm xưa bị bán vào Hầu phủ làm thiếp.
+
+Đến nơi rồi mới hay, Hầu phủ ấy nào có thật.
+
+Thế nhưng trên đầu ta vẫn còn buộc sợi dây đỏ mà tỷ tỷ gửi kèm theo thư.
+
+Còn trong những bức thư gửi về nhà mỗi năm một lần, tỷ ấy luôn kể về cuộc sống giàu sang sung túc nơi Hầu phủ, dặn ta đừng tìm đến.
+`
   },
 
 
