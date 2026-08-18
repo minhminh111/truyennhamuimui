@@ -14145,6 +14145,200 @@ Thế nhưng trên đầu ta vẫn còn buộc sợi dây đỏ mà tỷ tỷ g�
 
 Còn trong những bức thư gửi về nhà mỗi năm một lần, tỷ ấy luôn kể về cuộc sống giàu sang sung túc nơi Hầu phủ, dặn ta đừng tìm đến.
 `
+  },{
+    id: 680,
+    title: "Vợ Ẩn Giấu Của Ảnh Đế Đỉnh Lưu",
+    image: "imgngon/046c2625b1c5d1339a0adaec2a048b9c.jpg",
+    link: "ngontinh/vo-an-giau-cua-anh-de-dinh-luu.html",
+    type: "ngontinh",
+    desc: `Ảnh đế khoe con mới sinh và cùng lúc đó, tôi cũng đăng ảnh khoe con.
+
+Cư dân mạng lập tức mắng mỏ tôi ké fame ảnh đế, châm chọc tôi nổi tiếng bằng những thủ đoạn bẩn thỉu.
+
+Đến khi họ soi xét thật kỹ lưỡng thì mới phát hiện ra điểm bất thường.
+
+[Thật kỳ lạ, sao hai đứa trẻ này trông lại giống hệt nhau vậy?]
+
+Cư dân mạng chấn động toàn tập.
+
+[Không lẽ đây chính là chị dâu thật sự sao?]
+
+Ảnh đế nào đó tỏ thái độ lạnh lùng: Vợ tôi và tôi, đương nhiên là chung một đứa con.
+`
+  },{
+    id: 681,
+    title: "Rắn Lục Và Cọc Tre",
+    image: "imgdam/9a911f0d33491f21ad7a66e8dd5eecd1.jpg",
+    link: "dammy/ran-luc-va-coc-tre.html",
+    type: "dammy",
+    desc: `Trót lỡ tay nhận nuôi một con rắn lục đuôi xanh, chẳng ngờ có ngày lại bị nó cắn cho một phát.
+
+Đang lúc lên mạng tra cứu cách sơ cứu vết thương, tôi vô tình lướt thấy một bài đăng với tiêu đề độc lạ:
+
+【Cắn trúng cậu chủ đáng ghét rồi, không biết có bị đuổi khỏi nhà không nữa?】
+
+Nhìn lại ảnh đại diện của tài khoản này, tôi chết ngơ vì đó chính là góc mặt con rắn xanh mình đang chăm bẵm.
+
+Sự tò mò nổi lên, tôi lập tức bấm vào xem chi tiết.
+
+Dưới bài đăng, một người dùng có avatar rắn vua đen để lại bình luận:
+
+【Loại rắn xanh như chú mày tìm được một người chủ tử tế là phúc ba đời rồi, ở đó mà lắm chuyện chê bai.】
+
+Rắn xanh liền bật lại ngay:
+
+【Tôi đâu có tha thiết gì việc ở lại đây. Chẳng qua dạo nọ đi nhầm xe, lúc đang ngái ngủ thì bị cậu ta nhặt về thôi.】
+
+【Người trong lòng tôi là em gái của cậu ta Mạnh Vân cơ.】
+
+【Mạnh Vân mê viết tiểu thuyết tình cảm rắn yêu người lắm. Chỉ cần gặp mặt, cô ấy thế nào cũng bị vẻ ngoài quyến rũ này làm cho điêu đứng. Chờ tới ngày hóa thành hình người, chúng tôi sẽ viết nên một thiên tình sử chấn động nhân gian.】
+`
+  },{
+    id: 682,
+    title: "Bóng Lưng Đại Nương",
+    image: "imgco/cabed0159dd443b249b4692dfd6e973e.jpg",
+    link: "cotrang/bong-lung-dai-nuong.html",
+    type: "cotrang",
+    desc: `Cha ta là kẻ ở rể nhà người ta.
+
+Còn ta lại là đứa con riêng bị giấu giếm nơi đầu đường góc chợ.
+
+Năm ta lên năm, ông ta cùng mẹ ta dắt díu nhau bỏ trốn, bỏ lại mình ta tự sinh tự diệt giữa cõi đời.
+
+Những ngày tháng ấy, khi cơn đói cào xé ruột gan, ta phải giật từng sợi rơm trên mái nhà mà nhai, bới từng thùng nước thải tìm chút canh thừa.
+
+Đến khi bị lũ trẻ ăn mày đánh đập đến hơi tàn lực kiệt, bà đồ tể nơi góc chợ đột nhiên xuất hiện.
+
+Bà chính là thê tử đàng hoàng của cha ta, một người phụ nữ không có con cái.
+
+Bà vốn mang danh "con hổ cái", chịu tiếng góa bụa, cuộc đời trải qua chẳng ít đắng cay.
+
+Thế rồi ta theo bà học nghề mổ lợn bán thịt, nắm tay nhau đi qua khói lửa chiến tranh, từng bước vượt qua ngàn trùng gian khó.
+
+Về sau, ta trở thành nữ ngự y do triều đình ban thưởng, còn bà cũng được tận hưởng phúc đáp, con cái quây quần bên hiên nhà.
+
+Lúc này, cha ta lại đột ngột trở về, buông lời muốn bù đắp cho ta và mong tái hợp cùng bà.
+
+Ta chỉ lạnh lùng cười nhạt, đưa ra tờ văn thư đoạn tuyệt quan hệ. Còn bà thì vung con dao mổ lợn, đuổi đánh ông ta chạy trối chết qua suốt năm con phố.
+`
+  },{
+    id: 683,
+    title: "Sự Trả Thù Dịu Dàng",
+    image: "imgngon/e3d9f3e6178434a2b84a8269576e0a8e.jpg",
+    link: "ngontinh/su-tra-thu-diu-dang.html",
+    type: "ngontinh",
+    desc: ``
+  },{
+    id: 684,
+    title: "Yêu Bạn Diễn Bị Bẻ Cong",
+    image: "imgdam/7b3afe6772b098201513db696efb5dd0.jpg",
+    link: "dammy/yeu-ban-dien-bi-be-cong.html",
+    type: "dammy",
+    desc: `Tôi từng quay một bộ phim đam mỹ rồi bị bẻ cong lúc nào chẳng hay.
+
+Đến khi gom hết dũng khí ra tỏ tình, tôi lại nhận về một gáo nước lạnh từ cậu đàn em kém mình hẳn năm tuổi:
+
+“Anh hơn tôi tới năm tuổi cơ đấy, chẳng lẽ đến giờ vẫn chưa phân biệt nổi đâu là kịch bản, đâu là đời thực sao?”
+
+Sau câu nói ấy, tôi quay lưng đi thẳng và cố tình trốn biệt cậu suốt ba năm trời.
+
+Chẳng ai ngờ bộ phim nằm kho năm đó khi phát sóng lại tạo nên một cơn sốt bùng nổ. Kết quả là chúng tôi buộc phải giáp mặt, cùng xuất hiện trong các chương trình quảng bá.
+
+Vì sợ cậu ấy cảm thấy gượng gạo, tôi vỗ ngực quả quyết:
+
+“Cứ yên tâm đi, dạo này tôi uống thuốc Đông y điều dưỡng lại rồi. Bây giờ tôi cũng là trai thẳng xịn như cậu thôi.”
+
+Thế nhưng về sau, mỗi lần tham gia sự kiện chung, chỉ cần tôi vô tình nhích lại gần một chút là cái miệng của cậu nhóc đó đã chực chờ dán tới:
+
+“Xin lỗi nhé, tại hồi trước hôn nhiều quá nên giờ cơ thể nó tự thành phản xạ rồi…”
+`
+  },{
+    id: 685,
+    title: "Hoa Trắng Trên Than Hồng",
+    image: "imgco/a5ae51e8bbc250baeec8413e71f43361.jpg",
+    link: "cotrang/hoa-trang-tren-than-hong.html",
+    type: "cotrang",
+    desc: `Đêm bái đường thành thân, phu quân ta mãi vẫn chưa chịu trở về.
+
+Nghe đâu Hình bộ Thượng thư cùng nữ bộ khoái giang hồ vừa hợp sức phá giải một kỳ án. Kẻ anh hùng, người hiệp nữ, kề vai sát cánh chiến đấu, trở thành câu chuyện giai thoại được dân gian truyền tụng khắp chốn.
+
+Chuyện ấy vô tình biến ta, người thê tử danh chính ngôn thuận được cưới hỏi đường hoàng, trở thành một kẻ thừa thãi đến đáng cười.
+
+Khắp giới quý tộc ở Thái Nguyên, ai nấy đều thản nhiên chế giễu ta. Họ bảo ta tốn bao năm tháng kề cận bên Thiệu Du, ân cần chăm sóc lo lắng cho hắn từng chút một, rốt cuộc lại chẳng bằng một nữ bộ khoái mới quen biết vỏn vẹn hai tháng trời.
+
+Thế nhưng họ đâu nào hay biết, ngay khoảnh khắc Thiệu Du liều mình đỡ mũi tên cho nữ bộ khoái ấy, ta đã một mình bước qua con đường tuyết phủ đầy than hồng đỏ rực để lấy về tờ thư thoái hôn.
+
+Thiệu Du vẫn tự tin cho rằng ta chỉ đang giận dỗi nhất thời, ung dung diễn trò để chờ xem khi nào ta sẽ chủ động cúi đầu quay lại.
+
+Cho đến khi đại dịch đậu mùa bất ngờ bùng phát trong thành, ta xung phong đề nghị lấy thân mình ra thử thuốc. Hắn cảm động vô cùng, đinh ninh rằng ta rốt cuộc đã không nhịn được mà chạy đến lo lắng cho hắn.
+
+Thế nhưng, ta lại lặng lẽ ngó lơ Thiệu Du đang dang rộng đôi tay chờ đón, bật khóc sà vào lòng người ám vệ trẻ tuổi đứng phía sau hắn, nức nở: "Tạ ơn trời đất, Trầm Yến, may mắn làm sao khi chàng vẫn bình an vô sự!"
+`
+  },{
+    id: 686,
+    title: "Nhật Ký Hẹn Hò Của Tổng Tài Keo Kiệt",
+    image: "imgngon/ae3a09948416c9b4059934f326ff5caa.jpg",
+    link: "ngontinh/nhat-ky-hen-ho-cua-tong-tai-keo-kiet.html",
+    type: "ngontinh",
+    desc: `Họ đều thấy cô thật đáng thương. Quen Bùi Trầm lâu đến thế, thậm chí đã ra mắt gia đình hai bên, vậy mà anh vẫn thản nhiên tuyên bố với bạn bè rằng mình còn độc thân.
+
+Chính vì điều này, nhiều người trong trường phẫn nộ thay cho cô, không ngừng chửi rủa Bùi Trầm là kẻ phụ bạc.
+
+"Mọi người xem, sinh nhật Cố Thanh Hà mà hắn chỉ tặng đúng một túi lê!"
+
+"Hôm Valentine có người bắt gặp hai đứa, Bùi Trầm chỉ mời cô ấy ăn bát miến chua cay 8 tệ ngay cổng trường."
+
+"Chưa kể buổi liên hoan đón năm mới, Cố Thanh Hà làm MC bận rộn cả tối, tụi mình còn xúm vào giúp chụp ảnh các thứ. Thế mà Bùi Trầm lại lăn ra ngủ suốt cả chương trình?"
+
+Cuối cùng, hội bạn đi đến kết luận: Bùi Trầm vừa tồi tệ lại vừa keo kiệt.
+
+Thế nhưng vấn đề nằm ở chỗ... Cố Thanh Hà đâu phải bạn gái của Bùi Trầm!
+
+Nhìn những tin đồn vô lý loan truyền khắp nơi, Bùi Trầm mặt mày u ám, yêu cầu cô phải đưa ra một lời giải thích thỏa đáng.
+`
+  },{
+    id: 687,
+    title: "Cứu Vớt Thanh Xuân",
+    image: "imgdam/f55315979af522c755c074c7a67b4ec4.jpg",
+    link: "dammy/cuu-vot-thanh-xuan.html",
+    type: "dammy",
+    desc: `Ngày crush nhảy lầu tự tử, tôi trùng sinh quay về năm 18 tuổi.
+
+Để ngăn cậu tìm đến cái chết, tôi hóa thành sói đói lao tới.
+
+Cậu vô cùng chán ghét tôi:
+
+“Bạn học Hàn, tôi thật sự không có thời gian dây dưa với cậu. Muốn chơi thì đi tìm người khác, được không?”
+
+Một tháng sau, cậu vẫn đứng trên sân thượng của trường.
+
+“Hàn Tiểu Quân, nếu cậu dám ở bên người khác, tôi sẽ chết cho em xem.”
+
+“?”`
+  },{
+    id: 688,
+    title: "Mắt Thấy Dòng Chữ Bí Mật Nơi Hoàng Cung",
+    image: "imgco/140d49fc15ef06ac8f9a130d5abfe44d.jpg",
+    link: "cotrang/mat-thay-dong-chu-bi-mat-noi-hoang-cung.html",
+    type: "cotrang",
+    desc: `Vào ngày thứ hai sau đại hôn cùng phò mã, trước mắt ta đột nhiên xuất hiện những dòng chữ mang sắc đỏ và xanh lơ lơ lửng giữa hư không.
+
+【Cảnh ân ái tối qua nóng bỏng thật đấy, tiếc là đoạn cuối lại bị đạo diễn cắt mất rồi.】
+
+【Nếu tiểu công chúa biết mọi chuyện xoay quanh mình đều là giả dựng, không biết nàng ấy sẽ phản ứng ra sao nhỉ?】
+
+【Lầu trên đừng đùa nữa, tỷ lệ người xem đang cao ngất ngưởng thế này, sao có thể để nàng ấy biết được. Dù có bỏ mạng, nàng ấy cũng chỉ chết trong bộ phim này mà thôi.】
+
+【Nàng ấy thật đáng thương, có lẽ vẫn ngây thơ tin rằng phò mã dành trọn chân tình cho mình, rốt cuộc cũng chỉ là quân cờ trong tay giới tư bản.】
+
+Giữa vô vàn dòng tin trôi qua dồn dập, nổi bật lên một hàng chữ sắc đỏ như máu:
+
+【Đan Châu, mau chạy đi! Bọn họ đang muốn lấy mạng cô!】
+
+Tay ta run rẩy khiến chén trà trong tay chao đảo, nước hắt ra ngoài.
+
+Đan Châu chính là phong hiệu lẫn tên gọi của ta.
+`
   },
 
 
