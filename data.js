@@ -14339,6 +14339,182 @@ Tay ta run rẩy khiến chén trà trong tay chao đảo, nước hắt ra ngo�
 
 Đan Châu chính là phong hiệu lẫn tên gọi của ta.
 `
+  },{
+    id: 689,
+    title: "Bắt Đầu Lại Ở Năm 1999",
+    image: "imgngon/9b4aca3be39fd9661f60948c1bc07480.jpg",
+    link: "ngontinh/bat-dau-lai-o-nam-1999.html",
+    type: "ngontinh",
+    desc: `Bởi vì vừa trải qua kỳ thi tháng với kết quả không mấy khả quan, tâm trạng của tôi rơi vào bế tắc. Cảm giác u uất xâm chiếm toàn bộ tâm trí khiến tôi đau khổ đến mức không sao thở nổi.
+
+Đang trong lúc mơ hồ tỉnh lại, tôi đã thấy mẹ đứng chống nạnh ngay trước mặt. Bà giận dữ quát lớn:
+
+"200 điểm? Mễ Tiểu Lộ, con là lợn đấy à? Cho một con lợn đi học ba năm, chưa chắc nó đã thi được cái điểm số tệ hại này đâu!"
+
+Từ từ đã, sao những lời này nghe quen thuộc đến thế? Chẳng phải đây chính là mấy câu tôi vừa dùng để mắng con gái mình hay sao?
+`
+  },{
+    id: 690,
+    title: "Nuông Chiều Bạn Cùng Phòng",
+    image: "imgdam/3b2bc9dc810356cf74a5368b04f82d18.jpg",
+    link: "dammy/nuong-chieu-ban-cung-phong.html",
+    type: "dammy",
+    desc: `Tôi thích anh chàng hotboy lạnh lùng cùng ký túc xá, nhưng trớ trêu thay anh lại là trai thẳng chính hiệu.
+
+Cho đến một ngày, tôi vô tình trượt chân đè anh xuống giường.
+
+Anh chàng trai thẳng kiêu kỳ ấy đột nhiên lên tiếng:
+
+“Tôi không thích nằm dưới lắm, hay là mình đổi vị trí đi?”
+`
+  },{
+    id: 691,
+    title: "Nắng Trở Lại Sau Mưa",
+    image: "imgco/cabed0159dd443b249b4692dfd6e973e.jpg",
+    link: "cotrang/nang-tro-lai-sau-mua.html",
+    type: "cotrang",
+    desc: `Một nữ tử bán cá nơi chợ nam thành như ta, từng có lúc vác dao kéo kẻ làm cha nghiện cờ bạc lên tận công đường, náo động khắp vùng.
+
+Thế rồi, Nhị công tử của Ninh An Hầu phủ kẻ tiếng xấu vang xa là một tay ăn chơi trác táng lại bỏ ra một trăm lượng bạc để mua ta về. Chẳng bao lâu sau, ta lại nhận thêm một trăm lượng từ tay mẫu thân hắn để rời đi.
+
+Giữa cơn say khướt, hắn lảo đảo chạy đến trước mặt ta mà gầm lên: “Nghe nói nàng đã bán lão tử?”
+
+Những tưởng mọi chuyện chỉ là trò đùa của gã công tử phong lưu, nào ngờ vị Nhị gia hoang đường ấy về sau lại vì ta mà dốc lòng dùi mài kinh sử, dốc sức thi cử cầu mong công danh, còn hứa hẹn sẽ cùng ta đi hết trọn kiếp này.
+
+Thế nhưng, thời gian trôi qua, ta dần bóc tách ra bí mật không thể tiết lộ của Dung gia. Đại tiểu thư đứa con do thiếp thất sinh ra lại nhìn Nhị gia bằng ánh mắt vô cùng bất thường. Sự thật chưa kịp tỏ tường, ta đã vô tình bị cuốn vào một họa sát thân ngút trời.
+`
+  },{
+    id: 692,
+    title: "Cạm Bẫy Tình Yêu Của Oan Gia Ngõ Hẹp",
+    image: "imgngon/8341fb6a29ee0c57e5e3f073bf71220a.jpg",
+    link: "ngontinh/cam-bay-tinh-yeu-cua-oan-gia-ngo-hep.html",
+    type: "ngontinh",
+    desc: `Tên khốn chết tiệt kia lại đâm đầu vào chuyện tình yêu qua mạng.
+
+Mẹ anh ta chi hẳn một triệu tệ để nhờ tôi giúp anh rút chân ra khỏi cái vũng lầy đó.
+
+Thế là cả mùa hè năm ấy, tôi lập một tài khoản phụ, cố tình cất giọng nũng nịu ngọt ngào để tỉ tê trò chuyện với Tạ Thời mỗi ngày, khiến anh ta mê mẩn đến mức không còn lối thoát.
+
+Ngay trước ngày khai giảng, tôi dựng lên màn kịch mình mắc bệnh nan y sắp lìa đời, lừa sạch tiền tiết kiệm của Tạ Thời rồi cao chạy xa bay.
+
+Kể từ dạo ấy, Tạ Thời tuyệt đoạn tình cảm.
+
+Mãi đến sau khi nhập học, trong một lần chơi game cùng bạn chung phòng, tôi bắt gặp một cao thủ đi rừng gánh team cực đỉnh nên liền dùng giọng nũng nịu nhờ người ta gánh.
+
+Đầu dây bên kia lập tức mở mic, nghiến răng nghiến lợi lên tiếng: “Mạnh Khinh, sao tôi lại không nhận ra cái giọng điệu giả tạo của cậu lại giống hệt giọng cô người yêu cũ trên mạng của tôi thế nhỉ?”
+`
+  },{
+    id: 693,
+    title: "Ngày Chủ Nhật Của Hai Con Chó Ngoan",
+    image: "imgdam/363ef40f9103fc538ddeade064d3fec2.jpg",
+    link: "dammy/ngay-chu-nhat-cua-hai-con-cho-ngoan.html",
+    type: "dammy",
+    desc: `Trôi qua năm năm dài, cậu ta dựa vào nguồn lực từ tôi để từng bước leo lên nấc thang danh vọng. Vị thế càng cao, dã tâm trong lòng cậu ta lại càng trỗi dậy mãnh liệt.
+
+Ngay khi người trong mộng của cậu ta trở về nước, tôi vô tình nghe thấy cậu ta cằn nhằn với đám bạn thân:
+
+"Bao nhiêu năm qua, ngày nào tôi cũng phải cúi đầu nịnh bợ. Cứ phải hạ mình lấy lòng mãi, thật sự phát chán và mệt mỏi lắm rồi…"
+
+Nghe xong, tôi liền xoay người đi tìm thẳng người trong mộng ấy của cậu ta:
+
+"Cho anh một cơ hội đấy. Muốn làm người hết lòng theo đuổi tôi không?"
+
+Không ngờ đối phương lại dễ dàng mắc câu đến thế. Đôi mắt anh ta đỏ ngầu vì khát khao:
+
+"Chỉ mình tôi được ở bên cậu, hay còn có thêm ai khác nữa?"
+
+Tôi khẽ mỉm cười:
+
+"Chỉ cần anh gật đầu, vị trí ưu tiên nhất chắc chắn thuộc về anh."
+
+Thế nhưng ngay đêm hôm đó, tôi và người trong mộng của cậu ta lại bị chặn đứng ngay trước cửa phòng khách sạn.
+
+Cậu thanh niên năm nào từng là nam thần trường đại học giờ đây hiện rõ vẻ bàng hoàng, gương mặt ngập tràn chua xót. Cậu ta đứng trước cửa, hạ mình năn nỉ đầy cay đắng:
+
+"Có thể nào… chia cho tôi các ngày Thứ Hai, Thứ Tư, Thứ Sáu. Còn anh ta sẽ đảm nhận Thứ Ba, Thứ Năm, Thứ Bảy được không?"
+`
+  },{
+    id: 694,
+    title: "Ngoảnh Mặt Bỏ Cố Nhân",
+    image: "imgco/ceca2a0b7eb3982dc3f6f09405d16b72.jpg",
+    link: "cotrang/ngoanh-mat-bo-co-nhan.html",
+    type: "cotrang",
+    desc: `Phu quân khom mình quỳ gối trước mặt ta. Trên gương mặt hắn hiện rõ vẻ áy náy cùng sự nhún nhường tột cùng:
+
+"Lâm Âm Âm, chúng ta hòa ly đi. Yên Nhiên đã trở về rồi. Ta vốn đã hứa với nàng ấy, cả đời này chỉ rước một mình nàng ấy làm thê tử."
+
+Thân thể ta bỗng chấn động. Trái tim dâng lên một cơn đau xé ruột xé gan, hốc mắt đỏ ửng như chực rỉ máu, đầu óc hoàn toàn rối loạn. Ta dằn lòng hất tay hắn ra:
+
+"Vậy thì sao chứ? Chẳng lẽ ngay cả tư cách làm thiếp thất ta cũng không có hay sao?"
+
+"Với thân phận của nàng, ta sao nỡ lòng để nàng mang danh thiếp thất. Hòa ly mới là sự lựa chọn tốt nhất. Ta đã thu xếp xong xuôi chỗ ở cho nàng rồi, nàng sẽ gả vào Diêm phủ, trở thành Thế tử phi."
+
+"Chẳng phải trước đây nàng từng nói, vì ta nàng có thể làm bất cứ chuyện gì sao? Lần này cũng chỉ là chuyện nhỏ mà thôi. Nếu phụ thân biết chuyện ta đề nghị hòa ly, ông ấy quyết không để Yên Nhiên bước chân qua ngưỡng cửa. Âm Âm, đây là tâm nguyện duy nhất ta khẩn cầu nàng."
+
+Ta và Tống Kính Thư vốn là thanh mai trúc mã, từ nhỏ đã định sẵn hôn ước.
+
+Chẳng lẽ thâm tình bấy nhiêu năm lại chẳng bằng một lần gặp gỡ tình cờ giữa hắn và Triệu Yên Nhiên nơi yến tiệc thưởng hoa?
+
+Ta coi hắn là trân bảo quý giá, hắn lại xem ta như chiếc giày rách bỏ đi.
+
+Đây chính là người nam nhân mà ta đã dành trọn yêu thương suốt mười mấy năm trời. Thành thân trọn ba năm, hắn đối xử với ta vô cùng lạnh nhạt. Hắn không chỉ một lần nhắc nhở để ta hiểu rằng, bản thân vĩnh viễn chẳng thể so sánh với Triệu Yên Nhiên.
+
+Giọt lệ nóng hổi lăn dài trên má, thấm sâu vào lòng tựa như lưỡi dao sắc bén, đem trái tim ta băm vằn nát vụn từ lâu.
+
+Ta đã quá mệt mỏi rồi.
+
+Nhún nhường chịu đựng bấy lâu, thì trong lần cuối cùng này, ta kiên cường không để lộ chút yếu đuối nào trước mặt hắn. Ta ngẩng cao đầu, thản nhiên nhìn thẳng vào mắt hắn:
+
+"Tống Kính Thư, thực ra ta cũng chẳng si mê huynh đến mức ấy đâu. Rời khỏi nơi này từ đây ân đoạn nghĩa tuyệt, xem ra lại rất tốt."
+`
+  },{
+    id: 695,
+    title: "Bí Mật Thầm Lặng Của Nam Thần",
+    image: "imgngon/e36a66b883b889ce709a71f8b5f6f972.jpg",
+    link: "ngontinh/bi-mat-tham-lang-cua-nam-than.html",
+    type: "ngontinh",
+    desc: `Tôi đã bị hack tài khoản.
+
+Kẻ lừa đảo dùng ghi chú của tôi để mượn tiền từ từng người bạn.
+
+Nhưng tin nhắn được gửi cho Phương Yến Lương lại là: "Chồng ơi, anh có ở đó không?"
+
+Mối tình đơn phương kéo dài mười năm của tôi, trong khoảnh khắc này đã không còn biết phải giấu vào đâu nữa.
+`
+  },{
+    id: 696,
+    title: "Xuyên Sách Mạt Thế Ôm Đùi Nam Chính Cứu Rỗi Cuộc Đời",
+    image: "imgdam/8695f8879c883dc6b637f1101b247224.jpg",
+    link: "dammy/xuyen-sach-mat-the-om-dui-nam-chinh-cuu-roi-cuoc-doi.html",
+    type: "dammy",
+    desc: `Tôi xuyên vào một cuốn tiểu thuyết mạt thế hướng nam chủ, biến thành một nhân vật vô danh tiểu tốt đúng nghĩa.
+
+Để giữ lấy cái mạng cùi trong thời buổi loạn lạc, tôi quyết định chọn cách an toàn nhất: ôm chặt lấy đùi nam chính.
+
+Thấm nhuần tư tưởng “giơ tay không đánh kẻ mặt cười”, tôi luôn giữ nụ cười cầu hòa, tự nguyện biến mình thành cái đuôi ngoan ngoãn và trung thành nhất bên cạnh hắn.
+
+Chật vật lắm mới lết về đến căn cứ của loài người, tới lúc phân chia nơi ở, nam chính lại bất ngờ chỉ tay về phía tôi rồi tuyên bố xanh rờn:
+
+“Đây là người yêu tôi, phải ở cùng tôi.”
+
+Cái gì cơ???
+
+Tác giả ơi là tác giả, con trai cưng của ngài bị cong đấy à!!
+`
+  },{
+    id: 697,
+    title: "Bệ Hạ Đóng Giả Làm Kẻ Ngốc",
+    image: "imgco/df684420fd5309e83bc58dd4c1bc7a06.jpg",
+    link: "cotrang/be-ha-dong-gia-lam-ke-ngoc.html",
+    type: "cotrang",
+    desc: `Ta là cung nữ thân cận bên cạnh tiểu Hoàng đế.
+
+Chủ tử của ta tuy sở hữu dung mạo tuấn tú, lại biết cách nũng nịu bám người không rời, nhưng tiếc thay ngài ấy lại là một kẻ ngốc.
+
+Thái hậu nương nương đương triều buông rèm nhiếp chính từng hứa hẹn, đợi thêm vài năm nữa sẽ ân chuẩn cho ta rời khỏi hoàng cung.
+
+Vậy mà đến ngày định mệnh ấy, thiếu niên đứng trước mặt ta lại chẳng còn chút ngây ngô thơ dại năm nào. Ngài dùng đôi mắt u tối chằm chằm nhìn ta, cất giọng lành lạnh: "Đường Y tỷ tỷ, nàng định đi đâu?"
+`
   },
 
 
