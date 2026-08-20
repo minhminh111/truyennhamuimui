@@ -14515,6 +14515,146 @@ Thái hậu nương nương đương triều buông rèm nhiếp chính từng h
 
 Vậy mà đến ngày định mệnh ấy, thiếu niên đứng trước mặt ta lại chẳng còn chút ngây ngô thơ dại năm nào. Ngài dùng đôi mắt u tối chằm chằm nhìn ta, cất giọng lành lạnh: "Đường Y tỷ tỷ, nàng định đi đâu?"
 `
+  },{
+    id: 698,
+    title: "Chiếm Lấy Thân Thể Của Kẻ Giết Tôi",
+    image: "imgngon/3a8f7b401960594d836cd039ceb683f1.jpg",
+    link: "ngontinh/chiem-lay-than-the-cua-ke-giet-toi.html",
+    type: "ngontinh",
+    desc: `Tôi nắm giữ một bí mật không thể tiết lộ: bất kỳ ai ra tay cướp đi mạng sống của tôi, tôi sẽ tái sinh và chiếm lấy chính cơ thể của kẻ đó.
+
+Nàng hoa khôi của trường đang nhìn tôi bằng ánh mắt đắc ý. Trong khi đó, nhóm người theo đuổi cô ta liên tục dấn đầu tôi xuống chiếc bồn cầu bẩn thỉu.
+
+Cô ta chẳng thể ngờ rằng, thân xác quyến rũ mà cô ta tự hào sắp sửa thuộc về sở hữu của tôi.
+`
+  },{
+    id: 699,
+    title: "Tình Trong Bóng Tối Với Anh Trai Bạn Thân",
+    image: "imgdam/6c9aec939048e5f5d84047a439acce25.jpg",
+    link: "dammy/tinh-trong-bong-toi-voi-anh-trai-ban-than.html",
+    type: "dammy",
+    desc: `Tôi là đuôi nhỏ trung thành, ngày ngày theo sau săn sóc cậu bạn cùng phòng giàu có.
+
+Cậu ấy chơi bóng, tôi đưa nước; cậu ấy tắm rửa, tôi giúp kì lưng.
+
+Lần thứ hai ôn thi cao học, tôi lang thang không chỗ ở, cậu ấy liền chủ động mời tôi dọn về nhà mình.
+
+Ai ngờ ngay đêm đầu tiên, tôi đã bị anh trai cậu ấy chặn lại trước cửa.
+
+“Tránh xa em trai tôi ra. Nhà chúng tôi cần người nối dõi tông đường.”
+
+Tôi ngẩn người: “Anh hiểu lầm rồi…”
+
+Đối phương không chút biểu cảm, châm một điếu thuốc: “Là hiểu lầm thật sao?”
+
+“Để giám sát hai người, từ nay cậu chuyển qua ngủ chung phòng với tôi.”
+`
+  },{
+    id: 700,
+    title: "Tinh Hà Rực Rỡ Nhất Nhân Gian",
+    image: "imgco/17168619680de64933755294205b60ab.jpg",
+    link: "cotrang/tinh-ha-ruc-ro-nhat-nhan-gian.html",
+    type: "cotrang",
+    desc: `Trước khi hồi kinh, Nhan Cảnh từng hứa hẹn sẽ rước ta về làm thê tử. Ngờ đâu vừa đặt chân tới phủ Tướng quân, ta đã phải đối mặt ngay với chính thất của hắn.
+
+Nàng cố nén giọt lệ chực trào, nhẹ nhàng nắm lấy tay ta, ngỏ ý muốn kết nghĩa tỷ muội.
+
+Ta mỉm cười nhẹ nhàng từ chối: "Uyển Nghi ta không làm thiếp."
+
+Lão phu nhân liền mắng ta là kẻ không biết điều. Đám hạ nhân trong phủ thì tìm đủ trò gây khó dễ, buông lời mỉa mai ta chỉ là kẻ thôn quê hèn mỏng mà lại mơ tưởng bước chân vào chốn quyền quý.
+
+Đến cả Nhan Cảnh cũng lập tức nuốt lời, khuyên ta nên biết thân biết phận mà kính trọng chủ mẫu.
+
+Ta tức đến mức đảo mắt bực bội, gom vội hòm thuốc rồi lẳng lặng bỏ trốn ngay trong đêm.
+
+"Đã bảo là không làm thiếp, cái phủ này sao chẳng ai hiểu tiếng người vậy? Chuồn thôi, chuồn thôi!"
+`
+  },{
+    id: 701,
+    title: "Tập Yêu Lại Từ Đầu",
+    image: "imgngon/1993988288ab01c109353d0bfbda8a54.jpg",
+    link: "ngontinh/tap-yeu-lai-tu-dau.html",
+    type: "ngontinh",
+    desc: `Sau khi nộp đơn xin nghỉ việc để quay về quê nhà, tôi đã bén duyên cùng anh trai của cô bạn thân nhất. Tuy nhiên, thái độ của anh ấy dành cho tôi lại có phần lạnh nhạt. Nhưng điều đó chẳng khiến tôi bận tâm, cứ coi như bản thân vừa kết hôn với chính người bạn thân của mình là xong.
+
+Thế nên sau ngày cưới, tôi vẫn duy trì thói quen đi rong chơi khắp nơi cùng cô ấy như trước. Cho đến một hôm, anh bắt quả tang tôi ngay tại trận.
+
+“Vợ ơi, em định bắt anh phải ăn chay tới bao giờ nữa đây?”
+`
+  },{
+    id: 702,
+    title: "Bí Mật Của Alpha Cùng Phòng",
+    image: "imgdam/148dbdb48655a0330325b28a4add8332.jpg",
+    link: "dammy/bi-mat-cua-alpha-cung-phong.html",
+    type: "dammy",
+    desc: `Thua trò chơi thử thách, tôi đành nhắm mắt nhắm mũi gửi tin nhắn theo yêu cầu cho anh bạn cùng phòng alpha lạnh lùng:
+
+"Này Hứa Vụ, tôi muốn đẻ con với anh."
+
+Chẳng ai ngờ gã ấy lại tin thật. Ngay đêm hôm đó, anh ta đè nghiến tôi xuống giường.
+
+Tôi bất lực giãy giụa: "Alpha với alpha thì đẻ con làm sao được!"
+
+Anh ta coi như không nghe thấy, khóe môi giương lên nụ cười đầy quyến rũ: "Ai bảo không được? Chỉ cần anh vào đủ sâu, em nhất định sẽ đẻ được."
+`
+  },{
+    id: 703,
+    title: "Nữ Chính Truyện Sắc Xuyên Vào Thế Giới Trong Sáng",
+    image: "imgco/6fa6da75a32a5f9721c0462dae748ee5.jpg",
+    link: "cotrang/nu-chinh-truyen-sac-xuyen-vao-the-gioi-trong-sang.html",
+    type: "cotrang",
+    desc: `Ta vốn là nữ chính của dòng truyện sắc, đùng một cái bị hệ thống quăng thẳng vào thế giới "trong sáng" để chịu sự cải tạo.
+
+Thật buồn cười, ta liền tiến tới trước mặt nam chính rồi hỏi thẳng: "Này, hôn một cái không?"
+
+Vị nam chính nọ lập tức tống ta vào đại lao, quy cho ta tội danh sàm sỡ hắn.
+
+Nào ngờ về sau, kẻ này còn cuồng nhiệt và quá đáng hơn gấp vạn lần nam chính của dòng truyện sắc.
+`
+  },{
+    id: 704,
+    title: "Thoát Vai Đã Quá Muộn",
+    image: "imgngon/d8f9984dde0ac5b4a48a57b919bbef3a.jpg",
+    link: "ngontinh/thoat-vai-da-qua-muon.html",
+    type: "ngontinh",
+    desc: `Năm thứ bảy sau khi kết hôn với Phù Tịch, anh cùng một diễn viên trẻ mới vào nghề đóng chính trong một bộ phim tình cảm mang sắc thái bi kịch. Khi công đoạn ghi hình hoàn tất, cả hai vì chìm quá sâu vào nhân vật nên đã chủ động cắt đứt toàn bộ liên lạc nhằm tránh những lời đồn đoán không hay.
+
+Mãi đến một năm sau, khi tác phẩm chính thức công chiếu, hai người mới có dịp tái ngộ. Trên sân khấu quảng bá, họ đứng cạnh nhau với thái độ mực thước, xã giao và đầy khoảng cách. Mọi người xung quanh đều đinh ninh rằng cả hai đã hoàn toàn thoát khỏi những rung động của vai diễn năm nào.
+
+Thế nhưng, mọi chuyện chỉ vỡ lỡ khi tôi vô tình đọc được dòng tin nhắn trong điện thoại của chồng mình. Đó là lời thổ lộ tràn đầy tuyệt vọng từ cô diễn viên trẻ kia: "Thầy Phù, sao thầy lại không tin rằng tình cảm em dành cho thầy chưa từng là sự nhập vai thuần túy? Dù ở trong phim hay bước ra ngoài đời thực, em đều đã bất lực rơi vào lưới tình với thầy mất rồi."
+
+Phù Tịch ngập ngừng rất lâu trước khi gửi đi câu trả lời: "Rất tiếc, tôi là người đã có gia đình."
+`
+  },{
+    id: 705,
+    title: "Bức Thư Tình Giấu Trong Chiếc Máy Ảnh Cũ",
+    image: "imgdam/a393926326d2c4837528202c5accddba.jpg",
+    link: "dammy/buc-thu-tinh-giau-trong-chiec-may-anh-cu.html",
+    type: "dammy",
+    desc: `Sau khi bị kẻ thù không đội trời chung nẫng tay trên liên tiếp ba tiểu 0, tôi thật sự không thể kiềm chế cơn giận được nữa.
+
+Tôi lôi loạt ảnh giả gái thời nông nổi của hắn ra, một hơi dùng nó tán đổ tám anh chàng thuần 1 cao ráo trên mạng. Đến buổi tiệc sinh nhật hắn, tôi chuốc cho hắn say khướt rồi đóng gói tống thẳng vào phòng đã hẹn sẵn tám người kia.
+
+Nào ngờ lúc đẩy cửa bước vào, tám gã lực lưỡng kia đã biến mất không dấu vết từ bao giờ.
+
+Kẻ thù của tôi mặt mũi đỏ gay, một tay thong thả kéo lỏng cà vạt. Hắn nhếch môi nở nụ cười đầy ung dung, chậm rãi tiến về phía tôi:
+
+“Ngoan nào, giờ mà không chạy là không kịp nữa đâu.”
+`
+  },{
+    id: 706,
+    title: "Mối Tình Rẻ Mạt",
+    image: "imgco/7f5a655ca70607c983e28a626375991e.jpg",
+    link: "cotrang/moi-tinh-re-mat.html",
+    type: "cotrang",
+    desc: `Ba năm đi hòa thân, phu quân của ta bại trận mất nước. Để bảo toàn tính mạng và danh tiết cho muội muội hắn, ta cắn răng dùng thân mình cứu nàng rời khỏi ổ địch, đưa về tận kinh thành Thiên Thịnh. Ta ban cho nàng cuộc sống vinh hoa phú quý, dốc lòng chỉ dạy từng chút một.
+
+Nào ngờ trong tiệc sinh thần của ta, nàng lại bất ngờ đường hoàng đưa ra một miếng ngọc bội, loan tin khắp nơi rằng năm xưa người cứu phò mã chính là nàng. Lấy cớ ta đã mất đi sự trong trắng từ lâu, nàng hùa cùng phò mã ép ta ký hưu thư.
+
+Phò mã đứng bên cạnh nàng, hếch gò má ngạo mạn giễu cợt: "Sau này không có ta chống lưng, ngươi nhớ thu mình lại mà sống cho cẩn thận."
+
+Ta nghe xong liền bật cười thành tiếng: "Lý Tranh, ngươi thật sự nghĩ năm đó ta chỉ cứu mỗi một mình ngươi sao?"
+`
   },
 
 
