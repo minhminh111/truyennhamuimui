@@ -14342,7 +14342,7 @@ Tay ta run rẩy khiến chén trà trong tay chao đảo, nước hắt ra ngo�
   },{
     id: 689,
     title: "Bắt Đầu Lại Ở Năm 1999",
-    image: "imgngon/9b4aca3be39fd9661f60948c1bc07480.jpg",
+    image: "imgngon/e36a66b883b889ce709a71f8b5f6f972.jpg",
     link: "ngontinh/bat-dau-lai-o-nam-1999.html",
     type: "ngontinh",
     desc: `Bởi vì vừa trải qua kỳ thi tháng với kết quả không mấy khả quan, tâm trạng của tôi rơi vào bế tắc. Cảm giác u uất xâm chiếm toàn bộ tâm trí khiến tôi đau khổ đến mức không sao thở nổi.
@@ -14356,7 +14356,7 @@ Từ từ đã, sao những lời này nghe quen thuộc đến thế? Chẳng p
   },{
     id: 690,
     title: "Nuông Chiều Bạn Cùng Phòng",
-    image: "imgdam/3b2bc9dc810356cf74a5368b04f82d18.jpg",
+    image: "imgdam/8695f8879c883dc6b637f1101b247224.jpg",
     link: "dammy/nuong-chieu-ban-cung-phong.html",
     type: "dammy",
     desc: `Tôi thích anh chàng hotboy lạnh lùng cùng ký túc xá, nhưng trớ trêu thay anh lại là trai thẳng chính hiệu.
@@ -14370,7 +14370,7 @@ Anh chàng trai thẳng kiêu kỳ ấy đột nhiên lên tiếng:
   },{
     id: 691,
     title: "Nắng Trở Lại Sau Mưa",
-    image: "imgco/cabed0159dd443b249b4692dfd6e973e.jpg",
+    image: "imgco/df684420fd5309e83bc58dd4c1bc7a06.jpg",
     link: "cotrang/nang-tro-lai-sau-mua.html",
     type: "cotrang",
     desc: `Một nữ tử bán cá nơi chợ nam thành như ta, từng có lúc vác dao kéo kẻ làm cha nghiện cờ bạc lên tận công đường, náo động khắp vùng.
@@ -14386,7 +14386,7 @@ Thế nhưng, thời gian trôi qua, ta dần bóc tách ra bí mật không th�
   },{
     id: 692,
     title: "Cạm Bẫy Tình Yêu Của Oan Gia Ngõ Hẹp",
-    image: "imgngon/8341fb6a29ee0c57e5e3f073bf71220a.jpg",
+    image: "imgngon/9b4aca3be39fd9661f60948c1bc07480.jpg",
     link: "ngontinh/cam-bay-tinh-yeu-cua-oan-gia-ngo-hep.html",
     type: "ngontinh",
     desc: `Tên khốn chết tiệt kia lại đâm đầu vào chuyện tình yêu qua mạng.
@@ -14406,7 +14406,7 @@ Mãi đến sau khi nhập học, trong một lần chơi game cùng bạn chung
   },{
     id: 693,
     title: "Ngày Chủ Nhật Của Hai Con Chó Ngoan",
-    image: "imgdam/363ef40f9103fc538ddeade064d3fec2.jpg",
+    image: "imgdam/3b2bc9dc810356cf74a5368b04f82d18.jpg",
     link: "dammy/ngay-chu-nhat-cua-hai-con-cho-ngoan.html",
     type: "dammy",
     desc: `Trôi qua năm năm dài, cậu ta dựa vào nguồn lực từ tôi để từng bước leo lên nấc thang danh vọng. Vị thế càng cao, dã tâm trong lòng cậu ta lại càng trỗi dậy mãnh liệt.
@@ -14470,7 +14470,7 @@ Nhún nhường chịu đựng bấy lâu, thì trong lần cuối cùng này, t
   },{
     id: 695,
     title: "Bí Mật Thầm Lặng Của Nam Thần",
-    image: "imgngon/e36a66b883b889ce709a71f8b5f6f972.jpg",
+    image: "imgngon/8341fb6a29ee0c57e5e3f073bf71220a.jpg",
     link: "ngontinh/bi-mat-tham-lang-cua-nam-than.html",
     type: "ngontinh",
     desc: `Tôi đã bị hack tài khoản.
@@ -14484,7 +14484,7 @@ Mối tình đơn phương kéo dài mười năm của tôi, trong khoảnh kh�
   },{
     id: 696,
     title: "Xuyên Sách Mạt Thế Ôm Đùi Nam Chính Cứu Rỗi Cuộc Đời",
-    image: "imgdam/8695f8879c883dc6b637f1101b247224.jpg",
+    image: "imgdam/363ef40f9103fc538ddeade064d3fec2.jpg",
     link: "dammy/xuyen-sach-mat-the-om-dui-nam-chinh-cuu-roi-cuoc-doi.html",
     type: "dammy",
     desc: `Tôi xuyên vào một cuốn tiểu thuyết mạt thế hướng nam chủ, biến thành một nhân vật vô danh tiểu tốt đúng nghĩa.
@@ -14504,7 +14504,7 @@ Tác giả ơi là tác giả, con trai cưng của ngài bị cong đấy à!!
   },{
     id: 697,
     title: "Bệ Hạ Đóng Giả Làm Kẻ Ngốc",
-    image: "imgco/df684420fd5309e83bc58dd4c1bc7a06.jpg",
+    image: "imgco/cabed0159dd443b249b4692dfd6e973e.jpg",
     link: "cotrang/be-ha-dong-gia-lam-ke-ngoc.html",
     type: "cotrang",
     desc: `Ta là cung nữ thân cận bên cạnh tiểu Hoàng đế.
