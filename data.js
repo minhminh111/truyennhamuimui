@@ -14655,6 +14655,175 @@ Phò mã đứng bên cạnh nàng, hếch gò má ngạo mạn giễu cợt: "S
 
 Ta nghe xong liền bật cười thành tiếng: "Lý Tranh, ngươi thật sự nghĩ năm đó ta chỉ cứu mỗi một mình ngươi sao?"
 `
+  },{
+    id: 707,
+    title: "Thư Tình Mùa Hè",
+    image: "imgngon/5863f6abe782de1546b0820b75a8b2fd.jpg",
+    link: "ngontinh/thu-tinh-mua-he.html",
+    type: "ngontinh",
+    desc: `Tôi đã thầm yêu Giang Trì từ lâu, để rồi đến ngày dũng cảm mở lời, tôi cũng chỉ dám ngập ngừng thốt ra một câu ngốc nghếch: "Hôm nay trăng tròn quá nhỉ?"
+
+Anh ấy khẽ nở nụ cười xấu xa, ánh mắt đong đầy vẻ trêu chọc: "Vậy có muốn hôn một cái không?"
+
+Thế nhưng nhịp tim rối loạn cùng sự sợ hãi vô hình lại khiến tôi co cúi rút lui: "Tôi bị cảm rồi, để hôm khác nhé..."
+
+Nhiều năm biền biệt trôi qua, câu chuyện tình đơn phương kín kẽ năm xưa do tôi chắp bút bất ngờ dậy sóng khắp các trang sách. Anh ấy tìm đến, chặn đứng tôi ngay ở góc tường và cất giọng hỏi:
+
+"Nhà văn nổi tiếng, hôm khác là ngày nào?"
+`
+  },{
+    id: 708,
+    title: "Lồng Sắt Chiếm Hữu",
+    image: "imgdam/4f09dc8bbf0165b01d597757f9d167d9.jpg",
+    link: "dammy/long-sat-chiem-huu.html",
+    type: "dammy",
+    desc: `Chẳng một ai hay biết tôi từng giam cầm Chu Lẫm, người chú nhỏ trên danh nghĩa của mình.
+
+Anh nhìn tôi bằng đôi mắt đỏ ngầu, miệng thốt ra những lời oán hận, nhưng khi cơn ân ái cuồng nhiệt qua đi lại siết chặt lấy tôi trong lòng.
+
+Sau bảy ngày điên rồ ấy, thân phận thiếu gia giả mạo của tôi vỡ lở. Tôi bị trục xuất khỏi nhà họ Chu, biệt tích suốt tám năm ròng.
+
+Cho đến ngày tái ngộ.
+
+Tôi đã chẳng còn là gã thiếu niên ngông cuồng của quá khứ.
+
+Còn Chu Lẫm khoác trên mình chiếc áo ngoài màu đen giản dị, ánh mắt lướt qua tôi rồi ngảnh đi ngay lập tức, dường như đã xóa sạch hình bóng tôi khỏi trí nhớ.
+
+Thế nhưng giữa đêm mưa tầm tã, chính anh lại ép chặt tôi vào góc hành lang và khẽ hỏi:
+
+“Liệu em có thể yêu tôi thêm một lần nữa không?”
+
+Tôi đẩy anh ra, điềm nhiên đáp lại:
+
+“Rất tiếc, tôi đã có con rồi. Mỗi người chúng ta hãy tự sống tốt cuộc đời của mình đi.”
+`
+  },{
+    id: 709,
+    title: "Chiếc Bánh Từ Trên Trời Rơi Xuống",
+    image: "imgco/7a3092fd0439b4315c4484b734fb4598.jpg",
+    link: "cotrang/chiec-banh-tu-tren-troi-roi-xuong.html",
+    type: "cotrang",
+    desc: ``
+  },{
+    id: 710,
+    title: "Sếp Sói Bắt Thỏ Về Nuôi",
+    image: "imgngon/57958dcd190a87a5ecd055b94046bb77.jpg",
+    link: "ngontinh/sep-soi-bat-tho-ve-nuoi.html",
+    type: "ngontinh",
+    desc: `Thời gian gần đây, phía sau lưng tôi đột ngột mọc ra một cái đuôi.
+
+Đó là một cục bông nho nhỏ, màu trắng tinh, sờ vào mềm mịn, rõ ràng là đuôi thỏ không lẫn đi đâu được.
+
+Tôi phải tìm mọi cách giấu giếm thật kỹ, chỉ sợ lộ ra ngoài thì người ta lại coi mình là quái vật.
+
+Mọi chuyện cứ thế trôi qua cho đến một buổi tiệc công ty, sếp tôi trong cơn say đã vô tình chạm nhẹ vào cái đuôi ấy. Anh ghé sát tai tôi, cất giọng đầy ẩn ý:
+
+"Thỏ con à, lớn lên phổng phao thế này, không khéo lại làm mồi cho sói xám mất thôi..."
+`
+  },{
+    id: 711,
+    title: "Đại Phản Diện Nuôi Dưỡng Tiểu Phản Diện",
+    image: "imgdam/f00b2baaae1c8a396a7e086eec669f26.jpg",
+    link: "dammy/dai-phan-dien-nuoi-duong-tieu-phan-dien.html",
+    type: "dammy",
+    desc: `Tôi vốn là đại phản diện trong một tiểu thuyết.
+
+Sau khi chết đi, linh hồn tôi bị hệ thống kéo sang một thế giới khác để nuôi dưỡng tiểu phản diện. Nhiệm vụ của tôi là thủ vai một kẻ pháo hôi chuyên bắt nạt, chèn ép phản diện nhí, đảm bảo hắn không bao giờ bước đi đúng hướng.
+
+Tôi liếc nhìn về góc phòng, nơi có một thiếu niên gầy gò, ánh mắt u uất.
+
+"Mày muốn nói là thằng bé này không bố mẹ, chẳng người thân hay bạn bè, chỉ có tao một kẻ giám hộ hờ hoàn toàn không chút máu mủ?"
+
+Hệ thống nhanh chóng xác nhận:
+
+"Đúng thế, ngươi cứ bám sát kịch bản, kiên nhẫn đợi đến ngày câu chuyện hạ màn là hoàn thành."
+
+Tự nhiên tôi lại thấy hứng thú:
+
+"Thế nghĩa là... đứa trẻ này thuộc về tao rồi?"
+`
+  },{
+    id: 712,
+    title: "Trọng Sinh Tôi Càng Muốn Làm Góa Phụ",
+    image: "imgco/4c7586950d3bc42eb2e61413cdaa96b7.jpg",
+    link: "cotrang/trong-sinh-toi-cang-muon-lam-goa-phu.html",
+    type: "cotrang",
+    desc: `Bá mẫu trọng sinh, bà ấy muốn tráo đổi vận mệnh giữa ta và đường tỷ.
+
+Đường tỷ được gả vào Hầu phủ hưởng thụ vinh hoa phú quý, còn ta phải gả cho tiểu Tướng quân bệnh tật, sớm chịu cảnh thủ tiết.
+
+Bà ấy nào có hay biết rằng, ta cũng đã trọng sinh.
+
+Kiếp trước, lúc ta sinh hạ đứa con thứ tám, tiểu Hầu gia ôm ta mà vỗ về:
+
+"Chúng ta sẽ không sinh thêm đứa nào nữa."
+
+Kiếp này, ta xin dâng tước vị thiếu phu nhân Hầu phủ bằng cả hai tay:
+
+"Làm một góa phụ giàu có chẳng phải tự do hơn sao?"
+`
+  },{
+    id: 713,
+    title: "Chuyến Tàu Bắt Cóc",
+    image: "imgngon/ad5261ec951e78404ff54942c6750fc6.jpg",
+    link: "ngontinh/chuyen-tau-bat-coc.html",
+    type: "ngontinh",
+    desc: `Bắt gặp một anh chàng đẹp trai ngút ngàn trên toa tàu điện ngầm, tôi ngại ngùng đến đỏ cả mặt, bước chân cứ thế vô thức bám theo anh suốt cả quãng đường.
+
+Chàng trai bất ngờ dừng bước, đôi mắt đào hoa cong lên đong đầy ý cười.
+
+"Muốn làm quen không?"
+
+Tôi gật đầu lẹ như gà mổ thóc, trong lòng sướng rỡ vút tận mây xanh.
+
+Ngay sau đó, anh kéo tôi leo lên một chiếc xe bán tải.
+
+Vừa bước vào, tôi sững người khi thấy bên trong chật kín tám gã đàn ông bặm trợn, cơ bắp cuồn cuộn.
+
+Trời đất quỷ thần ơi, tôi bị bọn buôn người bắt cóc rồi!
+`
+  },{
+    id: 714,
+    title: "Thám Hoa Lang Ôm Bầu Chạy Trốn",
+    image: "imgdam/5d5a9d45677fc732ef054a0c741200c1.jpg",
+    link: "dammy/tham-hoa-lang-om-bau-chay-tron.html",
+    type: "dammy",
+    desc: `Thái hậu phái ta đi thám thính xem tân đế có mắc phải căn bệnh khó nói nào không.
+
+Trớ trêu thay, chỉ vì một phút sơ hở mà ta lại bị tên cẩu hoàng đế ăn sạch sẽ chẳng còn một mống.
+
+Thành ra, khi đối diện với ánh mắt u uất của hắn, ta vừa cắn răng gánh chịu cơn đau ê ẩm nơi thắt lưng, vừa khúm núm bẩm báo với Thái hậu:
+
+"Thưa Thái hậu, Hoàng thượng thực sự rất... sung sức, suốt cả đêm chẳng hề nghỉ ngơi."
+
+Về sau, có một ngày tân đế vuốt ve eo ta, vẻ mặt ngẫm nghĩ rồi phán một câu:
+
+"Trạng nguyên, dạo này hình như ngươi tròn trịa lên không ít."
+
+Ta nghiến răng trần đời, thầm than trong lòng: Đúng vậy, không béo lên sao được?
+
+Nhờ ơn mưa móc của Hoàng thượng, ta sắp sửa phải ôm bụng bầu chạy trốn đến nơi rồi.
+`
+  },{
+    id: 715,
+    title: "Con Rối Hoàng Cung",
+    image: "imgco/f943feecb5ca9451363eb52b642ed39f.jpg",
+    link: "cotrang/con-roi-hoang-cung.html",
+    type: "cotrang",
+    desc: `Nhằm cứu lấy Hoàng hậu, Tiêu Lẫm đã nhẫn tâm mổ bụng ta.
+
+"Ngươi vốn chỉ là một con rối gỗ, chẳng hề cần đến trái tim này, cứ hiến nó cho Hoàng hậu đi."
+
+A gia cả đời dốc hết tâm huyết khéo léo chế tác, cũng chỉ tạo ra được một trái tim Linh Lung duy nhất. Vậy mà lại bị hắn giẫm đạp, chà đạp một cách phũ phàng đến thế.
+
+Thế nhưng về sau, chính hắn lại run rẩy quỳ móp dưới chân ta, gạt bỏ tôn nghiêm mà đau đớn van nảy.
+
+"Trì Trì, ngươi cười với ta một cái đi."
+
+"Như lúc trước ta và ngươi còn êm ấm, có được không?"
+
+Có điều, rối gỗ vốn dĩ không mang trái tim, cũng chẳng hề biết cười.
+`
   },
 
 
