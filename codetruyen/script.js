@@ -25,10 +25,10 @@ window.addEventListener("DOMContentLoaded", function () {
   /* ===== LINK QUẢNG CÁO ===== */
 
   const links = [
-    "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F1702240532%2F56564192697%3Fd_id%3Df5be0%26uls_trackid%3D56eplqjt010s%26utm_content%3D4Ma6q62CzT4gcmfeDDKqg1j7JZWf&affiliate_id=17335630645&sub_id=peeback-golu8ixd8mo9",
-    "https://shopeefood.vn/now-food/dish/1173193/290603806?restaurantId=1173193&shareChannel=copy_link+l&utm_source=an_17303480046&utm_medium=affiliate_food&utm_campaign=-&utm_content=501283-a-9d95a7e6ae71",
-    "https://www.tiktok.com/t/ZSV5pNW9V/",
-    "https://s.lazada.vn/s.M9XK6?c=c&t=p-i27OO7q-s9ixZDr&sub_aff_id=longhousee&sub_id1=501283&sub_id2=a&sub_id3=39aff1723b20"
+    "https://s.shopee.vn/2LXhVBfjRB",
+    "https://shopeefood.vn/now-food/presale-deals-detail/3177136171493376?brandId=4097&merchantId=0&restaurantId=1215674&shareChannel=copy_link&stm_medium=referral&stm_source=rw&storeId=null&uls_trackid=56er2ke7013c&utm_source=an_17303480046&utm_medium=affiliate_food&utm_campaign=-&utm_content=501283-a-0af2747833ce",
+    "https://www.tiktok.com/t/ZSVaYMpBn/",
+    "https://s.lazada.vn/s.MPUXo?c=d&t=p-i27Oaj3-s9iwh3K&sub_aff_id=longhousee&sub_id1=501283&sub_id2=a&sub_id3=bc83be96bc59"
   ];
 
   /* ===== KEY ===== */
