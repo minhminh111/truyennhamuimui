@@ -25,7 +25,7 @@ window.addEventListener("DOMContentLoaded", function () {
   /* ===== LINK QUẢNG CÁO ===== */
 
   const links = [
-    "https://s.shopee.vn/AAGVvTDHvX",
+    "https://www.cashtoback.com/f23Njx4",
     "https://shopeefood.vn/now-food/dish/1173193/290603806?restaurantId=1173193&shareChannel=copy_link+l&utm_source=an_17303480046&utm_medium=affiliate_food&utm_campaign=-&utm_content=501283-a-9d95a7e6ae71",
     "https://vt.tiktok.com/ZS9kGbA1mYSfe-pASDr/",
     "https://s.lazada.vn/s.M9XK6?c=c&t=p-i27OO7q-s9ixZDr&sub_aff_id=longhousee&sub_id1=501283&sub_id2=a&sub_id3=39aff1723b20"
