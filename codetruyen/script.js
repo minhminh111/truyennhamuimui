@@ -26,9 +26,9 @@ window.addEventListener("DOMContentLoaded", function () {
 
   const links = [
     "https://s.shopee.vn/2LXhVBfjRB",
-    "https://shopeefood.vn/now-food/presale-deals-detail/3177136171493376?brandId=4097&merchantId=0&restaurantId=1215674&shareChannel=copy_link&stm_medium=referral&stm_source=rw&storeId=null&uls_trackid=56er2ke7013c&utm_source=an_17303480046&utm_medium=affiliate_food&utm_campaign=-&utm_content=501283-a-0af2747833ce",
+    "https://spf.shopee.vn/AAGaJBRoWV",
     "https://www.tiktok.com/t/ZSVaYMpBn/",
-    "https://s.lazada.vn/s.MPUXo?c=d&t=p-i27Oaj3-s9iwh3K&sub_aff_id=longhousee&sub_id1=501283&sub_id2=a&sub_id3=bc83be96bc59"
+    "https://s.lazada.vn/s.Ml6GK?c=d&t=p-i3StSaU-sGUbrQp&sub_id1=6a8aa69ea50b906e42b4466e"
   ];
 
   /* ===== KEY ===== */
