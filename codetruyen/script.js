@@ -25,7 +25,7 @@ window.addEventListener("DOMContentLoaded", function () {
   /* ===== LINK QUẢNG CÁO ===== */
 
   const links = [
-    "https://s.shopee.vn/6fgiehkLEF",
+    "https://s.shopee.vn/2LXkOO2PY2",
     "https://spf.shopee.vn/AAGaJBRoWV",
     "https://vt.tiktok.com/ZS9Bda4qaWaML-LmBnJ/",
     "https://s.lazada.vn/s.MORCO?c=d&t=p-i2E5UE5-sAOWKQY&sub_id1=6a8aa69ea50b906e42b4466e"
