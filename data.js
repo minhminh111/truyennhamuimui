@@ -15010,6 +15010,180 @@ Nhìn cánh cửa gỗ đóng sập lại trước mắt, thân thể ta run lê
 
 Ngơ ngác cái gì chứ? Mẹ kiếp, bà đây bị giam cầm ở cái chốn Tống gia này suốt ba trăm năm, cuối cùng cũng tìm được tự do rồi!
 `
+  },{
+    id: 725,
+    title: "Sự Trả Thù Của Thái Tử Gia Bị Lừa Tình",
+    image: "imgngon/34740cf7033007e8bedaa8de336f4d2c.jpg",
+    link: "ngontinh/su-tra-thu-cua-thai-tu-gia-bi-lua-tinh.html",
+    type: "ngontinh",
+    desc: `Mẹ của Thái tử gia Bắc Kinh nổi tiếng với tuyệt chiêu dùng tiền đè người, hễ thấy cô gái nào mon men lại gần con trai bà là lập tức vung thẻ đuổi khéo.
+
+Tôi đứng một bên chứng kiến mà mắt sáng rỡ, ghen tị đến đỏ cả mắt.
+
+Để kiếm một khoản kếch xù từ tay phu nhân, tôi lên kế hoạch cưa cẩm quý tử nhà bà, cố tình tạo ra cái vẻ hai đứa đang yêu nhau thắm thiết.
+
+Quả nhiên mẹ anh mắc bẫy. Bà tìm gặp tôi, quăng ra tấm thẻ ngân hàng rồi yêu cầu tôi cầm tiền biến mất khỏi cuộc đời con trai bà.
+
+Đợi đến khi cầm trọn khoản thanh toán cuối cùng và giữ đúng khoảng cách với vị Thái tử gia nọ, tôi thầm nghĩ vụ làm ăn này thế là êm đẹp.
+
+Nào ngờ, ngay khoảnh khắc tay tôi vừa chạm vào tấm thẻ ngân hàng, một bàn tay thon dài, thấu xương bất ngờ chộp lấy cổ tay tôi, siết chặt.
+
+Thái tử gia đứng phía sau, đôi lông mày sắc lẹm nhíu lại. Anh nhìn tôi bằng ánh mắt lạnh như băng, khóe môi nhếch lên một nụ cười giễu cợt: "Bảo sao dạo này tự nhiên lại giở trò không theo đuổi nữa."
+
+Anh cúi người, ghé sát vào tai tôi, phả ra luồng hơi thở trầm thấp đầy đe dọa: "Dám đùa giỡn tôi? Em chán sống rồi đúng không?"
+`
+  },{
+    id: 726,
+    title: "Tạm Biệt Ánh Trăng Tàn",
+    image: "imgdam/b5304bb5a41766a43bb79a6d834010c2.jpg",
+    link: "dammy/tam-biet-anh-trang-tan.html",
+    type: "dammy",
+    desc: `Tôi làm vệ sĩ riêng cho Kỷ Hoán.
+
+Ngoan ngoãn, ít nói, biết đánh nhau, đó là ba yêu cầu anh đặt ra cho tôi. Tôi đều đáp ứng trọn vẹn.
+
+Nhưng khi anh yêu cầu tôi vào bếp nấu ăn mà chỉ được mặc duy nhất chiếc tạp dề, tôi vướng phải một thoáng do dự. Ánh mắt Kỷ Hoán dán chặt lên người tôi, cất giọng cợt nhả:
+
+“Không nghe lời à? Hay muốn tôi cởi giúp?”
+`
+  },{
+    id: 727,
+    title: "Ngọc Vỡ Tình Phai",
+    image: "imgco/a1e2959b5adf6f7811743dab2c6be022.jpg",
+    link: "cotrang/ngoc-vo-tinh-phai.html",
+    type: "cotrang",
+    desc: `Ta bẩm sinh lãng tai, là ám vệ vô dụng nhất bên cạnh Chủ thượng.
+
+Chủ thượng tựa như con heo, đáp rằng sẽ ngoài mua nấm hương.
+
+Hắn chẳng chịu nổi, sai ta giám sát kẻ thù đội trời chung của hắn.
+
+Ta cải trang thành một bà bán bánh, bày sạp ngay cửa nhà kẻ thù của hắn.
+
+Hai tháng sau, Chủ thượng mặt mày xanh mét lôi ta xuống từ trên giường của kẻ thù.
+
+"Lão tử bảo ngươi giám sát y! Không có bảo ngươi ngủ với y!"
+`
+  },{
+    id: 728,
+    title: "Cứu Rỗi Ngôi Sao Lụi Tàn",
+    image: "imgngon/4fd88554ac0c56a74eb1bfc795262e9d.jpg",
+    link: "ngontinh/cuu-roi-ngoi-sao-lui-tan.html",
+    type: "ngontinh",
+    desc: `Tôi xuyên thành một gã tồi hai lòng, vừa bỏ rơi vợ lại vừa dây dưa không dứt với cô bạn bạch nguyệt quang.
+
+Trong buổi họp mặt gia đình, cô bạn bạch nguyệt quang ấy đứng phía sau mím chặt môi, cố tỏ vẻ đáng thương: “Thôi bỏ đi anh, chị Mạnh cũng đâu cố ý làm đổ nước trái cây lên người em...”
+
+Ba mẹ đứng bên cạnh liền cất lời châm chọc: “Đúng là loại phụ nữ thấp kém, chẳng có chút giáo dưỡng nào.”
+
+Đám bạn xung quanh cũng hùa theo buông lời ác ý: “Mạnh Tư Nguyệt, lần trước cô cũng dùng mấy cái chiêu trò này rồi. Giờ cô vẫn nghĩ Giang Mục Ngôn sẽ mắc bẫy nữa sao?”
+
+Dứt lời, cả đám người đồng loạt quay sang nhìn tôi, ngầm ra hiệu bảo tôi lên tiếng dạy dỗ cô ấy.
+
+Tôi ngước nhìn cô gái đang đứng trần trụi trước những lời miệt thị, vô thức cất lời chào: “Hi, vợ.”
+`
+  },{
+    id: 729,
+    title: "Thế Tử Biên Cương Giả Nữ",
+    image: "imgdam/9f2612f9635916695d57d4c8d8180e33.jpg",
+    link: "dammy/the-tu-bien-cuong-gia-nu.html",
+    type: "dammy",
+    desc: `Vốn là thế tử vương phủ nơi biên cương, tôi lại bị chính người cha vô liêm xỉ của mình ép buộc cải trang thành nữ nhi, thay muội muội tiến cung làm hoàng hậu. Nhìn tiểu hoàng đế ngày một lớn khôn, vóc dáng cao lớn uy nghi, lòng tôi lại ngũ vị tạp trần.
+
+Mấy năm trước, cậu ta còn giương đôi mắt ấm ức nhìn tôi mà hờn dỗi:
+
+“Rõ ràng là tỷ tỷ hôn trẫm trước. Vậy mà vì sao sau khi vào cung, tỷ lại luôn tìm cách tránh né trẫm?”
+
+Thế nhưng giờ đây, lời lẽ của cậu ta đã hoàn toàn thay đổi:
+
+“Đêm nay trẫm đến Phụng Nghi cung là để thông báo, tuyệt đối không phải thương lượng.”
+
+Tôi nghe vậy liền cố tình hắt hơi một cái thật mạnh, vẻ mặt đầy áy náy:
+
+“Thần thiếp e rằng thân thể đang mang phong hàn, dẫu có muốn cũng chẳng thể hầu hạ, sợ sẽ lây bệnh sang bệ hạ.”
+
+Hắn không nói không rằng, từ từ cúi thắt lưng áp sát lại gần. Đôi mắt đen thẳm ấy thăm thẳm như đáy biển sâu, rồi bất chợt một nụ cười ẩn ý nở trên môi hắn:
+
+“Hoàng hậu cáo bệnh phong hàn đã ba tháng nay. Vừa hay trong tay trẫm có một bí phương, ngay đêm nay sẽ chữa dứt điểm cho Lan nhi.”
+
+Lan cái gì mà Lan! Ta chính là đại cữu ca bằng xương bằng thịt của ngươi đấy! Hơn nữa, nói chuyện thì cứ đứng đàng hoàng mà nói, tự dưng áp sát vào người ta làm cái gì? Còn dám xán lại gần chút nữa, ta nhất định sẽ cắn cho ngươi một phát!
+`
+  },{
+    id: 730,
+    title: "Tỉnh Giấc Mê Thành Mẫu Thân Hai Đứa",
+    image: "imgco/a647328101e2b3d7ad6e6e1b0e13d0dd.jpg",
+    link: "cotrang/tinh-giac-me-thanh-mau-than-hai-dua.html",
+    type: "cotrang",
+    desc: `Vào tháng thứ ba kể từ lúc ta rơi vào cảnh hôn mê, thân thể bất động như kẻ chết lâm sàng, phụ thân đã lén tìm cho ta một nam nhân để xung hỷ.
+
+Nghe đâu người này chẳng những mang vẻ ngoài nho nhã, tuấn tú mà còn dắt theo cả con trai lẫn con gái.
+
+Theo logic của phụ thân ta, đây đích thực là một công đôi việc, vừa nhặt được con rể lại vừa ôm trọn cả cháu ngoại, vô cùng vẹn toàn.
+
+Ta ở trong cơn mê giận đến mức bật dậy, vừa mở mắt ra đã thấy hai đứa trẻ lao tới ôm chầm lấy ta, miệng liên tục gọi "mẫu thân".
+
+Ngay cả vị phu quân "hưởng hờ" kia cũng đong đầy tình cảm trong mắt, cất giọng gọi "phu nhân".
+
+Đột nhiên được làm mẫu thân mà chẳng phải chịu đau đớn sinh nở thì cũng tốt thôi, nhưng liệu ta có thể xin giữ lại hai đứa nhỏ mà trả lại ông bố được không?
+`
+  },{
+    id: 731,
+    title: "Đòi Lại Công Bằng Nơi Lớp Học",
+    image: "imgngon/fcee4663e5a7b8302365d0b5c77f49a8.jpg",
+    link: "ngontinh/doi-lai-cong-bang-noi-lop-hoc.html",
+    type: "ngontinh",
+    desc: `Vừa nhập học đại học, tôi nhận được tờ khai thông tin gia đình từ giáo viên hướng dẫn.
+
+Ba suy ngẫm một hồi rồi dặn tôi cứ điền nghề nghiệp của phụ huynh là công nhân mỏ than.
+
+Nào ngờ vị giáo viên này lại là kẻ hợm hĩnh, ưa nịnh học sinh giàu có và sẵn sàng tước đoạt cơ hội cạnh tranh công bằng của tôi.
+
+Sau nhiều lần ông ta cố tình làm khó, ba tôi đã không thể khoanh tay đứng nhìn...
+`
+  },{
+    id: 732,
+    title: "Cáo Nhỏ Đòi Hút Dương Khí",
+    image: "imgdam/b6a1a3fea9a15dc7abf1e7d4177a85e6.jpg",
+    link: "dammy/cao-nho-doi-hut-duong-khi.html",
+    type: "dammy",
+    desc: `Tôi là con cáo đực đầu tiên trong núi thi đỗ đại học.
+
+Trước khi xuống núi, chị gái dặn dò: “Ở thành phố linh khí loãng, không hấp thu dương khí sẽ chết đấy.”
+
+Tôi gãi đầu: “Hấp kiểu gì vậy ạ?”
+
+Chị gái duỗi cái móng vuốt lông lá ra, chỉ thẳng vào hạ bộ tôi.
+
+“Ở đây này, một giọt bằng mười giọt!”
+
+Sau đó, tôi đỏ mặt, vòng tay ôm eo cậu bạn cùng phòng có dương khí vượng nhất.
+
+“Bạn học, có thể cho tôi hút một hơi không?”
+`
+  },{
+    id: 733,
+    title: "Hoàng Hậu Mù Mặt",
+    image: "imgco/8ded48370f130050432abb73cc144a2f.jpg",
+    link: "cotrang/hoang-hau-mu-mat.html",
+    type: "cotrang",
+    desc: `Hoàng hậu Thạch Nghiên mang trong mình một bí mật giấu kín, đó chính là chứng mù mặt bất trị. Thế nhưng, nàng lại nắm trong tay một tấm kim bài miễn tử do Tiên đế ban tặng.
+
+Hoàng đế bất mãn cất lời: "Nàng gan to bằng trời, dám ra tay véo tai trẫm, thật là đại nghịch bất đạo!"
+
+Thạch Nghiên thản nhiên đáp: "Phụ thân thần thiếp là ân sư của Hoàng thượng, vả lại trong tay thần thiếp còn có kim bài miễn tử."
+
+Hoàng đế lại phàn nàn: "Ngay cả diện mạo người khác nàng cũng chẳng phân biệt nổi, sao có thể gánh vác vị trí mẫu nghi thiên hạ?"
+
+Thạch Nghiên vẫn điềm nhiên như cũ: "Thần thiếp có kim bài miễn tử, hơn nữa phụ thân thần thiếp chính là thầy của ngài."
+
+Thế rồi đến một ngày nọ, khi tận mắt chứng kiến vị cửu ngũ chí tôn khoác trên mình long bào đang lén lút cuỗm đi tấm kim bài miễn tử của mình...
+
+Thạch Nghiên không nén nổi thở dài, đành cất tiếng hỏi: "Hoàng thượng, vật này là do phụ thân thần thiếp truyền lại cho thần thiếp mà."
+
+"Không phải nàng mắc chứng mù mặt sao? Làm cách nào nhận ra trẫm?"
+
+"Thưa Hoàng thượng, thần thiếp chỉ không nhớ mặt người khác, chứ đâu có bị mù!"
+`
   },
 
 
