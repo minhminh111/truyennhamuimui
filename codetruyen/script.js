@@ -25,10 +25,10 @@ window.addEventListener("DOMContentLoaded", function () {
   /* ===== LINK QUẢNG CÁO ===== */
 
   const links = [
-    "https://s.shopee.vn/2LXhVBfjRB",
+    "https://s.shopee.vn/6fgiehkLEF",
     "https://spf.shopee.vn/AAGaJBRoWV",
-    "https://www.tiktok.com/t/ZSVaYMpBn/",
-    "https://s.lazada.vn/s.Ml6GK?c=d&t=p-i3StSaU-sGUbrQp&sub_id1=6a8aa69ea50b906e42b4466e"
+    "https://vt.tiktok.com/ZS9Bda4qaWaML-LmBnJ/",
+    "https://s.lazada.vn/s.MORCO?c=d&t=p-i2E5UE5-sAOWKQY&sub_id1=6a8aa69ea50b906e42b4466e"
   ];
 
   /* ===== KEY ===== */

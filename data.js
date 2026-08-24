@@ -14824,6 +14824,192 @@ Thế nhưng về sau, chính hắn lại run rẩy quỳ móp dưới chân ta,
 
 Có điều, rối gỗ vốn dĩ không mang trái tim, cũng chẳng hề biết cười.
 `
+  },{
+    id: 716,
+    title: "Chốn Công Sở Có Gì Vui",
+    image: "imgngon/b007ab20a19af685588c935acedb0486.jpg",
+    link: "ngontinh/chon-cong-so-co-gi-vui.html",
+    type: "ngontinh",
+    desc: `Hôm ấy tan làm muộn, tôi đành đi nhờ xe sếp về nhà.
+
+Chiếc xe đang bon bon trên đường thì đột ngột một chú chó nhỏ lao vút qua. Sếp vội vàng đạp phanh gấp, may sao không xảy va chạm nào.
+
+Tôi vỗ vỗ lồng ngực cho bớt giật mình rồi thốt lên: “Trời đất, may quá, chó cũng biết dừng lại kìa.”
+
+Không khí trong xe tức thì rơi vào khoảng lặng đáng sợ.
+
+Nhận ra từ ngữ của mình dễ gây hiểu lầm, tôi vội vàng xua tay giải thích: “Ý tôi không phải bảo sếp là chó đâu! Ý tôi là con chó kia nó biết dừng lại... à không, ý tôi muốn nói...”
+
+“Trật tự ngay.” Khóe môi sếp giật giật, giọng lạnh ngắt: “Bớt nói thêm một câu nữa, không tôi cho cô xuống xe làm bạn với chó bây giờ.”
+
+Thôi xong, tôi ngoan ngoãn ngậm miệng lại ngay lập tức.
+`
+  },{
+    id: 717,
+    title: "Cạm Bẫy Của Thần Đồng",
+    image: "imgdam/cfbda5d257e5809e30f00948ee4c30b8.jpg",
+    link: "dammy/cam-bay-cua-than-dong.html",
+    type: "dammy",
+    desc: `Tôi là Alpha xuyên tới thế giới thực, nhưng lại bị học thần giả làm Omega lừa cho xoay mòng mòng.
+
+Cậu ta ép chặt tôi vào góc tường, thì thầm:
+
+“Nghe nói Alpha cũng có khoang sinh sản, cho tôi sờ thử được không?”
+
+Đến phút cuối cùng tôi mới bừng tỉnh nhận ra.
+
+Tại sao kẻ bị ăn sạch đến một mẩu xương cũng không còn lại là tôi?
+`
+  },{
+    id: 718,
+    title: "Cùng Chàng Ngắm Trọn Thế Gian",
+    image: "imgco/4985cc38b3343fbf423d7d8ec42c537a.jpg",
+    link: "cotrang/cung-chang-ngam-tron-the-gian.html",
+    type: "cotrang",
+    desc: `Hoàng thượng thấy chúng ta hộ giá có công, bèn cất tiếng hỏi muốn được ban thưởng điều gì.
+
+Chàng đáp: “Thần, muốn cưới thê tử.”
+
+Ta nối lời: “Thần nữ, muốn xuất giá.”
+
+Ngay đêm ấy, chiếu chỉ ban hôn được truyền ra.
+
+Vào đúng dịp Trung thu năm đó, thiên tử se duyên, định đoạt chuyện gả cưới giữa hai nhà Tần, Tô, chọn ngày lành tháng tốt để cử hành đại hôn.
+`
+  },{
+    id: 719,
+    title: "Đại Tiểu Thư Bắt Nạt Nam Chính Yandere",
+    image: "imgngon/abbe9982e28f976a9603edbe06833e9c.jpg",
+    link: "ngontinh/dai-tieu-thu-bat-nat-nam-chinh-yandere.html",
+    type: "ngontinh",
+    desc: `Tôi xuyên thành nữ chính trong một cuốn tiểu thuyết yandere.
+
+Nhiệm vụ hiện tại của tôi là lấy chân giẫm lên đầu nam chính.
+
+"Bắt chước tiếng chó sủa đi, tôi sẽ cân nhắc tha cho anh."
+
+Hắn ngoan ngoãn làm theo, không tỏ ra chút giận dữ nào, chỉ số hắc hóa gần như giậm chân tại chỗ.
+
+Cho đến một ngày, tôi nhận nhầm em trai sinh đôi của hắn rồi tiện tay bắt nạt.
+
+Vừa bước ra khỏi phòng, hắn liền phát điên, trói gắt gao rồi ném tôi trở lại giường.
+
+Hắn giận dữ siết chặt xương hàm tôi, nụ cười tràn ngập sự cuồng loạn bệnh hoạn:
+
+"Đại tiểu thư, ai cho phép em tìm người khác?"
+
+"Nó ngoan hơn tôi, hay làm em hài lòng hơn tôi?"
+`
+  },{
+    id: 720,
+    title: "Cám Dỗ Dưới Một Mái Nhà",
+    image: "imgdam/c2d901ab762be2928f5140bba2aaa74d.jpg",
+    link: "dammy/cam-do-duoi-mot-mai-nha.html",
+    type: "dammy",
+    desc: `Tôi là con nuôi của nhà họ Ngụy. Công việc toàn thời gian của tôi chính là chăm sóc Ngụy Phục.
+
+Cậu ấy có tính cách lạnh nhạt, thành tích xuất sắc, và giữa hai chúng tôi dường như chẳng mấy khi trò chuyện.
+
+Lần đầu cậu ấy mộng tinh, tôi giặt sạch ga giường lẫn đồ lót, rồi nhẹ nhàng giảng giải kiến thức sinh lý cho cậu.
+
+Đến lần đầu cậu ấy bước vào một mối tình, tôi chuẩn bị sẵn bao cao su và dặn dò phải biết tự bảo vệ bản thân.
+
+Năm hai mươi tuổi, Ngụy Phục trở thành sinh viên tốt nghiệp ưu tú và tự tay gầy dựng công ty riêng.
+
+Còn tôi trở thành trợ lý thân cận của cậu, nhận mức lương hậu hỉnh và luôn giữ đúng chuẩn mực.
+
+Suốt hai mươi tư năm sống dưới mái nhà họ Ngụy, tôi chưa từng một lần thất thế hay mất phong độ trước mặt cậu.
+
+Chúng tôi giữ khoảng cách vừa đủ, nước sông không phạm nước giếng cho đến cái đêm cậu ấy bắt gặp tôi bước ra từ một quán bar dành cho dân gay.
+
+Cậu nhíu mày hỏi:
+
+“Anh thích đàn ông?”
+
+Ánh mắt soi xét đầy sắc lẹm ấy dường như muốn xuyên thủng tâm trí tôi.
+`
+  },{
+    id: 721,
+    title: "Vô Tình Cứu Phản Diện Cả Đời Không Thể Rời Đi",
+    image: "imgco/0555040e147ee6a5648747f6a63deb7c.jpg",
+    link: "cotrang/vo-tinh-cuu-phan-dien-ca-doi-khong-the-roi-di.html",
+    type: "cotrang",
+    desc: `Tên phản diện sắp sửa bỏ mạng, vậy mà ta lại xuyên không đến đúng thời khắc ấy, vô tình đỡ trọn cho hắn một đòn chí mạng.
+
+Tất cả mọi người, kể cả ta, đều ngơ ngác chết lặng.
+
+Thế là xong.
+
+Hắn được sống.
+
+Còn ta thì ngoảnh đít đi chầu trời.
+`
+  },{
+    id: 722,
+    title: "Kết Cục Của Kẻ Phản Bội",
+    image: "imgngon/b8fddd7284b93770a18127d6902b.jpg",
+    link: "ngontinh/ket-cuc-cua-ke-phan-boi.html",
+    type: "ngontinh",
+    desc: `Kết hôn bảy năm, Thẩm Vân Đình lại ngã vào vòng tay của cô thực tập sinh trẻ trung xinh đẹp.
+
+Lúc sự việc phơi bày, hắn chẳng những không một chút cắn rứt, mà còn thản nhiên buông lời:
+
+“Tĩnh Nghi, hôn nhân êm ấm thì quý thật đấy, nhưng đàn ông mà, đôi khi cũng thèm chút cảm giác lạ.”
+
+Đến khi cô người tình mang thai, Thẩm Vân Đình liền vội vã đòi ly hôn với tôi. Chỉ tiếc là đơn chưa kịp ký, hắn đã gặp tai nạn giao thông nghiêm trọng.
+
+Giây phút bác sĩ lắc đầu tuyên bố hắn bị liệt toàn thân, tôi phải gân cổ nén lại bờ môi đang chực xối xả reo vui.
+
+Đây chẳng phải là quả báo nhãn tiền dành riêng cho kẻ cặn bã sao?
+
+Đang lúc tôi mải mê nhẩm tính xem mình sẽ cuỗm được bao nhiêu tài sản sau vụ này, thì cô nhân tình cùng gã luật sư đã nghênh ngang tìm đến tận nơi.
+
+"Bà già kia, anh Vân Đình đã lập di chúc từ sớm rồi! Toàn bộ cơ ngơi nhà họ Thẩm sau này đều thuộc về tôi và con tôi. Cô cứ chuẩn bị tinh thần ra đi với hai bàn tay trắng đi!"
+
+Tôi ứa ra hai giọt nước mắt cá sấu, ái ngại nhìn cái đầu óc chẳng mấy tỉnh táo của cô ta:
+
+"Này em gái, anh ta chỉ mới liệt thôi chứ đã chết đâu!"
+`
+  },{
+    id: 723,
+    title: "Dụ Đỗ Đạo Lữ Tu Vô Tình Đạo",
+    image: "imgdam/6cbd179404131bc489e2c3864548c9b2.jpg",
+    link: "dammy/du-do-dao-lu-tu-vo-tinh-dao.html",
+    type: "dammy",
+    desc: `Tu vi ngưng trệ đã ngàn năm nên tôi quyết định xuống nhân gian bắt một Lô Đỉnh. Nào ngờ, vừa mới bước ra tới cửa, một đạo ánh sáng đột ngột xé xuyết không trung, đâm thủng phủ đệ của tôi.
+
+Tôi nhìn vị Kiếm tu đang hôn mê giữa đống hoang tàn, trong lòng rục rịch nảy sinh ý xấu.
+
+Sau khi xem xét bản lĩnh của vị Kiếm tu này, tôi liền hạ quyết tâm.
+
+Dẫu đã tốn công chữa thương cho hắn suốt hai tháng trời, nhưng khi tỉnh dậy, câu đầu tiên hắn đáp lại tôi lại là lời từ chối thẳng thừng: "Tiền bối, ta tu Vô Tình đạo."
+
+Tôi rủ mi, khẽ vuốt lên bụng dưới, nhẹ giọng than thở với vẻ đầy ủy khuất: "Nhưng chúng ta đã có hài tử rồi."
+`
+  },{
+    id: 724,
+    title: "Vị Thần Hộ Mệnh.Vị Thần Hộ Mệnh",
+    image: "imgco/85884bc805d81590d2cada301beebd34.jpg",
+    link: "cotrang/vi-than-ho-menh.html",
+    type: "cotrang",
+    desc: `Ta chính là thần hộ mệnh của Tống gia.
+
+Vào cái thời điểm Tống gia lâm vào cảnh bần cùng kiệt quệ nhất, ta đã dùng tu vi biến thành hình người, chấp nhận làm đứa con dâu nuôi từ nhỏ của nhà họ.
+
+Chẳng ngờ, vừa trúng tuyển cử nhân, Tống gia đã vội vã nhắm đến vị tiểu thư đài các nhà giàu. Để dọn đường, họ tàn nhẫn bán ta cho một gã tú tài tàn tật trong làng.
+
+Ta cố bấu chặt lấy cánh cửa gỗ, nước mắt lã chã rơi xuống như mưa rào.
+
+"Mọi người thật sự muốn xua đuổi ta đi sao?"
+
+Tống Thanh Thư tỏ vẻ không đành lòng, nhưng đôi bàn tay hắn vẫn kiên quyết đẩy ta ra khỏi ngưỡng cửa.
+
+"Tiên Nhi, nàng hãy nhẫn nại. Chờ ngày ta công thành danh toại, bước vào chốn quan trường, ta nhất định sẽ thu xếp cho nàng."
+
+Nhìn cánh cửa gỗ đóng sập lại trước mắt, thân thể ta run lên từng hồi.
+
+Ngơ ngác cái gì chứ? Mẹ kiếp, bà đây bị giam cầm ở cái chốn Tống gia này suốt ba trăm năm, cuối cùng cũng tìm được tự do rồi!
+`
   },
 
 
