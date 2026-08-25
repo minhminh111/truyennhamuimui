@@ -1,127 +1,404 @@
 window.addEventListener("DOMContentLoaded", function () {
-  const facebookRead = document.getElementById("facebook-read");
 
-  if(facebookRead){
 
-      let ref = document.referrer.toLowerCase();
+  /* ==================================================
+     CẤU HÌNH SẢN PHẨM
+     CHỈ CẦN SỬA PHẦN NÀY
+  ================================================== */
 
-      if(
-          ref.includes("facebook.com") ||
-          ref.includes("m.facebook.com") ||
-          ref.includes("l.facebook.com")
-      ){
+  const products = {
 
-          facebookRead.style.display="block";
+    shopee: {
 
-      }
+      link:
+        "https://s.shopee.vn/6AkUYiQGuO",
 
-  }
-  const modal = document.getElementById("modal");
-  const story = document.getElementById("story");
-  const unlockBtn = document.getElementById("unlockBtn");
+      image:
+        "../imgqc/vn-11134207-81ztc-mpugvmoyza4sf9.jpg",
 
-  if (!modal || !story || !unlockBtn) return;
+      name:
+        "Thùng 6 Ca Xúc Xích Dinh Dưỡng R2 Vietinter Foods (Ca 50 Cây, Cây 19g)",
 
-  /* ===== LINK QUẢNG CÁO ===== */
+      description:
+        "Thơm Ngon Mời Bạn Ăn Nha 💕"
 
-  const links = [
-    "https://s.shopee.vn/6AkUYiQGuO",
-    "https://spf.shopee.vn/AAGaJBRoWV",
-    "https://vt.tiktok.com/ZS9Bda4qaWaML-LmBnJ/",
-    "https://s.lazada.vn/s.MORCO?c=d&t=p-i2E5UE5-sAOWKQY&sub_id1=6a8aa69ea50b906e42b4466e"
-  ];
+    },
 
-  /* ===== KEY ===== */
 
-  const today = new Date().toDateString();
+    shopeefood: {
 
-  const unlockKey = "unlock_all_day";
-  const stepKey = "ad_step";
-  const waitKey = "waiting_return";
+      link:
+        "https://spf.shopee.vn/AAGaJBRoWV",
 
-  /* ===== MỞ KHÓA ===== */
+      image:
+        "../imaqc/CBBIC1PCs.jpg",
 
-  function unlockStory() {
-    modal.style.display = "none";
-    story.style.display = "block";
-  }
+      name:
+        "🍰 Combo gà giàn & popcorn",
 
-  /* ===== KHÓA ===== */
+      description:
+        "Một chút ngọt ngào cho ngày mới 🥰"
 
-  function lockStory() {
-    modal.style.display = "flex";
-    story.style.display = "none";
-  }
-
-  /* ===== ĐÃ MỞ HÔM NAY ===== */
-
-  if (localStorage.getItem(unlockKey) === today) {
-    unlockStory();
-    return;
-  }
-
-  lockStory();
-
-  let step = parseInt(localStorage.getItem(stepKey) || "0");
-
-  /* ===== CẬP NHẬT NÚT ===== */
-
-  function updateButton() {
-
-    if (step >= links.length) {
-
-      localStorage.setItem(unlockKey, today);
-      localStorage.removeItem(stepKey);
-      localStorage.removeItem(waitKey);
-
-      unlockStory();
-
-      return;
     }
 
-    unlockBtn.disabled = false;
+  };
 
-    unlockBtn.textContent =
-      `Xem quảng cáo ${step + 1}/${links.length}`;
+
+  /* ==================================================
+     FACEBOOK
+  ================================================== */
+
+  const facebookRead =
+    document.getElementById("facebook-read");
+
+  if (facebookRead) {
+
+    const ref =
+      document.referrer.toLowerCase();
+
+    if (
+      ref.includes("facebook.com") ||
+      ref.includes("m.facebook.com") ||
+      ref.includes("l.facebook.com")
+    ) {
+
+      facebookRead.style.display = "block";
+
+    }
+
   }
 
-  updateButton();
 
-  /* ===== CLICK ===== */
+  /* ==================================================
+     ELEMENTS
+  ================================================== */
 
-  unlockBtn.addEventListener("click", function () {
+  const modal =
+    document.getElementById("modal");
 
-    if (step >= links.length) return;
+  const story =
+    document.getElementById("story");
 
-    localStorage.setItem(waitKey, "1");
+  const step1Box =
+    document.getElementById("step1Box");
 
-    unlockBtn.disabled = true;
-    unlockBtn.textContent = "Quay lại trang để tiếp tục...";
+  const step2Box =
+    document.getElementById("step2Box");
 
-    window.open(links[step], "_blank");
 
-  });
+  if (
+    !modal ||
+    !story ||
+    !step1Box ||
+    !step2Box
+  ) {
 
-  /* ===== PHÁT HIỆN QUAY LẠI ===== */
+    console.error(
+      "Không tìm thấy thành phần popup."
+    );
 
-  document.addEventListener("visibilitychange", function () {
+    return;
 
-    if (!document.hidden) {
+  }
+
+
+  /* ==================================================
+     ĐIỀN SẢN PHẨM BƯỚC 1
+  ================================================== */
+
+  const step1Link =
+    document.getElementById("step1Link");
+
+  const step1Image =
+    document.getElementById("step1Image");
+
+  const step1Name =
+    document.getElementById("step1Name");
+
+  const step1Desc =
+    document.getElementById("step1Desc");
+
+
+  if (step1Link) {
+
+    step1Link.href =
+      products.shopee.link;
+
+  }
+
+
+  if (step1Image) {
+
+    step1Image.src =
+      products.shopee.image;
+
+    step1Image.alt =
+      products.shopee.name;
+
+  }
+
+
+  if (step1Name) {
+
+    step1Name.textContent =
+      products.shopee.name;
+
+  }
+
+
+  if (step1Desc) {
+
+    step1Desc.textContent =
+      products.shopee.description;
+
+  }
+
+
+  /* ==================================================
+     ĐIỀN SẢN PHẨM BƯỚC 2
+  ================================================== */
+
+  const step2Link =
+    document.getElementById("step2Link");
+
+  const step2Image =
+    document.getElementById("step2Image");
+
+  const step2Name =
+    document.getElementById("step2Name");
+
+  const step2Desc =
+    document.getElementById("step2Desc");
+
+
+  if (step2Link) {
+
+    step2Link.href =
+      products.shopeefood.link;
+
+  }
+
+
+  if (step2Image) {
+
+    step2Image.src =
+      products.shopeefood.image;
+
+    step2Image.alt =
+      products.shopeefood.name;
+
+  }
+
+
+  if (step2Name) {
+
+    step2Name.textContent =
+      products.shopeefood.name;
+
+  }
+
+
+  if (step2Desc) {
+
+    step2Desc.textContent =
+      products.shopeefood.description;
+
+  }
+
+
+  /* ==================================================
+     LOCAL STORAGE
+  ================================================== */
+
+  const stepKey =
+    "reader_step";
+
+  const waitKey =
+    "waiting_return";
+
+
+  let step =
+    parseInt(
+      localStorage.getItem(stepKey) || "0",
+      10
+    );
+
+
+  /* ==================================================
+     HIỆN TRUYỆN
+  ================================================== */
+
+  function showStory() {
+
+    modal.style.display = "none";
+
+    story.style.display = "block";
+
+  }
+
+
+  /* ==================================================
+     BƯỚC 1
+  ================================================== */
+
+  function showStep1() {
+
+    modal.style.display = "flex";
+
+    story.style.display = "none";
+
+    step1Box.style.display = "block";
+
+    step2Box.style.display = "none";
+
+  }
+
+
+  /* ==================================================
+     BƯỚC 2
+  ================================================== */
+
+  function showStep2() {
+
+    modal.style.display = "flex";
+
+    story.style.display = "none";
+
+    step1Box.style.display = "none";
+
+    step2Box.style.display = "block";
+
+  }
+
+
+  /* ==================================================
+     TRẠNG THÁI BAN ĐẦU
+  ================================================== */
+
+  if (step >= 2) {
+
+    showStory();
+
+  }
+
+  else if (step === 1) {
+
+    showStep2();
+
+  }
+
+  else {
+
+    showStep1();
+
+  }
+
+
+  /* ==================================================
+     CLICK BƯỚC 1
+  ================================================== */
+
+  if (step1Link) {
+
+    step1Link.addEventListener(
+      "click",
+      function () {
+
+        localStorage.setItem(
+          waitKey,
+          "1"
+        );
+
+      }
+    );
+
+  }
+
+
+  /* ==================================================
+     CLICK BƯỚC 2
+  ================================================== */
+
+  if (step2Link) {
+
+    step2Link.addEventListener(
+      "click",
+      function () {
+
+        localStorage.setItem(
+          waitKey,
+          "2"
+        );
+
+      }
+    );
+
+  }
+
+
+  /* ==================================================
+     QUAY LẠI TRANG
+  ================================================== */
+
+  document.addEventListener(
+    "visibilitychange",
+    function () {
+
+      if (document.hidden) {
+        return;
+      }
+
 
       const waiting =
         localStorage.getItem(waitKey);
 
-      if (waiting === "1") {
 
-        step++;
+      /* BƯỚC 1 → BƯỚC 2 */
 
-        localStorage.setItem(stepKey, step);
-        localStorage.removeItem(waitKey);
+      if (
+        waiting === "1" &&
+        step === 0
+      ) {
 
-        updateButton();
+        step = 1;
+
+        localStorage.setItem(
+          stepKey,
+          "1"
+        );
+
+        localStorage.removeItem(
+          waitKey
+        );
+
+        showStep2();
+
       }
+
+
+      /* BƯỚC 2 → HIỆN TRUYỆN */
+
+      else if (
+        waiting === "2" &&
+        step === 1
+      ) {
+
+        step = 2;
+
+        localStorage.setItem(
+          stepKey,
+          "2"
+        );
+
+        localStorage.removeItem(
+          waitKey
+        );
+
+        showStory();
+
+      }
+
     }
-  });
-  
+  );
 
 });
