@@ -958,17 +958,177 @@ Ta nhìn ánh nắng ngoài cửa sổ, cảm thấy mọi thứ cuối cùng c�
 
 <!-- POPUP -->
 <div class="modal" id="modal">
-  <div class="box">
-    <h3>🔓 Mở khóa nội dung</h3>
 
-    <p>Mời bạn click vào link để mở khóa truyện</p>
+  <div class="box unlock-box">
 
-    <a class="btn" id="unlockBtn">👉 Mở khóa ngay</a>
 
-    <div class="note">
-      Mở 4 quảng cáo để đọc truyện cả ngày
+    <!-- =====================
+         BƯỚC 1
+    ====================== -->
+
+    <div
+      class="unlock-step"
+      id="step1Box"
+    >
+
+      <div class="step-label">
+        BƯỚC 1 / 2
+      </div>
+
+      <h3>
+        🛍️ Mời Quý độc giả
+      </h3>
+
+      <p class="invite-text">
+        <b>
+          CLICK vào LIÊN KẾT HOẶC ẢNH bên dưới
+        </b>
+      </p>
+
+      <p class="open-app">
+        MỞ ỨNG DỤNG
+        <strong>SHOPEE</strong>
+      </p>
+
+
+      <!-- CARD ĐƯỢC JS ĐIỀN -->
+
+      <a
+        id="step1Link"
+        class="product-card"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+
+        <div class="product-image-wrap">
+
+          <img
+            id="step1Image"
+            class="product-image"
+            alt=""
+          >
+
+        </div>
+
+
+        <div class="product-info">
+
+          <div
+            id="step1Name"
+            class="product-name"
+          ></div>
+
+
+          <div
+            id="step1Desc"
+            class="product-desc"
+          ></div>
+
+
+          <div class="product-link">
+            👉 XEM SẢN PHẨM
+          </div>
+
+        </div>
+
+      </a>
+
+
+      <div class="return-note">
+        ↩️ Sau khi mở Shopee,
+        hãy quay trở lại trang này.
+      </div>
+
     </div>
+
+
+
+    <!-- =====================
+         BƯỚC 2
+    ====================== -->
+
+    <div
+      class="unlock-step"
+      id="step2Box"
+      style="display:none;"
+    >
+
+      <div class="step-label">
+        BƯỚC 2 / 2
+      </div>
+
+      <h3>
+        🍜 Mời Quý độc giả
+      </h3>
+
+      <p class="invite-text">
+        <b>
+          CLICK vào LIÊN KẾT HOẶC ẢNH bên dưới
+        </b>
+      </p>
+
+      <p class="open-app">
+        MỞ ỨNG DỤNG
+        <strong>SHOPEEFOOD</strong>
+      </p>
+
+
+      <!-- CARD ĐƯỢC JS ĐIỀN -->
+
+      <a
+        id="step2Link"
+        class="product-card"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+
+        <div class="product-image-wrap">
+
+          <img
+            id="step2Image"
+            class="product-image"
+            alt=""
+          >
+
+        </div>
+
+
+        <div class="product-info">
+
+          <div
+            id="step2Name"
+            class="product-name"
+          ></div>
+
+
+          <div
+            id="step2Desc"
+            class="product-desc"
+          ></div>
+
+
+          <div class="product-link food-link">
+            👉 XEM MÓN NGON
+          </div>
+
+        </div>
+
+      </a>
+
+
+      <div class="return-note">
+        ↩️ Sau đó quay trở lại trang truyện.
+      </div>
+
+    </div>
+
+
+    <div class="thanks">
+      Truyện Nhà Mui Mui xin chân thành cảm ơn! 💗
+    </div>
+
   </div>
+
 </div>
 
 <!-- ✅ ĐÚNG: đặt JS ở cuối -->
