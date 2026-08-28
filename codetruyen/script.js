@@ -10,36 +10,28 @@ window.addEventListener("DOMContentLoaded", function () {
 
     shopee: {
 
-      link:
-        "https://s.shopee.vn/6AkUYiQGuO",
+    link: "https://s.shopee.vn/2gAfLCySns",
 
-      image:
-        "../imgqc/vn-11134207-81ztc-mpugvmoyza4sf9.jpg",
+    image: "../imgqc/vn-11134207-81ztc-mo57bqj5k54y41.jpg",
 
-      name:
-        "Thùng 6 Ca Xúc Xích Dinh Dưỡng R2 Vietinter Foods (Ca 50 Cây, Cây 19g)",
+    name: "Combo 2 Nước giặt OMO Matic Hương Nước Hoa Comfort 4.1KG (túi)",
 
-      description:
-        "Thơm Ngon Mời Bạn Ăn Nha 💕"
+    description:"Tê cay đậm vị, ăn là mê 🌶️💕"
 
-    },
+  },
 
 
     shopeefood: {
 
-      link:
-        "https://spf.shopee.vn/AAGaJBRoWV",
+    link: "https://spf.shopee.vn/AAGaJBRoWV",
 
-      image:
-        "../imaqc/CBBIC1PCs.jpg",
+    image: "../imgqc/52188e11-928e-42f8-a1fe-c608def7959d.jpg",
 
-      name:
-        "🍰 Combo gà giàn & popcorn",
+    name: "Deal Best Seller 1K",
 
-      description:
-        "Một chút ngọt ngào cho ngày mới 🥰"
+    description: "Deal siêu hời, giá chỉ từ 1K 🔥💕"
 
-    }
+  }
 
   };
 
