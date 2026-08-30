@@ -9,29 +9,25 @@ window.addEventListener("DOMContentLoaded", function () {
   const products = {
 
     shopee: {
+      link: "https://s.shopee.vn/2gAfLCySns",
 
-    link: "https://s.shopee.vn/2gAfLCySns",
+      image: "../imgqc/vn-11134207-81ztc-mo57bqj5k54y41.jpg",
 
-    image: "../imgqc/vn-11134207-81ztc-mo57bqj5k54y41.jpg",
+      name: "Combo 2 Nước giặt OMO Matic Hương Nước Hoa Comfort 4.1KG (túi)",
 
-    name: "Combo 2 Nước giặt OMO Matic Hương Nước Hoa Comfort 4.1KG (túi)",
-
-    description:"Tê cay đậm vị, ăn là mê 🌶️💕"
-
-  },
+      description: "Tê cay đậm vị, ăn là mê 🌶️💕"
+    },
 
 
     shopeefood: {
+      link: "https://spf.shopee.vn/AAGaJBRoWV",
 
-    link: "https://spf.shopee.vn/AAGaJBRoWV",
+      image: "../imgqc/52188e11-928e-42f8-a1fe-c608def7959d.jpg",
 
-    image: "../imgqc/52188e11-928e-42f8-a1fe-c608def7959d.jpg",
+      name: "Deal Best Seller 1K",
 
-    name: "Deal Best Seller 1K",
-
-    description: "Deal siêu hời, giá chỉ từ 1K 🔥💕"
-
-  }
+      description: "Deal siêu hời, giá chỉ từ 1K 🔥💕"
+    }
 
   };
 
@@ -208,6 +204,62 @@ window.addEventListener("DOMContentLoaded", function () {
   const waitKey =
     "waiting_return";
 
+  const dateKey =
+    "reader_unlock_date";
+
+
+  /* ==================================================
+     LẤY NGÀY HIỆN TẠI
+     DÙNG NGÀY GIỜ CỦA THIẾT BỊ
+  ================================================== */
+
+  function getToday() {
+
+    const now = new Date();
+
+    const year =
+      now.getFullYear();
+
+    const month =
+      String(now.getMonth() + 1).padStart(2, "0");
+
+    const day =
+      String(now.getDate()).padStart(2, "0");
+
+    return `${year}-${month}-${day}`;
+
+  }
+
+
+  /* ==================================================
+     RESET KHI SANG NGÀY MỚI
+     RESET TẠI 0:00
+  ================================================== */
+
+  const today =
+    getToday();
+
+  const savedDate =
+    localStorage.getItem(dateKey);
+
+
+  if (savedDate !== today) {
+
+    localStorage.removeItem(stepKey);
+
+    localStorage.removeItem(waitKey);
+
+    localStorage.setItem(
+      dateKey,
+      today
+    );
+
+  }
+
+
+  /* ==================================================
+     BIẾN STEP
+  ================================================== */
 
   let step =
     parseInt(
@@ -341,11 +393,44 @@ window.addEventListener("DOMContentLoaded", function () {
       }
 
 
+      /* ================================================
+         KIỂM TRA LẠI NGÀY KHI QUAY LẠI
+      ================================================= */
+
+      const currentDate =
+        getToday();
+
+      const storedDate =
+        localStorage.getItem(dateKey);
+
+
+      if (storedDate !== currentDate) {
+
+        localStorage.removeItem(stepKey);
+
+        localStorage.removeItem(waitKey);
+
+        localStorage.setItem(
+          dateKey,
+          currentDate
+        );
+
+        step = 0;
+
+        showStep1();
+
+        return;
+
+      }
+
+
       const waiting =
         localStorage.getItem(waitKey);
 
 
-      /* BƯỚC 1 → BƯỚC 2 */
+      /* ==================================================
+         BƯỚC 1 → BƯỚC 2
+      ================================================== */
 
       if (
         waiting === "1" &&
@@ -368,7 +453,9 @@ window.addEventListener("DOMContentLoaded", function () {
       }
 
 
-      /* BƯỚC 2 → HIỆN TRUYỆN */
+      /* ==================================================
+         BƯỚC 2 → HIỆN TRUYỆN
+      ================================================== */
 
       else if (
         waiting === "2" &&
@@ -393,4 +480,65 @@ window.addEventListener("DOMContentLoaded", function () {
     }
   );
 
+
+  /* ==================================================
+     TỰ ĐỘNG RESET ĐÚNG 0:00
+     
+     Trường hợp người dùng mở trang xuyên qua 0:00
+     mà không reload trang.
+  ================================================== */
+
+  function scheduleMidnightReset() {
+
+    const now =
+      new Date();
+
+    const nextMidnight =
+      new Date(now);
+
+    nextMidnight.setHours(
+      24,
+      0,
+      0,
+      0
+    );
+
+
+    const delay =
+      nextMidnight.getTime() -
+      now.getTime();
+
+
+    setTimeout(
+      function () {
+
+        localStorage.removeItem(stepKey);
+
+        localStorage.removeItem(waitKey);
+
+        localStorage.setItem(
+          dateKey,
+          getToday()
+        );
+
+        step = 0;
+
+        showStep1();
+
+
+        /* Lên lịch cho 0:00 ngày tiếp theo */
+
+        scheduleMidnightReset();
+
+      },
+      delay
+    );
+
+  }
+
+
+  scheduleMidnightReset();
+
+
 });
+
