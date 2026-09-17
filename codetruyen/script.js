@@ -9,7 +9,7 @@ window.addEventListener("DOMContentLoaded", function () {
   const products = {
 
     shopee: {
-      link: "https://www.facebook.com/photo/?fbid=122108962329467824&set=a.122105998845467824&locale=vi_VN",
+      link: "https://s.shopee.vn/5q86vTh1D0",
 
       image: "../imgqc/vn-11134207-81ztc-mo57bqj5k54y41.jpg",
 
