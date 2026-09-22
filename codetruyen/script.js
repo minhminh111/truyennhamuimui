@@ -9,7 +9,7 @@ window.addEventListener("DOMContentLoaded", function () {
   const products = {
 
     shopee: {
-      link: "https://s.shopee.vn/5q86vTh1D0",
+      link: "https://s.shopee.vn/AAHMfz2FkA",
 
       image: "../imgqc/vn-11134207-81ztc-mo57bqj5k54y41.jpg",
 
@@ -20,7 +20,7 @@ window.addEventListener("DOMContentLoaded", function () {
 
 
     shopeefood: {
-      link: "https://spf.shopee.vn/3g3cLY5Rok",
+      link: "https://spf.shopee.vn/50ZGWWGAGS",
 
       image: "../imgqc/52188e11-928e-42f8-a1fe-c608def7959d.jpg",
 
