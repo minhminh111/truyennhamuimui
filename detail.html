@@ -2,6 +2,22 @@
 <html lang="vi">
 
 <head>
+  <script>
+(function () {
+    const newUrl = new URL(window.location.href);
+
+    newUrl.protocol = "https:";
+    newUrl.hostname = "tiemnhamiumiu.top";
+    newUrl.port = "";
+
+    newUrl.pathname = newUrl.pathname.replace(
+        "/truyennhamuimui",
+        ""
+    );
+
+    window.location.replace(newUrl.href);
+})();
+</script>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
